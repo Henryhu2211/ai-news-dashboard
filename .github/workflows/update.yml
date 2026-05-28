@@ -2,10 +2,9 @@ name: Daily AI News Update
 
 on:
   schedule:
-    # 每天 UTC 前 8 点 = NZT 晚 8 点（需要 NZT 早 8 点则改为 20 12 * * *）
-    # 实际需求：NZT 早 8:00 = UTC 前一天 20:00 = cron: "0 20 * * *"
+    # 每天 UTC 20:00 = NZT 次日 08:00
     - cron: '0 20 * * *'
-  workflow_dispatch:  # 支持手动触发
+  workflow_dispatch:
 
 jobs:
   update-news:
@@ -19,19 +18,12 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install OpenClaw CLI
-        run: npm install -g openclaw
-
-      - name: Fetch AI News
-        run: |
-          openclaw news fetch --output ./data/latest.json
-        env:
-          OPENCLAW_TOKEN: ${{ secrets.OPENCLAW_TOKEN }}
+      - name: Run News Fetcher
+        run: node scripts/update-news.js
 
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/latest.json
-          git diff --quiet && echo "No changes" || git commit -m "📰 Auto-update AI news $(date +'%Y-%m-%d')"
-          git push
+          git diff --quiet && echo "NO_CHANGES" || git commit -m "📰 Auto-update AI news $(date +'%Y-%m-%d')" && git push
