@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-05-29T00:45:00+12:00",
-  "date": "2026年5月29日",
+  "updateTime": "2026-05-28T12:52:12.919Z",
+  "date": "2026年5月29日 0时52分",
   "categories": [
     {
       "id": "tech",
@@ -8,32 +8,53 @@
       "icon": "📰",
       "news": [
         {
-          "title": "ElevenLabs 音乐生成器 v2 发布",
-          "summary": "支持歌剧到金属风格即时切换，可处理更快 rap 节奏，支持音效混合，仅使用授权数据训练，可商业使用。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence",
-          "time": "2026-05-27"
-        },
-        {
-          "title": "Eureka Machine：探索 AI 无法做到的事",
-          "summary": "IISc 研究团队开发新型 AI 系统，模仿自然探索机制，突破传统 AI 的能力边界。",
-          "source": "Hacker News",
-          "url": "https://news.ycombinator.com/",
+          "title": "The AI Hype Index: AI gets booed in graduation season",
+          "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their t",
+          "source": "Caiwei Chen",
+          "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
           "time": "2026-05-28"
         },
         {
-          "title": "Google AI 搜索竟混淆 2027 年份",
-          "summary": "Google AI Overviews 有时错误地回答「2027 年是否是明年」，暴露大模型的逻辑推理缺陷。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "title": "A reality check on the AI jobs hysteria",
+          "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all",
+          "source": "David Rotman",
+          "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
           "time": "2026-05-26"
         },
         {
-          "title": "Anthropic 启用新论文推理技术",
-          "summary": "Anthropic 发布新论文探讨推理时计算扩展方法，进一步提升 Claude 系列的思维链能力。",
-          "source": "Simon Willison",
-          "url": "https://simonwillison.net/",
-          "time": "2026-05-28"
+          "title": "Google I/O showed how the path for AI-driven science is shifting",
+          "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singul",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+          "time": "2026-05-22"
+        },
+        {
+          "title": "Roundtables: Can AI Learn to Understand the World?",
+          "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+          "time": "2026-05-21"
+        },
+        {
+          "title": "Anthropic’s Code with Claude showed off coding&#8217;s future—whether you like it or not",
+          "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex,",
+          "source": "Will Douglas Heaven",
+          "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+          "time": "2026-05-21"
+        },
+        {
+          "title": "Roundtables: Inside the Musk v. Altman Trial",
+          "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+          "time": "2026-05-19"
+        },
+        {
+          "title": "Here’s why Elon Musk lost his suit against OpenAI",
+          "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat",
+          "source": "Michelle Kim",
+          "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+          "time": "2026-05-19"
         }
       ]
     },
@@ -43,32 +64,165 @@
       "icon": "🏢",
       "news": [
         {
-          "title": "YouTube 推出 AI 生成视频自动标注",
-          "summary": "YouTube 宣布对 AI 生成视频启用自动标签，提升内容透明度，创作者和观众均可识别。",
-          "source": "YouTube Blog / HN",
-          "url": "https://news.ycombinator.com/",
-          "time": "2026-05-28"
+          "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+          "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+          "time": "2026-05-22"
         },
         {
-          "title": "Google 搜索突出用户偏好来源",
-          "summary": "Google 在 AI 搜索和 AI Mode 中突出显示用户设置的偏好来源，点击率提升 2 倍。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence",
-          "time": "2026-05-27"
+          "title": "A new experiment brings better group meetings to Google Beam",
+          "summary": "See and hear your colleagues in true-to-life size and sound, making hybrid meetings feel more inclusive and connected.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+          "time": "2026-05-20"
         },
         {
-          "title": "Amazon 向第三方商家开放 AI 购物技术",
-          "summary": "亚马逊将 Alexa for Shopping 的 AI 技术商业化，向 Kate Spade 等零售商提供 AI 客服构建工具。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence",
-          "time": "2026-05-27"
+          "title": "I/O 2026",
+          "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+          "time": "2026-05-19"
         },
         {
-          "title": "Dropbox 创始人离职，All in AI 创业",
-          "summary": "Drew Houston 卸任 Dropbox CEO，据称将创办 AI 相关新公司，市场传闻估值超 10 亿美元。",
-          "source": "The Verge / TechCrunch",
-          "url": "https://www.theverge.com/ai-artificial-intelligence",
-          "time": "2026-05-27"
+          "title": "New ways to create and get things done in Google Workspace",
+          "summary": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+          "time": "2026-05-19"
+        },
+        {
+          "title": "I/O 2026: Welcome to the agentic Gemini era",
+          "summary": "The latest from Google I/O: See how we’re helping you get more done with Gemini.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+          "time": "2026-05-19"
+        },
+        {
+          "title": "Gemini 3.5: frontier intelligence with action",
+          "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "time": "2026-05-19"
+        },
+        {
+          "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+          "summary": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+          "time": "2026-05-19"
+        },
+        {
+          "title": "The new AI-powered Google Finance is expanding to Europe.",
+          "summary": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+          "time": "2026-05-11"
+        },
+        {
+          "title": "5 gardening tips you can try right in Search",
+          "summary": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+          "time": "2026-05-06"
+        },
+        {
+          "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+          "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+          "time": "2026-05-05"
+        },
+        {
+          "title": "The latest AI news we announced in April 2026",
+          "summary": "Here are Google’s latest AI updates from April 2026",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+          "time": "2026-05-04"
+        },
+        {
+          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+          "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+          "time": "2026-04-28"
+        },
+        {
+          "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+          "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+          "time": "2026-04-27"
+        },
+        {
+          "title": "A conversation with Kevin Scott: What’s next in AI",
+          "summary": "暂无摘要",
+          "source": "Allison Linn",
+          "url": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+          "time": "2022-12-06"
+        },
+        {
+          "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+          "summary": "暂无摘要",
+          "source": "John Roach",
+          "url": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+          "time": "2022-10-12"
+        },
+        {
+          "title": "Microsoft open sources its ‘farm of the future’ toolkit",
+          "summary": "暂无摘要",
+          "source": "nbayraktepe",
+          "url": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+          "time": "2022-10-06"
+        },
+        {
+          "title": "How data and AI will transform contact centres for financial services",
+          "summary": "暂无摘要",
+          "source": "Ben Ryon",
+          "url": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+          "time": "2022-07-25"
+        },
+        {
+          "title": "AI-equipped drones study dolphins on the edge of extinction",
+          "summary": "暂无摘要",
+          "source": "Ben Ryon",
+          "url": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+          "time": "2022-07-21"
+        },
+        {
+          "title": "Online math tutoring service uses AI to help boost students’ skills and confidence",
+          "summary": "暂无摘要",
+          "source": "John Roach",
+          "url": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+          "time": "2022-07-13"
+        },
+        {
+          "title": "AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan",
+          "summary": "暂无摘要",
+          "source": "Ben Ryon",
+          "url": "https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/",
+          "time": "2022-07-06"
+        },
+        {
+          "title": "Microsoft’s framework for building AI systems responsibly",
+          "summary": "暂无摘要",
+          "source": "Allison Linn",
+          "url": "https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/",
+          "time": "2022-06-21"
+        },
+        {
+          "title": "Singapore develops Asia’s first AI-based mobile app for shark and ray fin identification to combat illegal wildlife trade",
+          "summary": "暂无摘要",
+          "source": "Ben Ryon",
+          "url": "https://news.microsoft.com/en-sg/2022/06/08/singapore-develops-asias-first-ai-based-mobile-app-for-shark-and-ray-fin-identification-to-combat-illegal-wildlife-trade/",
+          "time": "2022-06-08"
+        },
+        {
+          "title": "The opportunity at home – can AI drive innovation in personal assistant devices and sign language?",
+          "summary": "暂无摘要",
+          "source": "Ben Ryon",
+          "url": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/",
+          "time": "2022-05-31"
         }
       ]
     },
@@ -78,32 +232,74 @@
       "icon": "💼",
       "news": [
         {
-          "title": "AI 企业投入 ROI 引发质疑",
-          "summary": "Axios 报道，美国企业 AI 支出急剧攀升，但实际回报率远低于预期，企业 CIO 开始重新评估 AI 预算。",
-          "source": "Axios / HN",
-          "url": "https://news.ycombinator.com/",
-          "time": "2026-05-28"
-        },
-        {
-          "title": "DuckDuckGo 下载量因 Google AI 改革飙升 33%",
-          "summary": "Google I/O 公布搜索框全面 AI 化后，主打「无 AI」的 DuckDuckGo iOS 周下载量激增 33%。",
-          "source": "The Verge / HN",
-          "url": "https://news.ycombinator.com/",
+          "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+          "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop",
+          "source": "Anna Heim",
+          "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
           "time": "2026-05-27"
         },
         {
-          "title": "Anthropic 与 OpenAI 真正找到 PMF",
-          "summary": "分析师 Simon Willison 认为 Anthropic 和 OpenAI 已率先实现真正的产品-市场契合，护城河初现。",
-          "source": "Simon Willison / HN",
-          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+          "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
           "time": "2026-05-27"
         },
         {
-          "title": "AI 数据中心建设狂潮：各地社区反应分化",
-          "summary": "美国各地 AI 数据中心项目频遭当地居民反对，环保人士 Erin Brockovich 制作全美数据中心冲突地图。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
+          "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
           "time": "2026-05-27"
+        },
+        {
+          "title": "SOND, a sleep tech startup from Bose&#8217;s former head of sleep, exits stealth with $7M",
+          "summary": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
+          "source": "Sarah Perez",
+          "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+          "summary": "The database provider is eyeing a public debut within the next few years.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "Robinhood now lets your AI agents trade stocks",
+          "summary": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+          "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+          "time": "2026-05-26"
+        },
+        {
+          "title": "This startup is betting India&#8217;s gig economy can train the world&#8217;s robots",
+          "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training dat",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+          "time": "2026-05-26"
+        },
+        {
+          "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+          "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
+          "source": "Maxwell Zeff",
+          "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "Pope Leo Schooled the Tech Bros on Tolkien",
+          "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
+          "source": "Miles Klee",
+          "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+          "time": "2026-05-26"
         }
       ]
     },
@@ -113,32 +309,25 @@
       "icon": "💡",
       "news": [
         {
-          "title": "Vertu 奢华折叠手机：AI 指挥中心定价 $6,880",
-          "summary": "Vertu 推出高端折叠手机 Alphafold，搭载 AI 助手 Hermes，皮革/鳄鱼皮/金钻机身，起售价近 7 万人民币。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence",
-          "time": "2026-05-27"
+          "title": "The AI Hype Index: AI gets booed in graduation season",
+          "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their t",
+          "source": "Caiwei Chen",
+          "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+          "time": "2026-05-28"
         },
         {
-          "title": "Amazon Prime Video 启用 AI 动画剧集",
-          "summary": "亚马逊 MGM 工作室通过 GenAI Creators Fund 绿色光三部 AI 动画剧，BuzzFeed 工作室参与制作。",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence",
-          "time": "2026-05-27"
-        },
-        {
-          "title": "AI 辅助诉讼涌入法院系统",
-          "summary": "越来越多人使用 AI 工具自行起诉，法律系统不堪重负，《纽约时报》深度报道 AI 进入司法系统的双刃剑效应。",
-          "source": "The Verge / NYT",
-          "url": "https://www.theverge.com/ai-artificial-intelligence",
-          "time": "2026-05-25"
-        },
-        {
-          "title": "AI 在性爱机器人领域的招聘热潮",
-          "summary": "Joi AI Startup 招聘 10 名「亲密关系顾问」，时薪可观，引发 AI 陪伴产品伦理讨论。",
-          "source": "The Verge / HN",
-          "url": "https://news.ycombinator.com/",
+          "title": "Rethinking organizational design in the age of agentic AI",
+          "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the ne",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
           "time": "2026-05-26"
+        },
+        {
+          "title": "Here’s why Elon Musk lost his suit against OpenAI",
+          "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat",
+          "source": "Michelle Kim",
+          "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+          "time": "2026-05-19"
         }
       ]
     },
@@ -148,35 +337,174 @@
       "icon": "📜",
       "news": [
         {
-          "title": "白宫申请 90 亿美元为 CIA/NSA 采购 AI 芯片",
-          "summary": "CIA 和 NSA 因缺乏算力无法运行最新 AI 模型，白宫申请 90 亿美元采购 Nvidia Grace Blackwell 超算芯片，需国会批准。",
-          "source": "The Verge / NYT",
-          "url": "https://www.theverge.com/ai-artificial-intelligence",
-          "time": "2026-05-24"
+          "title": "The EU AI Act&#8217;s Transparency Rules: A Practical Guide to Article 50",
+          "summary": "What providers and deployers must do by August 2026",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/transparency-rules-article-50/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=transparency-rules-article-50",
+          "time": "2026-05-14"
         },
         {
-          "title": "欧盟对 Temu 开出 2 亿欧元罚单",
-          "summary": "欧盟委员会以违反《数字服务法》为由，对 Temu 处以 2 亿欧元罚款，创下 DSA 执法最大金额。",
-          "source": "HN",
-          "url": "https://news.ycombinator.com/",
+          "title": "Enforcement of Chapter V under the EU AI Act",
+          "summary": "This page aims to provide an overview of the EU AI Act&#8217;s enforcement provisions relating to Chapter V, namely the provisions that impose obligations on providers of general-purpose AI (GPAI) mod",
+          "source": "Adam Radivojevic",
+          "url": "https://artificialintelligenceact.eu/enforcement-of-chapter-v-under-the-eu-ai-act/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=enforcement-of-chapter-v-under-the-eu-ai-act",
+          "time": "2026-03-31"
+        },
+        {
+          "title": "What the EU AI Act Means for Staffing Businesses",
+          "summary": "If your business uses AI to screen, rank, or match candidates, the EU now regulates those tools as high-risk systems. Here is what changed, what it means for your operating model, and what you should ",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/what-the-act-means-for-staffing-businesses/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=what-the-act-means-for-staffing-businesses",
+          "time": "2026-03-17"
+        },
+        {
+          "title": "Modifying AI Under the EU AI Act: Lessons from Practice on Classification and Compliance",
+          "summary": "This is a guest post written by legal compliance professionals Øystein Endal, Andrea Vcric, Sidsel Nag, Nick Malter and Daylan Araz (see section about authors at the end), drawing on their experience ",
+          "source": "Adam Radivojevic",
+          "url": "https://artificialintelligenceact.eu/modifying-ai-under-the-eu-ai-act/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=modifying-ai-under-the-eu-ai-act",
+          "time": "2025-11-05"
+        },
+        {
+          "title": "Whistleblowing and the EU AI Act",
+          "summary": "This page aims to provide an overview of the EU Whistleblowing Directive (2019) and how it relates to the EU AI Act, as well as provide useful resources for potential whistleblowers. This resource was",
+          "source": "Adam Radivojevic",
+          "url": "https://artificialintelligenceact.eu/whistleblowing-and-the-eu-ai-act/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=whistleblowing-and-the-eu-ai-act",
+          "time": "2025-08-11"
+        },
+        {
+          "title": "Overview of Guidelines for GPAI Models",
+          "summary": "On 18 July 2025, the European Commission published draft Guidelines clarifying key provisions of the EU AI Act applicable to General Purpose AI (GPAI) models. The Guidelines provide interpretive guida",
+          "source": "Adam Radivojevic",
+          "url": "https://artificialintelligenceact.eu/gpai-guidelines-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpai-guidelines-overview",
+          "time": "2025-07-30"
+        },
+        {
+          "title": "Overview of the Code of Practice",
+          "summary": "The Code of Practice offers a clear framework to help developers of General Purpose AI (GPAI) models meet the requirements of the EU AI Act. While providers can choose to follow the Code, they are als",
+          "source": "Adam Radivojevic",
+          "url": "https://artificialintelligenceact.eu/code-of-practice-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=code-of-practice-overview",
+          "time": "2025-07-30"
+        },
+        {
+          "title": "Why Join the EU AI Scientific Panel?",
+          "summary": "The European Commission has published a call for applications for a scientific panel of independent experts. The panel focuses on general-purpose AI (GPAI) models and systems. Its tasks include advisi",
+          "source": "Adam Radivojevic",
+          "url": "https://artificialintelligenceact.eu/scientific-panel/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scientific-panel",
+          "time": "2025-06-16"
+        },
+        {
+          "title": "AI Literacy Programs in Europe – Supporting Article 4 of the EU AI Act",
+          "summary": "As organisations across Europe navigate the implementation of the EU AI Act — including Article 4, which addresses the importance of AI literacy — there is growing interest in accessible and practical",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/ai-literacy-programs/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-literacy-programs",
+          "time": "2025-05-23"
+        },
+        {
+          "title": "AI Regulatory Sandbox Approaches: EU Member State Overview",
+          "summary": "AI regulatory sandboxes are an important part of the implementation of the EU AI Act. According to Article 57 of the AI Act, each Member State must establish at least one AI regulatory sandbox at the ",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/ai-regulatory-sandbox-approaches-eu-member-state-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-regulatory-sandbox-approaches-eu-member-state-overview",
+          "time": "2025-05-02"
+        },
+        {
+          "title": "Small Businesses’ Guide to the AI Act",
+          "summary": "Everything you need to know about the AI Act, for small and medium-sized enterprises (SMEs) in the EU and beyond.",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/small-businesses-guide-to-the-ai-act/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=small-businesses-guide-to-the-ai-act",
+          "time": "2025-02-19"
+        },
+        {
+          "title": "Job Opportunities at the European AI Office for Legal and Policy Backgrounds",
+          "summary": "The Commission has opened two calls for expression of interest to recruit new members for the European AI Office. Apply now as Legal or Policy Officer for an opportunity to shape trustworthy AI. The d",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/job-opportunities-european-ai-office/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=job-opportunities-european-ai-office",
+          "time": "2024-12-16"
+        },
+        {
+          "title": "The AI Office is hiring a Lead Scientific Advisor for AI",
+          "summary": "This opportunity has now passed. A very important job opening has opened up at the European AI Office: They are hiring for the Lead Scientific Advisor for AI. Application deadline is 13 December 2024.",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/ai-office-hiring-a-lead-scientific-advisor-for-ai/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-office-hiring-a-lead-scientific-advisor-for-ai",
+          "time": "2024-11-19"
+        },
+        {
+          "title": "The AI Act: Responsibilities of the European Commission (AI Office)",
+          "summary": "If you are unsure who is implementing and enforcing the new digital law and what the specific time frames are, you might find this post—and our post on the responsibilities of the EU Member States—ver",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/responsibilities-of-european-commission-ai-office/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=responsibilities-of-european-commission-ai-office",
+          "time": "2024-08-22"
+        },
+        {
+          "title": "The AI Act: Responsibilities of the EU Member States",
+          "summary": "If you are unsure who is implementing and enforcing the EU AI Act and what the specific time frames are, you might find this post—and our post on the responsibilities of the European Commission (AI Of",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/responsibilities-of-member-states/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=responsibilities-of-member-states",
+          "time": "2024-08-22"
+        },
+        {
+          "title": "An Introduction to the Code of Practice for General-Purpose AI",
+          "summary": "Last updated: 14 August 2025. As AI Act implementation gradually unfolds, it is important to understand the different mechanisms of enforcement included in the Regulation. One of the most important is",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/introduction-to-code-of-practice/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=introduction-to-code-of-practice",
+          "time": "2024-07-03"
+        },
+        {
+          "title": "Why work at the EU AI Office?",
+          "summary": "It's probably not for everyone, but there are a lot of great reasons to consider, including the potential to have an impact on AI governance worldwide, leveraging the first-mover advantage, and more.",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/why-work-at-the-eu-ai-office/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-work-at-the-eu-ai-office",
+          "time": "2024-06-07"
+        },
+        {
+          "title": "Robust governance for the AI Act: Insights and highlights from Novelli et al. (2024)",
+          "summary": "In their recent publication on robust European AI governance, Claudio Novelli, Philipp Hacker, Jessica Morley, Jarle Trondal, and Luciano Floridi pursue two main objectives: explaining the governance ",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/robust-governance-for-the-ai-act/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=robust-governance-for-the-ai-act",
+          "time": "2024-05-24"
+        },
+        {
+          "title": "The AI Office is hiring",
+          "summary": "The European Commission is recruiting contract agents who are AI technology specialists to govern the most cutting-edge AI models.&#160; Deadline to apply is 12:00 CET on 27 March (application form).&",
+          "source": "Taylor Jones",
+          "url": "https://artificialintelligenceact.eu/the-ai-office-is-hiring/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-ai-office-is-hiring",
+          "time": "2024-03-22"
+        },
+        {
+          "title": "AI Act Implementation: Timelines &#038; Next steps",
+          "summary": "In this article we provide an outline of the key dates relevant to the implementation of the AI Act. We also list some secondary legislation that the Commission might add to supplement the AI Act, and",
+          "source": "bentrz",
+          "url": "https://artificialintelligenceact.eu/ai-act-implementation-next-steps/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-act-implementation-next-steps",
+          "time": "2024-02-28"
+        },
+        {
+          "title": "Standard Setting",
+          "summary": "This page aims to provide an easily accessible overview of AI safety standard setting under the EU AI Act. It covers the broader context and rationale for EU AI standard setting, the standard setting ",
+          "source": "Risto Uuk",
+          "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
+          "time": "2022-12-16"
+        },
+        {
+          "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+          "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+          "source": "Maxwell Zeff",
+          "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
           "time": "2026-05-28"
         },
         {
-          "title": "Anthropic 与五角大楼合作引争议",
-          "summary": "Anthropic 向美国国防部提供 AI 技术，引发 AI 社区对自主武器化风险的广泛担忧和讨论。",
-          "source": "The Verge / HN",
-          "url": "https://news.ycombinator.com/",
-          "time": "2026-05-26"
+          "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
+          "summary": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
+          "source": "Will Knight",
+          "url": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
+          "time": "2026-05-27"
         },
         {
-          "title": "AI 钓鱼攻击激增，企业安全支出飙升",
-          "summary": "2026 年上半年，基于 AI 的深度伪造钓鱼攻击增长 340%，企业网络安全预算创历史新高。",
-          "source": "行业报告",
-          "url": "#",
-          "time": "2026-05-25"
+          "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+          "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+          "source": "Steven Levy",
+          "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+          "time": "2026-05-26"
         }
       ]
     }
-  ],
-  "forceDeploy": true
+  ]
 }
