@@ -6,6 +6,9 @@ on:
     - cron: '0 20 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
@@ -29,7 +32,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # Use GITHUB_TOKEN for push
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           git add data/latest.json
           git diff --quiet && echo "NO_CHANGES" || git commit -m "📰 Auto-update AI news $(date +'%Y-%m-%d')" && git push
