@@ -8,6 +8,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   update-news:
@@ -26,6 +28,11 @@ jobs:
       - name: Run News Fetcher
         run: node scripts/update-news.js
 
+      - name: Update index.html timestamp
+        run: |
+          date_str=$(date +'%Y-%m-%d %H:%M')
+          sed -i "s/<p>每日 8 点自动更新 | 精选 AI 行业动态<\/p>/<p>每日 8 点自动更新 | 最后更新: ${date_str}<\/p>/" index.html
+
       - name: Commit and push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -33,5 +40,29 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          git add data/latest.json
+          git add data/latest.json index.html
           git diff --quiet && echo "NO_CHANGES" || git commit -m "📰 Auto-update AI news $(date +'%Y-%m-%d')" && git push
+
+  deploy:
+    needs: update-news
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
