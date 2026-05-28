@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🤖 AI 行业资讯站</title>
+    <style>
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-card: #13131a;
+            --bg-card-hover: #1a1a25;
+            --accent-ai: #6366f1;
+            --accent-ai-light: #818cf8;
+            --accent-tech: #f472b6;
+            --accent-bigtech: #fb923c;
+            --accent-industry: #a78bfa;
+            --accent-app: #34d399;
+            --accent-policy: #facc15;
+            --text-primary: #f1f5f9;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+            --border: #1e293b;
+            --radius: 16px;
+            --shadow: 0 4px 24px rgba(0,0,0,0.3);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            padding: 48px 24px;
+            text-align: center;
+            border-bottom: 1px solid var(--border);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(99,102,241,0.1) 0%, transparent 50%);
+            animation: pulse 8s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 0.5; }
+            50% { transform: scale(1.1); opacity: 0.8; }
+        }
+
+        .header-content {
+            position: relative;
+            z-index: 1;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--accent-ai-light), var(--accent-tech));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 8px;
+        }
+
+        .header p {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+
+        .last-update {
+            margin-top: 16px;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(99,102,241,0.15);
+            padding: 8px 20px;
+            border-radius: 24px;
+            font-size: 0.9rem;
+            color: var(--accent-ai-light);
+            border: 1px solid rgba(99,102,241,0.3);
+        }
+
+        .last-update::before {
+            content: '●';
+            animation: blink 2s infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        /* Category Tabs */
+        .tabs {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            padding: 24px;
+            flex-wrap: wrap;
+            background: var(--bg-primary);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .tab-btn {
+            padding: 12px 24px;
+            border: 1px solid var(--border);
+            background: var(--bg-card);
+            color: var(--text-secondary);
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 0.95rem;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .tab-btn:hover {
+            background: var(--bg-card-hover);
+            color: var(--text-primary);
+            transform: translateY(-2px);
+        }
+
+        .tab-btn.active {
+            background: var(--accent-ai);
+            color: white;
+            border-color: var(--accent-ai);
+        }
+
+        .tab-btn .count {
+            background: rgba(255,255,255,0.2);
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 0.8rem;
+        }
+
+        /* Main Content */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 32px 24px;
+        }
+
+        .category-section {
+            display: none;
+        }
+
+        .category-section.active {
+            display: block;
+        }
+
+        .category-title {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 24px;
+            padding-bottom: 16px;
+            border-bottom: 2px solid var(--border);
+        }
+
+        .category-title .icon {
+            font-size: 2rem;
+        }
+
+        .category-title h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+
+        .category-title .badge {
+            background: var(--accent-ai);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+        }
+
+        /* News Grid */
+        .news-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 20px;
+        }
+
+        .news-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 24px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .news-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: var(--card-color, var(--accent-ai));
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .news-card:hover {
+            background: var(--bg-card-hover);
+            transform: translateY(-4px);
+            box-shadow: var(--shadow);
+            border-color: var(--card-color, var(--accent-ai));
+        }
+
+        .news-card:hover::before {
+            opacity: 1;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+        }
+
+        .card-source {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            background: rgba(255,255,255,0.05);
+            padding: 4px 10px;
+            border-radius: 6px;
+        }
+
+        .card-time {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        .card-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 12px;
+            line-height: 1.5;
+        }
+
+        .card-summary {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            line-height: 1.7;
+        }
+
+        .card-footer {
+            margin-top: 16px;
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .read-more {
+            font-size: 0.85rem;
+            color: var(--accent-ai-light);
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: gap 0.2s;
+        }
+
+        .read-more:hover {
+            gap: 8px;
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 80px 20px;
+            color: var(--text-muted);
+        }
+
+        .empty-state .icon {
+            font-size: 4rem;
+            margin-bottom: 16px;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 32px;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .footer a {
+            color: var(--accent-ai-light);
+            text-decoration: none;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .tabs {
+                gap: 8px;
+                padding: 16px;
+            }
+
+            .tab-btn {
+                padding: 10px 16px;
+                font-size: 0.85rem;
+            }
+
+            .news-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .container {
+                padding: 20px 16px;
+            }
+        }
+
+        /* Category Colors */
+        .category-tech .news-card { --card-color: var(--accent-tech); }
+        .category-bigtech .news-card { --card-color: var(--accent-bigtech); }
+        .category-industry .news-card { --card-color: var(--accent-industry); }
+        .category-application .news-card { --card-color: var(--accent-app); }
+        .category-policy .news-card { --card-color: var(--accent-policy); }
+
+        .category-tech .category-title { border-color: var(--accent-tech); }
+        .category-bigtech .category-title { border-color: var(--accent-bigtech); }
+        .category-industry .category-title { border-color: var(--accent-industry); }
+        .category-application .category-title { border-color: var(--accent-app); }
+        .category-policy .category-title { border-color: var(--accent-policy); }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1>🤖 AI 行业资讯站</h1>
+            <p>每日 8 点自动更新 | 精选 AI 行业动态</p>
+            <div class="last-update">
+                <span id="updateTime">加载中...</span>
+            </div>
+        </div>
+    </header>
+
+    <nav class="tabs" id="tabs"></nav>
+
+    <main class="container" id="mainContent"></main>
+
+    <footer class="footer">
+        <p>🤖 AI 行业资讯站 | 由 GitHub Actions 自动更新</p>
+        <p style="margin-top: 8px; font-size: 0.8rem;">
+            数据来源：Hacker News · The Verge · TechCrunch · Simon Willison
+        </p>
+    </footer>
+
+    <script>
+        let currentCategory = 'all';
+
+        async function loadData() {
+            try {
+                const response = await fetch('./data/latest.json');
+                const data = await response.json();
+                renderAll(data);
+                document.getElementById('updateTime').textContent = `最后更新：${data.date} ${new Date(data.updateTime).toLocaleTimeString('zh-CN', {hour:'2-digit', minute:'2-digit'})}`;
+            } catch (error) {
+                console.error('加载数据失败:', error);
+                document.getElementById('updateTime').textContent = '数据加载失败';
+            }
+        }
+
+        function renderTabs(data) {
+            const tabsContainer = document.getElementById('tabs');
+            const categories = data.categories;
+
+            // All tab
+            let tabsHtml = `<button class="tab-btn active" onclick="switchTab('all')">
+                📊 全部 <span class="count">${categories.reduce((sum, c) => sum + c.news.length, 0)}</span>
+            </button>`;
+
+            // Category tabs
+            categories.forEach(cat => {
+                tabsHtml += `<button class="tab-btn" onclick="switchTab('${cat.id}')">
+                    ${cat.icon} ${cat.name} <span class="count">${cat.news.length}</span>
+                </button>`;
+            });
+
+            tabsContainer.innerHTML = tabsHtml;
+        }
+
+        function renderCategory(cat, containerId) {
+            const section = document.createElement('div');
+            section.className = `category-section category-${cat.id}`;
+            section.id = `section-${cat.id}`;
+
+            const badgeColor = {
+                'tech': '#f472b6',
+                'bigtech': '#fb923c',
+                'industry': '#a78bfa',
+                'application': '#34d399',
+                'policy': '#facc15'
+            }[cat.id] || '#6366f1';
+
+            section.innerHTML = `
+                <div class="category-title">
+                    <span class="icon">${cat.icon}</span>
+                    <h2>${cat.name}</h2>
+                    <span class="badge" style="background: ${badgeColor}20; color: ${badgeColor}">${cat.news.length} 条</span>
+                </div>
+                <div class="news-grid">
+                    ${cat.news.map(item => `
+                        <a href="${item.url}" target="_blank" class="news-card" style="text-decoration: none;">
+                            <div class="card-header">
+                                <span class="card-source">${item.source}</span>
+                                <span class="card-time">${item.time}</span>
+                            </div>
+                            <h3 class="card-title">${item.title}</h3>
+                            <p class="card-summary">${item.summary}</p>
+                            <div class="card-footer">
+                                <span class="read-more">阅读原文 →</span>
+                            </div>
+                        </a>
+                    `).join('')}
+                </div>
+            `;
+
+            document.getElementById(containerId).appendChild(section);
+        }
+
+        function renderAll(data) {
+            const mainContent = document.getElementById('mainContent');
+            mainContent.innerHTML = '<div id="sections"></div><div id="all-section" class="category-section active"></div>';
+            renderTabs(data);
+
+            // Render each category section
+            data.categories.forEach(cat => {
+                renderCategory(cat, 'sections');
+            });
+
+            // Render combined "All" section
+            const allSection = document.getElementById('all-section');
+            allSection.innerHTML = `
+                <div class="category-title">
+                    <span class="icon">📊</span>
+                    <h2>全部资讯</h2>
+                    <span class="badge" style="background: #6366f120; color: #818cf8">${data.categories.reduce((sum, c) => sum + c.news.length, 0)} 条</span>
+                </div>
+                <div class="news-grid">
+                    ${data.categories.flatMap(cat => cat.news.map(item => `
+                        <a href="${item.url}" target="_blank" class="news-card" style="text-decoration: none;">
+                            <div class="card-header">
+                                <span class="card-source">${cat.icon} ${cat.name}</span>
+                                <span class="card-time">${item.time}</span>
+                            </div>
+                            <h3 class="card-title">${item.title}</h3>
+                            <p class="card-summary">${item.summary}</p>
+                            <div class="card-footer">
+                                <span class="read-more">阅读原文 →</span>
+                            </div>
+                        </a>
+                    `)).join('')}
+                </div>
+            `;
+        }
+
+        function switchTab(categoryId) {
+            currentCategory = categoryId;
+
+            // Update tab buttons
+            document.querySelectorAll('.tab-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.closest('.tab-btn').classList.add('active');
+
+            // Show/hide sections
+            document.querySelectorAll('.category-section').forEach(section => {
+                section.classList.remove('active');
+            });
+
+            if (categoryId === 'all') {
+                document.getElementById('all-section').classList.add('active');
+            } else {
+                document.getElementById(`section-${categoryId}`).classList.add('active');
+            }
+
+            // Scroll to top
+            document.getElementById('tabs').scrollIntoView({ behavior: 'smooth' });
+        }
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>

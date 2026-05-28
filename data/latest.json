@@ -1,0 +1,181 @@
+{
+  "updateTime": "2026-05-29T00:10:00+12:00",
+  "date": "2026年5月29日",
+  "categories": [
+    {
+      "id": "tech",
+      "name": "技术突破",
+      "icon": "📰",
+      "news": [
+        {
+          "title": "ElevenLabs 音乐生成器 v2 发布",
+          "summary": "支持歌剧到金属风格即时切换，可处理更快 rap 节奏，支持音效混合，仅使用授权数据训练，可商业使用。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "Eureka Machine：探索 AI 无法做到的事",
+          "summary": "IISc 研究团队开发新型 AI 系统，模仿自然探索机制，突破传统 AI 的能力边界。",
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/",
+          "time": "2026-05-28"
+        },
+        {
+          "title": "Google AI 搜索竟混淆 2027 年份",
+          "summary": "Google AI Overviews 有时错误地回答「2027 年是否是明年」，暴露大模型的逻辑推理缺陷。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "time": "2026-05-26"
+        },
+        {
+          "title": "Anthropic 启用新论文推理技术",
+          "summary": "Anthropic 发布新论文探讨推理时计算扩展方法，进一步提升 Claude 系列的思维链能力。",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/",
+          "time": "2026-05-28"
+        }
+      ]
+    },
+    {
+      "id": "bigtech",
+      "name": "大厂动态",
+      "icon": "🏢",
+      "news": [
+        {
+          "title": "YouTube 推出 AI 生成视频自动标注",
+          "summary": "YouTube 宣布对 AI 生成视频启用自动标签，提升内容透明度，创作者和观众均可识别。",
+          "source": "YouTube Blog / HN",
+          "url": "https://news.ycombinator.com/",
+          "time": "2026-05-28"
+        },
+        {
+          "title": "Google 搜索突出用户偏好来源",
+          "summary": "Google 在 AI 搜索和 AI Mode 中突出显示用户设置的偏好来源，点击率提升 2 倍。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "Amazon 向第三方商家开放 AI 购物技术",
+          "summary": "亚马逊将 Alexa for Shopping 的 AI 技术商业化，向 Kate Spade 等零售商提供 AI 客服构建工具。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "Dropbox 创始人离职，All in AI 创业",
+          "summary": "Drew Houston 卸任 Dropbox CEO，据称将创办 AI 相关新公司，市场传闻估值超 10 亿美元。",
+          "source": "The Verge / TechCrunch",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "time": "2026-05-27"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "name": "行业咨询",
+      "icon": "💼",
+      "news": [
+        {
+          "title": "AI 企业投入 ROI 引发质疑",
+          "summary": "Axios 报道，美国企业 AI 支出急剧攀升，但实际回报率远低于预期，企业 CIO 开始重新评估 AI 预算。",
+          "source": "Axios / HN",
+          "url": "https://news.ycombinator.com/",
+          "time": "2026-05-28"
+        },
+        {
+          "title": "DuckDuckGo 下载量因 Google AI 改革飙升 33%",
+          "summary": "Google I/O 公布搜索框全面 AI 化后，主打「无 AI」的 DuckDuckGo iOS 周下载量激增 33%。",
+          "source": "The Verge / HN",
+          "url": "https://news.ycombinator.com/",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "Anthropic 与 OpenAI 真正找到 PMF",
+          "summary": "分析师 Simon Willison 认为 Anthropic 和 OpenAI 已率先实现真正的产品-市场契合，护城河初现。",
+          "source": "Simon Willison / HN",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "AI 数据中心建设狂潮：各地社区反应分化",
+          "summary": "美国各地 AI 数据中心项目频遭当地居民反对，环保人士 Erin Brockovich 制作全美数据中心冲突地图。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "time": "2026-05-27"
+        }
+      ]
+    },
+    {
+      "id": "application",
+      "name": "商业应用",
+      "icon": "💡",
+      "news": [
+        {
+          "title": "Vertu 奢华折叠手机：AI 指挥中心定价 $6,880",
+          "summary": "Vertu 推出高端折叠手机 Alphafold，搭载 AI 助手 Hermes，皮革/鳄鱼皮/金钻机身，起售价近 7 万人民币。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "Amazon Prime Video 启用 AI 动画剧集",
+          "summary": "亚马逊 MGM 工作室通过 GenAI Creators Fund 绿色光三部 AI 动画剧，BuzzFeed 工作室参与制作。",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "time": "2026-05-27"
+        },
+        {
+          "title": "AI 辅助诉讼涌入法院系统",
+          "summary": "越来越多人使用 AI 工具自行起诉，法律系统不堪重负，《纽约时报》深度报道 AI 进入司法系统的双刃剑效应。",
+          "source": "The Verge / NYT",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "time": "2026-05-25"
+        },
+        {
+          "title": "AI 在性爱机器人领域的招聘热潮",
+          "summary": "Joi AI Startup 招聘 10 名「亲密关系顾问」，时薪可观，引发 AI 陪伴产品伦理讨论。",
+          "source": "The Verge / HN",
+          "url": "https://news.ycombinator.com/",
+          "time": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "name": "政策监管",
+      "icon": "📜",
+      "news": [
+        {
+          "title": "白宫申请 90 亿美元为 CIA/NSA 采购 AI 芯片",
+          "summary": "CIA 和 NSA 因缺乏算力无法运行最新 AI 模型，白宫申请 90 亿美元采购 Nvidia Grace Blackwell 超算芯片，需国会批准。",
+          "source": "The Verge / NYT",
+          "url": "https://www.theverge.com/ai-artificial-intelligence",
+          "time": "2026-05-24"
+        },
+        {
+          "title": "欧盟对 Temu 开出 2 亿欧元罚单",
+          "summary": "欧盟委员会以违反《数字服务法》为由，对 Temu 处以 2 亿欧元罚款，创下 DSA 执法最大金额。",
+          "source": "HN",
+          "url": "https://news.ycombinator.com/",
+          "time": "2026-05-28"
+        },
+        {
+          "title": "Anthropic 与五角大楼合作引争议",
+          "summary": "Anthropic 向美国国防部提供 AI 技术，引发 AI 社区对自主武器化风险的广泛担忧和讨论。",
+          "source": "The Verge / HN",
+          "url": "https://news.ycombinator.com/",
+          "time": "2026-05-26"
+        },
+        {
+          "title": "AI 钓鱼攻击激增，企业安全支出飙升",
+          "summary": "2026 年上半年，基于 AI 的深度伪造钓鱼攻击增长 340%，企业网络安全预算创历史新高。",
+          "source": "行业报告",
+          "url": "#",
+          "time": "2026-05-25"
+        }
+      ]
+    }
+  ]
+}
