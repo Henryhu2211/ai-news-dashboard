@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-05-28T12:52:12.919Z",
-  "date": "2026年5月29日 0时52分",
+  "updateTime": "2026-05-31T11:52:42.327Z",
+  "date": "2026年5月31日 11时52分",
   "categories": [
     {
       "id": "tech",
@@ -48,13 +48,6 @@
           "source": "MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
           "time": "2026-05-19"
-        },
-        {
-          "title": "Here’s why Elon Musk lost his suit against OpenAI",
-          "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat",
-          "source": "Michelle Kim",
-          "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-          "time": "2026-05-19"
         }
       ]
     },
@@ -63,6 +56,27 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+          "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+          "time": "2026-05-29"
+        },
+        {
+          "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+          "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+          "time": "2026-05-29"
+        },
+        {
+          "title": "Catch up on 12 major I/O 2026 moments",
+          "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+          "time": "2026-05-28"
+        },
         {
           "title": "Catch up on the Dialogues stage at Google I/O 2026.",
           "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
@@ -76,13 +90,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
           "time": "2026-05-20"
-        },
-        {
-          "title": "I/O 2026",
-          "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-          "time": "2026-05-19"
         },
         {
           "title": "New ways to create and get things done in Google Workspace",
@@ -113,6 +120,13 @@
           "time": "2026-05-19"
         },
         {
+          "title": "I/O 2026",
+          "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+          "time": "2026-05-19"
+        },
+        {
           "title": "The new AI-powered Google Finance is expanding to Europe.",
           "summary": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
           "source": "Google AI Blog",
@@ -139,20 +153,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
           "time": "2026-05-04"
-        },
-        {
-          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-          "summary": "Google’s sharing 20 fun facts to celebrate Google Translate turning 20, from its roots as a 2006 AI experiment to supporting almost 250 languages today.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-          "time": "2026-04-28"
-        },
-        {
-          "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-          "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-          "time": "2026-04-27"
         },
         {
           "title": "A conversation with Kevin Scott: What’s next in AI",
@@ -223,6 +223,146 @@
           "source": "Ben Ryon",
           "url": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/",
           "time": "2022-05-31"
+        },
+        {
+          "title": "The Impact of AI-Assisted Development on Software Security",
+          "summary": "暂无摘要",
+          "source": "lucamark",
+          "url": "https://arxiv.org/abs/2603.15298",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Google planning to release 32M mosquitoes across Florida and California",
+          "summary": "暂无摘要",
+          "source": "king_zee",
+          "url": "https://twitter.com/BullTheoryio/status/2060810332831129782",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Curated list of AI apps for visual creation",
+          "summary": "暂无摘要",
+          "source": "seinecle",
+          "url": "https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI Agent that at inference time updates it's harness and model weights",
+          "summary": "暂无摘要",
+          "source": "martianvoid",
+          "url": "https://github.com/hexo-ai/sia",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Free cloud-based tool for managing AI agents across multiple hosts",
+          "summary": "暂无摘要",
+          "source": "itrinity",
+          "url": "https://nodecartel.com/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Unlimited free AI tools and more, live demo. watch now [video]",
+          "summary": "暂无摘要",
+          "source": "rrrpro123",
+          "url": "https://www.youtube.com/shorts/8HB-VgN3uTE",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Why AI isn't showing up on your bottom line",
+          "summary": "暂无摘要",
+          "source": "brettlangdon",
+          "url": "https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Unity AI Suite",
+          "summary": "暂无摘要",
+          "source": "teleforce",
+          "url": "https://unity.com/features/ai",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
+          "summary": "暂无摘要",
+          "source": "joozio",
+          "url": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes",
+          "summary": "暂无摘要",
+          "source": "ankitg12",
+          "url": "https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Overslash – an auth gateway for AI Agents",
+          "summary": "暂无摘要",
+          "source": "arturogoosnargh",
+          "url": "https://www.overslash.com/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Russia Revives WWI Dazzle Camouflage to Evade Ukrainian AI Drones–Does It Work?",
+          "summary": "暂无摘要",
+          "source": "Symbiote",
+          "url": "https://united24media.com/war-in-ukraine/russia-revives-wwi-dazzle-camouflage-to-evade-ukrainian-ai-drones-does-it-work-19334",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "How to Think About AI in Your Product",
+          "summary": "暂无摘要",
+          "source": "ghoul2",
+          "url": "https://abgoyal.com/posts/how-to-think-about-ai-in-your-product/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Agent Deck: Native Mac app for managing AI coding agents| powered by PI",
+          "summary": "暂无摘要",
+          "source": "streetcoder",
+          "url": "https://agentdeck.site/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Egress WAF to limit AI agents and NPM malware based on mitmproxy",
+          "summary": "暂无摘要",
+          "source": "esamatti",
+          "url": "https://github.com/esamattis/mitmwall",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: AI Model Benchmark for Crypto Price Predictions",
+          "summary": "暂无摘要",
+          "source": "docuru",
+          "url": "https://coinsignal.co/benchmark",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Flathub disallows AI for submission and applications",
+          "summary": "暂无摘要",
+          "source": "selfhoster1312",
+          "url": "https://social.treehouse.systems/@barthalion/116657011366876079",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI for Bio has a Fuzzy API problem",
+          "summary": "暂无摘要",
+          "source": "sebg",
+          "url": "https://ankitg.me/blog/2026/05/04/fuzzy_api.html",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Why AI can't be trusted to write scientific reviews",
+          "summary": "暂无摘要",
+          "source": "XzetaU8",
+          "url": "https://www.nature.com/articles/d41586-026-01616-3",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Why Chinese AI labs went open and will remain open",
+          "summary": "暂无摘要",
+          "source": "bkjlblh",
+          "url": "https://try.works/why-chinese-ai-labs-went-open-and-will-remain-open",
+          "time": "2026-05-31"
         }
       ]
     },
@@ -232,74 +372,186 @@
       "icon": "💼",
       "news": [
         {
-          "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-          "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop",
-          "source": "Anna Heim",
-          "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-          "time": "2026-05-27"
+          "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+          "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+          "source": "Anthony Ha",
+          "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+          "time": "2026-05-30"
         },
         {
-          "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-          "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-          "time": "2026-05-27"
+          "title": "After Nvidia&#8217;s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+          "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe",
+          "source": "Dominic-Madori Davis",
+          "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+          "time": "2026-05-29"
         },
         {
-          "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-          "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
-          "time": "2026-05-27"
+          "title": "This chip startup just raised $135M on a bet that AI&#8217;s biggest bottleneck isn&#8217;t compute &#8212; it&#8217;s memory",
+          "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+          "source": "Kate Park",
+          "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+          "time": "2026-05-29"
         },
         {
-          "title": "SOND, a sleep tech startup from Bose&#8217;s former head of sleep, exits stealth with $7M",
-          "summary": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
-          "time": "2026-05-27"
-        },
-        {
-          "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
-          "summary": "The database provider is eyeing a public debut within the next few years.",
+          "title": "Glean&#8217;s top line crosses $300M as AI budget cutting becomes its major selling point",
+          "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
           "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
-          "time": "2026-05-27"
+          "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+          "time": "2026-05-29"
         },
         {
-          "title": "Robinhood now lets your AI agents trade stocks",
-          "summary": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate",
-          "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-          "time": "2026-05-27"
+          "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+          "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+          "time": "2026-05-28"
         },
         {
-          "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-          "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-          "time": "2026-05-26"
+          "title": "How Turkey Hacked the Hair Transplant Industry",
+          "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+          "source": "Levent Daşkıran",
+          "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+          "time": "2026-05-31"
         },
         {
-          "title": "This startup is betting India&#8217;s gig economy can train the world&#8217;s robots",
-          "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training dat",
-          "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-          "time": "2026-05-26"
+          "title": "The Impact of AI-Assisted Development on Software Security",
+          "summary": "暂无摘要",
+          "source": "lucamark",
+          "url": "https://arxiv.org/abs/2603.15298",
+          "time": "2026-05-31"
         },
         {
-          "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
-          "summary": "Trajectory is betting the rapid iteration cycle that supercharged vibe-coding can help all kinds of companies build AI products that learn continuously.",
-          "source": "Maxwell Zeff",
-          "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
-          "time": "2026-05-27"
+          "title": "Curated list of AI apps for visual creation",
+          "summary": "暂无摘要",
+          "source": "seinecle",
+          "url": "https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940",
+          "time": "2026-05-31"
         },
         {
-          "title": "Pope Leo Schooled the Tech Bros on Tolkien",
-          "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
-          "source": "Miles Klee",
-          "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-          "time": "2026-05-26"
+          "title": "AI Agent that at inference time updates it's harness and model weights",
+          "summary": "暂无摘要",
+          "source": "martianvoid",
+          "url": "https://github.com/hexo-ai/sia",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Free cloud-based tool for managing AI agents across multiple hosts",
+          "summary": "暂无摘要",
+          "source": "itrinity",
+          "url": "https://nodecartel.com/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Unlimited free AI tools and more, live demo. watch now [video]",
+          "summary": "暂无摘要",
+          "source": "rrrpro123",
+          "url": "https://www.youtube.com/shorts/8HB-VgN3uTE",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Why AI isn't showing up on your bottom line",
+          "summary": "暂无摘要",
+          "source": "brettlangdon",
+          "url": "https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Unity AI Suite",
+          "summary": "暂无摘要",
+          "source": "teleforce",
+          "url": "https://unity.com/features/ai",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes",
+          "summary": "暂无摘要",
+          "source": "ankitg12",
+          "url": "https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Overslash – an auth gateway for AI Agents",
+          "summary": "暂无摘要",
+          "source": "arturogoosnargh",
+          "url": "https://www.overslash.com/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Russia Revives WWI Dazzle Camouflage to Evade Ukrainian AI Drones–Does It Work?",
+          "summary": "暂无摘要",
+          "source": "Symbiote",
+          "url": "https://united24media.com/war-in-ukraine/russia-revives-wwi-dazzle-camouflage-to-evade-ukrainian-ai-drones-does-it-work-19334",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "How to Think About AI in Your Product",
+          "summary": "暂无摘要",
+          "source": "ghoul2",
+          "url": "https://abgoyal.com/posts/how-to-think-about-ai-in-your-product/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Agent Deck: Native Mac app for managing AI coding agents| powered by PI",
+          "summary": "暂无摘要",
+          "source": "streetcoder",
+          "url": "https://agentdeck.site/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Egress WAF to limit AI agents and NPM malware based on mitmproxy",
+          "summary": "暂无摘要",
+          "source": "esamatti",
+          "url": "https://github.com/esamattis/mitmwall",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: AI Model Benchmark for Crypto Price Predictions",
+          "summary": "暂无摘要",
+          "source": "docuru",
+          "url": "https://coinsignal.co/benchmark",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Flathub disallows AI for submission and applications",
+          "summary": "暂无摘要",
+          "source": "selfhoster1312",
+          "url": "https://social.treehouse.systems/@barthalion/116657011366876079",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI for Bio has a Fuzzy API problem",
+          "summary": "暂无摘要",
+          "source": "sebg",
+          "url": "https://ankitg.me/blog/2026/05/04/fuzzy_api.html",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Why AI can't be trusted to write scientific reviews",
+          "summary": "暂无摘要",
+          "source": "XzetaU8",
+          "url": "https://www.nature.com/articles/d41586-026-01616-3",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Why Chinese AI labs went open and will remain open",
+          "summary": "暂无摘要",
+          "source": "bkjlblh",
+          "url": "https://try.works/why-chinese-ai-labs-went-open-and-will-remain-open",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "What Apple Knows About AI That Silicon Valley Won't Admit",
+          "summary": "暂无摘要",
+          "source": "gHeadphone",
+          "url": "https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Netflix Wiz creates app to slash AI bills by pruning agent instructions",
+          "summary": "暂无摘要",
+          "source": "beardyw",
+          "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
+          "time": "2026-05-31"
         }
       ]
     },
@@ -321,13 +573,6 @@
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
           "time": "2026-05-26"
-        },
-        {
-          "title": "Here’s why Elon Musk lost his suit against OpenAI",
-          "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat",
-          "source": "Michelle Kim",
-          "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-          "time": "2026-05-19"
         }
       ]
     },
@@ -484,25 +729,151 @@
           "time": "2022-12-16"
         },
         {
+          "title": "The Impact of AI-Assisted Development on Software Security",
+          "summary": "暂无摘要",
+          "source": "lucamark",
+          "url": "https://arxiv.org/abs/2603.15298",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Curated list of AI apps for visual creation",
+          "summary": "暂无摘要",
+          "source": "seinecle",
+          "url": "https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI Agent that at inference time updates it's harness and model weights",
+          "summary": "暂无摘要",
+          "source": "martianvoid",
+          "url": "https://github.com/hexo-ai/sia",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Free cloud-based tool for managing AI agents across multiple hosts",
+          "summary": "暂无摘要",
+          "source": "itrinity",
+          "url": "https://nodecartel.com/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Unlimited free AI tools and more, live demo. watch now [video]",
+          "summary": "暂无摘要",
+          "source": "rrrpro123",
+          "url": "https://www.youtube.com/shorts/8HB-VgN3uTE",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Why AI isn't showing up on your bottom line",
+          "summary": "暂无摘要",
+          "source": "brettlangdon",
+          "url": "https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Unity AI Suite",
+          "summary": "暂无摘要",
+          "source": "teleforce",
+          "url": "https://unity.com/features/ai",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes",
+          "summary": "暂无摘要",
+          "source": "ankitg12",
+          "url": "https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Overslash – an auth gateway for AI Agents",
+          "summary": "暂无摘要",
+          "source": "arturogoosnargh",
+          "url": "https://www.overslash.com/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Russia Revives WWI Dazzle Camouflage to Evade Ukrainian AI Drones–Does It Work?",
+          "summary": "暂无摘要",
+          "source": "Symbiote",
+          "url": "https://united24media.com/war-in-ukraine/russia-revives-wwi-dazzle-camouflage-to-evade-ukrainian-ai-drones-does-it-work-19334",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "How to Think About AI in Your Product",
+          "summary": "暂无摘要",
+          "source": "ghoul2",
+          "url": "https://abgoyal.com/posts/how-to-think-about-ai-in-your-product/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Agent Deck: Native Mac app for managing AI coding agents| powered by PI",
+          "summary": "暂无摘要",
+          "source": "streetcoder",
+          "url": "https://agentdeck.site/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: Egress WAF to limit AI agents and NPM malware based on mitmproxy",
+          "summary": "暂无摘要",
+          "source": "esamatti",
+          "url": "https://github.com/esamattis/mitmwall",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Show HN: AI Model Benchmark for Crypto Price Predictions",
+          "summary": "暂无摘要",
+          "source": "docuru",
+          "url": "https://coinsignal.co/benchmark",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Flathub disallows AI for submission and applications",
+          "summary": "暂无摘要",
+          "source": "selfhoster1312",
+          "url": "https://social.treehouse.systems/@barthalion/116657011366876079",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI for Bio has a Fuzzy API problem",
+          "summary": "暂无摘要",
+          "source": "sebg",
+          "url": "https://ankitg.me/blog/2026/05/04/fuzzy_api.html",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Why AI can't be trusted to write scientific reviews",
+          "summary": "暂无摘要",
+          "source": "XzetaU8",
+          "url": "https://www.nature.com/articles/d41586-026-01616-3",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Why Chinese AI labs went open and will remain open",
+          "summary": "暂无摘要",
+          "source": "bkjlblh",
+          "url": "https://try.works/why-chinese-ai-labs-went-open-and-will-remain-open",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "What Apple Knows About AI That Silicon Valley Won't Admit",
+          "summary": "暂无摘要",
+          "source": "gHeadphone",
+          "url": "https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Netflix Wiz creates app to slash AI bills by pruning agent instructions",
+          "summary": "暂无摘要",
+          "source": "beardyw",
+          "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
+          "time": "2026-05-31"
+        },
+        {
           "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
           "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
           "source": "Maxwell Zeff",
           "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
           "time": "2026-05-28"
-        },
-        {
-          "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
-          "summary": "The Chinese company is adapting to the demise of Moore’s Law, which guides chip production. It could complicate US chip dominance.",
-          "source": "Will Knight",
-          "url": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
-          "time": "2026-05-27"
-        },
-        {
-          "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-          "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-          "source": "Steven Levy",
-          "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-          "time": "2026-05-26"
         }
       ]
     }
