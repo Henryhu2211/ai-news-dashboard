@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-05-31T11:52:42.327Z",
-  "date": "2026年5月31日 11时52分",
+  "updateTime": "2026-05-31T20:49:29.980Z",
+  "date": "2026年5月31日 20时49分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Show HN: GEDD – Find what your AI agent gets wrong (before your users do)",
+          "summary": "暂无摘要",
+          "source": "balasvce19855",
+          "url": "https://github.com/aws-samples/sample-GEDD",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Researchers let AI models run a simulated society",
+          "summary": "暂无摘要",
+          "source": "ilkkao",
+          "url": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Headroom compresses everything your AI agent reads before it reaches the LLM",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://pypi.org/project/headroom-ai/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Web-AI-SDK 0.5: Writer, Rewriter, Proofreader and Prompt API improvements",
+          "summary": "暂无摘要",
+          "source": "obetomuniz",
+          "url": "https://web-ai-sdk.dev/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "China's AI Heist",
+          "summary": "暂无摘要",
+          "source": "chvid",
+          "url": "https://www.foreignaffairs.com/china/chinas-ai-heist",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "The UI problem of AI coding agents",
+          "summary": "暂无摘要",
+          "source": "Imbiss",
+          "url": "https://cate.cero-ai.com/blog/ui-problem-ai-coding-agents",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Is that song AI-generated? UChicago scientists create tool to check",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://news.uchicago.edu/story/song-ai-generated-uchicago-scientists-create-browser-extension-check",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI Slop Is a Choice",
+          "summary": "暂无摘要",
+          "source": "usernamed7",
+          "url": "https://building138.com/ai-slop-is-a-choice",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Netflix Wiz creates app to slash AI bills, then open sources it",
+          "summary": "暂无摘要",
+          "source": "joebuckwilliams",
+          "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "The Authorization Paradox: Who Has the Keys to Your AI? [video]",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.youtube.com/watch?v=5UUpxgcGKXk",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI agents get their own phone directory built atop DNS",
+          "summary": "暂无摘要",
+          "source": "benkan",
+          "url": "https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Guidelines for Respectful Use of AI",
+          "summary": "暂无摘要",
+          "source": "ruds",
+          "url": "https://www.elidedbranches.com/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Open-source spectre haunts the AI feast",
+          "summary": "暂无摘要",
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "The math world is losing its mind over the new AI solution to an Erdős problem",
+          "summary": "暂无摘要",
+          "source": "fortran77",
+          "url": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Written language as the shared substrate between literate brains and LLMs",
+          "summary": "暂无摘要",
+          "source": "wolf4earth",
+          "url": "https://systemicengineering.substack.com/p/what-i-am-made-of",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Sandboxes and Worktrees: My Secure Agentic AI Setup",
+          "summary": "暂无摘要",
+          "source": "CoffeeOnWrite",
+          "url": "https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "\"AI is as big a deal as the internet or mobile–and only as big.\" Benedict Evans [video]",
+          "summary": "暂无摘要",
+          "source": "nilen",
+          "url": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "GrillKit – Self-hosted AI trainer for technical interviews with voice",
+          "summary": "暂无摘要",
+          "source": "vitchenkokir",
+          "url": "https://github.com/GrillKit/grillkit",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "DDS Vibe Academy – 49 free AI coding classes (12 new masterclasses this week)",
+          "summary": "暂无摘要",
+          "source": "robert_dds",
+          "url": "https://ddsboston.com/pages/dds-vibe-academy",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI guardrails stripped from Meta and Google models in minutes",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e",
+          "time": "2026-05-31"
+        },
         {
           "title": "The AI Hype Index: AI gets booed in graduation season",
           "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their t",
@@ -225,143 +365,143 @@
           "time": "2022-05-31"
         },
         {
-          "title": "The Impact of AI-Assisted Development on Software Security",
+          "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
           "summary": "暂无摘要",
-          "source": "lucamark",
-          "url": "https://arxiv.org/abs/2603.15298",
+          "source": "hackerBanana",
+          "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
           "time": "2026-05-31"
         },
         {
-          "title": "Google planning to release 32M mosquitoes across Florida and California",
+          "title": "Show HN: GEDD – Find what your AI agent gets wrong (before your users do)",
           "summary": "暂无摘要",
-          "source": "king_zee",
-          "url": "https://twitter.com/BullTheoryio/status/2060810332831129782",
+          "source": "balasvce19855",
+          "url": "https://github.com/aws-samples/sample-GEDD",
           "time": "2026-05-31"
         },
         {
-          "title": "Curated list of AI apps for visual creation",
+          "title": "Researchers let AI models run a simulated society",
           "summary": "暂无摘要",
-          "source": "seinecle",
-          "url": "https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940",
+          "source": "ilkkao",
+          "url": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/",
           "time": "2026-05-31"
         },
         {
-          "title": "AI Agent that at inference time updates it's harness and model weights",
+          "title": "Euro-Office Alternative to Microsoft Office and Google Docs, Launches June 9",
           "summary": "暂无摘要",
-          "source": "martianvoid",
-          "url": "https://github.com/hexo-ai/sia",
+          "source": "abdelhousni",
+          "url": "https://www.zdnet.com/article/euro-office-a-sovereign-cloud-based-office-suite-google-microsoft-alternative/",
           "time": "2026-05-31"
         },
         {
-          "title": "Show HN: Free cloud-based tool for managing AI agents across multiple hosts",
+          "title": "Headroom compresses everything your AI agent reads before it reaches the LLM",
           "summary": "暂无摘要",
-          "source": "itrinity",
-          "url": "https://nodecartel.com/",
+          "source": "mooreds",
+          "url": "https://pypi.org/project/headroom-ai/",
           "time": "2026-05-31"
         },
         {
-          "title": "Unlimited free AI tools and more, live demo. watch now [video]",
+          "title": "Web-AI-SDK 0.5: Writer, Rewriter, Proofreader and Prompt API improvements",
           "summary": "暂无摘要",
-          "source": "rrrpro123",
-          "url": "https://www.youtube.com/shorts/8HB-VgN3uTE",
+          "source": "obetomuniz",
+          "url": "https://web-ai-sdk.dev/",
           "time": "2026-05-31"
         },
         {
-          "title": "Why AI isn't showing up on your bottom line",
+          "title": "China's AI Heist",
           "summary": "暂无摘要",
-          "source": "brettlangdon",
-          "url": "https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line",
+          "source": "chvid",
+          "url": "https://www.foreignaffairs.com/china/chinas-ai-heist",
           "time": "2026-05-31"
         },
         {
-          "title": "Unity AI Suite",
+          "title": "The UI problem of AI coding agents",
           "summary": "暂无摘要",
-          "source": "teleforce",
-          "url": "https://unity.com/features/ai",
+          "source": "Imbiss",
+          "url": "https://cate.cero-ai.com/blog/ui-problem-ai-coding-agents",
           "time": "2026-05-31"
         },
         {
-          "title": "Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
+          "title": "Is that song AI-generated? UChicago scientists create tool to check",
           "summary": "暂无摘要",
-          "source": "joozio",
-          "url": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
+          "source": "paulpauper",
+          "url": "https://news.uchicago.edu/story/song-ai-generated-uchicago-scientists-create-browser-extension-check",
           "time": "2026-05-31"
         },
         {
-          "title": "Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes",
+          "title": "AI Slop Is a Choice",
           "summary": "暂无摘要",
-          "source": "ankitg12",
-          "url": "https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/",
+          "source": "usernamed7",
+          "url": "https://building138.com/ai-slop-is-a-choice",
           "time": "2026-05-31"
         },
         {
-          "title": "Show HN: Overslash – an auth gateway for AI Agents",
+          "title": "Netflix Wiz creates app to slash AI bills, then open sources it",
           "summary": "暂无摘要",
-          "source": "arturogoosnargh",
-          "url": "https://www.overslash.com/",
+          "source": "joebuckwilliams",
+          "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
           "time": "2026-05-31"
         },
         {
-          "title": "Russia Revives WWI Dazzle Camouflage to Evade Ukrainian AI Drones–Does It Work?",
+          "title": "The Authorization Paradox: Who Has the Keys to Your AI? [video]",
           "summary": "暂无摘要",
-          "source": "Symbiote",
-          "url": "https://united24media.com/war-in-ukraine/russia-revives-wwi-dazzle-camouflage-to-evade-ukrainian-ai-drones-does-it-work-19334",
+          "source": "mooreds",
+          "url": "https://www.youtube.com/watch?v=5UUpxgcGKXk",
           "time": "2026-05-31"
         },
         {
-          "title": "How to Think About AI in Your Product",
+          "title": "San Francisco home accepts OpenAI, Anthropic stock as payment for $2.9M sale",
           "summary": "暂无摘要",
-          "source": "ghoul2",
-          "url": "https://abgoyal.com/posts/how-to-think-about-ai-in-your-product/",
+          "source": "petethomas",
+          "url": "https://cryptobriefing.com/san-francisco-home-accepts-ai-stock-payment/",
           "time": "2026-05-31"
         },
         {
-          "title": "Show HN: Agent Deck: Native Mac app for managing AI coding agents| powered by PI",
+          "title": "AI agents get their own phone directory built atop DNS",
           "summary": "暂无摘要",
-          "source": "streetcoder",
-          "url": "https://agentdeck.site/",
+          "source": "benkan",
+          "url": "https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539",
           "time": "2026-05-31"
         },
         {
-          "title": "Show HN: Egress WAF to limit AI agents and NPM malware based on mitmproxy",
+          "title": "Guidelines for Respectful Use of AI",
           "summary": "暂无摘要",
-          "source": "esamatti",
-          "url": "https://github.com/esamattis/mitmwall",
+          "source": "ruds",
+          "url": "https://www.elidedbranches.com/",
           "time": "2026-05-31"
         },
         {
-          "title": "Show HN: AI Model Benchmark for Crypto Price Predictions",
+          "title": "Open-source spectre haunts the AI feast",
           "summary": "暂无摘要",
-          "source": "docuru",
-          "url": "https://coinsignal.co/benchmark",
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/",
           "time": "2026-05-31"
         },
         {
-          "title": "Flathub disallows AI for submission and applications",
+          "title": "The math world is losing its mind over the new AI solution to an Erdős problem",
           "summary": "暂无摘要",
-          "source": "selfhoster1312",
-          "url": "https://social.treehouse.systems/@barthalion/116657011366876079",
+          "source": "fortran77",
+          "url": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
           "time": "2026-05-31"
         },
         {
-          "title": "AI for Bio has a Fuzzy API problem",
+          "title": "Google SOTA",
           "summary": "暂无摘要",
-          "source": "sebg",
-          "url": "https://ankitg.me/blog/2026/05/04/fuzzy_api.html",
+          "source": "johnbarron",
+          "url": "https://imgur.com/gallery/llDaUDr",
           "time": "2026-05-31"
         },
         {
-          "title": "Why AI can't be trusted to write scientific reviews",
+          "title": "Sandboxes and Worktrees: My Secure Agentic AI Setup",
           "summary": "暂无摘要",
-          "source": "XzetaU8",
-          "url": "https://www.nature.com/articles/d41586-026-01616-3",
+          "source": "CoffeeOnWrite",
+          "url": "https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/",
           "time": "2026-05-31"
         },
         {
-          "title": "Why Chinese AI labs went open and will remain open",
+          "title": "Meta legal action forces Meta whistleblower to stay silent at Hay book festival",
           "summary": "暂无摘要",
-          "source": "bkjlblh",
-          "url": "https://try.works/why-chinese-ai-labs-went-open-and-will-remain-open",
+          "source": "craighay1",
+          "url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
           "time": "2026-05-31"
         }
       ]
@@ -414,143 +554,143 @@
           "time": "2026-05-31"
         },
         {
-          "title": "The Impact of AI-Assisted Development on Software Security",
+          "title": "Show HN: GEDD – Find what your AI agent gets wrong (before your users do)",
           "summary": "暂无摘要",
-          "source": "lucamark",
-          "url": "https://arxiv.org/abs/2603.15298",
+          "source": "balasvce19855",
+          "url": "https://github.com/aws-samples/sample-GEDD",
           "time": "2026-05-31"
         },
         {
-          "title": "Curated list of AI apps for visual creation",
+          "title": "Researchers let AI models run a simulated society",
           "summary": "暂无摘要",
-          "source": "seinecle",
-          "url": "https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940",
+          "source": "ilkkao",
+          "url": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/",
           "time": "2026-05-31"
         },
         {
-          "title": "AI Agent that at inference time updates it's harness and model weights",
+          "title": "Headroom compresses everything your AI agent reads before it reaches the LLM",
           "summary": "暂无摘要",
-          "source": "martianvoid",
-          "url": "https://github.com/hexo-ai/sia",
+          "source": "mooreds",
+          "url": "https://pypi.org/project/headroom-ai/",
           "time": "2026-05-31"
         },
         {
-          "title": "Show HN: Free cloud-based tool for managing AI agents across multiple hosts",
+          "title": "Web-AI-SDK 0.5: Writer, Rewriter, Proofreader and Prompt API improvements",
           "summary": "暂无摘要",
-          "source": "itrinity",
-          "url": "https://nodecartel.com/",
+          "source": "obetomuniz",
+          "url": "https://web-ai-sdk.dev/",
           "time": "2026-05-31"
         },
         {
-          "title": "Unlimited free AI tools and more, live demo. watch now [video]",
+          "title": "China's AI Heist",
           "summary": "暂无摘要",
-          "source": "rrrpro123",
-          "url": "https://www.youtube.com/shorts/8HB-VgN3uTE",
+          "source": "chvid",
+          "url": "https://www.foreignaffairs.com/china/chinas-ai-heist",
           "time": "2026-05-31"
         },
         {
-          "title": "Why AI isn't showing up on your bottom line",
+          "title": "The UI problem of AI coding agents",
           "summary": "暂无摘要",
-          "source": "brettlangdon",
-          "url": "https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line",
+          "source": "Imbiss",
+          "url": "https://cate.cero-ai.com/blog/ui-problem-ai-coding-agents",
           "time": "2026-05-31"
         },
         {
-          "title": "Unity AI Suite",
+          "title": "Is that song AI-generated? UChicago scientists create tool to check",
           "summary": "暂无摘要",
-          "source": "teleforce",
-          "url": "https://unity.com/features/ai",
+          "source": "paulpauper",
+          "url": "https://news.uchicago.edu/story/song-ai-generated-uchicago-scientists-create-browser-extension-check",
           "time": "2026-05-31"
         },
         {
-          "title": "Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes",
+          "title": "AI Slop Is a Choice",
           "summary": "暂无摘要",
-          "source": "ankitg12",
-          "url": "https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/",
+          "source": "usernamed7",
+          "url": "https://building138.com/ai-slop-is-a-choice",
           "time": "2026-05-31"
         },
         {
-          "title": "Show HN: Overslash – an auth gateway for AI Agents",
+          "title": "Netflix Wiz creates app to slash AI bills, then open sources it",
           "summary": "暂无摘要",
-          "source": "arturogoosnargh",
-          "url": "https://www.overslash.com/",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Russia Revives WWI Dazzle Camouflage to Evade Ukrainian AI Drones–Does It Work?",
-          "summary": "暂无摘要",
-          "source": "Symbiote",
-          "url": "https://united24media.com/war-in-ukraine/russia-revives-wwi-dazzle-camouflage-to-evade-ukrainian-ai-drones-does-it-work-19334",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "How to Think About AI in Your Product",
-          "summary": "暂无摘要",
-          "source": "ghoul2",
-          "url": "https://abgoyal.com/posts/how-to-think-about-ai-in-your-product/",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Show HN: Agent Deck: Native Mac app for managing AI coding agents| powered by PI",
-          "summary": "暂无摘要",
-          "source": "streetcoder",
-          "url": "https://agentdeck.site/",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Show HN: Egress WAF to limit AI agents and NPM malware based on mitmproxy",
-          "summary": "暂无摘要",
-          "source": "esamatti",
-          "url": "https://github.com/esamattis/mitmwall",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Show HN: AI Model Benchmark for Crypto Price Predictions",
-          "summary": "暂无摘要",
-          "source": "docuru",
-          "url": "https://coinsignal.co/benchmark",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Flathub disallows AI for submission and applications",
-          "summary": "暂无摘要",
-          "source": "selfhoster1312",
-          "url": "https://social.treehouse.systems/@barthalion/116657011366876079",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "AI for Bio has a Fuzzy API problem",
-          "summary": "暂无摘要",
-          "source": "sebg",
-          "url": "https://ankitg.me/blog/2026/05/04/fuzzy_api.html",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Why AI can't be trusted to write scientific reviews",
-          "summary": "暂无摘要",
-          "source": "XzetaU8",
-          "url": "https://www.nature.com/articles/d41586-026-01616-3",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Why Chinese AI labs went open and will remain open",
-          "summary": "暂无摘要",
-          "source": "bkjlblh",
-          "url": "https://try.works/why-chinese-ai-labs-went-open-and-will-remain-open",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "What Apple Knows About AI That Silicon Valley Won't Admit",
-          "summary": "暂无摘要",
-          "source": "gHeadphone",
-          "url": "https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Netflix Wiz creates app to slash AI bills by pruning agent instructions",
-          "summary": "暂无摘要",
-          "source": "beardyw",
+          "source": "joebuckwilliams",
           "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "The Authorization Paradox: Who Has the Keys to Your AI? [video]",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.youtube.com/watch?v=5UUpxgcGKXk",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI agents get their own phone directory built atop DNS",
+          "summary": "暂无摘要",
+          "source": "benkan",
+          "url": "https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Guidelines for Respectful Use of AI",
+          "summary": "暂无摘要",
+          "source": "ruds",
+          "url": "https://www.elidedbranches.com/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Open-source spectre haunts the AI feast",
+          "summary": "暂无摘要",
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "The math world is losing its mind over the new AI solution to an Erdős problem",
+          "summary": "暂无摘要",
+          "source": "fortran77",
+          "url": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Sandboxes and Worktrees: My Secure Agentic AI Setup",
+          "summary": "暂无摘要",
+          "source": "CoffeeOnWrite",
+          "url": "https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "\"AI is as big a deal as the internet or mobile–and only as big.\" Benedict Evans [video]",
+          "summary": "暂无摘要",
+          "source": "nilen",
+          "url": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "GrillKit – Self-hosted AI trainer for technical interviews with voice",
+          "summary": "暂无摘要",
+          "source": "vitchenkokir",
+          "url": "https://github.com/GrillKit/grillkit",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Check Startup Names for Availability",
+          "summary": "暂无摘要",
+          "source": "chaghighat",
+          "url": "https://nameclaim.xyz",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "DDS Vibe Academy – 49 free AI coding classes (12 new masterclasses this week)",
+          "summary": "暂无摘要",
+          "source": "robert_dds",
+          "url": "https://ddsboston.com/pages/dds-vibe-academy",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI guardrails stripped from Meta and Google models in minutes",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e",
           "time": "2026-05-31"
         }
       ]
@@ -729,143 +869,143 @@
           "time": "2022-12-16"
         },
         {
-          "title": "The Impact of AI-Assisted Development on Software Security",
+          "title": "Show HN: GEDD – Find what your AI agent gets wrong (before your users do)",
           "summary": "暂无摘要",
-          "source": "lucamark",
-          "url": "https://arxiv.org/abs/2603.15298",
+          "source": "balasvce19855",
+          "url": "https://github.com/aws-samples/sample-GEDD",
           "time": "2026-05-31"
         },
         {
-          "title": "Curated list of AI apps for visual creation",
+          "title": "Researchers let AI models run a simulated society",
           "summary": "暂无摘要",
-          "source": "seinecle",
-          "url": "https://gist.github.com/seinecle/689a53bceca96147a04e93bdc5f83940",
+          "source": "ilkkao",
+          "url": "https://fortune.com/2026/05/28/ai-model-simulation-claude-chatgpt-grok-gemini/",
           "time": "2026-05-31"
         },
         {
-          "title": "AI Agent that at inference time updates it's harness and model weights",
+          "title": "Headroom compresses everything your AI agent reads before it reaches the LLM",
           "summary": "暂无摘要",
-          "source": "martianvoid",
-          "url": "https://github.com/hexo-ai/sia",
+          "source": "mooreds",
+          "url": "https://pypi.org/project/headroom-ai/",
           "time": "2026-05-31"
         },
         {
-          "title": "Show HN: Free cloud-based tool for managing AI agents across multiple hosts",
+          "title": "Web-AI-SDK 0.5: Writer, Rewriter, Proofreader and Prompt API improvements",
           "summary": "暂无摘要",
-          "source": "itrinity",
-          "url": "https://nodecartel.com/",
+          "source": "obetomuniz",
+          "url": "https://web-ai-sdk.dev/",
           "time": "2026-05-31"
         },
         {
-          "title": "Unlimited free AI tools and more, live demo. watch now [video]",
+          "title": "China's AI Heist",
           "summary": "暂无摘要",
-          "source": "rrrpro123",
-          "url": "https://www.youtube.com/shorts/8HB-VgN3uTE",
+          "source": "chvid",
+          "url": "https://www.foreignaffairs.com/china/chinas-ai-heist",
           "time": "2026-05-31"
         },
         {
-          "title": "Why AI isn't showing up on your bottom line",
+          "title": "The UI problem of AI coding agents",
           "summary": "暂无摘要",
-          "source": "brettlangdon",
-          "url": "https://www.exponentialview.co/p/why-ai-isnt-showing-up-on-your-bottom-line",
+          "source": "Imbiss",
+          "url": "https://cate.cero-ai.com/blog/ui-problem-ai-coding-agents",
           "time": "2026-05-31"
         },
         {
-          "title": "Unity AI Suite",
+          "title": "Is that song AI-generated? UChicago scientists create tool to check",
           "summary": "暂无摘要",
-          "source": "teleforce",
-          "url": "https://unity.com/features/ai",
+          "source": "paulpauper",
+          "url": "https://news.uchicago.edu/story/song-ai-generated-uchicago-scientists-create-browser-extension-check",
           "time": "2026-05-31"
         },
         {
-          "title": "Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes",
+          "title": "AI Slop Is a Choice",
           "summary": "暂无摘要",
-          "source": "ankitg12",
-          "url": "https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/",
+          "source": "usernamed7",
+          "url": "https://building138.com/ai-slop-is-a-choice",
           "time": "2026-05-31"
         },
         {
-          "title": "Show HN: Overslash – an auth gateway for AI Agents",
+          "title": "Government Relations (2020)",
           "summary": "暂无摘要",
-          "source": "arturogoosnargh",
-          "url": "https://www.overslash.com/",
+          "source": "Tomte",
+          "url": "https://about.usps.com/postal-bulletin/2020/pb22539/html/info_004.htm",
           "time": "2026-05-31"
         },
         {
-          "title": "Russia Revives WWI Dazzle Camouflage to Evade Ukrainian AI Drones–Does It Work?",
+          "title": "Netflix Wiz creates app to slash AI bills, then open sources it",
           "summary": "暂无摘要",
-          "source": "Symbiote",
-          "url": "https://united24media.com/war-in-ukraine/russia-revives-wwi-dazzle-camouflage-to-evade-ukrainian-ai-drones-does-it-work-19334",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "How to Think About AI in Your Product",
-          "summary": "暂无摘要",
-          "source": "ghoul2",
-          "url": "https://abgoyal.com/posts/how-to-think-about-ai-in-your-product/",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Show HN: Agent Deck: Native Mac app for managing AI coding agents| powered by PI",
-          "summary": "暂无摘要",
-          "source": "streetcoder",
-          "url": "https://agentdeck.site/",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Show HN: Egress WAF to limit AI agents and NPM malware based on mitmproxy",
-          "summary": "暂无摘要",
-          "source": "esamatti",
-          "url": "https://github.com/esamattis/mitmwall",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Show HN: AI Model Benchmark for Crypto Price Predictions",
-          "summary": "暂无摘要",
-          "source": "docuru",
-          "url": "https://coinsignal.co/benchmark",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Flathub disallows AI for submission and applications",
-          "summary": "暂无摘要",
-          "source": "selfhoster1312",
-          "url": "https://social.treehouse.systems/@barthalion/116657011366876079",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "AI for Bio has a Fuzzy API problem",
-          "summary": "暂无摘要",
-          "source": "sebg",
-          "url": "https://ankitg.me/blog/2026/05/04/fuzzy_api.html",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Why AI can't be trusted to write scientific reviews",
-          "summary": "暂无摘要",
-          "source": "XzetaU8",
-          "url": "https://www.nature.com/articles/d41586-026-01616-3",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Why Chinese AI labs went open and will remain open",
-          "summary": "暂无摘要",
-          "source": "bkjlblh",
-          "url": "https://try.works/why-chinese-ai-labs-went-open-and-will-remain-open",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "What Apple Knows About AI That Silicon Valley Won't Admit",
-          "summary": "暂无摘要",
-          "source": "gHeadphone",
-          "url": "https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon",
-          "time": "2026-05-31"
-        },
-        {
-          "title": "Netflix Wiz creates app to slash AI bills by pruning agent instructions",
-          "summary": "暂无摘要",
-          "source": "beardyw",
+          "source": "joebuckwilliams",
           "url": "https://www.theregister.com/ai-ml/2026/05/31/netflix-wiz-creates-app-to-slash-ai-bills-then-open-sources-it/5248702",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "The Authorization Paradox: Who Has the Keys to Your AI? [video]",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.youtube.com/watch?v=5UUpxgcGKXk",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI agents get their own phone directory built atop DNS",
+          "summary": "暂无摘要",
+          "source": "benkan",
+          "url": "https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Guidelines for Respectful Use of AI",
+          "summary": "暂无摘要",
+          "source": "ruds",
+          "url": "https://www.elidedbranches.com/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Open-source spectre haunts the AI feast",
+          "summary": "暂无摘要",
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.reuters.com/commentary/breakingviews/open-source-spectre-haunts-ai-feast-2026-05-28/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "The math world is losing its mind over the new AI solution to an Erdős problem",
+          "summary": "暂无摘要",
+          "source": "fortran77",
+          "url": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "Sandboxes and Worktrees: My Secure Agentic AI Setup",
+          "summary": "暂无摘要",
+          "source": "CoffeeOnWrite",
+          "url": "https://mikemcquaid.com/sandboxed-agent-worktrees-my-coding-and-ai-setup-in-2026/",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "\"AI is as big a deal as the internet or mobile–and only as big.\" Benedict Evans [video]",
+          "summary": "暂无摘要",
+          "source": "nilen",
+          "url": "https://www.youtube.com/watch?v=BD3vLtWhT5A",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "GrillKit – Self-hosted AI trainer for technical interviews with voice",
+          "summary": "暂无摘要",
+          "source": "vitchenkokir",
+          "url": "https://github.com/GrillKit/grillkit",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "DDS Vibe Academy – 49 free AI coding classes (12 new masterclasses this week)",
+          "summary": "暂无摘要",
+          "source": "robert_dds",
+          "url": "https://ddsboston.com/pages/dds-vibe-academy",
+          "time": "2026-05-31"
+        },
+        {
+          "title": "AI guardrails stripped from Meta and Google models in minutes",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e",
           "time": "2026-05-31"
         },
         {
