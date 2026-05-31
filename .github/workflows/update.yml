@@ -31,7 +31,7 @@ jobs:
       - name: Always update timestamp to force a commit
         run: |
           date_str=$(date +'%Y-%m-%d %H:%M UTC')
-          sed -i "s|<p>每日 8 点自动更新.*</p>|<p>每日 8 点自动更新 | 最后更新: ${date_str}</p>|g" index.html
+          python3 -c "import re; html=open('index.html').read(); html=re.sub(r'<p>每日 8 点自动更新.*?</p>', '<p>每日 8 点自动更新 | 最后更新: ${date_str}</p>', html); open('index.html','w').write(html)"
 
       - name: Commit and push
         env:
