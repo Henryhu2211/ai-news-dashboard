@@ -1,152 +1,12 @@
 {
-  "updateTime": "2026-06-03T22:24:21.321Z",
-  "date": "2026年6月3日 22时24分",
+  "updateTime": "2026-06-04T21:24:02.457Z",
+  "date": "2026年6月4日 21时24分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
-        {
-          "title": "The Environmental Cost of AI: Carbon, Water, and Land Footprints",
-          "summary": "暂无摘要",
-          "source": "SupremumLimit",
-          "url": "https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "EU wants households to cut peak time energy use as industry and AI demand soars",
-          "summary": "暂无摘要",
-          "source": "pseudalopex",
-          "url": "https://www.politico.eu/article/eu-households-electricity-energy-artificial-intelligence-ai/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Dashlane issues opaque advisory warning 20 encrypted vaults were stolen",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The American AI Sovereign Wealth Fund Act [video]",
-          "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://www.youtube.com/watch?v=VN4b4UCWMKI",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
-          "summary": "暂无摘要",
-          "source": "haldean",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Bernie Sanders introduces bill giving the public a 50% stake in top AI companies",
-          "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-introduce-bill-giving-135431485.html",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Scaling Past Informal AI – Carina Hong, Axiom Math",
-          "summary": "暂无摘要",
-          "source": "SVI",
-          "url": "https://www.latent.space/p/axiom",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Only 18% of AI engineering spend reaches shipped product",
-          "summary": "暂无摘要",
-          "source": "Entelligence25",
-          "url": "https://research.entelligence.ai/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "SpaceX Seeks $75B in Record IPO Plan to Fund AI, Launch",
-          "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Yoga for Agentic AI: Cognitive training practices from a yoga studio",
-          "summary": "暂无摘要",
-          "source": "boydYVR",
-          "url": "https://github.com/stretchvancouver/stretch-ai-yoga",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-          "summary": "暂无摘要",
-          "source": "nate",
-          "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: GhostUser – AI personas that find UX bugs by walking your app",
-          "summary": "暂无摘要",
-          "source": "savkevip",
-          "url": "https://github.com/savkevip/ghostuser",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The Great AI Boomerang",
-          "summary": "暂无摘要",
-          "source": "worik",
-          "url": "https://emeraldbook.org/news/may-3126-2/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "AI Agents Enable Adaptive Computer Worms",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://arxiv.org/abs/2606.03811",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The deadliest poison known to AI",
-          "summary": "暂无摘要",
-          "source": "aggrrrh",
-          "url": "https://iocaine.madhouse-project.org/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Improve Shopify Product Visibility for AI Search",
-          "summary": "暂无摘要",
-          "source": "freeinvoiceflow",
-          "url": "https://www.prodync.com/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-          "summary": "暂无摘要",
-          "source": "zaydmulani",
-          "url": "https://github.com/zaydmulani09/mnemo",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Aeterna – Private, passwordless AI digital legacy vault",
-          "summary": "暂无摘要",
-          "source": "ls1911",
-          "url": "https://helloaeterna.com/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Stophy for AI Agents",
-          "summary": "暂无摘要",
-          "source": "hakiiizimana",
-          "url": "https://stophy.dev",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Trump's Takeover of the American Regulatory Machine",
-          "summary": "暂无摘要",
-          "source": "doener",
-          "url": "https://www.wsj.com/politics/policy/trump-takeover-regulators-130b57a3",
-          "time": "2026-06-03"
-        },
         {
           "title": "How small businesses can leverage AI",
           "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t",
@@ -356,146 +216,6 @@
           "source": "Ben Ryon",
           "url": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/",
           "time": "2022-05-31"
-        },
-        {
-          "title": "The Environmental Cost of AI: Carbon, Water, and Land Footprints",
-          "summary": "暂无摘要",
-          "source": "SupremumLimit",
-          "url": "https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Google's Top DMCA Sender Plateaus at 70M Takedowns per Week",
-          "summary": "暂无摘要",
-          "source": "aa_is_op",
-          "url": "https://torrentfreak.com/googles-top-dmca-sender-plateaus-at-70-million-takedowns-per-week/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Maybe Don't Rely on Google's \"Modern Web Guidance\"",
-          "summary": "暂无摘要",
-          "source": "klueinc",
-          "url": "https://adrianroselli.com/2026/05/maybe-dont-rely-on-googles-modern-web-guidance.html",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "EU wants households to cut peak time energy use as industry and AI demand soars",
-          "summary": "暂无摘要",
-          "source": "pseudalopex",
-          "url": "https://www.politico.eu/article/eu-households-electricity-energy-artificial-intelligence-ai/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The American AI Sovereign Wealth Fund Act [video]",
-          "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://www.youtube.com/watch?v=VN4b4UCWMKI",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
-          "summary": "暂无摘要",
-          "source": "haldean",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Bernie Sanders introduces bill giving the public a 50% stake in top AI companies",
-          "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-introduce-bill-giving-135431485.html",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Scaling Past Informal AI – Carina Hong, Axiom Math",
-          "summary": "暂无摘要",
-          "source": "SVI",
-          "url": "https://www.latent.space/p/axiom",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Only 18% of AI engineering spend reaches shipped product",
-          "summary": "暂无摘要",
-          "source": "Entelligence25",
-          "url": "https://research.entelligence.ai/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "SpaceX Seeks $75B in Record IPO Plan to Fund AI, Launch",
-          "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Yoga for Agentic AI: Cognitive training practices from a yoga studio",
-          "summary": "暂无摘要",
-          "source": "boydYVR",
-          "url": "https://github.com/stretchvancouver/stretch-ai-yoga",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-          "summary": "暂无摘要",
-          "source": "nate",
-          "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: GhostUser – AI personas that find UX bugs by walking your app",
-          "summary": "暂无摘要",
-          "source": "savkevip",
-          "url": "https://github.com/savkevip/ghostuser",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The Great AI Boomerang",
-          "summary": "暂无摘要",
-          "source": "worik",
-          "url": "https://emeraldbook.org/news/may-3126-2/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "AI Agents Enable Adaptive Computer Worms",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://arxiv.org/abs/2606.03811",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The deadliest poison known to AI",
-          "summary": "暂无摘要",
-          "source": "aggrrrh",
-          "url": "https://iocaine.madhouse-project.org/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Improve Shopify Product Visibility for AI Search",
-          "summary": "暂无摘要",
-          "source": "freeinvoiceflow",
-          "url": "https://www.prodync.com/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-          "summary": "暂无摘要",
-          "source": "zaydmulani",
-          "url": "https://github.com/zaydmulani09/mnemo",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Aeterna – Private, passwordless AI digital legacy vault",
-          "summary": "暂无摘要",
-          "source": "ls1911",
-          "url": "https://helloaeterna.com/",
-          "time": "2026-06-03"
         }
       ]
     },
@@ -504,6 +224,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+          "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+          "source": "Sarah Perez",
+          "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+          "time": "2026-06-04"
+        },
+        {
+          "title": "Is Silicon Valley ready to put robots in people&#8217;s homes? Hello Robot is.",
+          "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+          "time": "2026-06-04"
+        },
+        {
+          "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+          "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+          "source": "Sarah Perez",
+          "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+          "time": "2026-06-04"
+        },
         {
           "title": "Alphabet&#8217;s record-breaking $85B raise for Google&#8217;s AI business is a helluva good signal",
           "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
@@ -533,178 +274,31 @@
           "time": "2026-06-02"
         },
         {
-          "title": "OpenAI launches new Codex tools for white-collar work",
-          "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app,",
-          "source": "Russell Brandom",
-          "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-          "time": "2026-06-02"
+          "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+          "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
+          "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+          "time": "2026-06-04"
         },
         {
-          "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-          "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-          "time": "2026-06-02"
+          "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+          "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+          "source": "Steven Levy",
+          "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+          "time": "2026-06-04"
+        },
+        {
+          "title": "Quantum Computing Is Having Its Public Market Moment",
+          "summary": "Quantinuum, a quantum computing startup, is losing millions. Investors want in anyway.",
+          "source": "Isabella Ward",
+          "url": "https://www.wired.com/story/quantum-computing-is-having-its-public-market-moment-quantinuum/",
+          "time": "2026-06-04"
         },
         {
           "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
           "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
           "source": "Arielle Pardes",
           "url": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
-          "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it’s working on an audio gadget first.",
-          "source": "Julian Chokkattu",
-          "url": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
-          "time": "2026-06-02"
-        },
-        {
-          "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-          "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
-          "source": "Paresh Dave",
-          "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-          "time": "2026-06-01"
-        },
-        {
-          "title": "The Environmental Cost of AI: Carbon, Water, and Land Footprints",
-          "summary": "暂无摘要",
-          "source": "SupremumLimit",
-          "url": "https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "EU wants households to cut peak time energy use as industry and AI demand soars",
-          "summary": "暂无摘要",
-          "source": "pseudalopex",
-          "url": "https://www.politico.eu/article/eu-households-electricity-energy-artificial-intelligence-ai/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The American AI Sovereign Wealth Fund Act [video]",
-          "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://www.youtube.com/watch?v=VN4b4UCWMKI",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
-          "summary": "暂无摘要",
-          "source": "haldean",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Bernie Sanders introduces bill giving the public a 50% stake in top AI companies",
-          "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-introduce-bill-giving-135431485.html",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Scaling Past Informal AI – Carina Hong, Axiom Math",
-          "summary": "暂无摘要",
-          "source": "SVI",
-          "url": "https://www.latent.space/p/axiom",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Laid off. Broke. Depressed. & idk how to market my SaaS",
-          "summary": "暂无摘要",
-          "source": "touseefbuilds",
-          "url": "https://news.ycombinator.com/item?id=48390168",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Only 18% of AI engineering spend reaches shipped product",
-          "summary": "暂无摘要",
-          "source": "Entelligence25",
-          "url": "https://research.entelligence.ai/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "SpaceX Seeks $75B in Record IPO Plan to Fund AI, Launch",
-          "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Yoga for Agentic AI: Cognitive training practices from a yoga studio",
-          "summary": "暂无摘要",
-          "source": "boydYVR",
-          "url": "https://github.com/stretchvancouver/stretch-ai-yoga",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-          "summary": "暂无摘要",
-          "source": "nate",
-          "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: GhostUser – AI personas that find UX bugs by walking your app",
-          "summary": "暂无摘要",
-          "source": "savkevip",
-          "url": "https://github.com/savkevip/ghostuser",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The Great AI Boomerang",
-          "summary": "暂无摘要",
-          "source": "worik",
-          "url": "https://emeraldbook.org/news/may-3126-2/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "AI Agents Enable Adaptive Computer Worms",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://arxiv.org/abs/2606.03811",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The deadliest poison known to AI",
-          "summary": "暂无摘要",
-          "source": "aggrrrh",
-          "url": "https://iocaine.madhouse-project.org/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Improve Shopify Product Visibility for AI Search",
-          "summary": "暂无摘要",
-          "source": "freeinvoiceflow",
-          "url": "https://www.prodync.com/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-          "summary": "暂无摘要",
-          "source": "zaydmulani",
-          "url": "https://github.com/zaydmulani09/mnemo",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Aeterna – Private, passwordless AI digital legacy vault",
-          "summary": "暂无摘要",
-          "source": "ls1911",
-          "url": "https://helloaeterna.com/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Stophy for AI Agents",
-          "summary": "暂无摘要",
-          "source": "hakiiizimana",
-          "url": "https://stophy.dev",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "How to Debug AI Agents with Traces and Evals",
-          "summary": "暂无摘要",
-          "source": "sukhpinder0804",
-          "url": "https://medium.com/no-time/how-to-debug-ai-agents-with-traces-and-evals-a3b72e9e7c82",
           "time": "2026-06-03"
         }
       ]
@@ -897,144 +491,18 @@
           "time": "2022-12-16"
         },
         {
-          "title": "The Environmental Cost of AI: Carbon, Water, and Land Footprints",
-          "summary": "暂无摘要",
-          "source": "SupremumLimit",
-          "url": "https://unu.edu/inweh/collection/environmental-cost-of-AIs-Enrgy-Use-Carbon-water-and-land-footprints",
-          "time": "2026-06-03"
+          "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+          "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+          "source": "Steven Levy",
+          "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+          "time": "2026-06-04"
         },
         {
-          "title": "EU wants households to cut peak time energy use as industry and AI demand soars",
-          "summary": "暂无摘要",
-          "source": "pseudalopex",
-          "url": "https://www.politico.eu/article/eu-households-electricity-energy-artificial-intelligence-ai/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The American AI Sovereign Wealth Fund Act [video]",
-          "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://www.youtube.com/watch?v=VN4b4UCWMKI",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
-          "summary": "暂无摘要",
-          "source": "haldean",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Bernie Sanders introduces bill giving the public a 50% stake in top AI companies",
-          "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://finance.yahoo.com/economy/policy/articles/bernie-sanders-introduce-bill-giving-135431485.html",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Scaling Past Informal AI – Carina Hong, Axiom Math",
-          "summary": "暂无摘要",
-          "source": "SVI",
-          "url": "https://www.latent.space/p/axiom",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Only 18% of AI engineering spend reaches shipped product",
-          "summary": "暂无摘要",
-          "source": "Entelligence25",
-          "url": "https://research.entelligence.ai/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "SpaceX Seeks $75B in Record IPO Plan to Fund AI, Launch",
-          "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Yoga for Agentic AI: Cognitive training practices from a yoga studio",
-          "summary": "暂无摘要",
-          "source": "boydYVR",
-          "url": "https://github.com/stretchvancouver/stretch-ai-yoga",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-          "summary": "暂无摘要",
-          "source": "nate",
-          "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: GhostUser – AI personas that find UX bugs by walking your app",
-          "summary": "暂无摘要",
-          "source": "savkevip",
-          "url": "https://github.com/savkevip/ghostuser",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The Great AI Boomerang",
-          "summary": "暂无摘要",
-          "source": "worik",
-          "url": "https://emeraldbook.org/news/may-3126-2/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "AI Agents Enable Adaptive Computer Worms",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://arxiv.org/abs/2606.03811",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The deadliest poison known to AI",
-          "summary": "暂无摘要",
-          "source": "aggrrrh",
-          "url": "https://iocaine.madhouse-project.org/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Improve Shopify Product Visibility for AI Search",
-          "summary": "暂无摘要",
-          "source": "freeinvoiceflow",
-          "url": "https://www.prodync.com/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-          "summary": "暂无摘要",
-          "source": "zaydmulani",
-          "url": "https://github.com/zaydmulani09/mnemo",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Show HN: Aeterna – Private, passwordless AI digital legacy vault",
-          "summary": "暂无摘要",
-          "source": "ls1911",
-          "url": "https://helloaeterna.com/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Stophy for AI Agents",
-          "summary": "暂无摘要",
-          "source": "hakiiizimana",
-          "url": "https://stophy.dev",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Analysis of Canadian Surveillance Law Expansion Under Bill C-22 – CitizenLab",
-          "summary": "暂无摘要",
-          "source": "EmbarrassedHelp",
-          "url": "https://citizenlab.ca/research/analysis-of-proposed-surveillance-law-expansion-under-bill-c-22/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "How to Debug AI Agents with Traces and Evals",
-          "summary": "暂无摘要",
-          "source": "sukhpinder0804",
-          "url": "https://medium.com/no-time/how-to-debug-ai-agents-with-traces-and-evals-a3b72e9e7c82",
-          "time": "2026-06-03"
+          "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+          "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+          "source": "Emily Mullin",
+          "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+          "time": "2026-06-04"
         },
         {
           "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
@@ -1042,20 +510,6 @@
           "source": "Matt Burgess",
           "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
           "time": "2026-06-03"
-        },
-        {
-          "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-          "summary": "Microsoft’s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-          "source": "Reece Rogers",
-          "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
-          "time": "2026-06-02"
-        },
-        {
-          "title": "The Trump Administration Is at War With Itself Over AI Regulation",
-          "summary": "Donald Trump killed an executive order to regulate AI. Now, administration officials and AI executives are trying to figure out if there’s anything left to piece back together.",
-          "source": "Hugo Lowell, Maxwell Zeff",
-          "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
-          "time": "2026-06-02"
         }
       ]
     }
