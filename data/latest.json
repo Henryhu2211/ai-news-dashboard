@@ -1,12 +1,159 @@
 {
-  "updateTime": "2026-06-04T21:24:02.457Z",
-  "date": "2026年6月4日 21时24分",
+  "updateTime": "2026-06-05T21:17:42.238Z",
+  "date": "2026年6月5日 21时17分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Connecting the Pieces: AI, Data Centers, and the Environment",
+          "summary": "暂无摘要",
+          "source": "HitikaDalwadi",
+          "url": "https://hitikadalwadi.substack.com/p/connecting-the-pieces-ai-data-centers",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "FeckBills – Find the money you're leaking in the cloud",
+          "summary": "暂无摘要",
+          "source": "SteveChurch",
+          "url": "https://feckbills.com/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI is fueling Reddit's spam problem",
+          "summary": "暂无摘要",
+          "source": "mmarian",
+          "url": "https://mashable.com/tech/ai-fueling-reddit-spam-problem",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Donald Trump says US may take equity stakes in AI companies",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI Agents Now Generate More Web Traffic Than Humans",
+          "summary": "暂无摘要",
+          "source": "Fake4d",
+          "url": "https://www.cnet.com/tech/services-and-software/its-official-agentic-bots-surf-the-web-more-than-real-people-do/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "OpenAI Codex Tech Lead Does AI-Assisted Engineering",
+          "summary": "暂无摘要",
+          "source": "gregorojstersek",
+          "url": "https://newsletter.eng-leadership.com/p/how-openai-codex-tech-lead-does-ai",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Voyd Programming Language v0.2.0 – Effect typing improvements, trailing closures",
+          "summary": "暂无摘要",
+          "source": "drew-y",
+          "url": "https://voyd.dev/docs/?p=releases",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Hacker News, Sans AI",
+          "summary": "暂无摘要",
+          "source": "chilipepperhott",
+          "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "We built an AI sales agent so you don't have to give every demo of your product",
+          "summary": "暂无摘要",
+          "source": "jrda",
+          "url": "https://salescloser.ai/hybrid-chat-va/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Granite Switch: Building AI more like software",
+          "summary": "暂无摘要",
+          "source": "yangikan",
+          "url": "https://research.ibm.com/blog/granite-libraries-project-switch",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "The Anatomy of a Learning Stall",
+          "summary": "暂无摘要",
+          "source": "azhenley",
+          "url": "https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "I am getting sick and tired of our AI oligarchs",
+          "summary": "暂无摘要",
+          "source": "kennethops",
+          "url": "https://news.ycombinator.com/from?site=eversoleken.substack.com",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI's Wrong Answers Are Bad. Its Wrong Reasoning Is Worse",
+          "summary": "暂无摘要",
+          "source": "galaxyLogic",
+          "url": "https://www.msn.com/en-us/news/technology/ai-s-wrong-answers-are-bad-its-wrong-reasoning-is-worse/ar-AA1Rypt3",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Writing vs. Shipping: Productivity Effects Across Generations of AI Coding Tools",
+          "summary": "暂无摘要",
+          "source": "b-man",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6843118",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Phoenix Code Now with AI (Via Claude)",
+          "summary": "暂无摘要",
+          "source": "janandonly",
+          "url": "https://phcode.io/pricing.html",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Trump to meet AI leaders to discuss US investment in their companies",
+          "summary": "暂无摘要",
+          "source": "artninja1988",
+          "url": "https://www.bbc.com/news/articles/c98r8r7dz5no",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Large companies can add a local LLM filter layer to reduce their AI costs",
+          "summary": "暂无摘要",
+          "source": "postbase",
+          "url": "https://umrashrf.github.io/large-companies-can-add-a-local-llm-filter-layer-to-considerably-reducing-their-ai-costs/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Nasdaq Sinks 4% over AI and Rate-Hike Fears",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Meta's stock sinks on report company could raise billions for AI push",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "An imperative command-line-interface for AI workload orchestration",
+          "summary": "暂无摘要",
+          "source": "Facingsouth",
+          "url": "https://pypi.org/project/terradev-cli/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "The Meta hack shows there’s more to AI security than Mythos",
+          "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email ",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+          "time": "2026-06-05"
+        },
         {
           "title": "How small businesses can leverage AI",
           "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t",
@@ -34,13 +181,6 @@
           "source": "Grace Huckins",
           "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
           "time": "2026-05-22"
-        },
-        {
-          "title": "Roundtables: Can AI Learn to Understand the World?",
-          "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-          "time": "2026-05-21"
         }
       ]
     },
@@ -49,6 +189,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "The latest AI news we announced in May 2026",
+          "summary": "Here are Google’s latest AI updates from May 2026",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+          "time": "2026-06-05"
+        },
         {
           "title": "5 ways Google Search can level up your thrift and vintage shopping",
           "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
@@ -141,13 +288,6 @@
           "time": "2026-05-11"
         },
         {
-          "title": "5 gardening tips you can try right in Search",
-          "summary": "We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-          "time": "2026-05-06"
-        },
-        {
           "title": "A conversation with Kevin Scott: What’s next in AI",
           "summary": "暂无摘要",
           "source": "Allison Linn",
@@ -216,6 +356,146 @@
           "source": "Ben Ryon",
           "url": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/",
           "time": "2022-05-31"
+        },
+        {
+          "title": "Connecting the Pieces: AI, Data Centers, and the Environment",
+          "summary": "暂无摘要",
+          "source": "HitikaDalwadi",
+          "url": "https://hitikadalwadi.substack.com/p/connecting-the-pieces-ai-data-centers",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI is fueling Reddit's spam problem",
+          "summary": "暂无摘要",
+          "source": "mmarian",
+          "url": "https://mashable.com/tech/ai-fueling-reddit-spam-problem",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Donald Trump says US may take equity stakes in AI companies",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI Agents Now Generate More Web Traffic Than Humans",
+          "summary": "暂无摘要",
+          "source": "Fake4d",
+          "url": "https://www.cnet.com/tech/services-and-software/its-official-agentic-bots-surf-the-web-more-than-real-people-do/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "OpenAI wrote a guide on how to use /goal mode. I made that guide into a skill",
+          "summary": "暂无摘要",
+          "source": "RiverXR",
+          "url": "https://github.com/Infinite-Labs-OS/infinite-skills",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "OpenAI Codex Tech Lead Does AI-Assisted Engineering",
+          "summary": "暂无摘要",
+          "source": "gregorojstersek",
+          "url": "https://newsletter.eng-leadership.com/p/how-openai-codex-tech-lead-does-ai",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Hacker News, Sans AI",
+          "summary": "暂无摘要",
+          "source": "chilipepperhott",
+          "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "We built an AI sales agent so you don't have to give every demo of your product",
+          "summary": "暂无摘要",
+          "source": "jrda",
+          "url": "https://salescloser.ai/hybrid-chat-va/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Meta backs off tracking workers' keystrokes after they revolt",
+          "summary": "暂无摘要",
+          "source": "DropDead",
+          "url": "https://boingboing.net/2026/06/03/meta-backs-off-tracking-workers-keystrokes-after-they-revolt.html",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Granite Switch: Building AI more like software",
+          "summary": "暂无摘要",
+          "source": "yangikan",
+          "url": "https://research.ibm.com/blog/granite-libraries-project-switch",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "I am getting sick and tired of our AI oligarchs",
+          "summary": "暂无摘要",
+          "source": "kennethops",
+          "url": "https://news.ycombinator.com/from?site=eversoleken.substack.com",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+          "summary": "暂无摘要",
+          "source": "toephu2",
+          "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI's Wrong Answers Are Bad. Its Wrong Reasoning Is Worse",
+          "summary": "暂无摘要",
+          "source": "galaxyLogic",
+          "url": "https://www.msn.com/en-us/news/technology/ai-s-wrong-answers-are-bad-its-wrong-reasoning-is-worse/ar-AA1Rypt3",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Writing vs. Shipping: Productivity Effects Across Generations of AI Coding Tools",
+          "summary": "暂无摘要",
+          "source": "b-man",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6843118",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Phoenix Code Now with AI (Via Claude)",
+          "summary": "暂无摘要",
+          "source": "janandonly",
+          "url": "https://phcode.io/pricing.html",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Trump to meet AI leaders to discuss US investment in their companies",
+          "summary": "暂无摘要",
+          "source": "artninja1988",
+          "url": "https://www.bbc.com/news/articles/c98r8r7dz5no",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "OpenAI Offers a New Policy Blueprint",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/openai-offers-a-new-policy-blueprint",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Large companies can add a local LLM filter layer to reduce their AI costs",
+          "summary": "暂无摘要",
+          "source": "postbase",
+          "url": "https://umrashrf.github.io/large-companies-can-add-a-local-llm-filter-layer-to-considerably-reducing-their-ai-costs/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Nasdaq Sinks 4% over AI and Rate-Hike Fears",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Meta's stock sinks on report company could raise billions for AI push",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html",
+          "time": "2026-06-05"
         }
       ]
     },
@@ -224,6 +504,41 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Startup Battlefield 200 applications officially close in 3 days",
+          "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "The most interesting startups right now want to get you off your phone",
+          "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f",
+          "source": "Theresa Loconsolo",
+          "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "The &#8216;together tech&#8217; wave might be the most intriguing startup bet of 2026",
+          "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f",
+          "source": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
+          "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Mira Murati steps back into the spotlight, carefully",
+          "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8217;s returns",
+          "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+          "time": "2026-06-04"
+        },
         {
           "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
           "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
@@ -253,27 +568,6 @@
           "time": "2026-06-03"
         },
         {
-          "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-          "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
-          "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-          "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-          "time": "2026-06-02"
-        },
-        {
-          "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-          "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-          "source": "Ram Iyer",
-          "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-          "time": "2026-06-02"
-        },
-        {
           "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
           "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
           "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
@@ -295,11 +589,144 @@
           "time": "2026-06-04"
         },
         {
-          "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
-          "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
-          "source": "Arielle Pardes",
-          "url": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
-          "time": "2026-06-03"
+          "title": "Connecting the Pieces: AI, Data Centers, and the Environment",
+          "summary": "暂无摘要",
+          "source": "HitikaDalwadi",
+          "url": "https://hitikadalwadi.substack.com/p/connecting-the-pieces-ai-data-centers",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI is fueling Reddit's spam problem",
+          "summary": "暂无摘要",
+          "source": "mmarian",
+          "url": "https://mashable.com/tech/ai-fueling-reddit-spam-problem",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Donald Trump says US may take equity stakes in AI companies",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI Agents Now Generate More Web Traffic Than Humans",
+          "summary": "暂无摘要",
+          "source": "Fake4d",
+          "url": "https://www.cnet.com/tech/services-and-software/its-official-agentic-bots-surf-the-web-more-than-real-people-do/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "OpenAI Codex Tech Lead Does AI-Assisted Engineering",
+          "summary": "暂无摘要",
+          "source": "gregorojstersek",
+          "url": "https://newsletter.eng-leadership.com/p/how-openai-codex-tech-lead-does-ai",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Hacker News, Sans AI",
+          "summary": "暂无摘要",
+          "source": "chilipepperhott",
+          "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "We built an AI sales agent so you don't have to give every demo of your product",
+          "summary": "暂无摘要",
+          "source": "jrda",
+          "url": "https://salescloser.ai/hybrid-chat-va/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Granite Switch: Building AI more like software",
+          "summary": "暂无摘要",
+          "source": "yangikan",
+          "url": "https://research.ibm.com/blog/granite-libraries-project-switch",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "I am getting sick and tired of our AI oligarchs",
+          "summary": "暂无摘要",
+          "source": "kennethops",
+          "url": "https://news.ycombinator.com/from?site=eversoleken.substack.com",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Reason Behind a Startup's Success",
+          "summary": "暂无摘要",
+          "source": "theorchid",
+          "url": "https://orchidfiles.com/reason-behind-startups-success/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI's Wrong Answers Are Bad. Its Wrong Reasoning Is Worse",
+          "summary": "暂无摘要",
+          "source": "galaxyLogic",
+          "url": "https://www.msn.com/en-us/news/technology/ai-s-wrong-answers-are-bad-its-wrong-reasoning-is-worse/ar-AA1Rypt3",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Writing vs. Shipping: Productivity Effects Across Generations of AI Coding Tools",
+          "summary": "暂无摘要",
+          "source": "b-man",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6843118",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Phoenix Code Now with AI (Via Claude)",
+          "summary": "暂无摘要",
+          "source": "janandonly",
+          "url": "https://phcode.io/pricing.html",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Trump to meet AI leaders to discuss US investment in their companies",
+          "summary": "暂无摘要",
+          "source": "artninja1988",
+          "url": "https://www.bbc.com/news/articles/c98r8r7dz5no",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Large companies can add a local LLM filter layer to reduce their AI costs",
+          "summary": "暂无摘要",
+          "source": "postbase",
+          "url": "https://umrashrf.github.io/large-companies-can-add-a-local-llm-filter-layer-to-considerably-reducing-their-ai-costs/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Nasdaq Sinks 4% over AI and Rate-Hike Fears",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Meta's stock sinks on report company could raise billions for AI push",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "An imperative command-line-interface for AI workload orchestration",
+          "summary": "暂无摘要",
+          "source": "Facingsouth",
+          "url": "https://pypi.org/project/terradev-cli/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Apple Silicon's on-device AI bet hasn't moved – only the chip range that runs it",
+          "summary": "暂无摘要",
+          "source": "Austin_Conlon",
+          "url": "https://tbreak.com/apple-silicon-on-device-ai-doug-brooks-wwdc/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Nvidia DGX Spark GB10 – AI Models and Guide with vLLM and Autonomous Script",
+          "summary": "暂无摘要",
+          "source": "nico248",
+          "url": "https://github.com/omnia-projetcs/spark-dgx",
+          "time": "2026-06-05"
         }
       ]
     },
@@ -308,6 +735,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "The Meta hack shows there’s more to AI security than Mythos",
+          "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email ",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+          "time": "2026-06-05"
+        },
         {
           "title": "Rehumanizing global health care with agentic AI",
           "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populatio",
@@ -489,6 +923,153 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Connecting the Pieces: AI, Data Centers, and the Environment",
+          "summary": "暂无摘要",
+          "source": "HitikaDalwadi",
+          "url": "https://hitikadalwadi.substack.com/p/connecting-the-pieces-ai-data-centers",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI is fueling Reddit's spam problem",
+          "summary": "暂无摘要",
+          "source": "mmarian",
+          "url": "https://mashable.com/tech/ai-fueling-reddit-spam-problem",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Donald Trump says US may take equity stakes in AI companies",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI Agents Now Generate More Web Traffic Than Humans",
+          "summary": "暂无摘要",
+          "source": "Fake4d",
+          "url": "https://www.cnet.com/tech/services-and-software/its-official-agentic-bots-surf-the-web-more-than-real-people-do/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "OpenAI Codex Tech Lead Does AI-Assisted Engineering",
+          "summary": "暂无摘要",
+          "source": "gregorojstersek",
+          "url": "https://newsletter.eng-leadership.com/p/how-openai-codex-tech-lead-does-ai",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Hacker News, Sans AI",
+          "summary": "暂无摘要",
+          "source": "chilipepperhott",
+          "url": "https://elijahpotter.dev/articles/hacker-news-sans-AI",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "We built an AI sales agent so you don't have to give every demo of your product",
+          "summary": "暂无摘要",
+          "source": "jrda",
+          "url": "https://salescloser.ai/hybrid-chat-va/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Granite Switch: Building AI more like software",
+          "summary": "暂无摘要",
+          "source": "yangikan",
+          "url": "https://research.ibm.com/blog/granite-libraries-project-switch",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "I am getting sick and tired of our AI oligarchs",
+          "summary": "暂无摘要",
+          "source": "kennethops",
+          "url": "https://news.ycombinator.com/from?site=eversoleken.substack.com",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "AI's Wrong Answers Are Bad. Its Wrong Reasoning Is Worse",
+          "summary": "暂无摘要",
+          "source": "galaxyLogic",
+          "url": "https://www.msn.com/en-us/news/technology/ai-s-wrong-answers-are-bad-its-wrong-reasoning-is-worse/ar-AA1Rypt3",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Writing vs. Shipping: Productivity Effects Across Generations of AI Coding Tools",
+          "summary": "暂无摘要",
+          "source": "b-man",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6843118",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Phoenix Code Now with AI (Via Claude)",
+          "summary": "暂无摘要",
+          "source": "janandonly",
+          "url": "https://phcode.io/pricing.html",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Trump to meet AI leaders to discuss US investment in their companies",
+          "summary": "暂无摘要",
+          "source": "artninja1988",
+          "url": "https://www.bbc.com/news/articles/c98r8r7dz5no",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Large companies can add a local LLM filter layer to reduce their AI costs",
+          "summary": "暂无摘要",
+          "source": "postbase",
+          "url": "https://umrashrf.github.io/large-companies-can-add-a-local-llm-filter-layer-to-considerably-reducing-their-ai-costs/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Nasdaq Sinks 4% over AI and Rate-Hike Fears",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Meta's stock sinks on report company could raise billions for AI push",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://www.cnbc.com/2026/06/05/meta-stock-sinks-on-report-company-could-raise-tens-of-billions-for-ai.html",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "An imperative command-line-interface for AI workload orchestration",
+          "summary": "暂无摘要",
+          "source": "Facingsouth",
+          "url": "https://pypi.org/project/terradev-cli/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Apple Silicon's on-device AI bet hasn't moved – only the chip range that runs it",
+          "summary": "暂无摘要",
+          "source": "Austin_Conlon",
+          "url": "https://tbreak.com/apple-silicon-on-device-ai-doug-brooks-wwdc/",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Nvidia DGX Spark GB10 – AI Models and Guide with vLLM and Autonomous Script",
+          "summary": "暂无摘要",
+          "source": "nico248",
+          "url": "https://github.com/omnia-projetcs/spark-dgx",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "UK orders Google to allow publishers to opt out of AI scraping",
+          "summary": "暂无摘要",
+          "source": "1vuio0pswjnm7",
+          "url": "https://apnews.com/article/google-britain-ai-competition-regulation-ce2016a4519fbe234799e009bac8f120",
+          "time": "2026-06-05"
+        },
+        {
+          "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+          "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
+          "source": "Sophie Charara",
+          "url": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+          "time": "2026-06-05"
         },
         {
           "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
