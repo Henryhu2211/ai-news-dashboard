@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-06-10T21:51:25.607Z",
-  "date": "2026年6月10日 21时51分",
+  "updateTime": "2026-06-11T21:54:21.224Z",
+  "date": "2026年6月11日 21时54分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,151 @@
       "icon": "📰",
       "news": [
         {
-          "title": "How are you controlling your child's AI usage?",
+          "title": "Deep learning four decades of human migration",
           "summary": "暂无摘要",
-          "source": "ciwolex",
-          "url": "https://news.ycombinator.com/item?id=48483183",
-          "time": "2026-06-10"
+          "source": "NoRagrets",
+          "url": "https://www.nature.com/articles/s41586-026-10611-7",
+          "time": "2026-06-11"
         },
         {
-          "title": "What Is Tokenomics, and Why Your AI Infrastructure Is Now a FinOps Problem",
+          "title": "Local AI: 775 tok/s, DiffusionGemma (BF16) on Nvidia RTX 6000 Pro",
           "summary": "暂无摘要",
-          "source": "pcsalad",
-          "url": "https://cast.ai/blog/tokenomics-why-your-ai-infrastructure-is-now-a-finops-problem/",
-          "time": "2026-06-10"
+          "source": "behnamoh",
+          "url": "https://twitter.com/OrganicGPT/status/2064883777499795716",
+          "time": "2026-06-11"
         },
         {
-          "title": "Holster-scan – catch AI-hallucinated package imports before agents run",
+          "title": "ORP – Turn AI agent failures into regression tests and tested lessons",
           "summary": "暂无摘要",
-          "source": "davidnauta",
-          "url": "https://github.com/nauta-ai/holster-scan",
-          "time": "2026-06-10"
+          "source": "Fujo930",
+          "url": "https://github.com/Fujo930/ORP",
+          "time": "2026-06-11"
         },
         {
-          "title": "Bola – login-free World Cup prediction game for families, in 8 languages",
+          "title": "Tired of AI amnesia, I built a 3-Tier infinite memory LLM in 1 week",
           "summary": "暂无摘要",
-          "source": "brainarts",
-          "url": "https://bola.football/?lang=en",
-          "time": "2026-06-10"
+          "source": "dominicyglee",
+          "url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Real-time AI voice bridges language gaps in the moment",
+          "title": "A \"LSP\" for the Chinese Language",
           "summary": "暂无摘要",
-          "source": "manateavagner",
-          "url": "https://manateavagner.com/news/translate-live-spoken-translation",
-          "time": "2026-06-10"
+          "source": "b__feldman",
+          "url": "https://twitter.com/b__feldman/status/2065178961588728089",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI hackathons on Devpost feel repetitive and somewhat random in judging",
+          "title": "IndexedAI – Score and fix your site's readability for AI agents",
           "summary": "暂无摘要",
-          "source": "noahnathan25",
-          "url": "https://gemini3.devpost.com",
-          "time": "2026-06-10"
+          "source": "guidodr",
+          "url": "https://www.indexedai.tech",
+          "time": "2026-06-11"
         },
         {
-          "title": "China plans to spend $295B on AI buildout",
+          "title": "So I ran Doom inside Claude.ai",
           "summary": "暂无摘要",
-          "source": "loandbehold",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
-          "time": "2026-06-10"
+          "source": "rthiago",
+          "url": "https://twitter.com/rthiago/status/2065176453042356511",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI-review: reviewing AI code before it lands",
+          "title": "Microsoft says Gen Z's AI backlash should be a wake-up call for Big Tech",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.jackfranklin.co.uk/blog/ai-review-plan/",
-          "time": "2026-06-10"
+          "source": "thewebguyd",
+          "url": "https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6",
+          "time": "2026-06-11"
         },
         {
-          "title": "Show HN: Kctx – A read-only Kubernetes context engine for SREs and AI Agents",
+          "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
           "summary": "暂无摘要",
-          "source": "lucasepe",
-          "url": "https://github.com/lucasepe/kctx",
-          "time": "2026-06-10"
+          "source": "jklmnopqrstuvw",
+          "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
+          "time": "2026-06-11"
         },
         {
-          "title": "Ask HN: What are your thoughts on your critical thinking abilities and AI?",
+          "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
           "summary": "暂无摘要",
-          "source": "ciwolex",
-          "url": "https://news.ycombinator.com/item?id=48482322",
-          "time": "2026-06-10"
+          "source": "MistyMouse",
+          "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Piano Learning App focused on Sight-reading",
+          "title": "Learning a regular language by inferring a DFA with the TTT algorithm",
           "summary": "暂无摘要",
-          "source": "ltouro",
-          "url": "http://virtuoso.host.eco.br/app/",
-          "time": "2026-06-10"
+          "source": "fanf2",
+          "url": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Show HN: CtxGov – a local claim firewall for AI memory claims",
+          "title": "\"Regulate AI? And lose our edge?\"",
           "summary": "暂无摘要",
-          "source": "LuxBennu",
-          "url": "https://ctxgov.github.io/ctxgov/try-in-5-minutes.html",
-          "time": "2026-06-10"
+          "source": "TonyBorlini",
+          "url": "https://deep.liveblog365.com/en/index-en.html?post=283",
+          "time": "2026-06-11"
         },
         {
-          "title": "PRC-linked influence operations are targeting AI debates in the US",
+          "title": "The University in the AI Era",
           "summary": "暂无摘要",
-          "source": "amrrs",
-          "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates/",
-          "time": "2026-06-10"
+          "source": "recursivedoubts",
+          "url": "https://htmx.org/essays/universities-and-ai/",
+          "time": "2026-06-11"
         },
         {
-          "title": "An Overview of Modern AI Robotics from First Principles",
+          "title": "AI Lead Should Be an Engineer",
           "summary": "暂无摘要",
-          "source": "jdkee",
-          "url": "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles",
-          "time": "2026-06-10"
+          "source": "heterodoxjedi",
+          "url": "https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer",
+          "time": "2026-06-11"
         },
         {
-          "title": "Why would someone want to learn code when AI does it better and faster?",
+          "title": "Spark – Turn any article into a LinkedIn post without leaving the tab",
           "summary": "暂无摘要",
-          "source": "manimonji",
-          "url": "https://news.ycombinator.com/item?id=48481802",
-          "time": "2026-06-10"
+          "source": "chandanjha_dev",
+          "url": "https://spark.bhairav.ai/",
+          "time": "2026-06-11"
         },
         {
-          "title": "What Investment Data Implies about the AI Transition",
+          "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.nber.org/papers/w35290",
-          "time": "2026-06-10"
+          "source": "SVI",
+          "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI is eating the AI Engineering Loop",
+          "title": "Powering the next era of Confidential AI",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://twitter.com/lotte_verheyden/status/2064415370761646410",
-          "time": "2026-06-10"
+          "source": "strstr",
+          "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai",
+          "time": "2026-06-11"
         },
         {
-          "title": "Thrindex – memory OS for AI agents (ranks, compresses and evolves agents memory)",
+          "title": "The Great American AI Act (draft) [pdf]",
           "summary": "暂无摘要",
-          "source": "teo-nomikos",
-          "url": "https://www.thrindex.com/",
-          "time": "2026-06-10"
+          "source": "verdverm",
+          "url": "https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/the-great-american-ai-act-discussion-draft-website-compressed-compressed.pdf",
+          "time": "2026-06-11"
         },
         {
-          "title": "The Jqwik Anti-AI Affair",
+          "title": "Rust Programming Language learning roadmap",
           "summary": "暂无摘要",
-          "source": "_____k",
-          "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-          "time": "2026-06-10"
+          "source": "mahirsaid",
+          "url": "https://forwardevery.day/2024/03/26/rust-programming-language-learning-roadma/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Quick: An internal hosting platform for the AI era",
+          "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
           "summary": "暂无摘要",
-          "source": "okneil",
-          "url": "https://shopify.engineering/quick",
-          "time": "2026-06-10"
+          "source": "rbanffy",
+          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+          "time": "2026-06-11"
+        },
+        {
+          "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+          "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A",
+          "source": "Will Douglas Heaven",
+          "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+          "time": "2026-06-11"
         },
         {
           "title": "The Meta hack shows there’s more to AI security than Mythos",
@@ -167,13 +174,6 @@
           "source": "Caiwei Chen",
           "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
           "time": "2026-05-28"
-        },
-        {
-          "title": "A reality check on the AI jobs hysteria",
-          "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all",
-          "source": "David Rotman",
-          "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-          "time": "2026-05-26"
         }
       ]
     },
@@ -281,144 +281,144 @@
           "time": "2026-05-11"
         },
         {
-          "title": "How are you controlling your child's AI usage?",
+          "title": "Hacking Google with A.I. For $500k",
           "summary": "暂无摘要",
-          "source": "ciwolex",
-          "url": "https://news.ycombinator.com/item?id=48483183",
-          "time": "2026-06-10"
+          "source": "llui85",
+          "url": "https://brutecat.com/articles/hacking-google-with-ai/",
+          "time": "2026-06-11"
         },
         {
-          "title": "What Is Tokenomics, and Why Your AI Infrastructure Is Now a FinOps Problem",
+          "title": "Local AI: 775 tok/s, DiffusionGemma (BF16) on Nvidia RTX 6000 Pro",
           "summary": "暂无摘要",
-          "source": "pcsalad",
-          "url": "https://cast.ai/blog/tokenomics-why-your-ai-infrastructure-is-now-a-finops-problem/",
-          "time": "2026-06-10"
+          "source": "behnamoh",
+          "url": "https://twitter.com/OrganicGPT/status/2064883777499795716",
+          "time": "2026-06-11"
         },
         {
-          "title": "Holster-scan – catch AI-hallucinated package imports before agents run",
+          "title": "ORP – Turn AI agent failures into regression tests and tested lessons",
           "summary": "暂无摘要",
-          "source": "davidnauta",
-          "url": "https://github.com/nauta-ai/holster-scan",
-          "time": "2026-06-10"
+          "source": "Fujo930",
+          "url": "https://github.com/Fujo930/ORP",
+          "time": "2026-06-11"
         },
         {
-          "title": "Tried to benchmark Google's new on-device dictation model and basically couldn't",
+          "title": "Tired of AI amnesia, I built a 3-Tier infinite memory LLM in 1 week",
           "summary": "暂无摘要",
-          "source": "telenardo",
-          "url": "https://www.getonit.ai/eloquent-review",
-          "time": "2026-06-10"
+          "source": "dominicyglee",
+          "url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
+          "time": "2026-06-11"
         },
         {
-          "title": "OpenAI says Chinese propaganda is being deployed to foment dissent over tariffs",
+          "title": "IndexedAI – Score and fix your site's readability for AI agents",
           "summary": "暂无摘要",
-          "source": "tartoran",
-          "url": "https://www.reuters.com/business/media-telecom/openai-says-chinese-propaganda-is-being-deployed-foment-dissent-over-tariffs-2026-06-10/",
-          "time": "2026-06-10"
+          "source": "guidodr",
+          "url": "https://www.indexedai.tech",
+          "time": "2026-06-11"
         },
         {
-          "title": "Real-time AI voice bridges language gaps in the moment",
+          "title": "So I ran Doom inside Claude.ai",
           "summary": "暂无摘要",
-          "source": "manateavagner",
-          "url": "https://manateavagner.com/news/translate-live-spoken-translation",
-          "time": "2026-06-10"
+          "source": "rthiago",
+          "url": "https://twitter.com/rthiago/status/2065176453042356511",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI hackathons on Devpost feel repetitive and somewhat random in judging",
+          "title": "Microsoft says Gen Z's AI backlash should be a wake-up call for Big Tech",
           "summary": "暂无摘要",
-          "source": "noahnathan25",
-          "url": "https://gemini3.devpost.com",
-          "time": "2026-06-10"
+          "source": "thewebguyd",
+          "url": "https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6",
+          "time": "2026-06-11"
         },
         {
-          "title": "China plans to spend $295B on AI buildout",
+          "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
           "summary": "暂无摘要",
-          "source": "loandbehold",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
-          "time": "2026-06-10"
+          "source": "timedude",
+          "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI-review: reviewing AI code before it lands",
+          "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.jackfranklin.co.uk/blog/ai-review-plan/",
-          "time": "2026-06-10"
+          "source": "jklmnopqrstuvw",
+          "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
+          "time": "2026-06-11"
         },
         {
-          "title": "Show HN: Kctx – A read-only Kubernetes context engine for SREs and AI Agents",
+          "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
           "summary": "暂无摘要",
-          "source": "lucasepe",
-          "url": "https://github.com/lucasepe/kctx",
-          "time": "2026-06-10"
+          "source": "MistyMouse",
+          "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Anthropic's Self Governance Is an Act of Social Violence",
+          "title": "\"Regulate AI? And lose our edge?\"",
           "summary": "暂无摘要",
-          "source": "nibab",
-          "url": "https://cezarbabin.com/notes/anthropic-self-governance-is-an-act-of-social-violence.html",
-          "time": "2026-06-10"
+          "source": "TonyBorlini",
+          "url": "https://deep.liveblog365.com/en/index-en.html?post=283",
+          "time": "2026-06-11"
         },
         {
-          "title": "Google Liable for Hallucinations (In Germany)",
+          "title": "The University in the AI Era",
           "summary": "暂无摘要",
-          "source": "PaulDavisThe1st",
-          "url": "https://garymarcus.substack.com/p/breaking-google-liable-for-hallucinations",
-          "time": "2026-06-10"
+          "source": "recursivedoubts",
+          "url": "https://htmx.org/essays/universities-and-ai/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Ask HN: What are your thoughts on your critical thinking abilities and AI?",
+          "title": "OpenAI Mulls Significant Cuts to What It Charges for Tokens",
           "summary": "暂无摘要",
-          "source": "ciwolex",
-          "url": "https://news.ycombinator.com/item?id=48482322",
-          "time": "2026-06-10"
+          "source": "khazit",
+          "url": "https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e",
+          "time": "2026-06-11"
         },
         {
-          "title": "Show HN: CtxGov – a local claim firewall for AI memory claims",
+          "title": "AI Lead Should Be an Engineer",
           "summary": "暂无摘要",
-          "source": "LuxBennu",
-          "url": "https://ctxgov.github.io/ctxgov/try-in-5-minutes.html",
-          "time": "2026-06-10"
+          "source": "heterodoxjedi",
+          "url": "https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer",
+          "time": "2026-06-11"
         },
         {
-          "title": "PRC-linked influence operations are targeting AI debates in the US",
+          "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
           "summary": "暂无摘要",
-          "source": "amrrs",
-          "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates/",
-          "time": "2026-06-10"
+          "source": "SVI",
+          "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643",
+          "time": "2026-06-11"
         },
         {
-          "title": "An Overview of Modern AI Robotics from First Principles",
+          "title": "Powering the next era of Confidential AI",
           "summary": "暂无摘要",
-          "source": "jdkee",
-          "url": "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles",
-          "time": "2026-06-10"
+          "source": "strstr",
+          "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai",
+          "time": "2026-06-11"
         },
         {
-          "title": "Why would someone want to learn code when AI does it better and faster?",
+          "title": "The Great American AI Act (draft) [pdf]",
           "summary": "暂无摘要",
-          "source": "manimonji",
-          "url": "https://news.ycombinator.com/item?id=48481802",
-          "time": "2026-06-10"
+          "source": "verdverm",
+          "url": "https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/the-great-american-ai-act-discussion-draft-website-compressed-compressed.pdf",
+          "time": "2026-06-11"
         },
         {
-          "title": "What Investment Data Implies about the AI Transition",
+          "title": "Anthropic launches $150M Claude Corps nonprofit fellowship program",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.nber.org/papers/w35290",
-          "time": "2026-06-10"
+          "source": "01-_-",
+          "url": "https://qz.com/anthropic-claude-corps-fellowship-nonprofits-150-million-061126",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI is eating the AI Engineering Loop",
+          "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://twitter.com/lotte_verheyden/status/2064415370761646410",
-          "time": "2026-06-10"
+          "source": "rbanffy",
+          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Thrindex – memory OS for AI agents (ranks, compresses and evolves agents memory)",
+          "title": "Canadian Privacy Commissioner Findings on X.ai/Grok CSAM Deepfake Violations",
           "summary": "暂无摘要",
-          "source": "teo-nomikos",
-          "url": "https://www.thrindex.com/",
-          "time": "2026-06-10"
+          "source": "bparsons",
+          "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-004/",
+          "time": "2026-06-11"
         }
       ]
     },
@@ -427,6 +427,34 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+          "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+          "source": "Tim Fernholz, Marina Temkin",
+          "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+          "time": "2026-06-11"
+        },
+        {
+          "title": "SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-ups lift",
+          "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+          "time": "2026-06-11"
+        },
+        {
+          "title": "Opendoor&#8217;s India exit is fueling a bigger conversation about AI and outsourcing",
+          "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+          "time": "2026-06-11"
+        },
+        {
+          "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+          "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+          "time": "2026-06-10"
+        },
         {
           "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
           "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
@@ -463,13 +491,6 @@
           "time": "2026-06-09"
         },
         {
-          "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-          "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-          "time": "2026-06-09"
-        },
-        {
           "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
           "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
           "source": "Paresh Dave, Maxwell Zeff",
@@ -477,151 +498,144 @@
           "time": "2026-06-08"
         },
         {
-          "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
-          "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
-          "source": "Joel Khalili",
-          "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
-          "time": "2026-06-08"
+          "title": "Ask HN: Top Energy Startup Accelerators?",
+          "summary": "暂无摘要",
+          "source": "jacksonpollock",
+          "url": "https://news.ycombinator.com/item?id=48496772",
+          "time": "2026-06-11"
         },
         {
-          "title": "How are you controlling your child's AI usage?",
+          "title": "Local AI: 775 tok/s, DiffusionGemma (BF16) on Nvidia RTX 6000 Pro",
           "summary": "暂无摘要",
-          "source": "ciwolex",
-          "url": "https://news.ycombinator.com/item?id=48483183",
-          "time": "2026-06-10"
+          "source": "behnamoh",
+          "url": "https://twitter.com/OrganicGPT/status/2064883777499795716",
+          "time": "2026-06-11"
         },
         {
-          "title": "What Is Tokenomics, and Why Your AI Infrastructure Is Now a FinOps Problem",
+          "title": "ORP – Turn AI agent failures into regression tests and tested lessons",
           "summary": "暂无摘要",
-          "source": "pcsalad",
-          "url": "https://cast.ai/blog/tokenomics-why-your-ai-infrastructure-is-now-a-finops-problem/",
-          "time": "2026-06-10"
+          "source": "Fujo930",
+          "url": "https://github.com/Fujo930/ORP",
+          "time": "2026-06-11"
         },
         {
-          "title": "Holster-scan – catch AI-hallucinated package imports before agents run",
+          "title": "Tired of AI amnesia, I built a 3-Tier infinite memory LLM in 1 week",
           "summary": "暂无摘要",
-          "source": "davidnauta",
-          "url": "https://github.com/nauta-ai/holster-scan",
-          "time": "2026-06-10"
+          "source": "dominicyglee",
+          "url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Real-time AI voice bridges language gaps in the moment",
+          "title": "IndexedAI – Score and fix your site's readability for AI agents",
           "summary": "暂无摘要",
-          "source": "manateavagner",
-          "url": "https://manateavagner.com/news/translate-live-spoken-translation",
-          "time": "2026-06-10"
+          "source": "guidodr",
+          "url": "https://www.indexedai.tech",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI hackathons on Devpost feel repetitive and somewhat random in judging",
+          "title": "So I ran Doom inside Claude.ai",
           "summary": "暂无摘要",
-          "source": "noahnathan25",
-          "url": "https://gemini3.devpost.com",
-          "time": "2026-06-10"
+          "source": "rthiago",
+          "url": "https://twitter.com/rthiago/status/2065176453042356511",
+          "time": "2026-06-11"
         },
         {
-          "title": "China plans to spend $295B on AI buildout",
+          "title": "Microsoft says Gen Z's AI backlash should be a wake-up call for Big Tech",
           "summary": "暂无摘要",
-          "source": "loandbehold",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
-          "time": "2026-06-10"
+          "source": "thewebguyd",
+          "url": "https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI-review: reviewing AI code before it lands",
+          "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.jackfranklin.co.uk/blog/ai-review-plan/",
-          "time": "2026-06-10"
+          "source": "jklmnopqrstuvw",
+          "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
+          "time": "2026-06-11"
         },
         {
-          "title": "Show HN: Kctx – A read-only Kubernetes context engine for SREs and AI Agents",
+          "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
           "summary": "暂无摘要",
-          "source": "lucasepe",
-          "url": "https://github.com/lucasepe/kctx",
-          "time": "2026-06-10"
+          "source": "MistyMouse",
+          "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
+          "time": "2026-06-11"
         },
         {
-          "title": "US stock market to stop shrinking for first time in 23 years",
+          "title": "\"Regulate AI? And lose our edge?\"",
           "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.ft.com/content/f7dae4e1-d650-45ab-ac97-043c7a965d24",
-          "time": "2026-06-10"
+          "source": "TonyBorlini",
+          "url": "https://deep.liveblog365.com/en/index-en.html?post=283",
+          "time": "2026-06-11"
         },
         {
-          "title": "Ask HN: What are your thoughts on your critical thinking abilities and AI?",
+          "title": "The University in the AI Era",
           "summary": "暂无摘要",
-          "source": "ciwolex",
-          "url": "https://news.ycombinator.com/item?id=48482322",
-          "time": "2026-06-10"
+          "source": "recursivedoubts",
+          "url": "https://htmx.org/essays/universities-and-ai/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Show HN: CtxGov – a local claim firewall for AI memory claims",
+          "title": "AI Lead Should Be an Engineer",
           "summary": "暂无摘要",
-          "source": "LuxBennu",
-          "url": "https://ctxgov.github.io/ctxgov/try-in-5-minutes.html",
-          "time": "2026-06-10"
+          "source": "heterodoxjedi",
+          "url": "https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer",
+          "time": "2026-06-11"
         },
         {
-          "title": "PRC-linked influence operations are targeting AI debates in the US",
+          "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
           "summary": "暂无摘要",
-          "source": "amrrs",
-          "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates/",
-          "time": "2026-06-10"
+          "source": "SVI",
+          "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643",
+          "time": "2026-06-11"
         },
         {
-          "title": "An Overview of Modern AI Robotics from First Principles",
+          "title": "Powering the next era of Confidential AI",
           "summary": "暂无摘要",
-          "source": "jdkee",
-          "url": "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles",
-          "time": "2026-06-10"
+          "source": "strstr",
+          "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai",
+          "time": "2026-06-11"
         },
         {
-          "title": "Why would someone want to learn code when AI does it better and faster?",
+          "title": "The Great American AI Act (draft) [pdf]",
           "summary": "暂无摘要",
-          "source": "manimonji",
-          "url": "https://news.ycombinator.com/item?id=48481802",
-          "time": "2026-06-10"
+          "source": "verdverm",
+          "url": "https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/the-great-american-ai-act-discussion-draft-website-compressed-compressed.pdf",
+          "time": "2026-06-11"
         },
         {
-          "title": "What Investment Data Implies about the AI Transition",
+          "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.nber.org/papers/w35290",
-          "time": "2026-06-10"
+          "source": "rbanffy",
+          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI is eating the AI Engineering Loop",
+          "title": "Canadian Privacy Commissioner Findings on X.ai/Grok CSAM Deepfake Violations",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://twitter.com/lotte_verheyden/status/2064415370761646410",
-          "time": "2026-06-10"
+          "source": "bparsons",
+          "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-004/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Thrindex – memory OS for AI agents (ranks, compresses and evolves agents memory)",
+          "title": "Agents-Container Running AI Agents Safely in Docker-in-Docker with GVisor",
           "summary": "暂无摘要",
-          "source": "teo-nomikos",
-          "url": "https://www.thrindex.com/",
-          "time": "2026-06-10"
+          "source": "opensecurity",
+          "url": "https://github.com/gni/agents-container",
+          "time": "2026-06-11"
         },
         {
-          "title": "The Jqwik Anti-AI Affair",
+          "title": "AI Coding Skill That May Make Your Coding Sessions 44% More Productive",
           "summary": "暂无摘要",
-          "source": "_____k",
-          "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-          "time": "2026-06-10"
+          "source": "vmysla",
+          "url": "https://vmysla.substack.com/p/ai-coding-skill-that-may-cut-your-ai-coding-costs-by-30-45-percent",
+          "time": "2026-06-11"
         },
         {
-          "title": "Quick: An internal hosting platform for the AI era",
+          "title": "OpenAI could go from AI pioneer to AI's BlackBerry, says Forrester",
           "summary": "暂无摘要",
-          "source": "okneil",
-          "url": "https://shopify.engineering/quick",
-          "time": "2026-06-10"
-        },
-        {
-          "title": "If you build apps with AI tools, this is .uh concerning",
-          "summary": "暂无摘要",
-          "source": "deecodameeko",
-          "url": "https://substack.com/profile/173863161-dan-cochran/note/c-274040959",
-          "time": "2026-06-10"
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/06/11/openai-could-go-from-ai-pioneer-to-ais-blackberry-says-forrester/5254120",
+          "time": "2026-06-11"
         }
       ]
     },
@@ -631,8 +645,15 @@
       "icon": "💡",
       "news": [
         {
+          "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+          "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A",
+          "source": "Will Douglas Heaven",
+          "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+          "time": "2026-06-11"
+        },
+        {
           "title": "Learning to lead in a hybrid human-AI enterprise",
-          "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years,��leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enter",
+          "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterp",
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
           "time": "2026-06-09"
@@ -827,144 +848,151 @@
           "time": "2022-12-16"
         },
         {
-          "title": "How are you controlling your child's AI usage?",
+          "title": "Local AI: 775 tok/s, DiffusionGemma (BF16) on Nvidia RTX 6000 Pro",
           "summary": "暂无摘要",
-          "source": "ciwolex",
-          "url": "https://news.ycombinator.com/item?id=48483183",
-          "time": "2026-06-10"
+          "source": "behnamoh",
+          "url": "https://twitter.com/OrganicGPT/status/2064883777499795716",
+          "time": "2026-06-11"
         },
         {
-          "title": "What Is Tokenomics, and Why Your AI Infrastructure Is Now a FinOps Problem",
+          "title": "ORP – Turn AI agent failures into regression tests and tested lessons",
           "summary": "暂无摘要",
-          "source": "pcsalad",
-          "url": "https://cast.ai/blog/tokenomics-why-your-ai-infrastructure-is-now-a-finops-problem/",
-          "time": "2026-06-10"
+          "source": "Fujo930",
+          "url": "https://github.com/Fujo930/ORP",
+          "time": "2026-06-11"
         },
         {
-          "title": "Holster-scan – catch AI-hallucinated package imports before agents run",
+          "title": "Tired of AI amnesia, I built a 3-Tier infinite memory LLM in 1 week",
           "summary": "暂无摘要",
-          "source": "davidnauta",
-          "url": "https://github.com/nauta-ai/holster-scan",
-          "time": "2026-06-10"
+          "source": "dominicyglee",
+          "url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Uber sues New York City over 'reckless' driver protection law",
+          "title": "IndexedAI – Score and fix your site's readability for AI agents",
           "summary": "暂无摘要",
-          "source": "tartoran",
-          "url": "https://www.reuters.com/business/uber-sues-new-york-city-over-reckless-driver-protection-law-2026-06-10/",
-          "time": "2026-06-10"
+          "source": "guidodr",
+          "url": "https://www.indexedai.tech",
+          "time": "2026-06-11"
         },
         {
-          "title": "Real-time AI voice bridges language gaps in the moment",
+          "title": "So I ran Doom inside Claude.ai",
           "summary": "暂无摘要",
-          "source": "manateavagner",
-          "url": "https://manateavagner.com/news/translate-live-spoken-translation",
-          "time": "2026-06-10"
+          "source": "rthiago",
+          "url": "https://twitter.com/rthiago/status/2065176453042356511",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI hackathons on Devpost feel repetitive and somewhat random in judging",
+          "title": "Microsoft says Gen Z's AI backlash should be a wake-up call for Big Tech",
           "summary": "暂无摘要",
-          "source": "noahnathan25",
-          "url": "https://gemini3.devpost.com",
-          "time": "2026-06-10"
+          "source": "thewebguyd",
+          "url": "https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6",
+          "time": "2026-06-11"
         },
         {
-          "title": "China plans to spend $295B on AI buildout",
+          "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
           "summary": "暂无摘要",
-          "source": "loandbehold",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
-          "time": "2026-06-10"
+          "source": "jklmnopqrstuvw",
+          "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI-review: reviewing AI code before it lands",
+          "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.jackfranklin.co.uk/blog/ai-review-plan/",
-          "time": "2026-06-10"
+          "source": "MistyMouse",
+          "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Show HN: Kctx – A read-only Kubernetes context engine for SREs and AI Agents",
+          "title": "\"Regulate AI? And lose our edge?\"",
           "summary": "暂无摘要",
-          "source": "lucasepe",
-          "url": "https://github.com/lucasepe/kctx",
-          "time": "2026-06-10"
+          "source": "TonyBorlini",
+          "url": "https://deep.liveblog365.com/en/index-en.html?post=283",
+          "time": "2026-06-11"
         },
         {
-          "title": "Ask HN: What are your thoughts on your critical thinking abilities and AI?",
+          "title": "The University in the AI Era",
           "summary": "暂无摘要",
-          "source": "ciwolex",
-          "url": "https://news.ycombinator.com/item?id=48482322",
-          "time": "2026-06-10"
+          "source": "recursivedoubts",
+          "url": "https://htmx.org/essays/universities-and-ai/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Show HN: CtxGov – a local claim firewall for AI memory claims",
+          "title": "Spy law (FISA) on track to lapse after Congress rejects extension",
           "summary": "暂无摘要",
-          "source": "LuxBennu",
-          "url": "https://ctxgov.github.io/ctxgov/try-in-5-minutes.html",
-          "time": "2026-06-10"
+          "source": "bsimpson",
+          "url": "https://www.politico.com/news/2026/06/11/spy-law-on-track-to-lapse-after-house-rejects-extension-00958420",
+          "time": "2026-06-11"
         },
         {
-          "title": "PRC-linked influence operations are targeting AI debates in the US",
+          "title": "AI Lead Should Be an Engineer",
           "summary": "暂无摘要",
-          "source": "amrrs",
-          "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates/",
-          "time": "2026-06-10"
+          "source": "heterodoxjedi",
+          "url": "https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer",
+          "time": "2026-06-11"
         },
         {
-          "title": "An Overview of Modern AI Robotics from First Principles",
+          "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
           "summary": "暂无摘要",
-          "source": "jdkee",
-          "url": "https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles",
-          "time": "2026-06-10"
+          "source": "SVI",
+          "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643",
+          "time": "2026-06-11"
         },
         {
-          "title": "Why would someone want to learn code when AI does it better and faster?",
+          "title": "Powering the next era of Confidential AI",
           "summary": "暂无摘要",
-          "source": "manimonji",
-          "url": "https://news.ycombinator.com/item?id=48481802",
-          "time": "2026-06-10"
+          "source": "strstr",
+          "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai",
+          "time": "2026-06-11"
         },
         {
-          "title": "What Investment Data Implies about the AI Transition",
+          "title": "The Great American AI Act (draft) [pdf]",
+          "summary": "暂无摘要",
+          "source": "verdverm",
+          "url": "https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/the-great-american-ai-act-discussion-draft-website-compressed-compressed.pdf",
+          "time": "2026-06-11"
+        },
+        {
+          "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+          "summary": "暂无摘要",
+          "source": "rbanffy",
+          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
+          "time": "2026-06-11"
+        },
+        {
+          "title": "Only Law Can Prevent Extinction",
           "summary": "暂无摘要",
           "source": "paulpauper",
-          "url": "https://www.nber.org/papers/w35290",
-          "time": "2026-06-10"
+          "url": "https://www.lesswrong.com/posts/5CfBDiQNg9upfipWk/only-law-can-prevent-extinction",
+          "time": "2026-06-11"
         },
         {
-          "title": "AI is eating the AI Engineering Loop",
+          "title": "Canadian Privacy Commissioner Findings on X.ai/Grok CSAM Deepfake Violations",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://twitter.com/lotte_verheyden/status/2064415370761646410",
-          "time": "2026-06-10"
+          "source": "bparsons",
+          "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-004/",
+          "time": "2026-06-11"
         },
         {
-          "title": "Thrindex – memory OS for AI agents (ranks, compresses and evolves agents memory)",
+          "title": "Agents-Container Running AI Agents Safely in Docker-in-Docker with GVisor",
           "summary": "暂无摘要",
-          "source": "teo-nomikos",
-          "url": "https://www.thrindex.com/",
-          "time": "2026-06-10"
+          "source": "opensecurity",
+          "url": "https://github.com/gni/agents-container",
+          "time": "2026-06-11"
         },
         {
-          "title": "The Jqwik Anti-AI Affair",
+          "title": "AI Coding Skill That May Make Your Coding Sessions 44% More Productive",
           "summary": "暂无摘要",
-          "source": "_____k",
-          "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-          "time": "2026-06-10"
+          "source": "vmysla",
+          "url": "https://vmysla.substack.com/p/ai-coding-skill-that-may-cut-your-ai-coding-costs-by-30-45-percent",
+          "time": "2026-06-11"
         },
         {
-          "title": "Quick: An internal hosting platform for the AI era",
-          "summary": "暂无摘要",
-          "source": "okneil",
-          "url": "https://shopify.engineering/quick",
-          "time": "2026-06-10"
-        },
-        {
-          "title": "Anthropic CEO Says Government Should Be Able to Block New Models",
-          "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-10/anthropic-ceo-says-government-should-be-able-to-block-new-models",
-          "time": "2026-06-10"
+          "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+          "summary": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
+          "source": "Maxwell Zeff",
+          "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+          "time": "2026-06-11"
         },
         {
           "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
@@ -986,13 +1014,6 @@
           "source": "Katie Drummond",
           "url": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
           "time": "2026-06-09"
-        },
-        {
-          "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
-          "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
-          "source": "Joel Khalili",
-          "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
-          "time": "2026-06-08"
         }
       ]
     }
