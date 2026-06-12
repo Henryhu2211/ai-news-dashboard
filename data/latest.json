@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-06-11T21:54:21.224Z",
-  "date": "2026年6月11日 21时54分",
+  "updateTime": "2026-06-12T21:25:01.945Z",
+  "date": "2026年6月12日 21时25分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Deep learning four decades of human migration",
+          "title": "DN42 is a large dynamic VPN",
           "summary": "暂无摘要",
-          "source": "NoRagrets",
-          "url": "https://www.nature.com/articles/s41586-026-10611-7",
-          "time": "2026-06-11"
+          "source": "latchkey",
+          "url": "https://wiki.dn42.us/Home",
+          "time": "2026-06-12"
         },
         {
-          "title": "Local AI: 775 tok/s, DiffusionGemma (BF16) on Nvidia RTX 6000 Pro",
+          "title": "Show HN: An AI coaching team in Claude Code that's forbidden from judging you",
           "summary": "暂无摘要",
-          "source": "behnamoh",
-          "url": "https://twitter.com/OrganicGPT/status/2064883777499795716",
-          "time": "2026-06-11"
+          "source": "ibm777p2",
+          "url": "https://github.com/ibm777p2/Intelligence-Emotions",
+          "time": "2026-06-12"
         },
         {
-          "title": "ORP – Turn AI agent failures into regression tests and tested lessons",
+          "title": "Ask HN: Show your AI coded games [June 2026]",
           "summary": "暂无摘要",
-          "source": "Fujo930",
-          "url": "https://github.com/Fujo930/ORP",
-          "time": "2026-06-11"
+          "source": "franze",
+          "url": "https://news.ycombinator.com/item?id=48509243",
+          "time": "2026-06-12"
         },
         {
-          "title": "Tired of AI amnesia, I built a 3-Tier infinite memory LLM in 1 week",
+          "title": "Frontier AI and the World Cup 2026",
           "summary": "暂无摘要",
-          "source": "dominicyglee",
-          "url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
-          "time": "2026-06-11"
+          "source": "cbock90",
+          "url": "https://christian.bock.bio/wc2026/",
+          "time": "2026-06-12"
         },
         {
-          "title": "A \"LSP\" for the Chinese Language",
+          "title": "Empires Once Marched on Roads – AI marches on extension cords",
           "summary": "暂无摘要",
-          "source": "b__feldman",
-          "url": "https://twitter.com/b__feldman/status/2065178961588728089",
-          "time": "2026-06-11"
+          "source": "taguniversalm",
+          "url": "https://earthchronicles.substack.com/p/empires-once-marched-on-roads",
+          "time": "2026-06-12"
         },
         {
-          "title": "IndexedAI – Score and fix your site's readability for AI agents",
+          "title": "Ex-DOGE Employees Raise $130 Mill for AI National Security Startup",
           "summary": "暂无摘要",
-          "source": "guidodr",
-          "url": "https://www.indexedai.tech",
-          "time": "2026-06-11"
+          "source": "gaheehwjhwbs",
+          "url": "https://www.vanityfair.com/story/doge-defense-startups",
+          "time": "2026-06-12"
         },
         {
-          "title": "So I ran Doom inside Claude.ai",
+          "title": "Scott Alexander's AI Opinions",
           "summary": "暂无摘要",
-          "source": "rthiago",
-          "url": "https://twitter.com/rthiago/status/2065176453042356511",
-          "time": "2026-06-11"
+          "source": "brettcvz",
+          "url": "https://www.astralcodexten.com/p/my-ai-opinions",
+          "time": "2026-06-12"
         },
         {
-          "title": "Microsoft says Gen Z's AI backlash should be a wake-up call for Big Tech",
+          "title": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization",
           "summary": "暂无摘要",
-          "source": "thewebguyd",
-          "url": "https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6",
-          "time": "2026-06-11"
+          "source": "MediaSquirrel",
+          "url": "https://arxiv.org/abs/2606.13658",
+          "time": "2026-06-12"
         },
         {
-          "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
+          "title": "Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Reasoning",
           "summary": "暂无摘要",
-          "source": "jklmnopqrstuvw",
-          "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
-          "time": "2026-06-11"
+          "source": "MediaSquirrel",
+          "url": "https://arxiv.org/abs/2606.13607",
+          "time": "2026-06-12"
         },
         {
-          "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
+          "title": "Why the AI Renaissance Keeps Not Arriving",
           "summary": "暂无摘要",
-          "source": "MistyMouse",
-          "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
-          "time": "2026-06-11"
+          "source": "jamesbaker1",
+          "url": "https://jamesfbaker.substack.com/p/why-the-ai-renaissance-keeps-not",
+          "time": "2026-06-12"
         },
         {
-          "title": "Learning a regular language by inferring a DFA with the TTT algorithm",
+          "title": "General purpose LLMs outperform specialized clinical AI on medical benchmarks",
           "summary": "暂无摘要",
-          "source": "fanf2",
-          "url": "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/",
-          "time": "2026-06-11"
+          "source": "dnw",
+          "url": "https://www.nature.com/articles/s41591-026-04431-5",
+          "time": "2026-06-12"
         },
         {
-          "title": "\"Regulate AI? And lose our edge?\"",
+          "title": "GatekeeperAI – self-hosted governance platform for AI apps your team is building",
           "summary": "暂无摘要",
-          "source": "TonyBorlini",
-          "url": "https://deep.liveblog365.com/en/index-en.html?post=283",
-          "time": "2026-06-11"
+          "source": "jacob_thomas503",
+          "url": "https://github.com/jacobthomasmichael/GatekeeperAI/blob/main/README.md",
+          "time": "2026-06-12"
         },
         {
-          "title": "The University in the AI Era",
+          "title": "The 98% Problem: A Survey of Harness Engineering for AI Agents",
           "summary": "暂无摘要",
-          "source": "recursivedoubts",
-          "url": "https://htmx.org/essays/universities-and-ai/",
-          "time": "2026-06-11"
+          "source": "gdss",
+          "url": "https://labs.beconfident.app/papers/harness-engineering-survey",
+          "time": "2026-06-12"
         },
         {
-          "title": "AI Lead Should Be an Engineer",
+          "title": "We Can Live with AI, but Not Like This",
           "summary": "暂无摘要",
-          "source": "heterodoxjedi",
-          "url": "https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer",
-          "time": "2026-06-11"
+          "source": "Poppytam",
+          "url": "https://atroxclarus499795.substack.com/p/we-can-live-with-ai-but-not-like",
+          "time": "2026-06-12"
         },
         {
-          "title": "Spark – Turn any article into a LinkedIn post without leaving the tab",
+          "title": "Large etchings of numbers signaling opposition to Trump appear on National Mall",
           "summary": "暂无摘要",
-          "source": "chandanjha_dev",
-          "url": "https://spark.bhairav.ai/",
-          "time": "2026-06-11"
+          "source": "evan_",
+          "url": "https://www.washingtonpost.com/style/2026/06/11/apparent-etchings-86-47-seen-trump-threat-spotted-national-mall/",
+          "time": "2026-06-12"
         },
         {
-          "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
+          "title": "A Fake Bug Report Hijacks Your AI Coding Agent – and Nothing Catches It",
           "summary": "暂无摘要",
-          "source": "SVI",
-          "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643",
-          "time": "2026-06-11"
+          "source": "patrickdavey",
+          "url": "https://tenetsecurity.ai/blog/agentjacking-coding-agents-with-fake-sentry-errors/",
+          "time": "2026-06-12"
         },
         {
-          "title": "Powering the next era of Confidential AI",
+          "title": "Ask HN: What happens when AI-voice becomes good enough?",
           "summary": "暂无摘要",
-          "source": "strstr",
-          "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai",
-          "time": "2026-06-11"
+          "source": "boa00",
+          "url": "https://news.ycombinator.com/item?id=48507696",
+          "time": "2026-06-12"
         },
         {
-          "title": "The Great American AI Act (draft) [pdf]",
+          "title": "Show HN: Vilvona AI – Self-Hosted AI Assistant with Tamil and Hindi UI",
           "summary": "暂无摘要",
-          "source": "verdverm",
-          "url": "https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/the-great-american-ai-act-discussion-draft-website-compressed-compressed.pdf",
-          "time": "2026-06-11"
+          "source": "deepscalelabs",
+          "url": "https://github.com/vignesh2027/Vilvona-AI",
+          "time": "2026-06-12"
         },
         {
-          "title": "Rust Programming Language learning roadmap",
+          "title": "Run local agentic AI on the Mac using MLX (WWDC 2026) [video]",
           "summary": "暂无摘要",
-          "source": "mahirsaid",
-          "url": "https://forwardevery.day/2024/03/26/rust-programming-language-learning-roadma/",
-          "time": "2026-06-11"
+          "source": "sebiw",
+          "url": "https://developer.apple.com/videos/play/wwdc2026/232/",
+          "time": "2026-06-12"
         },
         {
-          "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+          "title": "Four ways AI is making your life more expensive",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-          "time": "2026-06-11"
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.washingtonpost.com/technology/2026/06/06/inflation-is-being-driven-up-by-huge-investment-artificial-intelligence/",
+          "time": "2026-06-12"
         },
         {
           "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
@@ -281,144 +281,144 @@
           "time": "2026-05-11"
         },
         {
+          "title": "Show HN: An AI coaching team in Claude Code that's forbidden from judging you",
+          "summary": "暂无摘要",
+          "source": "ibm777p2",
+          "url": "https://github.com/ibm777p2/Intelligence-Emotions",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "My last observation re: Anthropic's sabotage",
+          "summary": "暂无摘要",
+          "source": "SilverElfin",
+          "url": "https://xcancel.com/deanwball/status/2064665679307985244",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "Ask HN: Show your AI coded games [June 2026]",
+          "summary": "暂无摘要",
+          "source": "franze",
+          "url": "https://news.ycombinator.com/item?id=48509243",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "Frontier AI and the World Cup 2026",
+          "summary": "暂无摘要",
+          "source": "cbock90",
+          "url": "https://christian.bock.bio/wc2026/",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "Empires Once Marched on Roads – AI marches on extension cords",
+          "summary": "暂无摘要",
+          "source": "taguniversalm",
+          "url": "https://earthchronicles.substack.com/p/empires-once-marched-on-roads",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "Ex-DOGE Employees Raise $130 Mill for AI National Security Startup",
+          "summary": "暂无摘要",
+          "source": "gaheehwjhwbs",
+          "url": "https://www.vanityfair.com/story/doge-defense-startups",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "Scott Alexander's AI Opinions",
+          "summary": "暂无摘要",
+          "source": "brettcvz",
+          "url": "https://www.astralcodexten.com/p/my-ai-opinions",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization",
+          "summary": "暂无摘要",
+          "source": "MediaSquirrel",
+          "url": "https://arxiv.org/abs/2606.13658",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "Why the AI Renaissance Keeps Not Arriving",
+          "summary": "暂无摘要",
+          "source": "jamesbaker1",
+          "url": "https://jamesfbaker.substack.com/p/why-the-ai-renaissance-keeps-not",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "General purpose LLMs outperform specialized clinical AI on medical benchmarks",
+          "summary": "暂无摘要",
+          "source": "dnw",
+          "url": "https://www.nature.com/articles/s41591-026-04431-5",
+          "time": "2026-06-12"
+        },
+        {
           "title": "Hacking Google with A.I. For $500k",
           "summary": "暂无摘要",
-          "source": "llui85",
+          "source": "kkm",
           "url": "https://brutecat.com/articles/hacking-google-with-ai/",
-          "time": "2026-06-11"
+          "time": "2026-06-12"
         },
         {
-          "title": "Local AI: 775 tok/s, DiffusionGemma (BF16) on Nvidia RTX 6000 Pro",
+          "title": "GatekeeperAI – self-hosted governance platform for AI apps your team is building",
           "summary": "暂无摘要",
-          "source": "behnamoh",
-          "url": "https://twitter.com/OrganicGPT/status/2064883777499795716",
-          "time": "2026-06-11"
+          "source": "jacob_thomas503",
+          "url": "https://github.com/jacobthomasmichael/GatekeeperAI/blob/main/README.md",
+          "time": "2026-06-12"
         },
         {
-          "title": "ORP – Turn AI agent failures into regression tests and tested lessons",
+          "title": "The 98% Problem: A Survey of Harness Engineering for AI Agents",
           "summary": "暂无摘要",
-          "source": "Fujo930",
-          "url": "https://github.com/Fujo930/ORP",
-          "time": "2026-06-11"
+          "source": "gdss",
+          "url": "https://labs.beconfident.app/papers/harness-engineering-survey",
+          "time": "2026-06-12"
         },
         {
-          "title": "Tired of AI amnesia, I built a 3-Tier infinite memory LLM in 1 week",
+          "title": "The decline of Google and rise of alternative searches as the source of traffic",
           "summary": "暂无摘要",
-          "source": "dominicyglee",
-          "url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
-          "time": "2026-06-11"
+          "source": "speckx",
+          "url": "https://stfn.pl/blog/101-decline-of-google/",
+          "time": "2026-06-12"
         },
         {
-          "title": "IndexedAI – Score and fix your site's readability for AI agents",
+          "title": "We Can Live with AI, but Not Like This",
           "summary": "暂无摘要",
-          "source": "guidodr",
-          "url": "https://www.indexedai.tech",
-          "time": "2026-06-11"
+          "source": "Poppytam",
+          "url": "https://atroxclarus499795.substack.com/p/we-can-live-with-ai-but-not-like",
+          "time": "2026-06-12"
         },
         {
-          "title": "So I ran Doom inside Claude.ai",
+          "title": "Meta: Setting to disconnect your off-Meta activity is going away",
           "summary": "暂无摘要",
-          "source": "rthiago",
-          "url": "https://twitter.com/rthiago/status/2065176453042356511",
-          "time": "2026-06-11"
+          "source": "saharshpruthi",
+          "url": "https://help.instagram.com/1690298141991062",
+          "time": "2026-06-12"
         },
         {
-          "title": "Microsoft says Gen Z's AI backlash should be a wake-up call for Big Tech",
+          "title": "A Fake Bug Report Hijacks Your AI Coding Agent – and Nothing Catches It",
           "summary": "暂无摘要",
-          "source": "thewebguyd",
-          "url": "https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6",
-          "time": "2026-06-11"
+          "source": "patrickdavey",
+          "url": "https://tenetsecurity.ai/blog/agentjacking-coding-agents-with-fake-sentry-errors/",
+          "time": "2026-06-12"
         },
         {
-          "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
-          "summary": "暂无摘要",
-          "source": "timedude",
-          "url": "https://www.mayrhofer.eu.org/post/leaving-google/",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
-          "summary": "暂无摘要",
-          "source": "jklmnopqrstuvw",
-          "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
-          "summary": "暂无摘要",
-          "source": "MistyMouse",
-          "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "\"Regulate AI? And lose our edge?\"",
-          "summary": "暂无摘要",
-          "source": "TonyBorlini",
-          "url": "https://deep.liveblog365.com/en/index-en.html?post=283",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "The University in the AI Era",
-          "summary": "暂无摘要",
-          "source": "recursivedoubts",
-          "url": "https://htmx.org/essays/universities-and-ai/",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "OpenAI Mulls Significant Cuts to What It Charges for Tokens",
-          "summary": "暂无摘要",
-          "source": "khazit",
-          "url": "https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "AI Lead Should Be an Engineer",
-          "summary": "暂无摘要",
-          "source": "heterodoxjedi",
-          "url": "https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
-          "summary": "暂无摘要",
-          "source": "SVI",
-          "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "Powering the next era of Confidential AI",
-          "summary": "暂无摘要",
-          "source": "strstr",
-          "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "The Great American AI Act (draft) [pdf]",
-          "summary": "暂无摘要",
-          "source": "verdverm",
-          "url": "https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/the-great-american-ai-act-discussion-draft-website-compressed-compressed.pdf",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "Anthropic launches $150M Claude Corps nonprofit fellowship program",
+          "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
           "summary": "暂无摘要",
           "source": "01-_-",
-          "url": "https://qz.com/anthropic-claude-corps-fellowship-nonprofits-150-million-061126",
-          "time": "2026-06-11"
+          "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+          "time": "2026-06-12"
         },
         {
-          "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+          "title": "Ask HN: What happens when AI-voice becomes good enough?",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-          "time": "2026-06-11"
+          "source": "boa00",
+          "url": "https://news.ycombinator.com/item?id=48507696",
+          "time": "2026-06-12"
         },
         {
-          "title": "Canadian Privacy Commissioner Findings on X.ai/Grok CSAM Deepfake Violations",
+          "title": "Show HN: Vilvona AI – Self-Hosted AI Assistant with Tamil and Hindi UI",
           "summary": "暂无摘要",
-          "source": "bparsons",
-          "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-004/",
-          "time": "2026-06-11"
+          "source": "deepscalelabs",
+          "url": "https://github.com/vignesh2027/Vilvona-AI",
+          "time": "2026-06-12"
         }
       ]
     },
@@ -427,6 +427,48 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims&#8217; sued by Google",
+          "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+          "source": "Lorenzo Franceschi-Bicchierai",
+          "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "SpaceX IPO: Live updates on everything you need to know",
+          "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
+          "source": "Kirsten Korosec, Russell Brandom",
+          "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "Mistral is rumored to be raising €3B at €20B valuation",
+          "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+          "source": "Ram Iyer",
+          "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+          "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep",
+          "source": "Theresa Loconsolo",
+          "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "It’s hot IPO summer, and the MANGOS are ripe",
+          "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep",
+          "source": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
+          "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general engineer&#8217; for the physical world",
+          "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+          "time": "2026-06-12"
+        },
         {
           "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
           "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
@@ -456,186 +498,158 @@
           "time": "2026-06-10"
         },
         {
-          "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-          "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-          "time": "2026-06-10"
+          "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
+          "summary": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
+          "source": "Brian Barrett",
+          "url": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
+          "time": "2026-06-12"
         },
         {
-          "title": "The three hard-tech moonshots fueling SpaceX&#8217;s unbelievable IPO",
-          "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-          "time": "2026-06-10"
-        },
-        {
-          "title": "Warner Music acquires AI attribution startup Sureel AI",
-          "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-          "source": "Aisha Malik",
-          "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-          "time": "2026-06-10"
-        },
-        {
-          "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-          "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-          "source": "Ram Iyer",
-          "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-          "time": "2026-06-10"
-        },
-        {
-          "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-          "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-          "time": "2026-06-09"
-        },
-        {
-          "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
-          "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
-          "source": "Paresh Dave, Maxwell Zeff",
-          "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
-          "time": "2026-06-08"
-        },
-        {
-          "title": "Ask HN: Top Energy Startup Accelerators?",
-          "summary": "暂无摘要",
-          "source": "jacksonpollock",
-          "url": "https://news.ycombinator.com/item?id=48496772",
+          "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
+          "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
+          "source": "Brian Barrett, Zoë Schiffer",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
           "time": "2026-06-11"
         },
         {
-          "title": "Local AI: 775 tok/s, DiffusionGemma (BF16) on Nvidia RTX 6000 Pro",
+          "title": "Show HN: An AI coaching team in Claude Code that's forbidden from judging you",
           "summary": "暂无摘要",
-          "source": "behnamoh",
-          "url": "https://twitter.com/OrganicGPT/status/2064883777499795716",
-          "time": "2026-06-11"
+          "source": "ibm777p2",
+          "url": "https://github.com/ibm777p2/Intelligence-Emotions",
+          "time": "2026-06-12"
         },
         {
-          "title": "ORP – Turn AI agent failures into regression tests and tested lessons",
+          "title": "Ask HN: Show your AI coded games [June 2026]",
           "summary": "暂无摘要",
-          "source": "Fujo930",
-          "url": "https://github.com/Fujo930/ORP",
-          "time": "2026-06-11"
+          "source": "franze",
+          "url": "https://news.ycombinator.com/item?id=48509243",
+          "time": "2026-06-12"
         },
         {
-          "title": "Tired of AI amnesia, I built a 3-Tier infinite memory LLM in 1 week",
+          "title": "Frontier AI and the World Cup 2026",
           "summary": "暂无摘要",
-          "source": "dominicyglee",
-          "url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
-          "time": "2026-06-11"
+          "source": "cbock90",
+          "url": "https://christian.bock.bio/wc2026/",
+          "time": "2026-06-12"
         },
         {
-          "title": "IndexedAI – Score and fix your site's readability for AI agents",
+          "title": "SpaceX market cap tops $2T",
           "summary": "暂无摘要",
-          "source": "guidodr",
-          "url": "https://www.indexedai.tech",
-          "time": "2026-06-11"
+          "source": "mattas",
+          "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+          "time": "2026-06-12"
         },
         {
-          "title": "So I ran Doom inside Claude.ai",
+          "title": "Empires Once Marched on Roads – AI marches on extension cords",
           "summary": "暂无摘要",
-          "source": "rthiago",
-          "url": "https://twitter.com/rthiago/status/2065176453042356511",
-          "time": "2026-06-11"
+          "source": "taguniversalm",
+          "url": "https://earthchronicles.substack.com/p/empires-once-marched-on-roads",
+          "time": "2026-06-12"
         },
         {
-          "title": "Microsoft says Gen Z's AI backlash should be a wake-up call for Big Tech",
+          "title": "Ex-DOGE Employees Raise $130 Mill for AI National Security Startup",
           "summary": "暂无摘要",
-          "source": "thewebguyd",
-          "url": "https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6",
-          "time": "2026-06-11"
+          "source": "gaheehwjhwbs",
+          "url": "https://www.vanityfair.com/story/doge-defense-startups",
+          "time": "2026-06-12"
         },
         {
-          "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
+          "title": "Scott Alexander's AI Opinions",
           "summary": "暂无摘要",
-          "source": "jklmnopqrstuvw",
-          "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
-          "time": "2026-06-11"
+          "source": "brettcvz",
+          "url": "https://www.astralcodexten.com/p/my-ai-opinions",
+          "time": "2026-06-12"
         },
         {
-          "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
+          "title": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization",
           "summary": "暂无摘要",
-          "source": "MistyMouse",
-          "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
-          "time": "2026-06-11"
+          "source": "MediaSquirrel",
+          "url": "https://arxiv.org/abs/2606.13658",
+          "time": "2026-06-12"
         },
         {
-          "title": "\"Regulate AI? And lose our edge?\"",
+          "title": "Why the AI Renaissance Keeps Not Arriving",
           "summary": "暂无摘要",
-          "source": "TonyBorlini",
-          "url": "https://deep.liveblog365.com/en/index-en.html?post=283",
-          "time": "2026-06-11"
+          "source": "jamesbaker1",
+          "url": "https://jamesfbaker.substack.com/p/why-the-ai-renaissance-keeps-not",
+          "time": "2026-06-12"
         },
         {
-          "title": "The University in the AI Era",
+          "title": "General purpose LLMs outperform specialized clinical AI on medical benchmarks",
           "summary": "暂无摘要",
-          "source": "recursivedoubts",
-          "url": "https://htmx.org/essays/universities-and-ai/",
-          "time": "2026-06-11"
+          "source": "dnw",
+          "url": "https://www.nature.com/articles/s41591-026-04431-5",
+          "time": "2026-06-12"
         },
         {
-          "title": "AI Lead Should Be an Engineer",
+          "title": "GatekeeperAI – self-hosted governance platform for AI apps your team is building",
           "summary": "暂无摘要",
-          "source": "heterodoxjedi",
-          "url": "https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer",
-          "time": "2026-06-11"
+          "source": "jacob_thomas503",
+          "url": "https://github.com/jacobthomasmichael/GatekeeperAI/blob/main/README.md",
+          "time": "2026-06-12"
         },
         {
-          "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
+          "title": "The 98% Problem: A Survey of Harness Engineering for AI Agents",
           "summary": "暂无摘要",
-          "source": "SVI",
-          "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643",
-          "time": "2026-06-11"
+          "source": "gdss",
+          "url": "https://labs.beconfident.app/papers/harness-engineering-survey",
+          "time": "2026-06-12"
         },
         {
-          "title": "Powering the next era of Confidential AI",
+          "title": "We Can Live with AI, but Not Like This",
           "summary": "暂无摘要",
-          "source": "strstr",
-          "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai",
-          "time": "2026-06-11"
+          "source": "Poppytam",
+          "url": "https://atroxclarus499795.substack.com/p/we-can-live-with-ai-but-not-like",
+          "time": "2026-06-12"
         },
         {
-          "title": "The Great American AI Act (draft) [pdf]",
+          "title": "A Fake Bug Report Hijacks Your AI Coding Agent – and Nothing Catches It",
           "summary": "暂无摘要",
-          "source": "verdverm",
-          "url": "https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/the-great-american-ai-act-discussion-draft-website-compressed-compressed.pdf",
-          "time": "2026-06-11"
+          "source": "patrickdavey",
+          "url": "https://tenetsecurity.ai/blog/agentjacking-coding-agents-with-fake-sentry-errors/",
+          "time": "2026-06-12"
         },
         {
-          "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+          "title": "Ask HN: What happens when AI-voice becomes good enough?",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-          "time": "2026-06-11"
+          "source": "boa00",
+          "url": "https://news.ycombinator.com/item?id=48507696",
+          "time": "2026-06-12"
         },
         {
-          "title": "Canadian Privacy Commissioner Findings on X.ai/Grok CSAM Deepfake Violations",
+          "title": "Show HN: Vilvona AI – Self-Hosted AI Assistant with Tamil and Hindi UI",
           "summary": "暂无摘要",
-          "source": "bparsons",
-          "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-004/",
-          "time": "2026-06-11"
+          "source": "deepscalelabs",
+          "url": "https://github.com/vignesh2027/Vilvona-AI",
+          "time": "2026-06-12"
         },
         {
-          "title": "Agents-Container Running AI Agents Safely in Docker-in-Docker with GVisor",
+          "title": "Run local agentic AI on the Mac using MLX (WWDC 2026) [video]",
           "summary": "暂无摘要",
-          "source": "opensecurity",
-          "url": "https://github.com/gni/agents-container",
-          "time": "2026-06-11"
+          "source": "sebiw",
+          "url": "https://developer.apple.com/videos/play/wwdc2026/232/",
+          "time": "2026-06-12"
         },
         {
-          "title": "AI Coding Skill That May Make Your Coding Sessions 44% More Productive",
+          "title": "Four ways AI is making your life more expensive",
           "summary": "暂无摘要",
-          "source": "vmysla",
-          "url": "https://vmysla.substack.com/p/ai-coding-skill-that-may-cut-your-ai-coding-costs-by-30-45-percent",
-          "time": "2026-06-11"
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.washingtonpost.com/technology/2026/06/06/inflation-is-being-driven-up-by-huge-investment-artificial-intelligence/",
+          "time": "2026-06-12"
         },
         {
-          "title": "OpenAI could go from AI pioneer to AI's BlackBerry, says Forrester",
+          "title": "AI juries",
           "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.theregister.com/ai-and-ml/2026/06/11/openai-could-go-from-ai-pioneer-to-ais-blackberry-says-forrester/5254120",
-          "time": "2026-06-11"
+          "source": "afc",
+          "url": "https://alejo.ch/3he",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "Ad on the HN front page? Gauntlet AI?",
+          "summary": "暂无摘要",
+          "source": "tizio13",
+          "url": "https://news.ycombinator.com/item?id=48507014",
+          "time": "2026-06-12"
         }
       ]
     },
@@ -848,144 +862,151 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Local AI: 775 tok/s, DiffusionGemma (BF16) on Nvidia RTX 6000 Pro",
+          "title": "Show HN: An AI coaching team in Claude Code that's forbidden from judging you",
           "summary": "暂无摘要",
-          "source": "behnamoh",
-          "url": "https://twitter.com/OrganicGPT/status/2064883777499795716",
-          "time": "2026-06-11"
+          "source": "ibm777p2",
+          "url": "https://github.com/ibm777p2/Intelligence-Emotions",
+          "time": "2026-06-12"
         },
         {
-          "title": "ORP – Turn AI agent failures into regression tests and tested lessons",
+          "title": "Ask HN: Show your AI coded games [June 2026]",
           "summary": "暂无摘要",
-          "source": "Fujo930",
-          "url": "https://github.com/Fujo930/ORP",
-          "time": "2026-06-11"
+          "source": "franze",
+          "url": "https://news.ycombinator.com/item?id=48509243",
+          "time": "2026-06-12"
         },
         {
-          "title": "Tired of AI amnesia, I built a 3-Tier infinite memory LLM in 1 week",
+          "title": "Frontier AI and the World Cup 2026",
           "summary": "暂无摘要",
-          "source": "dominicyglee",
-          "url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
-          "time": "2026-06-11"
+          "source": "cbock90",
+          "url": "https://christian.bock.bio/wc2026/",
+          "time": "2026-06-12"
         },
         {
-          "title": "IndexedAI – Score and fix your site's readability for AI agents",
+          "title": "Empires Once Marched on Roads – AI marches on extension cords",
           "summary": "暂无摘要",
-          "source": "guidodr",
-          "url": "https://www.indexedai.tech",
-          "time": "2026-06-11"
+          "source": "taguniversalm",
+          "url": "https://earthchronicles.substack.com/p/empires-once-marched-on-roads",
+          "time": "2026-06-12"
         },
         {
-          "title": "So I ran Doom inside Claude.ai",
+          "title": "Ex-DOGE Employees Raise $130 Mill for AI National Security Startup",
           "summary": "暂无摘要",
-          "source": "rthiago",
-          "url": "https://twitter.com/rthiago/status/2065176453042356511",
-          "time": "2026-06-11"
+          "source": "gaheehwjhwbs",
+          "url": "https://www.vanityfair.com/story/doge-defense-startups",
+          "time": "2026-06-12"
         },
         {
-          "title": "Microsoft says Gen Z's AI backlash should be a wake-up call for Big Tech",
+          "title": "Scott Alexander's AI Opinions",
           "summary": "暂无摘要",
-          "source": "thewebguyd",
-          "url": "https://www.businessinsider.com/ai-backlash-gen-z-microsoft-president-brad-smith-graduation-speeches-2026-6",
-          "time": "2026-06-11"
+          "source": "brettcvz",
+          "url": "https://www.astralcodexten.com/p/my-ai-opinions",
+          "time": "2026-06-12"
         },
         {
-          "title": "OpenAI's June 2026 Report on Malicious Uses of AI [pdf]",
+          "title": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization",
           "summary": "暂无摘要",
-          "source": "jklmnopqrstuvw",
-          "url": "https://cdn.openai.com/pdf/96b559fa-c165-4575-805d-e636909e2f78/June-2026-Threat-Report.pdf",
-          "time": "2026-06-11"
+          "source": "MediaSquirrel",
+          "url": "https://arxiv.org/abs/2606.13658",
+          "time": "2026-06-12"
         },
         {
-          "title": "He Hacked Teslas for Elon Musk. Now He's Launching a $100M AI Cyber Agent",
+          "title": "Why the AI Renaissance Keeps Not Arriving",
           "summary": "暂无摘要",
-          "source": "MistyMouse",
-          "url": "https://www.forbes.com/sites/thomasbrewster/2026/06/10/elon-musk-favorite-hacker-launches-100-million-ai-cyber-startup/",
-          "time": "2026-06-11"
+          "source": "jamesbaker1",
+          "url": "https://jamesfbaker.substack.com/p/why-the-ai-renaissance-keeps-not",
+          "time": "2026-06-12"
         },
         {
-          "title": "\"Regulate AI? And lose our edge?\"",
+          "title": "General purpose LLMs outperform specialized clinical AI on medical benchmarks",
           "summary": "暂无摘要",
-          "source": "TonyBorlini",
-          "url": "https://deep.liveblog365.com/en/index-en.html?post=283",
-          "time": "2026-06-11"
+          "source": "dnw",
+          "url": "https://www.nature.com/articles/s41591-026-04431-5",
+          "time": "2026-06-12"
         },
         {
-          "title": "The University in the AI Era",
+          "title": "GatekeeperAI – self-hosted governance platform for AI apps your team is building",
           "summary": "暂无摘要",
-          "source": "recursivedoubts",
-          "url": "https://htmx.org/essays/universities-and-ai/",
-          "time": "2026-06-11"
+          "source": "jacob_thomas503",
+          "url": "https://github.com/jacobthomasmichael/GatekeeperAI/blob/main/README.md",
+          "time": "2026-06-12"
         },
         {
-          "title": "Spy law (FISA) on track to lapse after Congress rejects extension",
+          "title": "The 98% Problem: A Survey of Harness Engineering for AI Agents",
           "summary": "暂无摘要",
-          "source": "bsimpson",
-          "url": "https://www.politico.com/news/2026/06/11/spy-law-on-track-to-lapse-after-house-rejects-extension-00958420",
-          "time": "2026-06-11"
+          "source": "gdss",
+          "url": "https://labs.beconfident.app/papers/harness-engineering-survey",
+          "time": "2026-06-12"
         },
         {
-          "title": "AI Lead Should Be an Engineer",
+          "title": "We Can Live with AI, but Not Like This",
           "summary": "暂无摘要",
-          "source": "heterodoxjedi",
-          "url": "https://presentofcoding.substack.com/p/your-ai-lead-should-be-an-engineer",
-          "time": "2026-06-11"
+          "source": "Poppytam",
+          "url": "https://atroxclarus499795.substack.com/p/we-can-live-with-ai-but-not-like",
+          "time": "2026-06-12"
         },
         {
-          "title": "AI Learned How the Universe Works and Created Unexpected Problems for Physicists",
+          "title": "A Fake Bug Report Hijacks Your AI Coding Agent – and Nothing Catches It",
           "summary": "暂无摘要",
-          "source": "SVI",
-          "url": "https://gizmodo.com/ai-learned-how-the-universe-works-and-that-created-an-unexpected-problem-for-physicists-2000770643",
-          "time": "2026-06-11"
+          "source": "patrickdavey",
+          "url": "https://tenetsecurity.ai/blog/agentjacking-coding-agents-with-fake-sentry-errors/",
+          "time": "2026-06-12"
         },
         {
-          "title": "Powering the next era of Confidential AI",
+          "title": "Ask HN: What happens when AI-voice becomes good enough?",
           "summary": "暂无摘要",
-          "source": "strstr",
-          "url": "https://cloud.google.com/blog/products/identity-security/powering-the-next-era-of-confidential-ai",
-          "time": "2026-06-11"
+          "source": "boa00",
+          "url": "https://news.ycombinator.com/item?id=48507696",
+          "time": "2026-06-12"
         },
         {
-          "title": "The Great American AI Act (draft) [pdf]",
+          "title": "Show HN: Vilvona AI – Self-Hosted AI Assistant with Tamil and Hindi UI",
           "summary": "暂无摘要",
-          "source": "verdverm",
-          "url": "https://obernolte.house.gov/sites/evo-subsites/obernolte.house.gov/files/evo-media-document/the-great-american-ai-act-discussion-draft-website-compressed-compressed.pdf",
-          "time": "2026-06-11"
+          "source": "deepscalelabs",
+          "url": "https://github.com/vignesh2027/Vilvona-AI",
+          "time": "2026-06-12"
         },
         {
-          "title": "Several things I like about macOS 27 Golden Gate that have nothing to do with AI",
+          "title": "Run local agentic AI on the Mac using MLX (WWDC 2026) [video]",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/",
-          "time": "2026-06-11"
+          "source": "sebiw",
+          "url": "https://developer.apple.com/videos/play/wwdc2026/232/",
+          "time": "2026-06-12"
         },
         {
-          "title": "Only Law Can Prevent Extinction",
+          "title": "Four ways AI is making your life more expensive",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.lesswrong.com/posts/5CfBDiQNg9upfipWk/only-law-can-prevent-extinction",
-          "time": "2026-06-11"
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.washingtonpost.com/technology/2026/06/06/inflation-is-being-driven-up-by-huge-investment-artificial-intelligence/",
+          "time": "2026-06-12"
         },
         {
-          "title": "Canadian Privacy Commissioner Findings on X.ai/Grok CSAM Deepfake Violations",
+          "title": "AI juries",
           "summary": "暂无摘要",
-          "source": "bparsons",
-          "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-004/",
-          "time": "2026-06-11"
+          "source": "afc",
+          "url": "https://alejo.ch/3he",
+          "time": "2026-06-12"
         },
         {
-          "title": "Agents-Container Running AI Agents Safely in Docker-in-Docker with GVisor",
+          "title": "Ad on the HN front page? Gauntlet AI?",
           "summary": "暂无摘要",
-          "source": "opensecurity",
-          "url": "https://github.com/gni/agents-container",
-          "time": "2026-06-11"
+          "source": "tizio13",
+          "url": "https://news.ycombinator.com/item?id=48507014",
+          "time": "2026-06-12"
         },
         {
-          "title": "AI Coding Skill That May Make Your Coding Sessions 44% More Productive",
+          "title": "Show HN: Nenya – A lightweight, highly secure AI API Gateway/Proxy written in Go",
           "summary": "暂无摘要",
-          "source": "vmysla",
-          "url": "https://vmysla.substack.com/p/ai-coding-skill-that-may-cut-your-ai-coding-costs-by-30-45-percent",
-          "time": "2026-06-11"
+          "source": "garou",
+          "url": "https://github.com/gumieri/nenya",
+          "time": "2026-06-12"
+        },
+        {
+          "title": "China Didn’t Make Americans Hate Data Centers",
+          "summary": "GOP lawmakers, tech investors, and even OpenAI have tied the anti-data-center movement in the US to Chinese interference. Experts say it’s much more complicated than that.",
+          "source": "Molly Taft",
+          "url": "https://www.wired.com/story/china-us-data-center-opposition/",
+          "time": "2026-06-12"
         },
         {
           "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
@@ -1007,13 +1028,6 @@
           "source": "Fernanda González",
           "url": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
           "time": "2026-06-10"
-        },
-        {
-          "title": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
-          "summary": "In 2019, Alex Vindman testified during President Trump’s first impeachment trial–a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.",
-          "source": "Katie Drummond",
-          "url": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
-          "time": "2026-06-09"
         }
       ]
     }
