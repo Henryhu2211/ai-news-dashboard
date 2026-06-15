@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-06-14T21:01:02.789Z",
-  "date": "2026年6月14日 21时1分",
+  "updateTime": "2026-06-15T22:10:28.588Z",
+  "date": "2026年6月15日 22时10分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "AWS WAF now lets content owners charge AI bots for access",
+          "summary": "暂无摘要",
+          "source": "mak8",
+          "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Show HN: When Will AI? – A timeline of top AI predictions",
+          "summary": "暂无摘要",
+          "source": "jaymeh13",
+          "url": "https://whenwill.ai",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "FreeBSD AI-Assisted Vulnerability Discovery Project Launch",
+          "summary": "暂无摘要",
+          "source": "jaypatelani",
+          "url": "https://freebsdfoundation.org/blog/freebsd-ai-assisted-vulnerability-discovery-project-launch/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Show HN: Legioni – a bunch of AI agents always with you",
+          "summary": "暂无摘要",
+          "source": "leonvonblut",
+          "url": "https://github.com/simoneloru/legioni",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Show HN: ThoughtLeadin – AI-first LinkedIn where every post is corporate slop",
+          "summary": "暂无摘要",
+          "source": "natyoung",
+          "url": "https://thoughtleadin.com",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Why autonomous AI hiring decisions are indefensible (I build hiring AI)",
+          "summary": "暂无摘要",
+          "source": "tessarolli",
+          "url": "https://recrutador.com/en/blog/the-case-against-autonomous-hiring-ai/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "In Age of AI, Leading Deepfake Expert No Longer Trusts His Own Eyes",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "German court holds Google liable for fake AI answers",
+          "summary": "暂无摘要",
+          "source": "Topfi",
+          "url": "https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Show HN: Transpilatron – an AI tool that converts Python code into C binaries",
+          "summary": "暂无摘要",
+          "source": "johnnytech",
+          "url": "https://github.com/NoodlixProject/transpilatron",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Kedgr – AI code scanner that never stores your source code",
+          "summary": "暂无摘要",
+          "source": "kedgr",
+          "url": "https://news.ycombinator.com/item?id=48546575",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "AI and Amateurism",
+          "summary": "暂无摘要",
+          "source": "samizdis",
+          "url": "https://pluralistic.net/2026/06/15/vernacular/#hypercardian",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Price drop notice from Google re. One/AI service",
+          "summary": "暂无摘要",
+          "source": "imperialdrive",
+          "url": "https://9to5google.com/2026/06/08/google-ai-plus-price-drop/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "My Take on Gen AI Content",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://authenticmanager.substack.com/p/my-take-on-gen-ai-content",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "For centuries, math has been a human endeavor. Does AI mean it's over?",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://www.washingtonpost.com/science/2026/06/14/math-has-helped-define-what-it-means-be-human-centuries-cue-robots/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Will Siri AI kill AI as a service?",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://thedent.net/posts/will-siri-ai-kill-ai-as-a-service",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "AI Image Generation from CFML in One Function Call",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://blog.kukiel.dev/posts/cfml-ai-images-with-cloudflare.html",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Diplomat: Multi-Language FFI for Rust Libraries",
+          "summary": "暂无摘要",
+          "source": "g0xA52A2A",
+          "url": "https://manishearth.github.io/blog/2026/06/14/diplomat-multi-language-ffi-for-rust-libraries/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "AI-referred US shoppers browse longer, spend more per visit",
+          "summary": "暂无摘要",
+          "source": "alephnerd",
+          "url": "https://www.reuters.com/business/media-telecom/ai-referred-us-shoppers-browse-longer-spend-more-per-visit-data-shows-2026-06-15/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Beware of Star Trek managers, especially when bearing MBAs",
+          "summary": "暂无摘要",
+          "source": "chmaynard",
+          "url": "https://nibblestew.blogspot.com/2026/06/beware-of-star-trek-managers-especially.html",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "File systems are the new primitive for AI agents",
+          "summary": "暂无摘要",
+          "source": "crabasa",
+          "url": "https://twitter.com/crtr0/status/2066558169741173177",
+          "time": "2026-06-15"
+        },
         {
           "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
           "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A",
@@ -42,6 +182,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+          "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+          "time": "2026-06-15"
+        },
         {
           "title": "The latest AI news we announced in May 2026",
           "summary": "Here are Google’s latest AI updates from May 2026",
@@ -134,151 +281,144 @@
           "time": "2026-05-19"
         },
         {
-          "title": "The new AI-powered Google Finance is expanding to Europe.",
-          "summary": "This week, the new, AI-powered Google Finance is launching across Europe, with full local language support. This reimagined experience offers a suite of powerful capabil…",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-          "time": "2026-05-11"
+          "title": "AWS WAF now lets content owners charge AI bots for access",
+          "summary": "暂无摘要",
+          "source": "mak8",
+          "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+          "time": "2026-06-15"
         },
         {
-          "title": "Show HN: Buildtopia1 – A sandbox game where an AI builds for you with chat",
+          "title": "Show HN: When Will AI? – A timeline of top AI predictions",
           "summary": "暂无摘要",
-          "source": "dtran24",
-          "url": "https://buildtopia1.com",
-          "time": "2026-06-14"
+          "source": "jaymeh13",
+          "url": "https://whenwill.ai",
+          "time": "2026-06-15"
         },
         {
-          "title": "Changing Careers, Cutting Expenses: Software Engineers Contend with AI",
+          "title": "EC Ruled Months Ago That Google's Integration of Gemini in Android Violates DMA",
           "summary": "暂无摘要",
-          "source": "variety8675",
-          "url": "https://www.wsj.com/lifestyle/careers/changing-careers-cutting-expenses-software-engineers-contend-with-ai-3889ce73",
-          "time": "2026-06-14"
+          "source": "danaris",
+          "url": "https://daringfireball.net/linked/2026/06/15/ec-google-gemini-ai-dma",
+          "time": "2026-06-15"
         },
         {
-          "title": "Show HN: AI Cell Enrichment Workflow API",
+          "title": "FreeBSD AI-Assisted Vulnerability Discovery Project Launch",
           "summary": "暂无摘要",
-          "source": "blagoysimandoff",
-          "url": "https://ampledata.io",
-          "time": "2026-06-14"
+          "source": "jaypatelani",
+          "url": "https://freebsdfoundation.org/blog/freebsd-ai-assisted-vulnerability-discovery-project-launch/",
+          "time": "2026-06-15"
         },
         {
-          "title": "Grasping Exponentialism, Efficient AI, Talent Density, & the Pursuit of Together",
+          "title": "Anthropic is pausing the Claude Agent SDK credit change",
           "summary": "暂无摘要",
-          "source": "momentmaker",
-          "url": "https://www.implications.com/p/grasping-exponentialism-efficient",
-          "time": "2026-06-14"
+          "source": "cmogni1",
+          "url": "https://twitter.com/aronprins/status/2066607128563851546",
+          "time": "2026-06-15"
         },
         {
-          "title": "The University in the AI Era",
+          "title": "Show HN: Legioni – a bunch of AI agents always with you",
           "summary": "暂无摘要",
-          "source": "_doctor_love",
-          "url": "https://htmx.org/essays/universities-and-ai/",
-          "time": "2026-06-14"
+          "source": "leonvonblut",
+          "url": "https://github.com/simoneloru/legioni",
+          "time": "2026-06-15"
         },
         {
-          "title": "Show HN: Tool for creating step-by-step tutorials from screen recordings. No AI",
+          "title": "Show HN: ThoughtLeadin – AI-first LinkedIn where every post is corporate slop",
           "summary": "暂无摘要",
-          "source": "aksuta",
-          "url": "https://framepin.com/",
-          "time": "2026-06-14"
+          "source": "natyoung",
+          "url": "https://thoughtleadin.com",
+          "time": "2026-06-15"
         },
         {
-          "title": "AI is code – and can't be prompted into being smarter",
+          "title": "Why autonomous AI hiring decisions are indefensible (I build hiring AI)",
           "summary": "暂无摘要",
-          "source": "wglb",
-          "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-          "time": "2026-06-14"
+          "source": "tessarolli",
+          "url": "https://recrutador.com/en/blog/the-case-against-autonomous-hiring-ai/",
+          "time": "2026-06-15"
         },
         {
-          "title": "How to Become an AI-Native Software Engineer? What an AI-Native Team Looks Like",
+          "title": "Apple and Google to be forced to check ID over social media ban",
           "summary": "暂无摘要",
-          "source": "SaeedZF",
-          "url": "https://medium.com/vibecodingpub/how-to-become-an-ai-native-software-engineer-8f4bda05e7dc",
-          "time": "2026-06-14"
+          "source": "beejiu",
+          "url": "https://www.thetimes.com/uk/politics/article/social-media-ban-keir-starmer-under-16s-h73wk6qzj",
+          "time": "2026-06-15"
         },
         {
-          "title": "Bring Siri AI to EU iPhone Users Safely",
+          "title": "In Age of AI, Leading Deepfake Expert No Longer Trusts His Own Eyes",
           "summary": "暂无摘要",
-          "source": "peterspath",
-          "url": "https://siri4eu.com",
-          "time": "2026-06-14"
+          "source": "speckx",
+          "url": "https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html",
+          "time": "2026-06-15"
         },
         {
-          "title": "Companies are scrambling to curtail soaring AI costs",
+          "title": "Hand Gesture Verification Captcha by Google",
           "summary": "暂无摘要",
-          "source": "andsoitis",
-          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
-          "time": "2026-06-14"
+          "source": "hmokiguess",
+          "url": "https://docs.cloud.google.com/recaptcha/docs/hand-gesture-verification",
+          "time": "2026-06-15"
         },
         {
-          "title": "What does high effort mean when AI has made everything low effort?",
+          "title": "German court holds Google liable for fake AI answers",
           "summary": "暂无摘要",
-          "source": "foxtrot8672",
-          "url": "https://news.ycombinator.com/item?id=48531710",
-          "time": "2026-06-14"
+          "source": "Topfi",
+          "url": "https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661",
+          "time": "2026-06-15"
         },
         {
-          "title": "KPMG report on AI found riddled with AI hallucinations",
+          "title": "Show HN: Transpilatron – an AI tool that converts Python code into C binaries",
           "summary": "暂无摘要",
-          "source": "chrisjj",
-          "url": "https://www.cityam.com/kpmg-report-on-ai-found-riddled-with-ai-hallucinations/",
-          "time": "2026-06-14"
+          "source": "johnnytech",
+          "url": "https://github.com/NoodlixProject/transpilatron",
+          "time": "2026-06-15"
         },
         {
-          "title": "Frona v2026.6.0 – self-hosted personal AI assistant",
+          "title": "Anthropic pauses credit change for Claude Code",
           "summary": "暂无摘要",
-          "source": "syncerx",
-          "url": "https://github.com/fronalabs/frona/releases/tag/v2026.6.0",
-          "time": "2026-06-14"
+          "source": "fabianlindfors",
+          "url": "https://news.ycombinator.com/item?id=48546618",
+          "time": "2026-06-15"
         },
         {
-          "title": "Android's head of security slams Google's door",
+          "title": "Kedgr – AI code scanner that never stores your source code",
           "summary": "暂无摘要",
-          "source": "trilogic",
-          "url": "https://www.lesnumeriques.com/societe-numerique/la-direction-a-perdu-toute-boussole-morale-le-chef-de-la-securite-d-android-claque-la-porte-de-google-n257431.html",
-          "time": "2026-06-14"
+          "source": "kedgr",
+          "url": "https://news.ycombinator.com/item?id=48546575",
+          "time": "2026-06-15"
         },
         {
-          "title": "Audit checklists for AI coding agents – 30 invariants, any language",
+          "title": "AI and Amateurism",
           "summary": "暂无摘要",
-          "source": "danygiguere",
-          "url": "https://github.com/danygiguere/audit-skills",
-          "time": "2026-06-14"
+          "source": "samizdis",
+          "url": "https://pluralistic.net/2026/06/15/vernacular/#hypercardian",
+          "time": "2026-06-15"
         },
         {
-          "title": "Anthropic staff to meet White House officials next week",
+          "title": "Price drop notice from Google re. One/AI service",
           "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.reuters.com/world/us/anthropic-staff-meet-white-house-officials-next-week-axios-reports-2026-06-14/",
-          "time": "2026-06-14"
+          "source": "imperialdrive",
+          "url": "https://9to5google.com/2026/06/08/google-ai-plus-price-drop/",
+          "time": "2026-06-15"
         },
         {
-          "title": "The Millions of Songs Mashed into AI-Generated Music",
+          "title": "My Take on Gen AI Content",
           "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/",
-          "time": "2026-06-14"
+          "source": "mooreds",
+          "url": "https://authenticmanager.substack.com/p/my-take-on-gen-ai-content",
+          "time": "2026-06-15"
         },
         {
-          "title": "Nobody Is Measuring What Your AI Agents Are Worth",
+          "title": "For centuries, math has been a human endeavor. Does AI mean it's over?",
           "summary": "暂无摘要",
-          "source": "Idankogan",
-          "url": "https://github.com/Idank96/agent-panorama",
-          "time": "2026-06-14"
+          "source": "01-_-",
+          "url": "https://www.washingtonpost.com/science/2026/06/14/math-has-helped-define-what-it-means-be-human-centuries-cue-robots/",
+          "time": "2026-06-15"
         },
         {
-          "title": "How to Share AI Riches",
+          "title": "Will Siri AI kill AI as a service?",
           "summary": "暂无摘要",
-          "source": "andsoitis",
-          "url": "https://economist.com/finance-and-economics/2026/06/11/how-to-share-ai-riches",
-          "time": "2026-06-14"
-        },
-        {
-          "title": "Scoop: Anthropic flies staff to D.C. to clean up White House fight",
-          "summary": "暂无摘要",
-          "source": "chakintosh",
-          "url": "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable",
-          "time": "2026-06-14"
+          "source": "speckx",
+          "url": "https://thedent.net/posts/will-siri-ai-kill-ai-as-a-service",
+          "time": "2026-06-15"
         }
       ]
     },
@@ -288,17 +428,24 @@
       "icon": "💼",
       "news": [
         {
+          "title": "SpaceX is public: Everything you need to know post-IPO",
+          "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
+          "source": "Kirsten Korosec, Russell Brandom",
+          "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Sarvam becomes India&#8217;s newest AI unicorn with $234 million funding round led by HCLTech",
+          "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+          "time": "2026-06-15"
+        },
+        {
           "title": "As AI companies race to go public, who else is along for the ride?",
           "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
           "source": "Anthony Ha",
           "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-          "time": "2026-06-14"
-        },
-        {
-          "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand",
-          "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-          "source": "Kate Park",
-          "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
           "time": "2026-06-14"
         },
         {
@@ -314,13 +461,6 @@
           "source": "Connie Loizos",
           "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
           "time": "2026-06-13"
-        },
-        {
-          "title": "SpaceX IPO: Live updates on everything you need to know",
-          "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
-          "source": "Kirsten Korosec, Russell Brandom",
-          "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-          "time": "2026-06-12"
         },
         {
           "title": "Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands of victims&#8217; sued by Google",
@@ -344,34 +484,6 @@
           "time": "2026-06-12"
         },
         {
-          "title": "It’s hot IPO summer, and the MANGOS are ripe",
-          "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep",
-          "source": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
-          "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
-          "time": "2026-06-12"
-        },
-        {
-          "title": "Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general engineer&#8217; for the physical world",
-          "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-          "time": "2026-06-12"
-        },
-        {
-          "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-          "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-          "source": "Tim Fernholz, Marina Temkin",
-          "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-          "time": "2026-06-11"
-        },
-        {
-          "title": "SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-ups lift",
-          "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-          "time": "2026-06-11"
-        },
-        {
           "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
           "summary": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
           "source": "Brian Barrett",
@@ -386,144 +498,144 @@
           "time": "2026-06-11"
         },
         {
-          "title": "Hillock – Local, brain-inspired AI memory using SQLite and HDC",
+          "title": "AWS WAF now lets content owners charge AI bots for access",
           "summary": "暂无摘要",
-          "source": "roandejager",
-          "url": "https://github.com/roandejager/Hillock",
-          "time": "2026-06-14"
+          "source": "mak8",
+          "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+          "time": "2026-06-15"
         },
         {
-          "title": "Show HN: Buildtopia1 – A sandbox game where an AI builds for you with chat",
+          "title": "Show HN: When Will AI? – A timeline of top AI predictions",
           "summary": "暂无摘要",
-          "source": "dtran24",
-          "url": "https://buildtopia1.com",
-          "time": "2026-06-14"
+          "source": "jaymeh13",
+          "url": "https://whenwill.ai",
+          "time": "2026-06-15"
         },
         {
-          "title": "Changing Careers, Cutting Expenses: Software Engineers Contend with AI",
+          "title": "FreeBSD AI-Assisted Vulnerability Discovery Project Launch",
           "summary": "暂无摘要",
-          "source": "variety8675",
-          "url": "https://www.wsj.com/lifestyle/careers/changing-careers-cutting-expenses-software-engineers-contend-with-ai-3889ce73",
-          "time": "2026-06-14"
+          "source": "jaypatelani",
+          "url": "https://freebsdfoundation.org/blog/freebsd-ai-assisted-vulnerability-discovery-project-launch/",
+          "time": "2026-06-15"
         },
         {
-          "title": "Show HN: AI Cell Enrichment Workflow API",
+          "title": "Show HN: Legioni – a bunch of AI agents always with you",
           "summary": "暂无摘要",
-          "source": "blagoysimandoff",
-          "url": "https://ampledata.io",
-          "time": "2026-06-14"
+          "source": "leonvonblut",
+          "url": "https://github.com/simoneloru/legioni",
+          "time": "2026-06-15"
         },
         {
-          "title": "Grasping Exponentialism, Efficient AI, Talent Density, & the Pursuit of Together",
+          "title": "Show HN: ThoughtLeadin – AI-first LinkedIn where every post is corporate slop",
           "summary": "暂无摘要",
-          "source": "momentmaker",
-          "url": "https://www.implications.com/p/grasping-exponentialism-efficient",
-          "time": "2026-06-14"
+          "source": "natyoung",
+          "url": "https://thoughtleadin.com",
+          "time": "2026-06-15"
         },
         {
-          "title": "The University in the AI Era",
+          "title": "Why autonomous AI hiring decisions are indefensible (I build hiring AI)",
           "summary": "暂无摘要",
-          "source": "_doctor_love",
-          "url": "https://htmx.org/essays/universities-and-ai/",
-          "time": "2026-06-14"
+          "source": "tessarolli",
+          "url": "https://recrutador.com/en/blog/the-case-against-autonomous-hiring-ai/",
+          "time": "2026-06-15"
         },
         {
-          "title": "Show HN: Tool for creating step-by-step tutorials from screen recordings. No AI",
+          "title": "In Age of AI, Leading Deepfake Expert No Longer Trusts His Own Eyes",
           "summary": "暂无摘要",
-          "source": "aksuta",
-          "url": "https://framepin.com/",
-          "time": "2026-06-14"
+          "source": "speckx",
+          "url": "https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html",
+          "time": "2026-06-15"
         },
         {
-          "title": "AI is code – and can't be prompted into being smarter",
+          "title": "German court holds Google liable for fake AI answers",
           "summary": "暂无摘要",
-          "source": "wglb",
-          "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
-          "time": "2026-06-14"
+          "source": "Topfi",
+          "url": "https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661",
+          "time": "2026-06-15"
         },
         {
-          "title": "How to Become an AI-Native Software Engineer? What an AI-Native Team Looks Like",
+          "title": "Tired of chaos, investors retreat from oil market at record pace",
           "summary": "暂无摘要",
-          "source": "SaeedZF",
-          "url": "https://medium.com/vibecodingpub/how-to-become-an-ai-native-software-engineer-8f4bda05e7dc",
-          "time": "2026-06-14"
+          "source": "mriet",
+          "url": "https://www.reuters.com/business/energy/tired-chaos-investors-retreat-oil-market-record-pace-2026-06-12/",
+          "time": "2026-06-15"
         },
         {
-          "title": "Bring Siri AI to EU iPhone Users Safely",
+          "title": "Show HN: Transpilatron – an AI tool that converts Python code into C binaries",
           "summary": "暂无摘要",
-          "source": "peterspath",
-          "url": "https://siri4eu.com",
-          "time": "2026-06-14"
+          "source": "johnnytech",
+          "url": "https://github.com/NoodlixProject/transpilatron",
+          "time": "2026-06-15"
         },
         {
-          "title": "Companies are scrambling to curtail soaring AI costs",
+          "title": "Kedgr – AI code scanner that never stores your source code",
           "summary": "暂无摘要",
-          "source": "andsoitis",
-          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
-          "time": "2026-06-14"
+          "source": "kedgr",
+          "url": "https://news.ycombinator.com/item?id=48546575",
+          "time": "2026-06-15"
         },
         {
-          "title": "What does high effort mean when AI has made everything low effort?",
+          "title": "AI and Amateurism",
           "summary": "暂无摘要",
-          "source": "foxtrot8672",
-          "url": "https://news.ycombinator.com/item?id=48531710",
-          "time": "2026-06-14"
+          "source": "samizdis",
+          "url": "https://pluralistic.net/2026/06/15/vernacular/#hypercardian",
+          "time": "2026-06-15"
         },
         {
-          "title": "KPMG report on AI found riddled with AI hallucinations",
+          "title": "Price drop notice from Google re. One/AI service",
           "summary": "暂无摘要",
-          "source": "chrisjj",
-          "url": "https://www.cityam.com/kpmg-report-on-ai-found-riddled-with-ai-hallucinations/",
-          "time": "2026-06-14"
+          "source": "imperialdrive",
+          "url": "https://9to5google.com/2026/06/08/google-ai-plus-price-drop/",
+          "time": "2026-06-15"
         },
         {
-          "title": "Frona v2026.6.0 – self-hosted personal AI assistant",
+          "title": "My Take on Gen AI Content",
           "summary": "暂无摘要",
-          "source": "syncerx",
-          "url": "https://github.com/fronalabs/frona/releases/tag/v2026.6.0",
-          "time": "2026-06-14"
+          "source": "mooreds",
+          "url": "https://authenticmanager.substack.com/p/my-take-on-gen-ai-content",
+          "time": "2026-06-15"
         },
         {
-          "title": "Audit checklists for AI coding agents – 30 invariants, any language",
+          "title": "For centuries, math has been a human endeavor. Does AI mean it's over?",
           "summary": "暂无摘要",
-          "source": "danygiguere",
-          "url": "https://github.com/danygiguere/audit-skills",
-          "time": "2026-06-14"
+          "source": "01-_-",
+          "url": "https://www.washingtonpost.com/science/2026/06/14/math-has-helped-define-what-it-means-be-human-centuries-cue-robots/",
+          "time": "2026-06-15"
         },
         {
-          "title": "The Millions of Songs Mashed into AI-Generated Music",
+          "title": "Will Siri AI kill AI as a service?",
           "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/",
-          "time": "2026-06-14"
+          "source": "speckx",
+          "url": "https://thedent.net/posts/will-siri-ai-kill-ai-as-a-service",
+          "time": "2026-06-15"
         },
         {
-          "title": "Nobody Is Measuring What Your AI Agents Are Worth",
+          "title": "AI Image Generation from CFML in One Function Call",
           "summary": "暂无摘要",
-          "source": "Idankogan",
-          "url": "https://github.com/Idank96/agent-panorama",
-          "time": "2026-06-14"
+          "source": "rmason",
+          "url": "https://blog.kukiel.dev/posts/cfml-ai-images-with-cloudflare.html",
+          "time": "2026-06-15"
         },
         {
-          "title": "How to Share AI Riches",
+          "title": "AI-referred US shoppers browse longer, spend more per visit",
           "summary": "暂无摘要",
-          "source": "andsoitis",
-          "url": "https://economist.com/finance-and-economics/2026/06/11/how-to-share-ai-riches",
-          "time": "2026-06-14"
+          "source": "alephnerd",
+          "url": "https://www.reuters.com/business/media-telecom/ai-referred-us-shoppers-browse-longer-spend-more-per-visit-data-shows-2026-06-15/",
+          "time": "2026-06-15"
         },
         {
-          "title": "Genesis, U.S. Department of Energy wants to build a single national AI platform",
+          "title": "File systems are the new primitive for AI agents",
           "summary": "暂无摘要",
-          "source": "FrustratedMonky",
-          "url": "https://cacm.acm.org/news/from-manhattan-to-genesis/",
-          "time": "2026-06-14"
+          "source": "crabasa",
+          "url": "https://twitter.com/crtr0/status/2066558169741173177",
+          "time": "2026-06-15"
         },
         {
-          "title": "Modeltell – The Linguistic Fingerprints of AI",
+          "title": "AgentBack: AI-native API/MCP framework for agents",
           "summary": "暂无摘要",
-          "source": "jonbaer",
-          "url": "https://modeltell.com/",
-          "time": "2026-06-14"
+          "source": "ninemind",
+          "url": "https://agentback.dev",
+          "time": "2026-06-15"
         }
       ]
     },
@@ -532,6 +644,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "Why do South Koreans love AI so much?",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from Sa",
+          "source": "Michelle Kim",
+          "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+          "time": "2026-06-15"
+        },
         {
           "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
           "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A",
@@ -573,13 +692,6 @@
           "source": "Caiwei Chen",
           "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
           "time": "2026-05-28"
-        },
-        {
-          "title": "Rethinking organizational design in the age of agentic AI",
-          "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the ne",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-          "time": "2026-05-26"
         }
       ]
     },
@@ -734,6 +846,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "AWS WAF now lets content owners charge AI bots for access",
+          "summary": "暂无摘要",
+          "source": "mak8",
+          "url": "https://aws.amazon.com/blogs/aws/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Show HN: When Will AI? – A timeline of top AI predictions",
+          "summary": "暂无摘要",
+          "source": "jaymeh13",
+          "url": "https://whenwill.ai",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "FreeBSD AI-Assisted Vulnerability Discovery Project Launch",
+          "summary": "暂无摘要",
+          "source": "jaypatelani",
+          "url": "https://freebsdfoundation.org/blog/freebsd-ai-assisted-vulnerability-discovery-project-launch/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Show HN: Legioni – a bunch of AI agents always with you",
+          "summary": "暂无摘要",
+          "source": "leonvonblut",
+          "url": "https://github.com/simoneloru/legioni",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Show HN: ThoughtLeadin – AI-first LinkedIn where every post is corporate slop",
+          "summary": "暂无摘要",
+          "source": "natyoung",
+          "url": "https://thoughtleadin.com",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Why autonomous AI hiring decisions are indefensible (I build hiring AI)",
+          "summary": "暂无摘要",
+          "source": "tessarolli",
+          "url": "https://recrutador.com/en/blog/the-case-against-autonomous-hiring-ai/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "In Age of AI, Leading Deepfake Expert No Longer Trusts His Own Eyes",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "German court holds Google liable for fake AI answers",
+          "summary": "暂无摘要",
+          "source": "Topfi",
+          "url": "https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Show HN: Transpilatron – an AI tool that converts Python code into C binaries",
+          "summary": "暂无摘要",
+          "source": "johnnytech",
+          "url": "https://github.com/NoodlixProject/transpilatron",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Kedgr – AI code scanner that never stores your source code",
+          "summary": "暂无摘要",
+          "source": "kedgr",
+          "url": "https://news.ycombinator.com/item?id=48546575",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "AI and Amateurism",
+          "summary": "暂无摘要",
+          "source": "samizdis",
+          "url": "https://pluralistic.net/2026/06/15/vernacular/#hypercardian",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Price drop notice from Google re. One/AI service",
+          "summary": "暂无摘要",
+          "source": "imperialdrive",
+          "url": "https://9to5google.com/2026/06/08/google-ai-plus-price-drop/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "My Take on Gen AI Content",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://authenticmanager.substack.com/p/my-take-on-gen-ai-content",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "US Government Reportedly Allowing Federal Data Center Rules to Expire",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://gizmodo.com/us-government-reportedly-allowing-federal-data-center-rules-to-expire-2000772083",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "For centuries, math has been a human endeavor. Does AI mean it's over?",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://www.washingtonpost.com/science/2026/06/14/math-has-helped-define-what-it-means-be-human-centuries-cue-robots/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "Will Siri AI kill AI as a service?",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://thedent.net/posts/will-siri-ai-kill-ai-as-a-service",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "AI Image Generation from CFML in One Function Call",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://blog.kukiel.dev/posts/cfml-ai-images-with-cloudflare.html",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "AI-referred US shoppers browse longer, spend more per visit",
+          "summary": "暂无摘要",
+          "source": "alephnerd",
+          "url": "https://www.reuters.com/business/media-telecom/ai-referred-us-shoppers-browse-longer-spend-more-per-visit-data-shows-2026-06-15/",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "File systems are the new primitive for AI agents",
+          "summary": "暂无摘要",
+          "source": "crabasa",
+          "url": "https://twitter.com/crtr0/status/2066558169741173177",
+          "time": "2026-06-15"
+        },
+        {
+          "title": "AgentBack: AI-native API/MCP framework for agents",
+          "summary": "暂无摘要",
+          "source": "ninemind",
+          "url": "https://agentback.dev",
+          "time": "2026-06-15"
         },
         {
           "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
