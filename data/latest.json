@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-06-19T21:01:39.884Z",
-  "date": "2026年6月19日 21时1分",
+  "updateTime": "2026-06-20T21:04:35.771Z",
+  "date": "2026年6月20日 21时4分",
   "categories": [
     {
       "id": "tech",
@@ -148,7 +148,7 @@
           "time": "2026-06-19"
         },
         {
-          "title": "The CEO of Allbirds&#8217; new AI biz has a plan, but no employees",
+          "title": "The CEO of Allbirds&#8217; new AI biz has a plan, but no team",
           "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
           "source": "Tim Fernholz",
           "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
@@ -188,13 +188,6 @@
           "source": "Rebecca Bellan",
           "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
           "time": "2026-06-18"
-        },
-        {
-          "title": "Roelof Botha joins SpaceX&#8217;s board of directors",
-          "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-          "source": "Sean O'Kane",
-          "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-          "time": "2026-06-17"
         }
       ]
     },
@@ -426,13 +419,6 @@
           "source": "Will Knight",
           "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
           "time": "2026-06-17"
-        },
-        {
-          "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-          "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-          "source": "Lily Hay Newman",
-          "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-          "time": "2026-06-16"
         }
       ]
     }
