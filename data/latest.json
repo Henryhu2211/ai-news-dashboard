@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-06-20T21:04:35.771Z",
-  "date": "2026年6月20日 21时4分",
+  "updateTime": "2026-06-21T21:05:09.686Z",
+  "date": "2026年6月21日 21时5分",
   "categories": [
     {
       "id": "tech",
@@ -132,6 +132,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
           "time": "2026-05-19"
+        },
+        {
+          "title": "Conduit – Self-hosted Bitcoin Lightning payments for AI agents",
+          "summary": "暂无摘要",
+          "source": "conduitbtc",
+          "url": "https://github.com/Jake1848/conduit",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AuraText – a Windows overlay that brings AI into any text field URL",
+          "summary": "暂无摘要",
+          "source": "yashra4j",
+          "url": "https://auratxt.com/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AMD Mini PCs for AI Applications: A Comprehensive 2026 Review",
+          "summary": "暂无摘要",
+          "source": "javaeeeee",
+          "url": "https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "The AI Conundrum: We are living in highly subsidized, interesting times",
+          "summary": "暂无摘要",
+          "source": "pyeri",
+          "url": "https://news.ycombinator.com/item?id=48622280",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AI Is Taking Over Hospitals",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.theatlantic.com/health/2026/06/ai-healthcare-uber-moment/687567/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
+          "summary": "暂无摘要",
+          "source": "itshkrishna",
+          "url": "https://github.com/harihkk/Debug-Brief",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: Lelu – catch AI agents when they're manipulated at runtime",
+          "summary": "暂无摘要",
+          "source": "Abenezer0923",
+          "url": "https://github.com/lelu-auth/lelu",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+          "summary": "暂无摘要",
+          "source": "fortran77",
+          "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "The Carbon Footprint of AI (2020)",
+          "summary": "暂无摘要",
+          "source": "reconnecting",
+          "url": "https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Secretive Wall Street Powerhouse Jane Street Seizes AI Spotlight",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AI has won another literary prize",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://twitter.com/nabeelqu/status/2068317401960026219",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: GreyFox – Free self-hosted AI proxy, token quotas, and local cache",
+          "summary": "暂无摘要",
+          "source": "SkilfulFox",
+          "url": "https://github.com/skillful-fox-studio/grey-fox-community",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Ask HN: Anyone notice World Cup video feeds look like AI?",
+          "summary": "暂无摘要",
+          "source": "TZubiri",
+          "url": "https://news.ycombinator.com/item?id=48621628",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "A cheaper and safer agentic AI workflow",
+          "summary": "暂无摘要",
+          "source": "danuker",
+          "url": "https://danuker.go.ro/a-cheaper-and-safer-agentic-ai-workflow.html",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Flic Mic for AI – The Wireless Voice Button",
+          "summary": "暂无摘要",
+          "source": "jamie4224",
+          "url": "https://mic.flic.io/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Chatting with an AI Won't Make You a Top Programmer",
+          "summary": "暂无摘要",
+          "source": "jjgreen",
+          "url": "https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Vexyn – browser-only privacy tools with local AI",
+          "summary": "暂无摘要",
+          "source": "andreicristi88",
+          "url": "https://vexyn.app/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Two AI judges scored our agent's answer 0.85, but it never opened the file",
+          "summary": "暂无摘要",
+          "source": "jflynt76",
+          "url": "https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Anthropic uses Persona for identity verification",
+          "summary": "暂无摘要",
+          "source": "Trung0246",
+          "url": "https://web.archive.org/web/20260415064244/https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: Zither – paste JSON/CSV/a spreadsheet table, stats instantly, no AI",
+          "summary": "暂无摘要",
+          "source": "bluecomputing",
+          "url": "https://zither-zeta.vercel.app/",
+          "time": "2026-06-21"
         }
       ]
     },
@@ -183,11 +323,144 @@
           "time": "2026-06-18"
         },
         {
-          "title": "General Intuition in talks to raise $300M at around $2B valuation",
-          "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-          "time": "2026-06-18"
+          "title": "Conduit – Self-hosted Bitcoin Lightning payments for AI agents",
+          "summary": "暂无摘要",
+          "source": "conduitbtc",
+          "url": "https://github.com/Jake1848/conduit",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AuraText – a Windows overlay that brings AI into any text field URL",
+          "summary": "暂无摘要",
+          "source": "yashra4j",
+          "url": "https://auratxt.com/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AMD Mini PCs for AI Applications: A Comprehensive 2026 Review",
+          "summary": "暂无摘要",
+          "source": "javaeeeee",
+          "url": "https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "The AI Conundrum: We are living in highly subsidized, interesting times",
+          "summary": "暂无摘要",
+          "source": "pyeri",
+          "url": "https://news.ycombinator.com/item?id=48622280",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AI Is Taking Over Hospitals",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.theatlantic.com/health/2026/06/ai-healthcare-uber-moment/687567/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
+          "summary": "暂无摘要",
+          "source": "itshkrishna",
+          "url": "https://github.com/harihkk/Debug-Brief",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Founding Systems Engineer, hardtech startup, full time, ONSITE SF/hybrid",
+          "summary": "暂无摘要",
+          "source": "PapillonStar",
+          "url": "https://docs.google.com/document/d/1pudvLsPYiVOAItGD5lDM7zSJhSXqg2qRYWVOdyVp2wc/edit?usp=sharing",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: Lelu – catch AI agents when they're manipulated at runtime",
+          "summary": "暂无摘要",
+          "source": "Abenezer0923",
+          "url": "https://github.com/lelu-auth/lelu",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+          "summary": "暂无摘要",
+          "source": "fortran77",
+          "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "The Carbon Footprint of AI (2020)",
+          "summary": "暂无摘要",
+          "source": "reconnecting",
+          "url": "https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Secretive Wall Street Powerhouse Jane Street Seizes AI Spotlight",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Labor Market Effects of the Tax Cuts and Jobs Act",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0927537126000643",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AI has won another literary prize",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://twitter.com/nabeelqu/status/2068317401960026219",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: GreyFox – Free self-hosted AI proxy, token quotas, and local cache",
+          "summary": "暂无摘要",
+          "source": "SkilfulFox",
+          "url": "https://github.com/skillful-fox-studio/grey-fox-community",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Ask HN: Anyone notice World Cup video feeds look like AI?",
+          "summary": "暂无摘要",
+          "source": "TZubiri",
+          "url": "https://news.ycombinator.com/item?id=48621628",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Portfolio Covariance Optimization and Market Impact Capacity Engine",
+          "summary": "暂无摘要",
+          "source": "cjb6s",
+          "url": "https://github.com/dy9gzbph7m-cpu/quant-frontier-capacity-solver",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "A cheaper and safer agentic AI workflow",
+          "summary": "暂无摘要",
+          "source": "danuker",
+          "url": "https://danuker.go.ro/a-cheaper-and-safer-agentic-ai-workflow.html",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Tech pundit Cringely cofounds startup '2Brains Inc' to solve LLM hallucinations",
+          "summary": "暂无摘要",
+          "source": "MilnerRoute",
+          "url": "https://slashdot.org/story/26/06/20/0556251/tech-pundit-cringely-co-founds-startup-2brains-inc-to-solve-llm-hallucinations",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Flic Mic for AI – The Wireless Voice Button",
+          "summary": "暂无摘要",
+          "source": "jamie4224",
+          "url": "https://mic.flic.io/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Chatting with an AI Won't Make You a Top Programmer",
+          "summary": "暂无摘要",
+          "source": "jjgreen",
+          "url": "https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/",
+          "time": "2026-06-21"
         }
       ]
     },
@@ -398,6 +671,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Conduit – Self-hosted Bitcoin Lightning payments for AI agents",
+          "summary": "暂无摘要",
+          "source": "conduitbtc",
+          "url": "https://github.com/Jake1848/conduit",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AuraText – a Windows overlay that brings AI into any text field URL",
+          "summary": "暂无摘要",
+          "source": "yashra4j",
+          "url": "https://auratxt.com/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AMD Mini PCs for AI Applications: A Comprehensive 2026 Review",
+          "summary": "暂无摘要",
+          "source": "javaeeeee",
+          "url": "https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "The AI Conundrum: We are living in highly subsidized, interesting times",
+          "summary": "暂无摘要",
+          "source": "pyeri",
+          "url": "https://news.ycombinator.com/item?id=48622280",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AI Is Taking Over Hospitals",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.theatlantic.com/health/2026/06/ai-healthcare-uber-moment/687567/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
+          "summary": "暂无摘要",
+          "source": "itshkrishna",
+          "url": "https://github.com/harihkk/Debug-Brief",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: Lelu – catch AI agents when they're manipulated at runtime",
+          "summary": "暂无摘要",
+          "source": "Abenezer0923",
+          "url": "https://github.com/lelu-auth/lelu",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+          "summary": "暂无摘要",
+          "source": "fortran77",
+          "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "The Carbon Footprint of AI (2020)",
+          "summary": "暂无摘要",
+          "source": "reconnecting",
+          "url": "https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Secretive Wall Street Powerhouse Jane Street Seizes AI Spotlight",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "AI has won another literary prize",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://twitter.com/nabeelqu/status/2068317401960026219",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: GreyFox – Free self-hosted AI proxy, token quotas, and local cache",
+          "summary": "暂无摘要",
+          "source": "SkilfulFox",
+          "url": "https://github.com/skillful-fox-studio/grey-fox-community",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Ask HN: Anyone notice World Cup video feeds look like AI?",
+          "summary": "暂无摘要",
+          "source": "TZubiri",
+          "url": "https://news.ycombinator.com/item?id=48621628",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "A cheaper and safer agentic AI workflow",
+          "summary": "暂无摘要",
+          "source": "danuker",
+          "url": "https://danuker.go.ro/a-cheaper-and-safer-agentic-ai-workflow.html",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Flic Mic for AI – The Wireless Voice Button",
+          "summary": "暂无摘要",
+          "source": "jamie4224",
+          "url": "https://mic.flic.io/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Chatting with an AI Won't Make You a Top Programmer",
+          "summary": "暂无摘要",
+          "source": "jjgreen",
+          "url": "https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Vexyn – browser-only privacy tools with local AI",
+          "summary": "暂无摘要",
+          "source": "andreicristi88",
+          "url": "https://vexyn.app/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Two AI judges scored our agent's answer 0.85, but it never opened the file",
+          "summary": "暂无摘要",
+          "source": "jflynt76",
+          "url": "https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Show HN: Zither – paste JSON/CSV/a spreadsheet table, stats instantly, no AI",
+          "summary": "暂无摘要",
+          "source": "bluecomputing",
+          "url": "https://zither-zeta.vercel.app/",
+          "time": "2026-06-21"
+        },
+        {
+          "title": "Bonfires in the Dark: Ritual, Science, and AI as Compression Interfaces",
+          "summary": "暂无摘要",
+          "source": "grasant",
+          "url": "https://bartoszlenart.com/blog/bonfires-in-the-dark",
+          "time": "2026-06-21"
         },
         {
           "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
