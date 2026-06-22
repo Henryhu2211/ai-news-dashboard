@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-06-21T21:05:09.686Z",
-  "date": "2026年6月21日 21时5分",
+  "updateTime": "2026-06-22T21:55:37.262Z",
+  "date": "2026年6月22日 21时55分",
   "categories": [
     {
       "id": "tech",
@@ -8,8 +8,155 @@
       "icon": "📰",
       "news": [
         {
+          "title": "Software Engineers Face an AI 'Identity Crisis,' VC Partner Says",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://www.businessinsider.com/software-engineers-face-an-ai-identity-crisis-vc-partner-says-2026-6",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Why most AI evals would miss the Linear sales email failure",
+          "summary": "暂无摘要",
+          "source": "jflynt76",
+          "url": "https://tenureai.dev/writing/why-most-ai-evals-would-miss-the-linear-sales-email-failure/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "The Market's AI Fanfare Is Running into a Harsh Political Reality",
+          "summary": "暂无摘要",
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.wsj.com/tech/ai/the-markets-ai-fanfare-is-running-into-a-harsh-political-reality-b919829b",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+          "summary": "暂无摘要",
+          "source": "petethomas",
+          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Five Eyes joint statement on AI models taking down governments and businesses",
+          "summary": "暂无摘要",
+          "source": "thoughtpeddler",
+          "url": "https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
+          "summary": "暂无摘要",
+          "source": "tartoran",
+          "url": "https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "California admits using high-risk AI – including systems it failed to report",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://calmatters.org/politics/2026/06/california-admits-government-ai-risk-after-denying/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Publishing AI Write-Ups to a URL – Without Leaking the Client Ones",
+          "summary": "暂无摘要",
+          "source": "bradystroud",
+          "url": "https://bradystroud.dev/blogs/private-docs-vault",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Code Smells when you get AI to write your Front end Tests",
+          "summary": "暂无摘要",
+          "source": "howToTestFE",
+          "url": "https://howtotestfrontend.com/resources/frontend-ai-generated-test-code-smells",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Sakana AI Ships Fugu, an Orchestration Model Claiming Fable 5 Performance",
+          "summary": "暂无摘要",
+          "source": "polskibus",
+          "url": "https://pokee.ai/blog/pokee-ai-daily-2026-06-22",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Show HN: Git Issues – versioned task management for AI agents",
+          "summary": "暂无摘要",
+          "source": "steviee",
+          "url": "https://steviee.github.io/git-issues/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Japan's 'Sakana Fugu' multiagent AI scores well against Fable 5, GPT 5.5",
+          "summary": "暂无摘要",
+          "source": "polskibus",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-fugu-multiagent-ai-scores-well-against-fable-5-gpt-5.5",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Who's Suing Whom in AI?",
+          "summary": "暂无摘要",
+          "source": "zdw",
+          "url": "https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "The comment paradox: clean code in age of AI agents",
+          "summary": "暂无摘要",
+          "source": "boramdd",
+          "url": "https://www.uyar.design/writing/the-comment-paradox",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Show HN: A 100% AI-generated 3D voxel game I built with my 10yo son",
+          "summary": "暂无摘要",
+          "source": "marceld23",
+          "url": "https://github.com/marceld23/BlocksBeyondTheStars",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "AI and the Job Market for Philosophers",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.natemeyvis.com/ai-and-the-job-market-for-philosophers/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "AI and tech are trying to influence the midterm elections",
+          "summary": "暂无摘要",
+          "source": "pera",
+          "url": "https://text.npr.org/nx-s1-5856359",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "AI Agent / Harness Engineer",
+          "summary": "暂无摘要",
+          "source": "Ryanaga",
+          "url": "https://www.saturnterminal.com/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Your Own Private AI, Part 2: Secure Access from Anywhere with Tailscale Aperture",
+          "summary": "暂无摘要",
+          "source": "anactofgod",
+          "url": "https://10io.com/blog/private-ai-part-2-secure-access-via-tailscale-aperture",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Local lint, type-check and AI security dashboard for modern full-stack projects",
+          "summary": "暂无摘要",
+          "source": "dagmawibabi",
+          "url": "https://www.npmjs.com/package/projectlens",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Three things to watch amid Anthropic’s latest feud with the government",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s l",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+          "time": "2026-06-22"
+        },
+        {
           "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-          "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models fo",
+          "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language model",
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
           "time": "2026-06-19"
@@ -27,13 +174,6 @@
           "source": "Grace Huckins",
           "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
           "time": "2026-06-05"
-        },
-        {
-          "title": "How small businesses can leverage AI",
-          "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t",
-          "source": "Peter Hall",
-          "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-          "time": "2026-06-02"
         }
       ]
     },
@@ -134,144 +274,144 @@
           "time": "2026-05-19"
         },
         {
-          "title": "Conduit – Self-hosted Bitcoin Lightning payments for AI agents",
+          "title": "Software Engineers Face an AI 'Identity Crisis,' VC Partner Says",
           "summary": "暂无摘要",
-          "source": "conduitbtc",
-          "url": "https://github.com/Jake1848/conduit",
-          "time": "2026-06-21"
+          "source": "simonpure",
+          "url": "https://www.businessinsider.com/software-engineers-face-an-ai-identity-crisis-vc-partner-says-2026-6",
+          "time": "2026-06-22"
         },
         {
-          "title": "AuraText – a Windows overlay that brings AI into any text field URL",
-          "summary": "暂无摘要",
-          "source": "yashra4j",
-          "url": "https://auratxt.com/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "AMD Mini PCs for AI Applications: A Comprehensive 2026 Review",
-          "summary": "暂无摘要",
-          "source": "javaeeeee",
-          "url": "https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "The AI Conundrum: We are living in highly subsidized, interesting times",
-          "summary": "暂无摘要",
-          "source": "pyeri",
-          "url": "https://news.ycombinator.com/item?id=48622280",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "AI Is Taking Over Hospitals",
-          "summary": "暂无摘要",
-          "source": "karakoram",
-          "url": "https://www.theatlantic.com/health/2026/06/ai-healthcare-uber-moment/687567/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
-          "summary": "暂无摘要",
-          "source": "itshkrishna",
-          "url": "https://github.com/harihkk/Debug-Brief",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Show HN: Lelu – catch AI agents when they're manipulated at runtime",
-          "summary": "暂无摘要",
-          "source": "Abenezer0923",
-          "url": "https://github.com/lelu-auth/lelu",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
-          "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "The Carbon Footprint of AI (2020)",
-          "summary": "暂无摘要",
-          "source": "reconnecting",
-          "url": "https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Secretive Wall Street Powerhouse Jane Street Seizes AI Spotlight",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "AI has won another literary prize",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://twitter.com/nabeelqu/status/2068317401960026219",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Show HN: GreyFox – Free self-hosted AI proxy, token quotas, and local cache",
-          "summary": "暂无摘要",
-          "source": "SkilfulFox",
-          "url": "https://github.com/skillful-fox-studio/grey-fox-community",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Ask HN: Anyone notice World Cup video feeds look like AI?",
-          "summary": "暂无摘要",
-          "source": "TZubiri",
-          "url": "https://news.ycombinator.com/item?id=48621628",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "A cheaper and safer agentic AI workflow",
-          "summary": "暂无摘要",
-          "source": "danuker",
-          "url": "https://danuker.go.ro/a-cheaper-and-safer-agentic-ai-workflow.html",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Flic Mic for AI – The Wireless Voice Button",
-          "summary": "暂无摘要",
-          "source": "jamie4224",
-          "url": "https://mic.flic.io/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Chatting with an AI Won't Make You a Top Programmer",
-          "summary": "暂无摘要",
-          "source": "jjgreen",
-          "url": "https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Vexyn – browser-only privacy tools with local AI",
-          "summary": "暂无摘要",
-          "source": "andreicristi88",
-          "url": "https://vexyn.app/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Two AI judges scored our agent's answer 0.85, but it never opened the file",
+          "title": "Why most AI evals would miss the Linear sales email failure",
           "summary": "暂无摘要",
           "source": "jflynt76",
-          "url": "https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/",
-          "time": "2026-06-21"
+          "url": "https://tenureai.dev/writing/why-most-ai-evals-would-miss-the-linear-sales-email-failure/",
+          "time": "2026-06-22"
         },
         {
-          "title": "Anthropic uses Persona for identity verification",
+          "title": "The Market's AI Fanfare Is Running into a Harsh Political Reality",
           "summary": "暂无摘要",
-          "source": "Trung0246",
-          "url": "https://web.archive.org/web/20260415064244/https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-          "time": "2026-06-21"
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.wsj.com/tech/ai/the-markets-ai-fanfare-is-running-into-a-harsh-political-reality-b919829b",
+          "time": "2026-06-22"
         },
         {
-          "title": "Show HN: Zither – paste JSON/CSV/a spreadsheet table, stats instantly, no AI",
+          "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
           "summary": "暂无摘要",
-          "source": "bluecomputing",
-          "url": "https://zither-zeta.vercel.app/",
-          "time": "2026-06-21"
+          "source": "petethomas",
+          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Five Eyes joint statement on AI models taking down governments and businesses",
+          "summary": "暂无摘要",
+          "source": "thoughtpeddler",
+          "url": "https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
+          "summary": "暂无摘要",
+          "source": "tartoran",
+          "url": "https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "California admits using high-risk AI – including systems it failed to report",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://calmatters.org/politics/2026/06/california-admits-government-ai-risk-after-denying/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Publishing AI Write-Ups to a URL – Without Leaking the Client Ones",
+          "summary": "暂无摘要",
+          "source": "bradystroud",
+          "url": "https://bradystroud.dev/blogs/private-docs-vault",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Code Smells when you get AI to write your Front end Tests",
+          "summary": "暂无摘要",
+          "source": "howToTestFE",
+          "url": "https://howtotestfrontend.com/resources/frontend-ai-generated-test-code-smells",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "OpenAI's $1T Bullshit Is Falling Apart [video]",
+          "summary": "暂无摘要",
+          "source": "devonnull",
+          "url": "https://www.youtube.com/watch?v=vbNz0CeIG3E",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Sakana AI Ships Fugu, an Orchestration Model Claiming Fable 5 Performance",
+          "summary": "暂无摘要",
+          "source": "polskibus",
+          "url": "https://pokee.ai/blog/pokee-ai-daily-2026-06-22",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Show HN: Git Issues – versioned task management for AI agents",
+          "summary": "暂无摘要",
+          "source": "steviee",
+          "url": "https://steviee.github.io/git-issues/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Japan's 'Sakana Fugu' multiagent AI scores well against Fable 5, GPT 5.5",
+          "summary": "暂无摘要",
+          "source": "polskibus",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-fugu-multiagent-ai-scores-well-against-fable-5-gpt-5.5",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Who's Suing Whom in AI?",
+          "summary": "暂无摘要",
+          "source": "zdw",
+          "url": "https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Omnigent: A Meta-Harness to Combine, Control and Share Your Agents",
+          "summary": "暂无摘要",
+          "source": "handfuloflight",
+          "url": "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "The comment paradox: clean code in age of AI agents",
+          "summary": "暂无摘要",
+          "source": "boramdd",
+          "url": "https://www.uyar.design/writing/the-comment-paradox",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Show HN: A 100% AI-generated 3D voxel game I built with my 10yo son",
+          "summary": "暂无摘要",
+          "source": "marceld23",
+          "url": "https://github.com/marceld23/BlocksBeyondTheStars",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "AI and the Job Market for Philosophers",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.natemeyvis.com/ai-and-the-job-market-for-philosophers/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Show HN: Catch abnormal usage of your API keys on Google Cloud",
+          "summary": "暂无摘要",
+          "source": "minherz",
+          "url": "https://codelabs.developers.google.com/api-key-management",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "I built a Chrome extension to bulk-convert Google Photos motion photos to stills",
+          "summary": "暂无摘要",
+          "source": "levinyair",
+          "url": "https://chromewebstore.google.com/detail/bulk-edit-google-photos-w/fnhlolpmhhjdjdlialajdlmlfblchkkh",
+          "time": "2026-06-22"
         }
       ]
     },
@@ -281,6 +421,13 @@
       "icon": "💼",
       "news": [
         {
+          "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+          "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne",
+          "source": "Kirsten Korosec",
+          "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+          "time": "2026-06-22"
+        },
+        {
           "title": "Billionaire Ambani wants AI in every call, app, and home",
           "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
           "source": "Jagmeet Singh",
@@ -288,7 +435,7 @@
           "time": "2026-06-19"
         },
         {
-          "title": "The CEO of Allbirds&#8217; new AI biz has a plan, but no team",
+          "title": "The CEO of Allbirds&#8217; new AI biz has a plan. Now she needs a &#8220;brand-new team&#8221;",
           "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
           "source": "Tim Fernholz",
           "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
@@ -309,158 +456,144 @@
           "time": "2026-06-18"
         },
         {
-          "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-          "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-          "time": "2026-06-18"
-        },
-        {
-          "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-          "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-          "time": "2026-06-18"
-        },
-        {
-          "title": "Conduit – Self-hosted Bitcoin Lightning payments for AI agents",
+          "title": "Software Engineers Face an AI 'Identity Crisis,' VC Partner Says",
           "summary": "暂无摘要",
-          "source": "conduitbtc",
-          "url": "https://github.com/Jake1848/conduit",
-          "time": "2026-06-21"
+          "source": "simonpure",
+          "url": "https://www.businessinsider.com/software-engineers-face-an-ai-identity-crisis-vc-partner-says-2026-6",
+          "time": "2026-06-22"
         },
         {
-          "title": "AuraText – a Windows overlay that brings AI into any text field URL",
+          "title": "Why most AI evals would miss the Linear sales email failure",
           "summary": "暂无摘要",
-          "source": "yashra4j",
-          "url": "https://auratxt.com/",
-          "time": "2026-06-21"
+          "source": "jflynt76",
+          "url": "https://tenureai.dev/writing/why-most-ai-evals-would-miss-the-linear-sales-email-failure/",
+          "time": "2026-06-22"
         },
         {
-          "title": "AMD Mini PCs for AI Applications: A Comprehensive 2026 Review",
+          "title": "The Market's AI Fanfare Is Running into a Harsh Political Reality",
           "summary": "暂无摘要",
-          "source": "javaeeeee",
-          "url": "https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/",
-          "time": "2026-06-21"
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.wsj.com/tech/ai/the-markets-ai-fanfare-is-running-into-a-harsh-political-reality-b919829b",
+          "time": "2026-06-22"
         },
         {
-          "title": "The AI Conundrum: We are living in highly subsidized, interesting times",
+          "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
           "summary": "暂无摘要",
-          "source": "pyeri",
-          "url": "https://news.ycombinator.com/item?id=48622280",
-          "time": "2026-06-21"
+          "source": "petethomas",
+          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+          "time": "2026-06-22"
         },
         {
-          "title": "AI Is Taking Over Hospitals",
+          "title": "Five Eyes joint statement on AI models taking down governments and businesses",
           "summary": "暂无摘要",
-          "source": "karakoram",
-          "url": "https://www.theatlantic.com/health/2026/06/ai-healthcare-uber-moment/687567/",
-          "time": "2026-06-21"
+          "source": "thoughtpeddler",
+          "url": "https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement",
+          "time": "2026-06-22"
         },
         {
-          "title": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
+          "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
           "summary": "暂无摘要",
-          "source": "itshkrishna",
-          "url": "https://github.com/harihkk/Debug-Brief",
-          "time": "2026-06-21"
+          "source": "tartoran",
+          "url": "https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/",
+          "time": "2026-06-22"
         },
         {
-          "title": "Founding Systems Engineer, hardtech startup, full time, ONSITE SF/hybrid",
+          "title": "California admits using high-risk AI – including systems it failed to report",
           "summary": "暂无摘要",
-          "source": "PapillonStar",
-          "url": "https://docs.google.com/document/d/1pudvLsPYiVOAItGD5lDM7zSJhSXqg2qRYWVOdyVp2wc/edit?usp=sharing",
-          "time": "2026-06-21"
+          "source": "cdrnsf",
+          "url": "https://calmatters.org/politics/2026/06/california-admits-government-ai-risk-after-denying/",
+          "time": "2026-06-22"
         },
         {
-          "title": "Show HN: Lelu – catch AI agents when they're manipulated at runtime",
+          "title": "Publishing AI Write-Ups to a URL – Without Leaking the Client Ones",
           "summary": "暂无摘要",
-          "source": "Abenezer0923",
-          "url": "https://github.com/lelu-auth/lelu",
-          "time": "2026-06-21"
+          "source": "bradystroud",
+          "url": "https://bradystroud.dev/blogs/private-docs-vault",
+          "time": "2026-06-22"
         },
         {
-          "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+          "title": "Code Smells when you get AI to write your Front end Tests",
           "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
-          "time": "2026-06-21"
+          "source": "howToTestFE",
+          "url": "https://howtotestfrontend.com/resources/frontend-ai-generated-test-code-smells",
+          "time": "2026-06-22"
         },
         {
-          "title": "The Carbon Footprint of AI (2020)",
+          "title": "Sakana AI Ships Fugu, an Orchestration Model Claiming Fable 5 Performance",
           "summary": "暂无摘要",
-          "source": "reconnecting",
-          "url": "https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/",
-          "time": "2026-06-21"
+          "source": "polskibus",
+          "url": "https://pokee.ai/blog/pokee-ai-daily-2026-06-22",
+          "time": "2026-06-22"
         },
         {
-          "title": "Secretive Wall Street Powerhouse Jane Street Seizes AI Spotlight",
+          "title": "Show HN: Git Issues – versioned task management for AI agents",
           "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a",
-          "time": "2026-06-21"
+          "source": "steviee",
+          "url": "https://steviee.github.io/git-issues/",
+          "time": "2026-06-22"
         },
         {
-          "title": "Labor Market Effects of the Tax Cuts and Jobs Act",
+          "title": "Japan's 'Sakana Fugu' multiagent AI scores well against Fable 5, GPT 5.5",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0927537126000643",
-          "time": "2026-06-21"
+          "source": "polskibus",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-fugu-multiagent-ai-scores-well-against-fable-5-gpt-5.5",
+          "time": "2026-06-22"
         },
         {
-          "title": "AI has won another literary prize",
+          "title": "Who's Suing Whom in AI?",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://twitter.com/nabeelqu/status/2068317401960026219",
-          "time": "2026-06-21"
+          "source": "zdw",
+          "url": "https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing",
+          "time": "2026-06-22"
         },
         {
-          "title": "Show HN: GreyFox – Free self-hosted AI proxy, token quotas, and local cache",
+          "title": "The comment paradox: clean code in age of AI agents",
           "summary": "暂无摘要",
-          "source": "SkilfulFox",
-          "url": "https://github.com/skillful-fox-studio/grey-fox-community",
-          "time": "2026-06-21"
+          "source": "boramdd",
+          "url": "https://www.uyar.design/writing/the-comment-paradox",
+          "time": "2026-06-22"
         },
         {
-          "title": "Ask HN: Anyone notice World Cup video feeds look like AI?",
+          "title": "Show HN: A 100% AI-generated 3D voxel game I built with my 10yo son",
           "summary": "暂无摘要",
-          "source": "TZubiri",
-          "url": "https://news.ycombinator.com/item?id=48621628",
-          "time": "2026-06-21"
+          "source": "marceld23",
+          "url": "https://github.com/marceld23/BlocksBeyondTheStars",
+          "time": "2026-06-22"
         },
         {
-          "title": "Portfolio Covariance Optimization and Market Impact Capacity Engine",
+          "title": "AI and the Job Market for Philosophers",
           "summary": "暂无摘要",
-          "source": "cjb6s",
-          "url": "https://github.com/dy9gzbph7m-cpu/quant-frontier-capacity-solver",
-          "time": "2026-06-21"
+          "source": "speckx",
+          "url": "https://www.natemeyvis.com/ai-and-the-job-market-for-philosophers/",
+          "time": "2026-06-22"
         },
         {
-          "title": "A cheaper and safer agentic AI workflow",
+          "title": "AI and tech are trying to influence the midterm elections",
           "summary": "暂无摘要",
-          "source": "danuker",
-          "url": "https://danuker.go.ro/a-cheaper-and-safer-agentic-ai-workflow.html",
-          "time": "2026-06-21"
+          "source": "pera",
+          "url": "https://text.npr.org/nx-s1-5856359",
+          "time": "2026-06-22"
         },
         {
-          "title": "Tech pundit Cringely cofounds startup '2Brains Inc' to solve LLM hallucinations",
+          "title": "AI Agent / Harness Engineer",
           "summary": "暂无摘要",
-          "source": "MilnerRoute",
-          "url": "https://slashdot.org/story/26/06/20/0556251/tech-pundit-cringely-co-founds-startup-2brains-inc-to-solve-llm-hallucinations",
-          "time": "2026-06-21"
+          "source": "Ryanaga",
+          "url": "https://www.saturnterminal.com/",
+          "time": "2026-06-22"
         },
         {
-          "title": "Flic Mic for AI – The Wireless Voice Button",
+          "title": "Your Own Private AI, Part 2: Secure Access from Anywhere with Tailscale Aperture",
           "summary": "暂无摘要",
-          "source": "jamie4224",
-          "url": "https://mic.flic.io/",
-          "time": "2026-06-21"
+          "source": "anactofgod",
+          "url": "https://10io.com/blog/private-ai-part-2-secure-access-via-tailscale-aperture",
+          "time": "2026-06-22"
         },
         {
-          "title": "Chatting with an AI Won't Make You a Top Programmer",
+          "title": "Local lint, type-check and AI security dashboard for modern full-stack projects",
           "summary": "暂无摘要",
-          "source": "jjgreen",
-          "url": "https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/",
-          "time": "2026-06-21"
+          "source": "dagmawibabi",
+          "url": "https://www.npmjs.com/package/projectlens",
+          "time": "2026-06-22"
         }
       ]
     },
@@ -469,6 +602,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "Three things to watch amid Anthropic’s latest feud with the government",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s l",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+          "time": "2026-06-22"
+        },
         {
           "title": "Why do South Koreans love AI so much?",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight fr",
@@ -502,13 +642,6 @@
           "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populatio",
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-          "time": "2026-06-02"
-        },
-        {
-          "title": "How small businesses can leverage AI",
-          "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t",
-          "source": "Peter Hall",
-          "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
           "time": "2026-06-02"
         }
       ]
@@ -673,165 +806,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Conduit – Self-hosted Bitcoin Lightning payments for AI agents",
+          "title": "Software Engineers Face an AI 'Identity Crisis,' VC Partner Says",
           "summary": "暂无摘要",
-          "source": "conduitbtc",
-          "url": "https://github.com/Jake1848/conduit",
-          "time": "2026-06-21"
+          "source": "simonpure",
+          "url": "https://www.businessinsider.com/software-engineers-face-an-ai-identity-crisis-vc-partner-says-2026-6",
+          "time": "2026-06-22"
         },
         {
-          "title": "AuraText – a Windows overlay that brings AI into any text field URL",
-          "summary": "暂无摘要",
-          "source": "yashra4j",
-          "url": "https://auratxt.com/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "AMD Mini PCs for AI Applications: A Comprehensive 2026 Review",
-          "summary": "暂无摘要",
-          "source": "javaeeeee",
-          "url": "https://old.reddit.com/r/AIProgrammingHardware/comments/1uc0ckg/amd_mini_pcs_for_ai_applications_a_comprehensive/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "The AI Conundrum: We are living in highly subsidized, interesting times",
-          "summary": "暂无摘要",
-          "source": "pyeri",
-          "url": "https://news.ycombinator.com/item?id=48622280",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "AI Is Taking Over Hospitals",
-          "summary": "暂无摘要",
-          "source": "karakoram",
-          "url": "https://www.theatlantic.com/health/2026/06/ai-healthcare-uber-moment/687567/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Show HN: DebugBrief – turn debugging sessions into reports, no AI",
-          "summary": "暂无摘要",
-          "source": "itshkrishna",
-          "url": "https://github.com/harihkk/Debug-Brief",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Show HN: Lelu – catch AI agents when they're manipulated at runtime",
-          "summary": "暂无摘要",
-          "source": "Abenezer0923",
-          "url": "https://github.com/lelu-auth/lelu",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "I'd Rather Risk Cancer Than See AI Move This Fast",
-          "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "The Carbon Footprint of AI (2020)",
-          "summary": "暂无摘要",
-          "source": "reconnecting",
-          "url": "https://devblogs.microsoft.com/sustainable-software/the-carbon-footprint-of-ai/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Secretive Wall Street Powerhouse Jane Street Seizes AI Spotlight",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/tech/ai/jane-street-ai-wall-street-bdfcc81a",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "AI has won another literary prize",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://twitter.com/nabeelqu/status/2068317401960026219",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Show HN: GreyFox – Free self-hosted AI proxy, token quotas, and local cache",
-          "summary": "暂无摘要",
-          "source": "SkilfulFox",
-          "url": "https://github.com/skillful-fox-studio/grey-fox-community",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Ask HN: Anyone notice World Cup video feeds look like AI?",
-          "summary": "暂无摘要",
-          "source": "TZubiri",
-          "url": "https://news.ycombinator.com/item?id=48621628",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "A cheaper and safer agentic AI workflow",
-          "summary": "暂无摘要",
-          "source": "danuker",
-          "url": "https://danuker.go.ro/a-cheaper-and-safer-agentic-ai-workflow.html",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Flic Mic for AI – The Wireless Voice Button",
-          "summary": "暂无摘要",
-          "source": "jamie4224",
-          "url": "https://mic.flic.io/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Chatting with an AI Won't Make You a Top Programmer",
-          "summary": "暂无摘要",
-          "source": "jjgreen",
-          "url": "https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-programmer/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Vexyn – browser-only privacy tools with local AI",
-          "summary": "暂无摘要",
-          "source": "andreicristi88",
-          "url": "https://vexyn.app/",
-          "time": "2026-06-21"
-        },
-        {
-          "title": "Two AI judges scored our agent's answer 0.85, but it never opened the file",
+          "title": "Why most AI evals would miss the Linear sales email failure",
           "summary": "暂无摘要",
           "source": "jflynt76",
-          "url": "https://tenureai.dev/writing/llm-as-judge-became-the-default-for-agent-evaluation/",
-          "time": "2026-06-21"
+          "url": "https://tenureai.dev/writing/why-most-ai-evals-would-miss-the-linear-sales-email-failure/",
+          "time": "2026-06-22"
         },
         {
-          "title": "Show HN: Zither – paste JSON/CSV/a spreadsheet table, stats instantly, no AI",
+          "title": "The Market's AI Fanfare Is Running into a Harsh Political Reality",
           "summary": "暂无摘要",
-          "source": "bluecomputing",
-          "url": "https://zither-zeta.vercel.app/",
-          "time": "2026-06-21"
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.wsj.com/tech/ai/the-markets-ai-fanfare-is-running-into-a-harsh-political-reality-b919829b",
+          "time": "2026-06-22"
         },
         {
-          "title": "Bonfires in the Dark: Ritual, Science, and AI as Compression Interfaces",
+          "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
           "summary": "暂无摘要",
-          "source": "grasant",
-          "url": "https://bartoszlenart.com/blog/bonfires-in-the-dark",
-          "time": "2026-06-21"
+          "source": "petethomas",
+          "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+          "time": "2026-06-22"
         },
         {
-          "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
-          "summary": "Internal Home Office tests of age-verification technology show the risks of life-altering errors. It’s moving forward anyway.",
-          "source": "Matt Burgess, Maddy Varner, May Bulman, Gabriel Geiger",
-          "url": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
-          "time": "2026-06-18"
+          "title": "Five Eyes joint statement on AI models taking down governments and businesses",
+          "summary": "暂无摘要",
+          "source": "thoughtpeddler",
+          "url": "https://www.cisa.gov/news-events/news/five-eyes-cyber-security-agencies-statement",
+          "time": "2026-06-22"
         },
         {
-          "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-          "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-          "source": "Louise Matsakis, Maxwell Zeff",
-          "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-          "time": "2026-06-17"
+          "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
+          "summary": "暂无摘要",
+          "source": "tartoran",
+          "url": "https://www.reuters.com/business/world-at-work/oracle-workforce-shrinks-by-about-13-2026-06-22/",
+          "time": "2026-06-22"
         },
         {
-          "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-          "summary": "In Shenzhen, workers at IO-AI Tech control humanoid robots using a VR rig reminiscent of Ready Player One.",
-          "source": "Will Knight",
-          "url": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
-          "time": "2026-06-17"
+          "title": "California admits using high-risk AI – including systems it failed to report",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://calmatters.org/politics/2026/06/california-admits-government-ai-risk-after-denying/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Publishing AI Write-Ups to a URL – Without Leaking the Client Ones",
+          "summary": "暂无摘要",
+          "source": "bradystroud",
+          "url": "https://bradystroud.dev/blogs/private-docs-vault",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Code Smells when you get AI to write your Front end Tests",
+          "summary": "暂无摘要",
+          "source": "howToTestFE",
+          "url": "https://howtotestfrontend.com/resources/frontend-ai-generated-test-code-smells",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Sakana AI Ships Fugu, an Orchestration Model Claiming Fable 5 Performance",
+          "summary": "暂无摘要",
+          "source": "polskibus",
+          "url": "https://pokee.ai/blog/pokee-ai-daily-2026-06-22",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Show HN: Git Issues – versioned task management for AI agents",
+          "summary": "暂无摘要",
+          "source": "steviee",
+          "url": "https://steviee.github.io/git-issues/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Japan's 'Sakana Fugu' multiagent AI scores well against Fable 5, GPT 5.5",
+          "summary": "暂无摘要",
+          "source": "polskibus",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-fugu-multiagent-ai-scores-well-against-fable-5-gpt-5.5",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Who's Suing Whom in AI?",
+          "summary": "暂无摘要",
+          "source": "zdw",
+          "url": "https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/#suing",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "The comment paradox: clean code in age of AI agents",
+          "summary": "暂无摘要",
+          "source": "boramdd",
+          "url": "https://www.uyar.design/writing/the-comment-paradox",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Show HN: Hybrid search of 540K+ US Government datasets on 2 CPU cores. No LLMs",
+          "summary": "暂无摘要",
+          "source": "kvasserman",
+          "url": "https://findgovdata.org",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Show HN: A 100% AI-generated 3D voxel game I built with my 10yo son",
+          "summary": "暂无摘要",
+          "source": "marceld23",
+          "url": "https://github.com/marceld23/BlocksBeyondTheStars",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "AI and the Job Market for Philosophers",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.natemeyvis.com/ai-and-the-job-market-for-philosophers/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "AI and tech are trying to influence the midterm elections",
+          "summary": "暂无摘要",
+          "source": "pera",
+          "url": "https://text.npr.org/nx-s1-5856359",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "AI Agent / Harness Engineer",
+          "summary": "暂无摘要",
+          "source": "Ryanaga",
+          "url": "https://www.saturnterminal.com/",
+          "time": "2026-06-22"
+        },
+        {
+          "title": "Your Own Private AI, Part 2: Secure Access from Anywhere with Tailscale Aperture",
+          "summary": "暂无摘要",
+          "source": "anactofgod",
+          "url": "https://10io.com/blog/private-ai-part-2-secure-access-via-tailscale-aperture",
+          "time": "2026-06-22"
         }
       ]
     }
