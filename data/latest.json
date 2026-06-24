@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-06-23T21:24:26.228Z",
-  "date": "2026年6月23日 21时24分",
+  "updateTime": "2026-06-24T21:16:44.873Z",
+  "date": "2026年6月24日 21时16分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Lobu: Build AI teammates that watch and act",
+          "title": "AI enthusiasts in a race against time, AI skeptics in a race against entropy",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://lobu.ai/",
-          "time": "2026-06-23"
+          "source": "The_Fox",
+          "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
+          "time": "2026-06-24"
         },
         {
-          "title": "No AI Co-Authors. A Manifesto",
+          "title": "Taiwan Chip Firm ASE Expands for AI Boom",
           "summary": "暂无摘要",
-          "source": "zethraeus",
-          "url": "https://no-ai-coauthors.dev",
-          "time": "2026-06-23"
+          "source": "mmeirovich",
+          "url": "https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand",
+          "time": "2026-06-24"
         },
         {
-          "title": "4 years as a content writer working with AI",
+          "title": "TopoGlyph: A dual-encoding topological language",
           "summary": "暂无摘要",
-          "source": "f3b5",
-          "url": "https://www.getibex.com/blog/4-years-as-a-content-writer-working-with-ai",
-          "time": "2026-06-23"
+          "source": "zwyld",
+          "url": "https://topoglyph.net",
+          "time": "2026-06-24"
         },
         {
-          "title": "When is an AI agent's approval prompt a security boundary?",
+          "title": "Show HN: An AI that roasts your spending out loud (no signup)",
           "summary": "暂无摘要",
-          "source": "nrig",
-          "url": "https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795",
-          "time": "2026-06-23"
+          "source": "elliptic1",
+          "url": "https://malimoney.com/roast",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: AI Torah Chervuta",
+          "title": "Terk Box: Fan made 3D printed Steam Machine",
           "summary": "暂无摘要",
-          "source": "Philosopheril",
-          "url": "https://www.yochai.wiki/chat",
-          "time": "2026-06-23"
+          "source": "sourcecodeplz",
+          "url": "https://www.printables.com/model/1493449-sff-mini-itx-steam-machine-case",
+          "time": "2026-06-24"
         },
         {
-          "title": "Aside: The AI Browser",
+          "title": "Are AI chatbots like ChatGPT politically biased? We tested them",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://aside.com",
-          "time": "2026-06-23"
+          "source": "reaperducer",
+          "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/",
+          "time": "2026-06-24"
         },
         {
-          "title": "The Agent-Buyer Thesis – What Happens When AI Agents Are the Buyers",
+          "title": "TCI's Conference: The Anti-AI Portfolio",
           "summary": "暂无摘要",
-          "source": "P_Economics",
-          "url": "https://agentbuyer.gumroad.com/l/agent-buyer-thesis",
-          "time": "2026-06-23"
+          "source": "gmays",
+          "url": "https://moatsandmultiples.substack.com/p/inside-tcis-conference-the-anti-ai",
+          "time": "2026-06-24"
         },
         {
-          "title": "We've seen AI hype cycles before. They didn't end well",
+          "title": "Show HN: Δlchimist – Local-first AI persona engine for the browser (BYOK)",
           "summary": "暂无摘要",
-          "source": "thelonelyborg",
-          "url": "https://www.narracomm.com/weve-seen-ai-hype-cycles-before-they-didnt-end-well/",
-          "time": "2026-06-23"
+          "source": "Ayauho",
+          "url": "https://github.com/ayauho/alchimist",
+          "time": "2026-06-24"
         },
         {
-          "title": "Doesitstillwork.ai – community-verified status for AI tool features",
+          "title": "Mycelium – codebase memory for AI coding agents",
           "summary": "暂无摘要",
-          "source": "ASRDETYnFXDGh",
-          "url": "https://doesitstillwork.ai",
-          "time": "2026-06-23"
+          "source": "KopikoCappu",
+          "url": "https://www.getmycelium.net/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Flight Recorder for AI Agents",
+          "title": "My Pele Agent Trading the World Cup Prediction Markets with AI and Crypto",
           "summary": "暂无摘要",
-          "source": "ishwantsingh",
-          "url": "https://stordai.com/",
-          "time": "2026-06-23"
+          "source": "rmason",
+          "url": "https://avc.xyz/my-pele-agent",
+          "time": "2026-06-24"
         },
         {
-          "title": "Serving Large Language Models with a Minimalist Python CLI",
+          "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
           "summary": "暂无摘要",
-          "source": "vorticotech",
-          "url": "https://flama.dev/blog/serving_llms_with_flama_cli/",
-          "time": "2026-06-23"
+          "source": "htrp",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: Proctor – signed isolation bundles for AI coding-agent benchmarks",
+          "title": "Stanford graduates rethink their futures as AI transforms tech",
           "summary": "暂无摘要",
-          "source": "dp12",
-          "url": "https://github.com/dylanp12/proctor",
-          "time": "2026-06-23"
+          "source": "jethronethro",
+          "url": "https://www.bbc.com/news/articles/c872j82j2qyo",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: Persist OS – Durable decisions for AI code",
+          "title": "AI IQ Bio",
           "summary": "暂无摘要",
-          "source": "karthickrmchn",
-          "url": "https://github.com/Karthick-Ramachandran/persist-os",
-          "time": "2026-06-23"
+          "source": "shea256",
+          "url": "https://www.aiiq.org/bio/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
+          "title": "Meta pauses employee tracker for AI training amid privacy concerns",
           "summary": "暂无摘要",
-          "source": "b-man",
-          "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&amp;menuNo=400409",
-          "time": "2026-06-23"
+          "source": "iamflimflam1",
+          "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
+          "time": "2026-06-24"
         },
         {
-          "title": "Why smarter models won't lead to AI co-workers",
+          "title": "Every AI Memory Benchmark Has an Asterisk",
           "summary": "暂无摘要",
-          "source": "plaidthunder",
-          "url": "https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html",
-          "time": "2026-06-23"
+          "source": "freewilly25",
+          "url": "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Sakana AI Releases 'Fugu Ultra' to Match Frontier Performance",
+          "title": "Are AI chatbots politically biased?",
           "summary": "暂无摘要",
-          "source": "saikatsg",
-          "url": "https://sakana.ai/fugu-release/",
-          "time": "2026-06-23"
+          "source": "MrBuddyCasino",
+          "url": "https://twitter.com/ianbremmer/status/2069744192230764723",
+          "time": "2026-06-24"
         },
         {
-          "title": "AI's Reliability Gap",
+          "title": "An ECG biomarker for sudden cardiac death discovered with deep learning",
           "summary": "暂无摘要",
-          "source": "zygmunt417",
-          "url": "https://arachnemag.substack.com/p/ais-reliability-gap",
-          "time": "2026-06-23"
+          "source": "brandonb",
+          "url": "https://www.nature.com/articles/s41586-026-10674-6",
+          "time": "2026-06-24"
         },
         {
-          "title": "Mistral CEO: AI companies should pay a content levy in Europe",
+          "title": "The skills I think we might gain (AI)",
           "summary": "暂无摘要",
-          "source": "Teever",
-          "url": "https://www.ft.com/content/d63d6291-687f-4e05-8b23-4d545d78c64a",
-          "time": "2026-06-23"
+          "source": "gb2d_hn",
+          "url": "https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace",
+          "time": "2026-06-24"
         },
         {
-          "title": "Ask HN: Are people generally interested using LLMs for learning purposes?",
+          "title": "The proxy that stops your colleague from leaking another database",
           "summary": "暂无摘要",
-          "source": "iknownthing",
-          "url": "https://news.ycombinator.com/item?id=48649857",
-          "time": "2026-06-23"
+          "source": "itsLerb",
+          "url": "https://github.com/intellideep/nlproxy",
+          "time": "2026-06-24"
         },
         {
-          "title": "Genesis Workbench: Generative AI for Life Sciences",
+          "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks",
           "summary": "暂无摘要",
-          "source": "ilreb",
-          "url": "https://www.databricks.com/solutions/accelerators/genesis-workbench",
-          "time": "2026-06-23"
+          "source": "petethomas",
+          "url": "https://news.bloomberglaw.com/banking-law/ai-shopping-agents-pose-novel-liability-authorization-risks",
+          "time": "2026-06-24"
         },
         {
           "title": "Three things to watch amid Anthropic’s latest feud with the government",
@@ -274,144 +274,144 @@
           "time": "2026-05-19"
         },
         {
-          "title": "Lobu: Build AI teammates that watch and act",
+          "title": "AI enthusiasts in a race against time, AI skeptics in a race against entropy",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://lobu.ai/",
-          "time": "2026-06-23"
+          "source": "The_Fox",
+          "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
+          "time": "2026-06-24"
         },
         {
-          "title": "No AI Co-Authors. A Manifesto",
+          "title": "Taiwan Chip Firm ASE Expands for AI Boom",
           "summary": "暂无摘要",
-          "source": "zethraeus",
-          "url": "https://no-ai-coauthors.dev",
-          "time": "2026-06-23"
+          "source": "mmeirovich",
+          "url": "https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand",
+          "time": "2026-06-24"
         },
         {
-          "title": "4 years as a content writer working with AI",
+          "title": "Google – Alphabet's Sour Soup",
           "summary": "暂无摘要",
-          "source": "f3b5",
-          "url": "https://www.getibex.com/blog/4-years-as-a-content-writer-working-with-ai",
-          "time": "2026-06-23"
+          "source": "IAMAGINIT",
+          "url": "https://news.ycombinator.com/item?id=48665439",
+          "time": "2026-06-24"
         },
         {
-          "title": "When is an AI agent's approval prompt a security boundary?",
+          "title": "Show HN: An AI that roasts your spending out loud (no signup)",
           "summary": "暂无摘要",
-          "source": "nrig",
-          "url": "https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795",
-          "time": "2026-06-23"
+          "source": "elliptic1",
+          "url": "https://malimoney.com/roast",
+          "time": "2026-06-24"
         },
         {
-          "title": "Anthropic gives Claude a permanent seat in your Slack channels",
+          "title": "Are AI chatbots like ChatGPT politically biased? We tested them",
           "summary": "暂无摘要",
-          "source": "r_singh",
-          "url": "https://thenewstack.io/anthropic-claude-tag-slack/",
-          "time": "2026-06-23"
+          "source": "reaperducer",
+          "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: AI Torah Chervuta",
+          "title": "TCI's Conference: The Anti-AI Portfolio",
           "summary": "暂无摘要",
-          "source": "Philosopheril",
-          "url": "https://www.yochai.wiki/chat",
-          "time": "2026-06-23"
+          "source": "gmays",
+          "url": "https://moatsandmultiples.substack.com/p/inside-tcis-conference-the-anti-ai",
+          "time": "2026-06-24"
         },
         {
-          "title": "Aside: The AI Browser",
+          "title": "Show HN: Δlchimist – Local-first AI persona engine for the browser (BYOK)",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://aside.com",
-          "time": "2026-06-23"
+          "source": "Ayauho",
+          "url": "https://github.com/ayauho/alchimist",
+          "time": "2026-06-24"
         },
         {
-          "title": "The Agent-Buyer Thesis – What Happens When AI Agents Are the Buyers",
+          "title": "Mycelium – codebase memory for AI coding agents",
           "summary": "暂无摘要",
-          "source": "P_Economics",
-          "url": "https://agentbuyer.gumroad.com/l/agent-buyer-thesis",
-          "time": "2026-06-23"
+          "source": "KopikoCappu",
+          "url": "https://www.getmycelium.net/",
+          "time": "2026-06-24"
         },
         {
-          "title": "We've seen AI hype cycles before. They didn't end well",
+          "title": "My Pele Agent Trading the World Cup Prediction Markets with AI and Crypto",
           "summary": "暂无摘要",
-          "source": "thelonelyborg",
-          "url": "https://www.narracomm.com/weve-seen-ai-hype-cycles-before-they-didnt-end-well/",
-          "time": "2026-06-23"
+          "source": "rmason",
+          "url": "https://avc.xyz/my-pele-agent",
+          "time": "2026-06-24"
         },
         {
-          "title": "Doesitstillwork.ai – community-verified status for AI tool features",
+          "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
           "summary": "暂无摘要",
-          "source": "ASRDETYnFXDGh",
-          "url": "https://doesitstillwork.ai",
-          "time": "2026-06-23"
+          "source": "htrp",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+          "time": "2026-06-24"
         },
         {
-          "title": "Flight Recorder for AI Agents",
+          "title": "Stanford graduates rethink their futures as AI transforms tech",
           "summary": "暂无摘要",
-          "source": "ishwantsingh",
-          "url": "https://stordai.com/",
-          "time": "2026-06-23"
+          "source": "jethronethro",
+          "url": "https://www.bbc.com/news/articles/c872j82j2qyo",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: Proctor – signed isolation bundles for AI coding-agent benchmarks",
+          "title": "AI IQ Bio",
           "summary": "暂无摘要",
-          "source": "dp12",
-          "url": "https://github.com/dylanp12/proctor",
-          "time": "2026-06-23"
+          "source": "shea256",
+          "url": "https://www.aiiq.org/bio/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: Persist OS – Durable decisions for AI code",
+          "title": "Meta pauses employee tracker for AI training amid privacy concerns",
           "summary": "暂无摘要",
-          "source": "karthickrmchn",
-          "url": "https://github.com/Karthick-Ramachandran/persist-os",
-          "time": "2026-06-23"
+          "source": "iamflimflam1",
+          "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
+          "time": "2026-06-24"
         },
         {
-          "title": "Anthropic updates their terms to verify age or identity",
+          "title": "Every AI Memory Benchmark Has an Asterisk",
           "summary": "暂无摘要",
-          "source": "arunc",
-          "url": "https://www.anthropic.com/legal/privacy",
-          "time": "2026-06-23"
+          "source": "freewilly25",
+          "url": "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
+          "title": "Are AI chatbots politically biased?",
           "summary": "暂无摘要",
-          "source": "b-man",
-          "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&amp;menuNo=400409",
-          "time": "2026-06-23"
+          "source": "MrBuddyCasino",
+          "url": "https://twitter.com/ianbremmer/status/2069744192230764723",
+          "time": "2026-06-24"
         },
         {
-          "title": "Why smarter models won't lead to AI co-workers",
+          "title": "The skills I think we might gain (AI)",
           "summary": "暂无摘要",
-          "source": "plaidthunder",
-          "url": "https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html",
-          "time": "2026-06-23"
+          "source": "gb2d_hn",
+          "url": "https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace",
+          "time": "2026-06-24"
         },
         {
-          "title": "Sakana AI Releases 'Fugu Ultra' to Match Frontier Performance",
+          "title": "U.S. Presses Meta to Agree to A.I. Reviews",
           "summary": "暂无摘要",
-          "source": "saikatsg",
-          "url": "https://sakana.ai/fugu-release/",
-          "time": "2026-06-23"
+          "source": "gmays",
+          "url": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html",
+          "time": "2026-06-24"
         },
         {
-          "title": "AI's Reliability Gap",
+          "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks",
           "summary": "暂无摘要",
-          "source": "zygmunt417",
-          "url": "https://arachnemag.substack.com/p/ais-reliability-gap",
-          "time": "2026-06-23"
+          "source": "petethomas",
+          "url": "https://news.bloomberglaw.com/banking-law/ai-shopping-agents-pose-novel-liability-authorization-risks",
+          "time": "2026-06-24"
         },
         {
-          "title": "Mistral CEO: AI companies should pay a content levy in Europe",
+          "title": "Microsoft uses AI to link two malware operations in racketeering suit",
           "summary": "暂无摘要",
-          "source": "Teever",
-          "url": "https://www.ft.com/content/d63d6291-687f-4e05-8b23-4d545d78c64a",
-          "time": "2026-06-23"
+          "source": "speckx",
+          "url": "https://www.theregister.com/security/2026/06/24/microsoft-uses-ai-to-link-two-malware-operations-in-racketeering-suit/5261656",
+          "time": "2026-06-24"
         },
         {
-          "title": "Genesis Workbench: Generative AI for Life Sciences",
+          "title": "Superhuman acquires AI detection startup GPTZero with 19M+ users and $30M ARR",
           "summary": "暂无摘要",
-          "source": "ilreb",
-          "url": "https://www.databricks.com/solutions/accelerators/genesis-workbench",
-          "time": "2026-06-23"
+          "source": "thoughtpeddler",
+          "url": "https://gptzero.me/news/preserving-whats-human/",
+          "time": "2026-06-24"
         }
       ]
     },
@@ -420,6 +420,20 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+          "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+          "source": "Kirsten Korosec",
+          "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+          "time": "2026-06-24"
+        },
+        {
+          "title": "India&#8217;s MoEngage bets that the future of marketing is millions of AI agents",
+          "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+          "time": "2026-06-23"
+        },
         {
           "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
           "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI",
@@ -435,144 +449,158 @@
           "time": "2026-06-22"
         },
         {
-          "title": "Lobu: Build AI teammates that watch and act",
-          "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://lobu.ai/",
-          "time": "2026-06-23"
+          "title": "A24 Knows You’re Mad About the Google AI Collab",
+          "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood.",
+          "source": "John Semley",
+          "url": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+          "time": "2026-06-24"
         },
         {
-          "title": "No AI Co-Authors. A Manifesto",
-          "summary": "暂无摘要",
-          "source": "zethraeus",
-          "url": "https://no-ai-coauthors.dev",
-          "time": "2026-06-23"
+          "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
+          "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
+          "source": "Lauren Goode",
+          "url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+          "time": "2026-06-24"
         },
         {
-          "title": "4 years as a content writer working with AI",
+          "title": "AI enthusiasts in a race against time, AI skeptics in a race against entropy",
           "summary": "暂无摘要",
-          "source": "f3b5",
-          "url": "https://www.getibex.com/blog/4-years-as-a-content-writer-working-with-ai",
-          "time": "2026-06-23"
+          "source": "The_Fox",
+          "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
+          "time": "2026-06-24"
         },
         {
-          "title": "When is an AI agent's approval prompt a security boundary?",
+          "title": "Taiwan Chip Firm ASE Expands for AI Boom",
           "summary": "暂无摘要",
-          "source": "nrig",
-          "url": "https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795",
-          "time": "2026-06-23"
+          "source": "mmeirovich",
+          "url": "https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand",
+          "time": "2026-06-24"
         },
         {
-          "title": "New car registrations: +4% year-to-date; battery-electric 20% market share [pdf]",
+          "title": "Show HN: An AI that roasts your spending out loud (no signup)",
           "summary": "暂无摘要",
-          "source": "haunter",
-          "url": "https://www.acea.auto/files/Press_release_car_registrations_May_2026.pdf",
-          "time": "2026-06-23"
+          "source": "elliptic1",
+          "url": "https://malimoney.com/roast",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: AI Torah Chervuta",
+          "title": "Are AI chatbots like ChatGPT politically biased? We tested them",
           "summary": "暂无摘要",
-          "source": "Philosopheril",
-          "url": "https://www.yochai.wiki/chat",
-          "time": "2026-06-23"
+          "source": "reaperducer",
+          "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Aside: The AI Browser",
+          "title": "TCI's Conference: The Anti-AI Portfolio",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://aside.com",
-          "time": "2026-06-23"
+          "source": "gmays",
+          "url": "https://moatsandmultiples.substack.com/p/inside-tcis-conference-the-anti-ai",
+          "time": "2026-06-24"
         },
         {
-          "title": "The Agent-Buyer Thesis – What Happens When AI Agents Are the Buyers",
+          "title": "Show HN: Δlchimist – Local-first AI persona engine for the browser (BYOK)",
           "summary": "暂无摘要",
-          "source": "P_Economics",
-          "url": "https://agentbuyer.gumroad.com/l/agent-buyer-thesis",
-          "time": "2026-06-23"
+          "source": "Ayauho",
+          "url": "https://github.com/ayauho/alchimist",
+          "time": "2026-06-24"
         },
         {
-          "title": "We've seen AI hype cycles before. They didn't end well",
+          "title": "Mycelium – codebase memory for AI coding agents",
           "summary": "暂无摘要",
-          "source": "thelonelyborg",
-          "url": "https://www.narracomm.com/weve-seen-ai-hype-cycles-before-they-didnt-end-well/",
-          "time": "2026-06-23"
+          "source": "KopikoCappu",
+          "url": "https://www.getmycelium.net/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Doesitstillwork.ai – community-verified status for AI tool features",
+          "title": "My Pele Agent Trading the World Cup Prediction Markets with AI and Crypto",
           "summary": "暂无摘要",
-          "source": "ASRDETYnFXDGh",
-          "url": "https://doesitstillwork.ai",
-          "time": "2026-06-23"
+          "source": "rmason",
+          "url": "https://avc.xyz/my-pele-agent",
+          "time": "2026-06-24"
         },
         {
-          "title": "Flight Recorder for AI Agents",
+          "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
           "summary": "暂无摘要",
-          "source": "ishwantsingh",
-          "url": "https://stordai.com/",
-          "time": "2026-06-23"
+          "source": "htrp",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: Proctor – signed isolation bundles for AI coding-agent benchmarks",
+          "title": "Stanford graduates rethink their futures as AI transforms tech",
           "summary": "暂无摘要",
-          "source": "dp12",
-          "url": "https://github.com/dylanp12/proctor",
-          "time": "2026-06-23"
+          "source": "jethronethro",
+          "url": "https://www.bbc.com/news/articles/c872j82j2qyo",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: Persist OS – Durable decisions for AI code",
+          "title": "AI IQ Bio",
           "summary": "暂无摘要",
-          "source": "karthickrmchn",
-          "url": "https://github.com/Karthick-Ramachandran/persist-os",
-          "time": "2026-06-23"
+          "source": "shea256",
+          "url": "https://www.aiiq.org/bio/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
+          "title": "Meta pauses employee tracker for AI training amid privacy concerns",
           "summary": "暂无摘要",
-          "source": "b-man",
-          "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&amp;menuNo=400409",
-          "time": "2026-06-23"
+          "source": "iamflimflam1",
+          "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
+          "time": "2026-06-24"
         },
         {
-          "title": "Why smarter models won't lead to AI co-workers",
+          "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
           "summary": "暂无摘要",
-          "source": "plaidthunder",
-          "url": "https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html",
-          "time": "2026-06-23"
+          "source": "theanonymousone",
+          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Sakana AI Releases 'Fugu Ultra' to Match Frontier Performance",
+          "title": "Every AI Memory Benchmark Has an Asterisk",
           "summary": "暂无摘要",
-          "source": "saikatsg",
-          "url": "https://sakana.ai/fugu-release/",
-          "time": "2026-06-23"
+          "source": "freewilly25",
+          "url": "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/",
+          "time": "2026-06-24"
         },
         {
-          "title": "AI's Reliability Gap",
+          "title": "Are AI chatbots politically biased?",
           "summary": "暂无摘要",
-          "source": "zygmunt417",
-          "url": "https://arachnemag.substack.com/p/ais-reliability-gap",
-          "time": "2026-06-23"
+          "source": "MrBuddyCasino",
+          "url": "https://twitter.com/ianbremmer/status/2069744192230764723",
+          "time": "2026-06-24"
         },
         {
-          "title": "Mistral CEO: AI companies should pay a content levy in Europe",
+          "title": "The skills I think we might gain (AI)",
           "summary": "暂无摘要",
-          "source": "Teever",
-          "url": "https://www.ft.com/content/d63d6291-687f-4e05-8b23-4d545d78c64a",
-          "time": "2026-06-23"
+          "source": "gb2d_hn",
+          "url": "https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace",
+          "time": "2026-06-24"
         },
         {
-          "title": "Genesis Workbench: Generative AI for Life Sciences",
+          "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks",
           "summary": "暂无摘要",
-          "source": "ilreb",
-          "url": "https://www.databricks.com/solutions/accelerators/genesis-workbench",
-          "time": "2026-06-23"
+          "source": "petethomas",
+          "url": "https://news.bloomberglaw.com/banking-law/ai-shopping-agents-pose-novel-liability-authorization-risks",
+          "time": "2026-06-24"
         },
         {
-          "title": "Exposing the 'brute force' of AI that is 'trying to make humans redundant'",
+          "title": "Microsoft uses AI to link two malware operations in racketeering suit",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/in-depth/618503/karen-hao-exposing-the-brute-force-of-ai-that-is-trying-to-make-humans-redundant",
-          "time": "2026-06-23"
+          "source": "speckx",
+          "url": "https://www.theregister.com/security/2026/06/24/microsoft-uses-ai-to-link-two-malware-operations-in-racketeering-suit/5261656",
+          "time": "2026-06-24"
+        },
+        {
+          "title": "Superhuman acquires AI detection startup GPTZero with 19M+ users and $30M ARR",
+          "summary": "暂无摘要",
+          "source": "thoughtpeddler",
+          "url": "https://gptzero.me/news/preserving-whats-human/",
+          "time": "2026-06-24"
+        },
+        {
+          "title": "An autonomous AI agent that handles video retention editing",
+          "summary": "暂无摘要",
+          "source": "Quise",
+          "url": "https://www.autoeditor.app/",
+          "time": "2026-06-24"
         }
       ]
     },
@@ -581,6 +609,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "The emergence of the web data infrastructure layer for AI",
+          "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstru",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+          "time": "2026-06-24"
+        },
         {
           "title": "Three things to watch amid Anthropic’s latest feud with the government",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s l",
@@ -778,144 +813,151 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Lobu: Build AI teammates that watch and act",
+          "title": "AI enthusiasts in a race against time, AI skeptics in a race against entropy",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://lobu.ai/",
-          "time": "2026-06-23"
+          "source": "The_Fox",
+          "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
+          "time": "2026-06-24"
         },
         {
-          "title": "No AI Co-Authors. A Manifesto",
+          "title": "Taiwan Chip Firm ASE Expands for AI Boom",
           "summary": "暂无摘要",
-          "source": "zethraeus",
-          "url": "https://no-ai-coauthors.dev",
-          "time": "2026-06-23"
+          "source": "mmeirovich",
+          "url": "https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand",
+          "time": "2026-06-24"
         },
         {
-          "title": "4 years as a content writer working with AI",
+          "title": "Austin Carter, 30, was disarmed by a drone, a possible first in law enforcement",
           "summary": "暂无摘要",
-          "source": "f3b5",
-          "url": "https://www.getibex.com/blog/4-years-as-a-content-writer-working-with-ai",
-          "time": "2026-06-23"
+          "source": "Tomte",
+          "url": "https://www.foxnews.com/us/california-sheriffs-use-magent-equipped-drone-disarm-knife-wielding-sex-offender-hidden-garage",
+          "time": "2026-06-24"
         },
         {
-          "title": "When is an AI agent's approval prompt a security boundary?",
+          "title": "Show HN: An AI that roasts your spending out loud (no signup)",
           "summary": "暂无摘要",
-          "source": "nrig",
-          "url": "https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795",
-          "time": "2026-06-23"
+          "source": "elliptic1",
+          "url": "https://malimoney.com/roast",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: AI Torah Chervuta",
+          "title": "Are AI chatbots like ChatGPT politically biased? We tested them",
           "summary": "暂无摘要",
-          "source": "Philosopheril",
-          "url": "https://www.yochai.wiki/chat",
-          "time": "2026-06-23"
+          "source": "reaperducer",
+          "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Aside: The AI Browser",
+          "title": "TCI's Conference: The Anti-AI Portfolio",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://aside.com",
-          "time": "2026-06-23"
+          "source": "gmays",
+          "url": "https://moatsandmultiples.substack.com/p/inside-tcis-conference-the-anti-ai",
+          "time": "2026-06-24"
         },
         {
-          "title": "The Agent-Buyer Thesis – What Happens When AI Agents Are the Buyers",
+          "title": "Show HN: Δlchimist – Local-first AI persona engine for the browser (BYOK)",
           "summary": "暂无摘要",
-          "source": "P_Economics",
-          "url": "https://agentbuyer.gumroad.com/l/agent-buyer-thesis",
-          "time": "2026-06-23"
+          "source": "Ayauho",
+          "url": "https://github.com/ayauho/alchimist",
+          "time": "2026-06-24"
         },
         {
-          "title": "We've seen AI hype cycles before. They didn't end well",
+          "title": "Mycelium – codebase memory for AI coding agents",
           "summary": "暂无摘要",
-          "source": "thelonelyborg",
-          "url": "https://www.narracomm.com/weve-seen-ai-hype-cycles-before-they-didnt-end-well/",
-          "time": "2026-06-23"
+          "source": "KopikoCappu",
+          "url": "https://www.getmycelium.net/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Doesitstillwork.ai – community-verified status for AI tool features",
+          "title": "My Pele Agent Trading the World Cup Prediction Markets with AI and Crypto",
           "summary": "暂无摘要",
-          "source": "ASRDETYnFXDGh",
-          "url": "https://doesitstillwork.ai",
-          "time": "2026-06-23"
+          "source": "rmason",
+          "url": "https://avc.xyz/my-pele-agent",
+          "time": "2026-06-24"
         },
         {
-          "title": "Flight Recorder for AI Agents",
+          "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
           "summary": "暂无摘要",
-          "source": "ishwantsingh",
-          "url": "https://stordai.com/",
-          "time": "2026-06-23"
+          "source": "htrp",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: Proctor – signed isolation bundles for AI coding-agent benchmarks",
+          "title": "Stanford graduates rethink their futures as AI transforms tech",
           "summary": "暂无摘要",
-          "source": "dp12",
-          "url": "https://github.com/dylanp12/proctor",
-          "time": "2026-06-23"
+          "source": "jethronethro",
+          "url": "https://www.bbc.com/news/articles/c872j82j2qyo",
+          "time": "2026-06-24"
         },
         {
-          "title": "Show HN: Persist OS – Durable decisions for AI code",
+          "title": "AI IQ Bio",
           "summary": "暂无摘要",
-          "source": "karthickrmchn",
-          "url": "https://github.com/Karthick-Ramachandran/persist-os",
-          "time": "2026-06-23"
+          "source": "shea256",
+          "url": "https://www.aiiq.org/bio/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Does AI Adoption Improve Productivity? Effects over the First Three Years",
+          "title": "Meta pauses employee tracker for AI training amid privacy concerns",
           "summary": "暂无摘要",
-          "source": "b-man",
-          "url": "https://www.bok.or.kr/eng/bbs/B0000354/view.do?nttId=10098400&amp;menuNo=400409",
-          "time": "2026-06-23"
+          "source": "iamflimflam1",
+          "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
+          "time": "2026-06-24"
         },
         {
-          "title": "Why smarter models won't lead to AI co-workers",
+          "title": "Every AI Memory Benchmark Has an Asterisk",
           "summary": "暂无摘要",
-          "source": "plaidthunder",
-          "url": "https://usize.github.io/blog/2026/april/why-no-ai-coworkers.html",
-          "time": "2026-06-23"
+          "source": "freewilly25",
+          "url": "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Sakana AI Releases 'Fugu Ultra' to Match Frontier Performance",
+          "title": "Are AI chatbots politically biased?",
           "summary": "暂无摘要",
-          "source": "saikatsg",
-          "url": "https://sakana.ai/fugu-release/",
-          "time": "2026-06-23"
+          "source": "MrBuddyCasino",
+          "url": "https://twitter.com/ianbremmer/status/2069744192230764723",
+          "time": "2026-06-24"
         },
         {
-          "title": "AI's Reliability Gap",
+          "title": "The skills I think we might gain (AI)",
           "summary": "暂无摘要",
-          "source": "zygmunt417",
-          "url": "https://arachnemag.substack.com/p/ais-reliability-gap",
-          "time": "2026-06-23"
+          "source": "gb2d_hn",
+          "url": "https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace",
+          "time": "2026-06-24"
         },
         {
-          "title": "Mistral CEO: AI companies should pay a content levy in Europe",
+          "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks",
           "summary": "暂无摘要",
-          "source": "Teever",
-          "url": "https://www.ft.com/content/d63d6291-687f-4e05-8b23-4d545d78c64a",
-          "time": "2026-06-23"
+          "source": "petethomas",
+          "url": "https://news.bloomberglaw.com/banking-law/ai-shopping-agents-pose-novel-liability-authorization-risks",
+          "time": "2026-06-24"
         },
         {
-          "title": "Genesis Workbench: Generative AI for Life Sciences",
+          "title": "Microsoft uses AI to link two malware operations in racketeering suit",
           "summary": "暂无摘要",
-          "source": "ilreb",
-          "url": "https://www.databricks.com/solutions/accelerators/genesis-workbench",
-          "time": "2026-06-23"
+          "source": "speckx",
+          "url": "https://www.theregister.com/security/2026/06/24/microsoft-uses-ai-to-link-two-malware-operations-in-racketeering-suit/5261656",
+          "time": "2026-06-24"
         },
         {
-          "title": "Exposing the 'brute force' of AI that is 'trying to make humans redundant'",
+          "title": "Superhuman acquires AI detection startup GPTZero with 19M+ users and $30M ARR",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/in-depth/618503/karen-hao-exposing-the-brute-force-of-ai-that-is-trying-to-make-humans-redundant",
-          "time": "2026-06-23"
+          "source": "thoughtpeddler",
+          "url": "https://gptzero.me/news/preserving-whats-human/",
+          "time": "2026-06-24"
         },
         {
-          "title": "Advocating for fixes to California AI Transparency Act to protect open source",
+          "title": "An autonomous AI agent that handles video retention editing",
           "summary": "暂无摘要",
-          "source": "mlinksva",
-          "url": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
-          "time": "2026-06-23"
+          "source": "Quise",
+          "url": "https://www.autoeditor.app/",
+          "time": "2026-06-24"
+        },
+        {
+          "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
+          "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
+          "source": "Will Knight",
+          "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+          "time": "2026-06-24"
         }
       ]
     }
