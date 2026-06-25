@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-06-24T21:16:44.873Z",
-  "date": "2026年6月24日 21时16分",
+  "updateTime": "2026-06-25T21:22:32.827Z",
+  "date": "2026年6月25日 21时22分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "AI enthusiasts in a race against time, AI skeptics in a race against entropy",
+          "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
           "summary": "暂无摘要",
-          "source": "The_Fox",
-          "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
-          "time": "2026-06-24"
+          "source": "billybuckwheat",
+          "url": "https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
+          "time": "2026-06-25"
         },
         {
-          "title": "Taiwan Chip Firm ASE Expands for AI Boom",
+          "title": "My Approach to Using AI with Programming",
           "summary": "暂无摘要",
-          "source": "mmeirovich",
-          "url": "https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand",
-          "time": "2026-06-24"
+          "source": "Davesjoshin",
+          "url": "https://davidjwalz.com/my-approach-to-using-ai-with-programming/",
+          "time": "2026-06-25"
         },
         {
-          "title": "TopoGlyph: A dual-encoding topological language",
+          "title": "Show HN: OpenLanguage- AI Language Tutor for iOS",
           "summary": "暂无摘要",
-          "source": "zwyld",
-          "url": "https://topoglyph.net",
-          "time": "2026-06-24"
+          "source": "willks",
+          "url": "https://github.com/challenga-org/openlanguage",
+          "time": "2026-06-25"
         },
         {
-          "title": "Show HN: An AI that roasts your spending out loud (no signup)",
+          "title": "Show HN: CtxGov – see what instructions your AI agent inherits before it runs",
           "summary": "暂无摘要",
-          "source": "elliptic1",
-          "url": "https://malimoney.com/roast",
-          "time": "2026-06-24"
+          "source": "LuxBennu",
+          "url": "https://github.com/ctxgov/ctxgov",
+          "time": "2026-06-25"
         },
         {
-          "title": "Terk Box: Fan made 3D printed Steam Machine",
+          "title": "Cloudflare Collaborates with Leading Browsers to Develop Privacy-First Protocol",
           "summary": "暂无摘要",
-          "source": "sourcecodeplz",
-          "url": "https://www.printables.com/model/1493449-sff-mini-itx-steam-machine-case",
-          "time": "2026-06-24"
+          "source": "mooreds",
+          "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-collaborates-with-leading-browsers-to-develop-a-privacy-first-protocol-for-the-global-internet/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Are AI chatbots like ChatGPT politically biased? We tested them",
+          "title": "Is AI Good at Stock-Market Timing? A New Study Casts Doubt",
           "summary": "暂无摘要",
-          "source": "reaperducer",
-          "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/",
-          "time": "2026-06-24"
+          "source": "fortran77",
+          "url": "https://www.wsj.com/tech/ai/ai-stock-market-trading-research-154eeb72",
+          "time": "2026-06-25"
         },
         {
-          "title": "TCI's Conference: The Anti-AI Portfolio",
+          "title": "La Stim Machine [Fr]",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://moatsandmultiples.substack.com/p/inside-tcis-conference-the-anti-ai",
-          "time": "2026-06-24"
+          "source": "thesnide",
+          "url": "https://www.ldlc.com/fiche/PB00745922.html",
+          "time": "2026-06-25"
         },
         {
-          "title": "Show HN: Δlchimist – Local-first AI persona engine for the browser (BYOK)",
+          "title": "Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use",
           "summary": "暂无摘要",
-          "source": "Ayauho",
-          "url": "https://github.com/ayauho/alchimist",
-          "time": "2026-06-24"
+          "source": "ilamont",
+          "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Mycelium – codebase memory for AI coding agents",
+          "title": "Parallel Parentheses Matching",
           "summary": "暂无摘要",
-          "source": "KopikoCappu",
-          "url": "https://www.getmycelium.net/",
-          "time": "2026-06-24"
+          "source": "Athas",
+          "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+          "time": "2026-06-25"
         },
         {
-          "title": "My Pele Agent Trading the World Cup Prediction Markets with AI and Crypto",
+          "title": "Can AI Effectively Approve Production Infra Changes?",
           "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://avc.xyz/my-pele-agent",
-          "time": "2026-06-24"
+          "source": "mooreds",
+          "url": "https://newsletter.masterpoint.io/p/can-ai-effectively-approve-production-infra-changes",
+          "time": "2026-06-25"
         },
         {
-          "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
+          "title": "Show HN: Polygraph – Let AI agents see cross repo and maintain session memory",
           "summary": "暂无摘要",
-          "source": "htrp",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
-          "time": "2026-06-24"
+          "source": "jeffbcross",
+          "url": "https://trypolygraph.com/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Stanford graduates rethink their futures as AI transforms tech",
+          "title": "Cornell Recovered $100k in Unidentified Payments with AI",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.bbc.com/news/articles/c872j82j2qyo",
-          "time": "2026-06-24"
+          "source": "simonpure",
+          "url": "https://innovationhub.ai.cornell.edu/articles/how-cornell-recovered-100000-in-unidentified-payments-with-ai/",
+          "time": "2026-06-25"
         },
         {
-          "title": "AI IQ Bio",
+          "title": "Show HN: I built an Ad-free Pinterest Alternative with AI content filtering",
           "summary": "暂无摘要",
-          "source": "shea256",
-          "url": "https://www.aiiq.org/bio/",
-          "time": "2026-06-24"
+          "source": "akshat368",
+          "url": "https://moodloom.xyz",
+          "time": "2026-06-25"
         },
         {
-          "title": "Meta pauses employee tracker for AI training amid privacy concerns",
+          "title": "AI Surveillance: Age Verification Meets Your Chat Logs",
           "summary": "暂无摘要",
-          "source": "iamflimflam1",
-          "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
-          "time": "2026-06-24"
+          "source": "pavel_lishin",
+          "url": "https://techtrenches.dev/p/the-cost-of-reading-everyone-just",
+          "time": "2026-06-25"
         },
         {
-          "title": "Every AI Memory Benchmark Has an Asterisk",
+          "title": "Applied AI Implementation Engineer Freelance",
           "summary": "暂无摘要",
-          "source": "freewilly25",
-          "url": "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/",
-          "time": "2026-06-24"
+          "source": "awongsem",
+          "url": "https://news.ycombinator.com/item?id=48678286",
+          "time": "2026-06-25"
         },
         {
-          "title": "Are AI chatbots politically biased?",
+          "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
           "summary": "暂无摘要",
-          "source": "MrBuddyCasino",
-          "url": "https://twitter.com/ianbremmer/status/2069744192230764723",
-          "time": "2026-06-24"
+          "source": "pseudolus",
+          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+          "time": "2026-06-25"
         },
         {
-          "title": "An ECG biomarker for sudden cardiac death discovered with deep learning",
+          "title": "Show HN: OnBuzz – an open-source workspace for AI agent teams",
           "summary": "暂无摘要",
-          "source": "brandonb",
-          "url": "https://www.nature.com/articles/s41586-026-10674-6",
-          "time": "2026-06-24"
+          "source": "Dantlv",
+          "url": "https://github.com/Loxia-ai/onbuzz-community",
+          "time": "2026-06-25"
         },
         {
-          "title": "The skills I think we might gain (AI)",
+          "title": "Study: Governed AI retrieval – 97% pass rate, 67% fewer tokens (Emory, IBM)",
           "summary": "暂无摘要",
-          "source": "gb2d_hn",
-          "url": "https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace",
-          "time": "2026-06-24"
+          "source": "sparkystacey",
+          "url": "https://promptowl.ai/resources/verifiable-context-governance/",
+          "time": "2026-06-25"
         },
         {
-          "title": "The proxy that stops your colleague from leaking another database",
+          "title": "Show HN: OpenPhone – new open source, customized AI-native Android OS",
           "summary": "暂无摘要",
-          "source": "itsLerb",
-          "url": "https://github.com/intellideep/nlproxy",
-          "time": "2026-06-24"
+          "source": "talboren",
+          "url": "https://github.com/secondly-com/openphone",
+          "time": "2026-06-25"
         },
         {
-          "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks",
+          "title": "Cargo thieves are following the AI boom",
           "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://news.bloomberglaw.com/banking-law/ai-shopping-agents-pose-novel-liability-authorization-risks",
-          "time": "2026-06-24"
+          "source": "crescit_eundo",
+          "url": "https://www.freightwaves.com/news/cargo-thieves-are-following-the-ai-boom",
+          "time": "2026-06-25"
         },
         {
           "title": "Three things to watch amid Anthropic’s latest feud with the government",
@@ -167,13 +167,6 @@
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
           "time": "2026-06-11"
-        },
-        {
-          "title": "The Meta hack shows there’s more to AI security than Mythos",
-          "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email ",
-          "source": "Grace Huckins",
-          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-          "time": "2026-06-05"
         }
       ]
     },
@@ -182,6 +175,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Our latest Google Finance upgrades, including a new app",
+          "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+          "time": "2026-06-25"
+        },
         {
           "title": "We’re strengthening our presence in Alabama through new investments and community support.",
           "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -267,151 +267,144 @@
           "time": "2026-05-19"
         },
         {
-          "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-          "summary": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-          "time": "2026-05-19"
+          "title": "Lead Developer at Google Earth Believes Earth Is Flat – Steemit",
+          "summary": "暂无摘要",
+          "source": "evo_9",
+          "url": "https://steemit.com/flatearth/@alternative/lead-developer-at-google-earth-believes-earth-is-flat",
+          "time": "2026-06-25"
         },
         {
-          "title": "AI enthusiasts in a race against time, AI skeptics in a race against entropy",
+          "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
           "summary": "暂无摘要",
-          "source": "The_Fox",
-          "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
-          "time": "2026-06-24"
+          "source": "billybuckwheat",
+          "url": "https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
+          "time": "2026-06-25"
         },
         {
-          "title": "Taiwan Chip Firm ASE Expands for AI Boom",
+          "title": "My Approach to Using AI with Programming",
           "summary": "暂无摘要",
-          "source": "mmeirovich",
-          "url": "https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand",
-          "time": "2026-06-24"
+          "source": "Davesjoshin",
+          "url": "https://davidjwalz.com/my-approach-to-using-ai-with-programming/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Google – Alphabet's Sour Soup",
+          "title": "Show HN: OpenLanguage- AI Language Tutor for iOS",
           "summary": "暂无摘要",
-          "source": "IAMAGINIT",
-          "url": "https://news.ycombinator.com/item?id=48665439",
-          "time": "2026-06-24"
+          "source": "willks",
+          "url": "https://github.com/challenga-org/openlanguage",
+          "time": "2026-06-25"
         },
         {
-          "title": "Show HN: An AI that roasts your spending out loud (no signup)",
+          "title": "Trump administration asks OpenAI to stagger release of new model",
           "summary": "暂无摘要",
-          "source": "elliptic1",
-          "url": "https://malimoney.com/roast",
-          "time": "2026-06-24"
+          "source": "fla",
+          "url": "https://ca.finance.yahoo.com/news/trump-administration-asks-openai-stagger-204300837.html",
+          "time": "2026-06-25"
         },
         {
-          "title": "Are AI chatbots like ChatGPT politically biased? We tested them",
+          "title": "Show HN: CtxGov – see what instructions your AI agent inherits before it runs",
           "summary": "暂无摘要",
-          "source": "reaperducer",
-          "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/",
-          "time": "2026-06-24"
+          "source": "LuxBennu",
+          "url": "https://github.com/ctxgov/ctxgov",
+          "time": "2026-06-25"
         },
         {
-          "title": "TCI's Conference: The Anti-AI Portfolio",
+          "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://moatsandmultiples.substack.com/p/inside-tcis-conference-the-anti-ai",
-          "time": "2026-06-24"
+          "source": "mfiguiere",
+          "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+          "time": "2026-06-25"
         },
         {
-          "title": "Show HN: Δlchimist – Local-first AI persona engine for the browser (BYOK)",
+          "title": "Is AI Good at Stock-Market Timing? A New Study Casts Doubt",
           "summary": "暂无摘要",
-          "source": "Ayauho",
-          "url": "https://github.com/ayauho/alchimist",
-          "time": "2026-06-24"
+          "source": "fortran77",
+          "url": "https://www.wsj.com/tech/ai/ai-stock-market-trading-research-154eeb72",
+          "time": "2026-06-25"
         },
         {
-          "title": "Mycelium – codebase memory for AI coding agents",
+          "title": "OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
           "summary": "暂无摘要",
-          "source": "KopikoCappu",
-          "url": "https://www.getmycelium.net/",
-          "time": "2026-06-24"
+          "source": "217",
+          "url": "https://velo.xyz/news/1908",
+          "time": "2026-06-25"
         },
         {
-          "title": "My Pele Agent Trading the World Cup Prediction Markets with AI and Crypto",
+          "title": "Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use",
           "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://avc.xyz/my-pele-agent",
-          "time": "2026-06-24"
+          "source": "ilamont",
+          "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
+          "title": "Can AI Effectively Approve Production Infra Changes?",
           "summary": "暂无摘要",
-          "source": "htrp",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
-          "time": "2026-06-24"
+          "source": "mooreds",
+          "url": "https://newsletter.masterpoint.io/p/can-ai-effectively-approve-production-infra-changes",
+          "time": "2026-06-25"
         },
         {
-          "title": "Stanford graduates rethink their futures as AI transforms tech",
+          "title": "Show HN: Polygraph – Let AI agents see cross repo and maintain session memory",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.bbc.com/news/articles/c872j82j2qyo",
-          "time": "2026-06-24"
+          "source": "jeffbcross",
+          "url": "https://trypolygraph.com/",
+          "time": "2026-06-25"
         },
         {
-          "title": "AI IQ Bio",
+          "title": "Cornell Recovered $100k in Unidentified Payments with AI",
           "summary": "暂无摘要",
-          "source": "shea256",
-          "url": "https://www.aiiq.org/bio/",
-          "time": "2026-06-24"
+          "source": "simonpure",
+          "url": "https://innovationhub.ai.cornell.edu/articles/how-cornell-recovered-100000-in-unidentified-payments-with-ai/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Meta pauses employee tracker for AI training amid privacy concerns",
+          "title": "Show HN: I built an Ad-free Pinterest Alternative with AI content filtering",
           "summary": "暂无摘要",
-          "source": "iamflimflam1",
-          "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
-          "time": "2026-06-24"
+          "source": "akshat368",
+          "url": "https://moodloom.xyz",
+          "time": "2026-06-25"
         },
         {
-          "title": "Every AI Memory Benchmark Has an Asterisk",
+          "title": "Trying to recover from thin content penalty from Google",
           "summary": "暂无摘要",
-          "source": "freewilly25",
-          "url": "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/",
-          "time": "2026-06-24"
+          "source": "anitroves",
+          "url": "https://news.ycombinator.com/item?id=48678398",
+          "time": "2026-06-25"
         },
         {
-          "title": "Are AI chatbots politically biased?",
+          "title": "AI Surveillance: Age Verification Meets Your Chat Logs",
           "summary": "暂无摘要",
-          "source": "MrBuddyCasino",
-          "url": "https://twitter.com/ianbremmer/status/2069744192230764723",
-          "time": "2026-06-24"
+          "source": "pavel_lishin",
+          "url": "https://techtrenches.dev/p/the-cost-of-reading-everyone-just",
+          "time": "2026-06-25"
         },
         {
-          "title": "The skills I think we might gain (AI)",
+          "title": "Applied AI Implementation Engineer Freelance",
           "summary": "暂无摘要",
-          "source": "gb2d_hn",
-          "url": "https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace",
-          "time": "2026-06-24"
+          "source": "awongsem",
+          "url": "https://news.ycombinator.com/item?id=48678286",
+          "time": "2026-06-25"
         },
         {
-          "title": "U.S. Presses Meta to Agree to A.I. Reviews",
+          "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html",
-          "time": "2026-06-24"
+          "source": "pseudolus",
+          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+          "time": "2026-06-25"
         },
         {
-          "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks",
+          "title": "Show HN: OnBuzz – an open-source workspace for AI agent teams",
           "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://news.bloomberglaw.com/banking-law/ai-shopping-agents-pose-novel-liability-authorization-risks",
-          "time": "2026-06-24"
+          "source": "Dantlv",
+          "url": "https://github.com/Loxia-ai/onbuzz-community",
+          "time": "2026-06-25"
         },
         {
-          "title": "Microsoft uses AI to link two malware operations in racketeering suit",
+          "title": "Study: Governed AI retrieval – 97% pass rate, 67% fewer tokens (Emory, IBM)",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.theregister.com/security/2026/06/24/microsoft-uses-ai-to-link-two-malware-operations-in-racketeering-suit/5261656",
-          "time": "2026-06-24"
-        },
-        {
-          "title": "Superhuman acquires AI detection startup GPTZero with 19M+ users and $30M ARR",
-          "summary": "暂无摘要",
-          "source": "thoughtpeddler",
-          "url": "https://gptzero.me/news/preserving-whats-human/",
-          "time": "2026-06-24"
+          "source": "sparkystacey",
+          "url": "https://promptowl.ai/resources/verifiable-context-governance/",
+          "time": "2026-06-25"
         }
       ]
     },
@@ -421,32 +414,53 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+          "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "time": "2026-06-25"
+        },
+        {
+          "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
+          "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+          "time": "2026-06-25"
+        },
+        {
+          "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
+          "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+          "time": "2026-06-25"
+        },
+        {
+          "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+          "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+          "time": "2026-06-25"
+        },
+        {
+          "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+          "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+          "time": "2026-06-24"
+        },
+        {
+          "title": "The memory chip crunch is paying off for this US company",
+          "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+          "source": "Kirsten Korosec",
+          "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+          "time": "2026-06-24"
+        },
+        {
           "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
           "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
           "source": "Kirsten Korosec",
           "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
           "time": "2026-06-24"
-        },
-        {
-          "title": "India&#8217;s MoEngage bets that the future of marketing is millions of AI agents",
-          "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-          "time": "2026-06-23"
-        },
-        {
-          "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-          "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI",
-          "source": "Lauren Forristal",
-          "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-          "time": "2026-06-23"
-        },
-        {
-          "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-          "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne",
-          "source": "Kirsten Korosec",
-          "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-          "time": "2026-06-22"
         },
         {
           "title": "A24 Knows You’re Mad About the Google AI Collab",
@@ -463,144 +477,144 @@
           "time": "2026-06-24"
         },
         {
-          "title": "AI enthusiasts in a race against time, AI skeptics in a race against entropy",
+          "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
           "summary": "暂无摘要",
-          "source": "The_Fox",
-          "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
-          "time": "2026-06-24"
+          "source": "billybuckwheat",
+          "url": "https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
+          "time": "2026-06-25"
         },
         {
-          "title": "Taiwan Chip Firm ASE Expands for AI Boom",
+          "title": "My Approach to Using AI with Programming",
           "summary": "暂无摘要",
-          "source": "mmeirovich",
-          "url": "https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand",
-          "time": "2026-06-24"
+          "source": "Davesjoshin",
+          "url": "https://davidjwalz.com/my-approach-to-using-ai-with-programming/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Show HN: An AI that roasts your spending out loud (no signup)",
+          "title": "Show HN: OpenLanguage- AI Language Tutor for iOS",
           "summary": "暂无摘要",
-          "source": "elliptic1",
-          "url": "https://malimoney.com/roast",
-          "time": "2026-06-24"
+          "source": "willks",
+          "url": "https://github.com/challenga-org/openlanguage",
+          "time": "2026-06-25"
         },
         {
-          "title": "Are AI chatbots like ChatGPT politically biased? We tested them",
+          "title": "Show HN: CtxGov – see what instructions your AI agent inherits before it runs",
           "summary": "暂无摘要",
-          "source": "reaperducer",
-          "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/",
-          "time": "2026-06-24"
+          "source": "LuxBennu",
+          "url": "https://github.com/ctxgov/ctxgov",
+          "time": "2026-06-25"
         },
         {
-          "title": "TCI's Conference: The Anti-AI Portfolio",
+          "title": "Is AI Good at Stock-Market Timing? A New Study Casts Doubt",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://moatsandmultiples.substack.com/p/inside-tcis-conference-the-anti-ai",
-          "time": "2026-06-24"
+          "source": "fortran77",
+          "url": "https://www.wsj.com/tech/ai/ai-stock-market-trading-research-154eeb72",
+          "time": "2026-06-25"
         },
         {
-          "title": "Show HN: Δlchimist – Local-first AI persona engine for the browser (BYOK)",
+          "title": "Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use",
           "summary": "暂无摘要",
-          "source": "Ayauho",
-          "url": "https://github.com/ayauho/alchimist",
-          "time": "2026-06-24"
+          "source": "ilamont",
+          "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Mycelium – codebase memory for AI coding agents",
+          "title": "Can AI Effectively Approve Production Infra Changes?",
           "summary": "暂无摘要",
-          "source": "KopikoCappu",
-          "url": "https://www.getmycelium.net/",
-          "time": "2026-06-24"
+          "source": "mooreds",
+          "url": "https://newsletter.masterpoint.io/p/can-ai-effectively-approve-production-infra-changes",
+          "time": "2026-06-25"
         },
         {
-          "title": "My Pele Agent Trading the World Cup Prediction Markets with AI and Crypto",
+          "title": "Show HN: Polygraph – Let AI agents see cross repo and maintain session memory",
           "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://avc.xyz/my-pele-agent",
-          "time": "2026-06-24"
+          "source": "jeffbcross",
+          "url": "https://trypolygraph.com/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
+          "title": "Cornell Recovered $100k in Unidentified Payments with AI",
           "summary": "暂无摘要",
-          "source": "htrp",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
-          "time": "2026-06-24"
+          "source": "simonpure",
+          "url": "https://innovationhub.ai.cornell.edu/articles/how-cornell-recovered-100000-in-unidentified-payments-with-ai/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Stanford graduates rethink their futures as AI transforms tech",
+          "title": "Show HN: I built an Ad-free Pinterest Alternative with AI content filtering",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.bbc.com/news/articles/c872j82j2qyo",
-          "time": "2026-06-24"
+          "source": "akshat368",
+          "url": "https://moodloom.xyz",
+          "time": "2026-06-25"
         },
         {
-          "title": "AI IQ Bio",
+          "title": "AI Surveillance: Age Verification Meets Your Chat Logs",
           "summary": "暂无摘要",
-          "source": "shea256",
-          "url": "https://www.aiiq.org/bio/",
-          "time": "2026-06-24"
+          "source": "pavel_lishin",
+          "url": "https://techtrenches.dev/p/the-cost-of-reading-everyone-just",
+          "time": "2026-06-25"
         },
         {
-          "title": "Meta pauses employee tracker for AI training amid privacy concerns",
+          "title": "Applied AI Implementation Engineer Freelance",
           "summary": "暂无摘要",
-          "source": "iamflimflam1",
-          "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
-          "time": "2026-06-24"
+          "source": "awongsem",
+          "url": "https://news.ycombinator.com/item?id=48678286",
+          "time": "2026-06-25"
         },
         {
-          "title": "A startup claims it broke through a bottleneck that's holding back LLMs",
+          "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
           "summary": "暂无摘要",
-          "source": "theanonymousone",
-          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-          "time": "2026-06-24"
+          "source": "pseudolus",
+          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+          "time": "2026-06-25"
         },
         {
-          "title": "Every AI Memory Benchmark Has an Asterisk",
+          "title": "Show HN: OnBuzz – an open-source workspace for AI agent teams",
           "summary": "暂无摘要",
-          "source": "freewilly25",
-          "url": "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/",
-          "time": "2026-06-24"
+          "source": "Dantlv",
+          "url": "https://github.com/Loxia-ai/onbuzz-community",
+          "time": "2026-06-25"
         },
         {
-          "title": "Are AI chatbots politically biased?",
+          "title": "Study: Governed AI retrieval – 97% pass rate, 67% fewer tokens (Emory, IBM)",
           "summary": "暂无摘要",
-          "source": "MrBuddyCasino",
-          "url": "https://twitter.com/ianbremmer/status/2069744192230764723",
-          "time": "2026-06-24"
+          "source": "sparkystacey",
+          "url": "https://promptowl.ai/resources/verifiable-context-governance/",
+          "time": "2026-06-25"
         },
         {
-          "title": "The skills I think we might gain (AI)",
+          "title": "Show HN: OpenPhone – new open source, customized AI-native Android OS",
           "summary": "暂无摘要",
-          "source": "gb2d_hn",
-          "url": "https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace",
-          "time": "2026-06-24"
+          "source": "talboren",
+          "url": "https://github.com/secondly-com/openphone",
+          "time": "2026-06-25"
         },
         {
-          "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks",
+          "title": "Cargo thieves are following the AI boom",
           "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://news.bloomberglaw.com/banking-law/ai-shopping-agents-pose-novel-liability-authorization-risks",
-          "time": "2026-06-24"
+          "source": "crescit_eundo",
+          "url": "https://www.freightwaves.com/news/cargo-thieves-are-following-the-ai-boom",
+          "time": "2026-06-25"
         },
         {
-          "title": "Microsoft uses AI to link two malware operations in racketeering suit",
+          "title": "Open-Source AI Tools That Feel Like Cheating in 2026",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.theregister.com/security/2026/06/24/microsoft-uses-ai-to-link-two-malware-operations-in-racketeering-suit/5261656",
-          "time": "2026-06-24"
+          "source": "sukhpinder0804",
+          "url": "https://medium.com/open-ai/7-open-source-ai-tools-that-feel-like-cheating-2026-b6e1587bd0e6",
+          "time": "2026-06-25"
         },
         {
-          "title": "Superhuman acquires AI detection startup GPTZero with 19M+ users and $30M ARR",
+          "title": "Show HN: Plansera AI, E-2 visa business plans, drafted by an AI",
           "summary": "暂无摘要",
-          "source": "thoughtpeddler",
-          "url": "https://gptzero.me/news/preserving-whats-human/",
-          "time": "2026-06-24"
+          "source": "attorney-omer",
+          "url": "https://plansera.ai/",
+          "time": "2026-06-25"
         },
         {
-          "title": "An autonomous AI agent that handles video retention editing",
+          "title": "Claude Skills that turn your AI agent into an expert business operator",
           "summary": "暂无摘要",
-          "source": "Quise",
-          "url": "https://www.autoeditor.app/",
-          "time": "2026-06-24"
+          "source": "quanzar",
+          "url": "https://github.com/adatarwa/operator-skills",
+          "time": "2026-06-25"
         }
       ]
     },
@@ -643,13 +657,6 @@
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
           "time": "2026-06-09"
-        },
-        {
-          "title": "The Meta hack shows there’s more to AI security than Mythos",
-          "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email ",
-          "source": "Grace Huckins",
-          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-          "time": "2026-06-05"
         }
       ]
     },
@@ -813,144 +820,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "AI enthusiasts in a race against time, AI skeptics in a race against entropy",
+          "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
           "summary": "暂无摘要",
-          "source": "The_Fox",
-          "url": "https://charity.wtf/2026/06/15/ai-demands-more-engineering-discipline-not-less-xpost/",
-          "time": "2026-06-24"
+          "source": "billybuckwheat",
+          "url": "https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
+          "time": "2026-06-25"
         },
         {
-          "title": "Taiwan Chip Firm ASE Expands for AI Boom",
+          "title": "My Approach to Using AI with Programming",
           "summary": "暂无摘要",
-          "source": "mmeirovich",
-          "url": "https://fivetakes.news/taiwans-ase-expands-capacity-to-meet-ai-demand",
-          "time": "2026-06-24"
+          "source": "Davesjoshin",
+          "url": "https://davidjwalz.com/my-approach-to-using-ai-with-programming/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Austin Carter, 30, was disarmed by a drone, a possible first in law enforcement",
+          "title": "Show HN: OpenLanguage- AI Language Tutor for iOS",
           "summary": "暂无摘要",
-          "source": "Tomte",
-          "url": "https://www.foxnews.com/us/california-sheriffs-use-magent-equipped-drone-disarm-knife-wielding-sex-offender-hidden-garage",
-          "time": "2026-06-24"
+          "source": "willks",
+          "url": "https://github.com/challenga-org/openlanguage",
+          "time": "2026-06-25"
         },
         {
-          "title": "Show HN: An AI that roasts your spending out loud (no signup)",
+          "title": "Show HN: CtxGov – see what instructions your AI agent inherits before it runs",
           "summary": "暂无摘要",
-          "source": "elliptic1",
-          "url": "https://malimoney.com/roast",
-          "time": "2026-06-24"
+          "source": "LuxBennu",
+          "url": "https://github.com/ctxgov/ctxgov",
+          "time": "2026-06-25"
         },
         {
-          "title": "Are AI chatbots like ChatGPT politically biased? We tested them",
+          "title": "Is AI Good at Stock-Market Timing? A New Study Casts Doubt",
           "summary": "暂无摘要",
-          "source": "reaperducer",
-          "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/",
-          "time": "2026-06-24"
+          "source": "fortran77",
+          "url": "https://www.wsj.com/tech/ai/ai-stock-market-trading-research-154eeb72",
+          "time": "2026-06-25"
         },
         {
-          "title": "TCI's Conference: The Anti-AI Portfolio",
+          "title": "OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://moatsandmultiples.substack.com/p/inside-tcis-conference-the-anti-ai",
-          "time": "2026-06-24"
+          "source": "217",
+          "url": "https://velo.xyz/news/1908",
+          "time": "2026-06-25"
         },
         {
-          "title": "Show HN: Δlchimist – Local-first AI persona engine for the browser (BYOK)",
+          "title": "Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use",
           "summary": "暂无摘要",
-          "source": "Ayauho",
-          "url": "https://github.com/ayauho/alchimist",
-          "time": "2026-06-24"
+          "source": "ilamont",
+          "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Mycelium – codebase memory for AI coding agents",
+          "title": "Can AI Effectively Approve Production Infra Changes?",
           "summary": "暂无摘要",
-          "source": "KopikoCappu",
-          "url": "https://www.getmycelium.net/",
-          "time": "2026-06-24"
+          "source": "mooreds",
+          "url": "https://newsletter.masterpoint.io/p/can-ai-effectively-approve-production-infra-changes",
+          "time": "2026-06-25"
         },
         {
-          "title": "My Pele Agent Trading the World Cup Prediction Markets with AI and Crypto",
+          "title": "Show HN: Polygraph – Let AI agents see cross repo and maintain session memory",
           "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://avc.xyz/my-pele-agent",
-          "time": "2026-06-24"
+          "source": "jeffbcross",
+          "url": "https://trypolygraph.com/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Anthropic Accuses Alibaba of 'Illicitly' Accessing AI Models",
+          "title": "Cornell Recovered $100k in Unidentified Payments with AI",
           "summary": "暂无摘要",
-          "source": "htrp",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
-          "time": "2026-06-24"
+          "source": "simonpure",
+          "url": "https://innovationhub.ai.cornell.edu/articles/how-cornell-recovered-100000-in-unidentified-payments-with-ai/",
+          "time": "2026-06-25"
         },
         {
-          "title": "Stanford graduates rethink their futures as AI transforms tech",
+          "title": "Show HN: I built an Ad-free Pinterest Alternative with AI content filtering",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.bbc.com/news/articles/c872j82j2qyo",
-          "time": "2026-06-24"
+          "source": "akshat368",
+          "url": "https://moodloom.xyz",
+          "time": "2026-06-25"
         },
         {
-          "title": "AI IQ Bio",
+          "title": "AI Surveillance: Age Verification Meets Your Chat Logs",
           "summary": "暂无摘要",
-          "source": "shea256",
-          "url": "https://www.aiiq.org/bio/",
-          "time": "2026-06-24"
+          "source": "pavel_lishin",
+          "url": "https://techtrenches.dev/p/the-cost-of-reading-everyone-just",
+          "time": "2026-06-25"
         },
         {
-          "title": "Meta pauses employee tracker for AI training amid privacy concerns",
+          "title": "Applied AI Implementation Engineer Freelance",
           "summary": "暂无摘要",
-          "source": "iamflimflam1",
-          "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
-          "time": "2026-06-24"
+          "source": "awongsem",
+          "url": "https://news.ycombinator.com/item?id=48678286",
+          "time": "2026-06-25"
         },
         {
-          "title": "Every AI Memory Benchmark Has an Asterisk",
+          "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
           "summary": "暂无摘要",
-          "source": "freewilly25",
-          "url": "https://tenureai.dev/writing/every-ai-memory-benchmark-has-an-asterisk/",
-          "time": "2026-06-24"
+          "source": "pseudolus",
+          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+          "time": "2026-06-25"
         },
         {
-          "title": "Are AI chatbots politically biased?",
+          "title": "Show HN: OnBuzz – an open-source workspace for AI agent teams",
           "summary": "暂无摘要",
-          "source": "MrBuddyCasino",
-          "url": "https://twitter.com/ianbremmer/status/2069744192230764723",
-          "time": "2026-06-24"
+          "source": "Dantlv",
+          "url": "https://github.com/Loxia-ai/onbuzz-community",
+          "time": "2026-06-25"
         },
         {
-          "title": "The skills I think we might gain (AI)",
+          "title": "Study: Governed AI retrieval – 97% pass rate, 67% fewer tokens (Emory, IBM)",
           "summary": "暂无摘要",
-          "source": "gb2d_hn",
-          "url": "https://blog.g9n.com/the-skills-i-think-we-might-gain-ai#decision-making-at-pace",
-          "time": "2026-06-24"
+          "source": "sparkystacey",
+          "url": "https://promptowl.ai/resources/verifiable-context-governance/",
+          "time": "2026-06-25"
         },
         {
-          "title": "AI Shopping Agents Pose Novel Liability, Authorization Risks",
+          "title": "Show HN: OpenPhone – new open source, customized AI-native Android OS",
           "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://news.bloomberglaw.com/banking-law/ai-shopping-agents-pose-novel-liability-authorization-risks",
-          "time": "2026-06-24"
+          "source": "talboren",
+          "url": "https://github.com/secondly-com/openphone",
+          "time": "2026-06-25"
         },
         {
-          "title": "Microsoft uses AI to link two malware operations in racketeering suit",
+          "title": "Cargo thieves are following the AI boom",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.theregister.com/security/2026/06/24/microsoft-uses-ai-to-link-two-malware-operations-in-racketeering-suit/5261656",
-          "time": "2026-06-24"
+          "source": "crescit_eundo",
+          "url": "https://www.freightwaves.com/news/cargo-thieves-are-following-the-ai-boom",
+          "time": "2026-06-25"
         },
         {
-          "title": "Superhuman acquires AI detection startup GPTZero with 19M+ users and $30M ARR",
+          "title": "Open-Source AI Tools That Feel Like Cheating in 2026",
           "summary": "暂无摘要",
-          "source": "thoughtpeddler",
-          "url": "https://gptzero.me/news/preserving-whats-human/",
-          "time": "2026-06-24"
+          "source": "sukhpinder0804",
+          "url": "https://medium.com/open-ai/7-open-source-ai-tools-that-feel-like-cheating-2026-b6e1587bd0e6",
+          "time": "2026-06-25"
         },
         {
-          "title": "An autonomous AI agent that handles video retention editing",
+          "title": "Show HN: Plansera AI, E-2 visa business plans, drafted by an AI",
           "summary": "暂无摘要",
-          "source": "Quise",
-          "url": "https://www.autoeditor.app/",
-          "time": "2026-06-24"
+          "source": "attorney-omer",
+          "url": "https://plansera.ai/",
+          "time": "2026-06-25"
         },
         {
           "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
