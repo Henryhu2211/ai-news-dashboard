@@ -1,152 +1,12 @@
 {
-  "updateTime": "2026-06-25T21:22:32.827Z",
-  "date": "2026年6月25日 21时22分",
+  "updateTime": "2026-06-26T21:12:07.499Z",
+  "date": "2026年6月26日 21时12分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
-        {
-          "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "My Approach to Using AI with Programming",
-          "summary": "暂无摘要",
-          "source": "Davesjoshin",
-          "url": "https://davidjwalz.com/my-approach-to-using-ai-with-programming/",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Show HN: OpenLanguage- AI Language Tutor for iOS",
-          "summary": "暂无摘要",
-          "source": "willks",
-          "url": "https://github.com/challenga-org/openlanguage",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Show HN: CtxGov – see what instructions your AI agent inherits before it runs",
-          "summary": "暂无摘要",
-          "source": "LuxBennu",
-          "url": "https://github.com/ctxgov/ctxgov",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Cloudflare Collaborates with Leading Browsers to Develop Privacy-First Protocol",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-collaborates-with-leading-browsers-to-develop-a-privacy-first-protocol-for-the-global-internet/",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Is AI Good at Stock-Market Timing? A New Study Casts Doubt",
-          "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.wsj.com/tech/ai/ai-stock-market-trading-research-154eeb72",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "La Stim Machine [Fr]",
-          "summary": "暂无摘要",
-          "source": "thesnide",
-          "url": "https://www.ldlc.com/fiche/PB00745922.html",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use",
-          "summary": "暂无摘要",
-          "source": "ilamont",
-          "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Parallel Parentheses Matching",
-          "summary": "暂无摘要",
-          "source": "Athas",
-          "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Can AI Effectively Approve Production Infra Changes?",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://newsletter.masterpoint.io/p/can-ai-effectively-approve-production-infra-changes",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Show HN: Polygraph – Let AI agents see cross repo and maintain session memory",
-          "summary": "暂无摘要",
-          "source": "jeffbcross",
-          "url": "https://trypolygraph.com/",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Cornell Recovered $100k in Unidentified Payments with AI",
-          "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://innovationhub.ai.cornell.edu/articles/how-cornell-recovered-100000-in-unidentified-payments-with-ai/",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Show HN: I built an Ad-free Pinterest Alternative with AI content filtering",
-          "summary": "暂无摘要",
-          "source": "akshat368",
-          "url": "https://moodloom.xyz",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "AI Surveillance: Age Verification Meets Your Chat Logs",
-          "summary": "暂无摘要",
-          "source": "pavel_lishin",
-          "url": "https://techtrenches.dev/p/the-cost-of-reading-everyone-just",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Applied AI Implementation Engineer Freelance",
-          "summary": "暂无摘要",
-          "source": "awongsem",
-          "url": "https://news.ycombinator.com/item?id=48678286",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
-          "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Show HN: OnBuzz – an open-source workspace for AI agent teams",
-          "summary": "暂无摘要",
-          "source": "Dantlv",
-          "url": "https://github.com/Loxia-ai/onbuzz-community",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Study: Governed AI retrieval – 97% pass rate, 67% fewer tokens (Emory, IBM)",
-          "summary": "暂无摘要",
-          "source": "sparkystacey",
-          "url": "https://promptowl.ai/resources/verifiable-context-governance/",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Show HN: OpenPhone – new open source, customized AI-native Android OS",
-          "summary": "暂无摘要",
-          "source": "talboren",
-          "url": "https://github.com/secondly-com/openphone",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Cargo thieves are following the AI boom",
-          "summary": "暂无摘要",
-          "source": "crescit_eundo",
-          "url": "https://www.freightwaves.com/news/cargo-thieves-are-following-the-ai-boom",
-          "time": "2026-06-25"
-        },
         {
           "title": "Three things to watch amid Anthropic’s latest feud with the government",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s l",
@@ -267,144 +127,144 @@
           "time": "2026-05-19"
         },
         {
-          "title": "Lead Developer at Google Earth Believes Earth Is Flat – Steemit",
+          "title": "Show HN: I build an app for you to take a break from AI. RainBreak",
           "summary": "暂无摘要",
-          "source": "evo_9",
-          "url": "https://steemit.com/flatearth/@alternative/lead-developer-at-google-earth-believes-earth-is-flat",
-          "time": "2026-06-25"
+          "source": "franze",
+          "url": "https://rainbreak.franzai.com/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
+          "title": "Ask HN: Which AI concepts are here to stay, and which will churn?",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
-          "time": "2026-06-25"
+          "source": "datsci_est_2015",
+          "url": "https://news.ycombinator.com/item?id=48691972",
+          "time": "2026-06-26"
         },
         {
-          "title": "My Approach to Using AI with Programming",
+          "title": "Linux Foundation and Others Launch Akrites Defend Open-Source from AI Exploits",
           "summary": "暂无摘要",
-          "source": "Davesjoshin",
-          "url": "https://davidjwalz.com/my-approach-to-using-ai-with-programming/",
-          "time": "2026-06-25"
+          "source": "Bender",
+          "url": "https://www.phoronix.com/news/Akrites",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: OpenLanguage- AI Language Tutor for iOS",
+          "title": "2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6",
           "summary": "暂无摘要",
-          "source": "willks",
-          "url": "https://github.com/challenga-org/openlanguage",
-          "time": "2026-06-25"
+          "source": "kristianp",
+          "url": "https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Trump administration asks OpenAI to stagger release of new model",
+          "title": "Apple's Vision Pro and Smart Glasses Chief Is Leaving for OpenAI",
           "summary": "暂无摘要",
-          "source": "fla",
-          "url": "https://ca.finance.yahoo.com/news/trump-administration-asks-openai-stagger-204300837.html",
-          "time": "2026-06-25"
+          "source": "tmp10423288442",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-vision-pro-and-smart-glasses-chief-paul-meade-is-leaving-for-openai",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: CtxGov – see what instructions your AI agent inherits before it runs",
+          "title": "Concrete Problems in AI Safety – Dario Amodei (2016) [video]",
           "summary": "暂无摘要",
-          "source": "LuxBennu",
-          "url": "https://github.com/ctxgov/ctxgov",
-          "time": "2026-06-25"
+          "source": "ddl",
+          "url": "https://www.youtube.com/watch?v=F25i0sgrp9M",
+          "time": "2026-06-26"
         },
         {
-          "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+          "title": "Reckoning with the Political Economy of AI",
           "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-          "time": "2026-06-25"
+          "source": "andyjohnson0",
+          "url": "https://arxiv.org/abs/2604.16106",
+          "time": "2026-06-26"
         },
         {
-          "title": "Is AI Good at Stock-Market Timing? A New Study Casts Doubt",
+          "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
           "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.wsj.com/tech/ai/ai-stock-market-trading-research-154eeb72",
-          "time": "2026-06-25"
+          "source": "01-_-",
+          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+          "time": "2026-06-26"
         },
         {
-          "title": "OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
+          "title": "Show HN: Statey – the database your AI shares across every chat, over MCP",
           "summary": "暂无摘要",
-          "source": "217",
-          "url": "https://velo.xyz/news/1908",
-          "time": "2026-06-25"
+          "source": "scottwillman",
+          "url": "https://www.statey.ai",
+          "time": "2026-06-26"
         },
         {
-          "title": "Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use",
+          "title": "Open Letter to Compassionate, Left-Leaning, AI-Hating, Animal-Loving Meat Eaters",
           "summary": "暂无摘要",
-          "source": "ilamont",
-          "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
-          "time": "2026-06-25"
+          "source": "speckx",
+          "url": "https://brennan.day/an-open-letter-to-compassionate-left-leaning-ai-hating-animal-loving-meat-eaters/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Can AI Effectively Approve Production Infra Changes?",
+          "title": "MirrorCode: What's the largest software project AI can complete on its own?",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://newsletter.masterpoint.io/p/can-ai-effectively-approve-production-infra-changes",
-          "time": "2026-06-25"
+          "source": "tadamcz",
+          "url": "https://epoch.ai/MirrorCode",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: Polygraph – Let AI agents see cross repo and maintain session memory",
+          "title": "DuckDuckGo, Unable to Resist AI's Pull, Mistakenly Claims Trump Died of Rabies",
           "summary": "暂无摘要",
-          "source": "jeffbcross",
-          "url": "https://trypolygraph.com/",
-          "time": "2026-06-25"
+          "source": "gnabgib",
+          "url": "https://gizmodo.com/duckduckgo-unable-to-resist-the-pull-of-ai-mistakenly-claims-trump-died-of-rabies-2000777863",
+          "time": "2026-06-26"
         },
         {
-          "title": "Cornell Recovered $100k in Unidentified Payments with AI",
+          "title": "Hush, let an AI agent use your secrets without ever seeing them",
           "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://innovationhub.ai.cornell.edu/articles/how-cornell-recovered-100000-in-unidentified-payments-with-ai/",
-          "time": "2026-06-25"
+          "source": "royashbrook",
+          "url": "https://github.com/royashbrook/hush",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: I built an Ad-free Pinterest Alternative with AI content filtering",
+          "title": "Framesmith 1.7 – a quality gate that tells an AI agent when a UI is done",
           "summary": "暂无摘要",
-          "source": "akshat368",
-          "url": "https://moodloom.xyz",
-          "time": "2026-06-25"
+          "source": "vicvelazquez",
+          "url": "https://github.com/vicmaster/framesmith",
+          "time": "2026-06-26"
         },
         {
-          "title": "Trying to recover from thin content penalty from Google",
+          "title": "A personal meta harness for work on the go",
           "summary": "暂无摘要",
-          "source": "anitroves",
-          "url": "https://news.ycombinator.com/item?id=48678398",
-          "time": "2026-06-25"
+          "source": "nickguyai",
+          "url": "https://herd.gehirn.ai/",
+          "time": "2026-06-26"
         },
         {
-          "title": "AI Surveillance: Age Verification Meets Your Chat Logs",
+          "title": "Open AI SDR – An Open Source Version of the Artisans Ava BDR",
           "summary": "暂无摘要",
-          "source": "pavel_lishin",
-          "url": "https://techtrenches.dev/p/the-cost-of-reading-everyone-just",
-          "time": "2026-06-25"
+          "source": "iacguy",
+          "url": "https://opencomputer.dev/blog/open-ava-bdr-agent/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Applied AI Implementation Engineer Freelance",
+          "title": "Building Voice AI Workflows with Branches Instead of One Giant Prompt",
           "summary": "暂无摘要",
-          "source": "awongsem",
-          "url": "https://news.ycombinator.com/item?id=48678286",
-          "time": "2026-06-25"
+          "source": "anushathukral",
+          "url": "https://github.com/team-telnyx/telnyx-code-examples/tree/main/build-conversational-workflow-nodejs",
+          "time": "2026-06-26"
         },
         {
-          "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+          "title": "Akrites: The Latest Attempt to Protect Open-Source from AI Attacks Has Arrived",
           "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-          "time": "2026-06-25"
+          "source": "CrankyBear",
+          "url": "https://devops.com/akrites-the-latest-attempt-to-protect-open-source-from-ai-attacks-has-arrived/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: OnBuzz – an open-source workspace for AI agent teams",
+          "title": "AI Models Directory (To Compare)",
           "summary": "暂无摘要",
-          "source": "Dantlv",
-          "url": "https://github.com/Loxia-ai/onbuzz-community",
-          "time": "2026-06-25"
+          "source": "entempsllc",
+          "url": "https://aimodels.directory/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Study: Governed AI retrieval – 97% pass rate, 67% fewer tokens (Emory, IBM)",
+          "title": "Cory Doctorow on the Right – and Wrong – Way to Criticize AI",
           "summary": "暂无摘要",
-          "source": "sparkystacey",
-          "url": "https://promptowl.ai/resources/verifiable-context-governance/",
-          "time": "2026-06-25"
+          "source": "thunderbong",
+          "url": "https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright",
+          "time": "2026-06-26"
         }
       ]
     },
@@ -413,6 +273,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+          "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+          "time": "2026-06-26"
+        },
+        {
+          "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+          "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference",
+          "source": "Theresa Loconsolo",
+          "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+          "time": "2026-06-26"
+        },
+        {
+          "title": "OpenAI&#8217;s Jalapeño chip is Big Tech&#8217;s spiciest move away from Nvidia",
+          "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference",
+          "source": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
+          "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+          "time": "2026-06-26"
+        },
         {
           "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
           "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
@@ -449,20 +330,6 @@
           "time": "2026-06-24"
         },
         {
-          "title": "The memory chip crunch is paying off for this US company",
-          "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
-          "source": "Kirsten Korosec",
-          "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-          "time": "2026-06-24"
-        },
-        {
-          "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-          "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-          "source": "Kirsten Korosec",
-          "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-          "time": "2026-06-24"
-        },
-        {
           "title": "A24 Knows You’re Mad About the Google AI Collab",
           "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood.",
           "source": "John Semley",
@@ -470,151 +337,144 @@
           "time": "2026-06-24"
         },
         {
-          "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
-          "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
-          "source": "Lauren Goode",
-          "url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
-          "time": "2026-06-24"
+          "title": "Show HN: I build an app for you to take a break from AI. RainBreak",
+          "summary": "暂无摘要",
+          "source": "franze",
+          "url": "https://rainbreak.franzai.com/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
+          "title": "Ask HN: Which AI concepts are here to stay, and which will churn?",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
-          "time": "2026-06-25"
+          "source": "datsci_est_2015",
+          "url": "https://news.ycombinator.com/item?id=48691972",
+          "time": "2026-06-26"
         },
         {
-          "title": "My Approach to Using AI with Programming",
+          "title": "Linux Foundation and Others Launch Akrites Defend Open-Source from AI Exploits",
           "summary": "暂无摘要",
-          "source": "Davesjoshin",
-          "url": "https://davidjwalz.com/my-approach-to-using-ai-with-programming/",
-          "time": "2026-06-25"
+          "source": "Bender",
+          "url": "https://www.phoronix.com/news/Akrites",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: OpenLanguage- AI Language Tutor for iOS",
+          "title": "2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6",
           "summary": "暂无摘要",
-          "source": "willks",
-          "url": "https://github.com/challenga-org/openlanguage",
-          "time": "2026-06-25"
+          "source": "kristianp",
+          "url": "https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: CtxGov – see what instructions your AI agent inherits before it runs",
+          "title": "Concrete Problems in AI Safety – Dario Amodei (2016) [video]",
           "summary": "暂无摘要",
-          "source": "LuxBennu",
-          "url": "https://github.com/ctxgov/ctxgov",
-          "time": "2026-06-25"
+          "source": "ddl",
+          "url": "https://www.youtube.com/watch?v=F25i0sgrp9M",
+          "time": "2026-06-26"
         },
         {
-          "title": "Is AI Good at Stock-Market Timing? A New Study Casts Doubt",
+          "title": "Reckoning with the Political Economy of AI",
           "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.wsj.com/tech/ai/ai-stock-market-trading-research-154eeb72",
-          "time": "2026-06-25"
+          "source": "andyjohnson0",
+          "url": "https://arxiv.org/abs/2604.16106",
+          "time": "2026-06-26"
         },
         {
-          "title": "Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use",
+          "title": "Show HN: Statey – the database your AI shares across every chat, over MCP",
           "summary": "暂无摘要",
-          "source": "ilamont",
-          "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
-          "time": "2026-06-25"
+          "source": "scottwillman",
+          "url": "https://www.statey.ai",
+          "time": "2026-06-26"
         },
         {
-          "title": "Can AI Effectively Approve Production Infra Changes?",
+          "title": "Open Letter to Compassionate, Left-Leaning, AI-Hating, Animal-Loving Meat Eaters",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://newsletter.masterpoint.io/p/can-ai-effectively-approve-production-infra-changes",
-          "time": "2026-06-25"
+          "source": "speckx",
+          "url": "https://brennan.day/an-open-letter-to-compassionate-left-leaning-ai-hating-animal-loving-meat-eaters/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: Polygraph – Let AI agents see cross repo and maintain session memory",
+          "title": "MirrorCode: What's the largest software project AI can complete on its own?",
           "summary": "暂无摘要",
-          "source": "jeffbcross",
-          "url": "https://trypolygraph.com/",
-          "time": "2026-06-25"
+          "source": "tadamcz",
+          "url": "https://epoch.ai/MirrorCode",
+          "time": "2026-06-26"
         },
         {
-          "title": "Cornell Recovered $100k in Unidentified Payments with AI",
+          "title": "DuckDuckGo, Unable to Resist AI's Pull, Mistakenly Claims Trump Died of Rabies",
           "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://innovationhub.ai.cornell.edu/articles/how-cornell-recovered-100000-in-unidentified-payments-with-ai/",
-          "time": "2026-06-25"
+          "source": "gnabgib",
+          "url": "https://gizmodo.com/duckduckgo-unable-to-resist-the-pull-of-ai-mistakenly-claims-trump-died-of-rabies-2000777863",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: I built an Ad-free Pinterest Alternative with AI content filtering",
+          "title": "The FIFA World Cup, and Investor Attention in the U.S. Stock Market",
           "summary": "暂无摘要",
-          "source": "akshat368",
-          "url": "https://moodloom.xyz",
-          "time": "2026-06-25"
+          "source": "paulpauper",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6970502",
+          "time": "2026-06-26"
         },
         {
-          "title": "AI Surveillance: Age Verification Meets Your Chat Logs",
+          "title": "Hush, let an AI agent use your secrets without ever seeing them",
           "summary": "暂无摘要",
-          "source": "pavel_lishin",
-          "url": "https://techtrenches.dev/p/the-cost-of-reading-everyone-just",
-          "time": "2026-06-25"
+          "source": "royashbrook",
+          "url": "https://github.com/royashbrook/hush",
+          "time": "2026-06-26"
         },
         {
-          "title": "Applied AI Implementation Engineer Freelance",
+          "title": "Framesmith 1.7 – a quality gate that tells an AI agent when a UI is done",
           "summary": "暂无摘要",
-          "source": "awongsem",
-          "url": "https://news.ycombinator.com/item?id=48678286",
-          "time": "2026-06-25"
+          "source": "vicvelazquez",
+          "url": "https://github.com/vicmaster/framesmith",
+          "time": "2026-06-26"
         },
         {
-          "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+          "title": "Open AI SDR – An Open Source Version of the Artisans Ava BDR",
           "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-          "time": "2026-06-25"
+          "source": "iacguy",
+          "url": "https://opencomputer.dev/blog/open-ava-bdr-agent/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: OnBuzz – an open-source workspace for AI agent teams",
+          "title": "Building Voice AI Workflows with Branches Instead of One Giant Prompt",
           "summary": "暂无摘要",
-          "source": "Dantlv",
-          "url": "https://github.com/Loxia-ai/onbuzz-community",
-          "time": "2026-06-25"
+          "source": "anushathukral",
+          "url": "https://github.com/team-telnyx/telnyx-code-examples/tree/main/build-conversational-workflow-nodejs",
+          "time": "2026-06-26"
         },
         {
-          "title": "Study: Governed AI retrieval – 97% pass rate, 67% fewer tokens (Emory, IBM)",
+          "title": "Akrites: The Latest Attempt to Protect Open-Source from AI Attacks Has Arrived",
           "summary": "暂无摘要",
-          "source": "sparkystacey",
-          "url": "https://promptowl.ai/resources/verifiable-context-governance/",
-          "time": "2026-06-25"
+          "source": "CrankyBear",
+          "url": "https://devops.com/akrites-the-latest-attempt-to-protect-open-source-from-ai-attacks-has-arrived/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: OpenPhone – new open source, customized AI-native Android OS",
+          "title": "AI Models Directory (To Compare)",
           "summary": "暂无摘要",
-          "source": "talboren",
-          "url": "https://github.com/secondly-com/openphone",
-          "time": "2026-06-25"
+          "source": "entempsllc",
+          "url": "https://aimodels.directory/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Cargo thieves are following the AI boom",
+          "title": "Cory Doctorow on the Right – and Wrong – Way to Criticize AI",
           "summary": "暂无摘要",
-          "source": "crescit_eundo",
-          "url": "https://www.freightwaves.com/news/cargo-thieves-are-following-the-ai-boom",
-          "time": "2026-06-25"
+          "source": "thunderbong",
+          "url": "https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright",
+          "time": "2026-06-26"
         },
         {
-          "title": "Open-Source AI Tools That Feel Like Cheating in 2026",
+          "title": "The New Blub Paradox, Or: Why TypeScript Is a Poor Choice for the AI Era",
           "summary": "暂无摘要",
-          "source": "sukhpinder0804",
-          "url": "https://medium.com/open-ai/7-open-source-ai-tools-that-feel-like-cheating-2026-b6e1587bd0e6",
-          "time": "2026-06-25"
+          "source": "gnabgib",
+          "url": "https://www.iankduncan.com/engineering/2026-06-26-the-new-blub-paradox/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: Plansera AI, E-2 visa business plans, drafted by an AI",
+          "title": "Poll: What's your primary AI coding agent/orchestrator Claude/Codex/Cursor, etc.?",
           "summary": "暂无摘要",
-          "source": "attorney-omer",
-          "url": "https://plansera.ai/",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Claude Skills that turn your AI agent into an expert business operator",
-          "summary": "暂无摘要",
-          "source": "quanzar",
-          "url": "https://github.com/adatarwa/operator-skills",
-          "time": "2026-06-25"
+          "source": "jacobgold",
+          "url": "https://news.ycombinator.com/item?id=48690046",
+          "time": "2026-06-26"
         }
       ]
     },
@@ -820,144 +680,151 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Apple raises prices for MacBooks and iPads, as costs soar over AI",
+          "title": "Show HN: I build an app for you to take a break from AI. RainBreak",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/business/622489/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai",
-          "time": "2026-06-25"
+          "source": "franze",
+          "url": "https://rainbreak.franzai.com/",
+          "time": "2026-06-26"
         },
         {
-          "title": "My Approach to Using AI with Programming",
+          "title": "Ask HN: Which AI concepts are here to stay, and which will churn?",
           "summary": "暂无摘要",
-          "source": "Davesjoshin",
-          "url": "https://davidjwalz.com/my-approach-to-using-ai-with-programming/",
-          "time": "2026-06-25"
+          "source": "datsci_est_2015",
+          "url": "https://news.ycombinator.com/item?id=48691972",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: OpenLanguage- AI Language Tutor for iOS",
+          "title": "Linux Foundation and Others Launch Akrites Defend Open-Source from AI Exploits",
           "summary": "暂无摘要",
-          "source": "willks",
-          "url": "https://github.com/challenga-org/openlanguage",
-          "time": "2026-06-25"
+          "source": "Bender",
+          "url": "https://www.phoronix.com/news/Akrites",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: CtxGov – see what instructions your AI agent inherits before it runs",
+          "title": "2027 Macs to Get AI-Focused M7 Chips as Apple Skips High-End M6",
           "summary": "暂无摘要",
-          "source": "LuxBennu",
-          "url": "https://github.com/ctxgov/ctxgov",
-          "time": "2026-06-25"
+          "source": "kristianp",
+          "url": "https://www.macrumors.com/2026/06/25/2027-macs-m7-chips/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Is AI Good at Stock-Market Timing? A New Study Casts Doubt",
+          "title": "Concrete Problems in AI Safety – Dario Amodei (2016) [video]",
           "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.wsj.com/tech/ai/ai-stock-market-trading-research-154eeb72",
-          "time": "2026-06-25"
+          "source": "ddl",
+          "url": "https://www.youtube.com/watch?v=F25i0sgrp9M",
+          "time": "2026-06-26"
         },
         {
-          "title": "OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
+          "title": "Reckoning with the Political Economy of AI",
           "summary": "暂无摘要",
-          "source": "217",
-          "url": "https://velo.xyz/news/1908",
-          "time": "2026-06-25"
+          "source": "andyjohnson0",
+          "url": "https://arxiv.org/abs/2604.16106",
+          "time": "2026-06-26"
         },
         {
-          "title": "Hasbro's TV Contracts Ask Child Voice Actors to Sign Rights Away for AI Use",
+          "title": "Show HN: Statey – the database your AI shares across every chat, over MCP",
           "summary": "暂无摘要",
-          "source": "ilamont",
-          "url": "https://www.hollywoodreporter.com/business/business-news/studio-minor-performers-surrender-voices-ai-1236630694/",
-          "time": "2026-06-25"
+          "source": "scottwillman",
+          "url": "https://www.statey.ai",
+          "time": "2026-06-26"
         },
         {
-          "title": "Can AI Effectively Approve Production Infra Changes?",
+          "title": "Open Letter to Compassionate, Left-Leaning, AI-Hating, Animal-Loving Meat Eaters",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://newsletter.masterpoint.io/p/can-ai-effectively-approve-production-infra-changes",
-          "time": "2026-06-25"
+          "source": "speckx",
+          "url": "https://brennan.day/an-open-letter-to-compassionate-left-leaning-ai-hating-animal-loving-meat-eaters/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: Polygraph – Let AI agents see cross repo and maintain session memory",
+          "title": "MirrorCode: What's the largest software project AI can complete on its own?",
           "summary": "暂无摘要",
-          "source": "jeffbcross",
-          "url": "https://trypolygraph.com/",
-          "time": "2026-06-25"
+          "source": "tadamcz",
+          "url": "https://epoch.ai/MirrorCode",
+          "time": "2026-06-26"
         },
         {
-          "title": "Cornell Recovered $100k in Unidentified Payments with AI",
+          "title": "DuckDuckGo, Unable to Resist AI's Pull, Mistakenly Claims Trump Died of Rabies",
           "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://innovationhub.ai.cornell.edu/articles/how-cornell-recovered-100000-in-unidentified-payments-with-ai/",
-          "time": "2026-06-25"
+          "source": "gnabgib",
+          "url": "https://gizmodo.com/duckduckgo-unable-to-resist-the-pull-of-ai-mistakenly-claims-trump-died-of-rabies-2000777863",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: I built an Ad-free Pinterest Alternative with AI content filtering",
+          "title": "Hush, let an AI agent use your secrets without ever seeing them",
           "summary": "暂无摘要",
-          "source": "akshat368",
-          "url": "https://moodloom.xyz",
-          "time": "2026-06-25"
+          "source": "royashbrook",
+          "url": "https://github.com/royashbrook/hush",
+          "time": "2026-06-26"
         },
         {
-          "title": "AI Surveillance: Age Verification Meets Your Chat Logs",
+          "title": "Framesmith 1.7 – a quality gate that tells an AI agent when a UI is done",
           "summary": "暂无摘要",
-          "source": "pavel_lishin",
-          "url": "https://techtrenches.dev/p/the-cost-of-reading-everyone-just",
-          "time": "2026-06-25"
+          "source": "vicvelazquez",
+          "url": "https://github.com/vicmaster/framesmith",
+          "time": "2026-06-26"
         },
         {
-          "title": "Applied AI Implementation Engineer Freelance",
+          "title": "Open AI SDR – An Open Source Version of the Artisans Ava BDR",
           "summary": "暂无摘要",
-          "source": "awongsem",
-          "url": "https://news.ycombinator.com/item?id=48678286",
-          "time": "2026-06-25"
+          "source": "iacguy",
+          "url": "https://opencomputer.dev/blog/open-ava-bdr-agent/",
+          "time": "2026-06-26"
         },
         {
-          "title": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+          "title": "Building Voice AI Workflows with Branches Instead of One Giant Prompt",
           "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-          "time": "2026-06-25"
+          "source": "anushathukral",
+          "url": "https://github.com/team-telnyx/telnyx-code-examples/tree/main/build-conversational-workflow-nodejs",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: OnBuzz – an open-source workspace for AI agent teams",
+          "title": "Akrites: The Latest Attempt to Protect Open-Source from AI Attacks Has Arrived",
           "summary": "暂无摘要",
-          "source": "Dantlv",
-          "url": "https://github.com/Loxia-ai/onbuzz-community",
-          "time": "2026-06-25"
+          "source": "CrankyBear",
+          "url": "https://devops.com/akrites-the-latest-attempt-to-protect-open-source-from-ai-attacks-has-arrived/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Study: Governed AI retrieval – 97% pass rate, 67% fewer tokens (Emory, IBM)",
+          "title": "AI Models Directory (To Compare)",
           "summary": "暂无摘要",
-          "source": "sparkystacey",
-          "url": "https://promptowl.ai/resources/verifiable-context-governance/",
-          "time": "2026-06-25"
+          "source": "entempsllc",
+          "url": "https://aimodels.directory/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: OpenPhone – new open source, customized AI-native Android OS",
+          "title": "Cory Doctorow on the Right – and Wrong – Way to Criticize AI",
           "summary": "暂无摘要",
-          "source": "talboren",
-          "url": "https://github.com/secondly-com/openphone",
-          "time": "2026-06-25"
+          "source": "thunderbong",
+          "url": "https://jacobin.com/2026/06/ai-bubble-layoffs-workers-copyright",
+          "time": "2026-06-26"
         },
         {
-          "title": "Cargo thieves are following the AI boom",
+          "title": "The New Blub Paradox, Or: Why TypeScript Is a Poor Choice for the AI Era",
           "summary": "暂无摘要",
-          "source": "crescit_eundo",
-          "url": "https://www.freightwaves.com/news/cargo-thieves-are-following-the-ai-boom",
-          "time": "2026-06-25"
+          "source": "gnabgib",
+          "url": "https://www.iankduncan.com/engineering/2026-06-26-the-new-blub-paradox/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Open-Source AI Tools That Feel Like Cheating in 2026",
+          "title": "U.S. government will decide who gets to use GPT-5.6",
           "summary": "暂无摘要",
-          "source": "sukhpinder0804",
-          "url": "https://medium.com/open-ai/7-open-source-ai-tools-that-feel-like-cheating-2026-b6e1587bd0e6",
-          "time": "2026-06-25"
+          "source": "alain94040",
+          "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+          "time": "2026-06-26"
         },
         {
-          "title": "Show HN: Plansera AI, E-2 visa business plans, drafted by an AI",
+          "title": "Poll: What's your primary AI coding agent/orchestrator Claude/Codex/Cursor, etc.?",
           "summary": "暂无摘要",
-          "source": "attorney-omer",
-          "url": "https://plansera.ai/",
-          "time": "2026-06-25"
+          "source": "jacobgold",
+          "url": "https://news.ycombinator.com/item?id=48690046",
+          "time": "2026-06-26"
+        },
+        {
+          "title": "Europe Is Fed Up and Wants Its Own AI",
+          "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+          "source": "Steven Levy",
+          "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+          "time": "2026-06-26"
         },
         {
           "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
