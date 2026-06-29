@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-06-28T20:52:07.180Z",
-  "date": "2026年6月28日 20时52分",
+  "updateTime": "2026-06-29T21:17:01.237Z",
+  "date": "2026年6月29日 21时17分",
   "categories": [
     {
       "id": "tech",
@@ -35,6 +35,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Ask an AI expert: What exactly is the full stack?",
+          "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+          "time": "2026-06-29"
+        },
         {
           "title": "Our latest Google Finance upgrades, including a new app",
           "summary": "The new Google Finance is coming out of beta and launching a new Android app.",
@@ -134,6 +141,27 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+          "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+          "time": "2026-06-29"
+        },
+        {
+          "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+          "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+          "source": "Sean O'Kane",
+          "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+          "time": "2026-06-29"
+        },
+        {
+          "title": "Omen AI&#8217;s plan to optimize data centers is all wet",
+          "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+          "time": "2026-06-29"
+        },
+        {
           "title": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban drags on",
           "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
           "source": "Kate Park",
@@ -162,32 +190,11 @@
           "time": "2026-06-26"
         },
         {
-          "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-          "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
-          "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agents for the real world",
-          "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-          "time": "2026-06-25"
-        },
-        {
-          "title": "A24 Knows You’re Mad About the Google AI Collab",
-          "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood.",
-          "source": "John Semley",
-          "url": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
-          "time": "2026-06-24"
+          "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+          "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
+          "source": "Will Knight",
+          "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+          "time": "2026-06-29"
         }
       ]
     },
@@ -196,6 +203,20 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "AI agents are not your &#8220;coworkers&#8221;",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "time": "2026-06-29"
+        },
+        {
+          "title": "Agent confidence on the technical frontier",
+          "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+          "time": "2026-06-29"
+        },
         {
           "title": "The emergence of the web data infrastructure layer for AI",
           "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstru",
@@ -223,13 +244,6 @@
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
           "time": "2026-06-11"
-        },
-        {
-          "title": "Learning to lead in a hybrid human-AI enterprise",
-          "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterp",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-          "time": "2026-06-09"
         }
       ]
     },
