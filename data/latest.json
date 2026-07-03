@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-02T20:54:37.293Z",
-  "date": "2026年7月2日 20时54分",
+  "updateTime": "2026-07-03T20:53:29.686Z",
+  "date": "2026年7月3日 20时53分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Mathematics in the Age of AI",
+          "title": "A Runtime Modulation Layer for Large Language Models",
           "summary": "暂无摘要",
-          "source": "digital55",
-          "url": "https://www.quantabooks.org/kevin-hartnett-on-mathematics-in-the-age-of-ai/",
-          "time": "2026-07-02"
+          "source": "w89780175",
+          "url": "https://github.com/divinecanon/signalengine-EN-",
+          "time": "2026-07-03"
         },
         {
-          "title": "Zuckerberg says AI agent development going slower than expected",
+          "title": "OpenCode, Pi, and Goose: Three Layers of the AI Agent Stack",
           "summary": "暂无摘要",
-          "source": "cwwc",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-          "time": "2026-07-02"
+          "source": "AIMOWAY",
+          "url": "https://gist.github.com/AIMOWAY/bd8007c8f834a9bc83c71e3178239d75",
+          "time": "2026-07-03"
         },
         {
-          "title": "Karja – A privacy first, local AI powered superapp",
+          "title": "AI Is Boring",
           "summary": "暂无摘要",
-          "source": "hsaikia",
-          "url": "https://karja.app/",
-          "time": "2026-07-02"
+          "source": "sverp",
+          "url": "https://news.ycombinator.com/item?id=48779624",
+          "time": "2026-07-03"
         },
         {
-          "title": "AI CV Radar – ranks jobs against your CV and auto-fills applications",
+          "title": "Deterministic Guardrails Against AI Code Duplication",
           "summary": "暂无摘要",
-          "source": "kistlak",
-          "url": "https://ai-cv-radar.vercel.app/",
-          "time": "2026-07-02"
+          "source": "rafaepta",
+          "url": "https://www.technology.org/2026/07/03/dupehound-deterministic-guardrails-against-ai-code-duplication/",
+          "time": "2026-07-03"
         },
         {
-          "title": "Show HN: Fastest Enterprise AI Gateway",
+          "title": "Adapt: AI Native Work",
           "summary": "暂无摘要",
-          "source": "aanthonymax",
-          "url": "https://github.com/maximhq/bifrost",
-          "time": "2026-07-02"
+          "source": "handfuloflight",
+          "url": "https://adapt.com",
+          "time": "2026-07-03"
         },
         {
-          "title": "AI #175: The Fable Continues",
+          "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-175-the-fable-continues",
-          "time": "2026-07-02"
+          "source": "mroche",
+          "url": "https://kagi.com/changelog#10959",
+          "time": "2026-07-03"
         },
         {
-          "title": "Microsoft launches its own AI deployment company with $2.5B commitment",
+          "title": "Show HN: An AI-friendly CLI for public space data",
           "summary": "暂无摘要",
-          "source": "builtbystef",
-          "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-          "time": "2026-07-02"
+          "source": "oscarjpicazo",
+          "url": "https://www.npmjs.com/package/spacedata",
+          "time": "2026-07-03"
         },
         {
-          "title": "CHackerBlog Released – How it was made with AI",
+          "title": "AI agents are not your \"coworkers\"",
           "summary": "暂无摘要",
-          "source": "etcimon",
-          "url": "https://cimons.com/article/how-this-blog-was-created-with-ai",
-          "time": "2026-07-02"
+          "source": "ashumz",
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "time": "2026-07-03"
         },
         {
-          "title": "Google caps Meta's Gemini use as AI demand strains capacity",
+          "title": "Show HN: Kontext – Move an AI chat's full context to another AI in one click",
           "summary": "暂无摘要",
-          "source": "achow",
-          "url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
-          "time": "2026-07-02"
+          "source": "anuragmerndev",
+          "url": "https://github.com/anuragmerndev/kontext-ai",
+          "time": "2026-07-03"
         },
         {
-          "title": "HN: Words on Repeat – AI vocabulary extraction and FSRS spaced repetition",
+          "title": "A political belief changed how AI analysts read the same data",
           "summary": "暂无摘要",
-          "source": "palachdigital",
-          "url": "https://wordsonrepeat.com/",
-          "time": "2026-07-02"
+          "source": "thatsgcasey",
+          "url": "https://arxiv.org/abs/2607.01507",
+          "time": "2026-07-03"
         },
         {
-          "title": "The 10-Year Retirement Warning: 5 Critical Moves You Need to Make",
+          "title": "An AI Koan",
           "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://comuniq.xyz/post?t=1351",
-          "time": "2026-07-02"
+          "source": "rcanand2025",
+          "url": "https://news.ycombinator.com/item?id=48778522",
+          "time": "2026-07-03"
         },
         {
-          "title": "AI content flood: why the web's signal is dying",
+          "title": "Mathematics in Machine Learning (Vector Embeddings)",
           "summary": "暂无摘要",
-          "source": "lucasfletcher",
-          "url": "https://psyll.com/articles/technology/ai-machine-learning/ai-content-flood-why-the-webs-signal-is-dying",
-          "time": "2026-07-02"
+          "source": "tech2trees",
+          "url": "https://www.youtube.com/watch?v=GbPNRDvpQ6E",
+          "time": "2026-07-03"
         },
         {
-          "title": "Rust Is Not a Memory-Safe Language",
+          "title": "Ask HN: Are any startups hiring front-end developers, or are they just using AI?",
           "summary": "暂无摘要",
-          "source": "DaveParkCity",
-          "url": "http://unsoliciteddave.blogspot.com/2026/07/rust-is-not-memory-safe.html",
-          "time": "2026-07-02"
+          "source": "Kathan2651",
+          "url": "https://news.ycombinator.com/item?id=48778312",
+          "time": "2026-07-03"
         },
         {
-          "title": "Quantifying the impact of AI data centers in a warming world [pdf]",
+          "title": "SaaS Economics in the AI Era",
           "summary": "暂无摘要",
-          "source": "rixed",
-          "url": "https://dcmag.fr/wp-content/uploads/2026/04/2603.20897v2.pdf",
-          "time": "2026-07-02"
+          "source": "hsrada93",
+          "url": "https://medium.com/@adarshdeepsingh/saas-economics-in-the-ai-era-39b63acfaae7",
+          "time": "2026-07-03"
         },
         {
-          "title": "The Effective Agent: what technical leaders should know about agentic AI today",
+          "title": "AI turned every engineer into three. Now companies need more product thinkers",
           "summary": "暂无摘要",
-          "source": "gkanellopoulos",
-          "url": "https://gkanellopoulos.com/ai-in-the-enterprise/the-effective-agent/",
-          "time": "2026-07-02"
+          "source": "gmays",
+          "url": "https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
+          "time": "2026-07-03"
         },
         {
-          "title": "Why build AI data center in cornfield, Saudi Arabia has cheap oil, cheaper power",
+          "title": "Physics informed generative AI for semiconductor manufacturing",
+          "summary": "暂无摘要",
+          "source": "Jimmc414",
+          "url": "https://arxiv.org/abs/2606.11247",
+          "time": "2026-07-03"
+        },
+        {
+          "title": "Show HN: Solace – A quiet, local AI companion for Android with long-term memory",
+          "summary": "暂无摘要",
+          "source": "redhotcookerr",
+          "url": "https://play.google.com/store/apps/details?id=com.solace.bot&amp;hl=en_US",
+          "time": "2026-07-03"
+        },
+        {
+          "title": "Token prices collapsing, regulation rising, AI's pricing power looks fragile",
           "summary": "暂无摘要",
           "source": "1vuio0pswjnm7",
-          "url": "https://fortune.com/2026/07/02/meta-cloud-computing-detour-not-strategy-for-attention/",
-          "time": "2026-07-02"
+          "url": "https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile",
+          "time": "2026-07-03"
         },
         {
-          "title": "Photocore – Local AI – Find and organize your photos",
+          "title": "Flora: A Diagram Library Built with (and for) AI",
           "summary": "暂无摘要",
-          "source": "amennox",
-          "url": "https://photocore.pro/en",
-          "time": "2026-07-02"
+          "source": "jillcates",
+          "url": "https://www.normallydistributed.dev/introducing-flora-a-diagram-library-built-with-and-for-ai/",
+          "time": "2026-07-03"
         },
         {
-          "title": "Show HN: Collection of skills to help improve UX and AI Product design",
+          "title": "Patagonia Vests Are \"Out\" with AI Crowd",
           "summary": "暂无摘要",
-          "source": "tommyjepsen",
-          "url": "https://github.com/tommyjepsen/awesome-ux-skills",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "The Plumbing That Decides a Machine Learning Competition",
-          "summary": "暂无摘要",
-          "source": "encinas88",
-          "url": "https://medium.com/@alanscottencinas/the-plumbing-that-decides-a-machine-learning-competition-bf0409ae9afb",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Framesmith 1.8 – click an element to give an AI agent design feedback",
-          "summary": "暂无摘要",
-          "source": "vicvelazquez",
-          "url": "https://github.com/vicmaster/framesmith",
-          "time": "2026-07-02"
+          "source": "runamuck",
+          "url": "https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7",
+          "time": "2026-07-03"
         },
         {
           "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
@@ -267,144 +267,144 @@
           "time": "2026-05-20"
         },
         {
-          "title": "Mathematics in the Age of AI",
+          "title": "OpenCode, Pi, and Goose: Three Layers of the AI Agent Stack",
           "summary": "暂无摘要",
-          "source": "digital55",
-          "url": "https://www.quantabooks.org/kevin-hartnett-on-mathematics-in-the-age-of-ai/",
-          "time": "2026-07-02"
+          "source": "AIMOWAY",
+          "url": "https://gist.github.com/AIMOWAY/bd8007c8f834a9bc83c71e3178239d75",
+          "time": "2026-07-03"
         },
         {
-          "title": "Zuckerberg says AI agent development going slower than expected",
+          "title": "AI Is Boring",
           "summary": "暂无摘要",
-          "source": "cwwc",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-          "time": "2026-07-02"
+          "source": "sverp",
+          "url": "https://news.ycombinator.com/item?id=48779624",
+          "time": "2026-07-03"
         },
         {
-          "title": "Karja – A privacy first, local AI powered superapp",
+          "title": "Deterministic Guardrails Against AI Code Duplication",
           "summary": "暂无摘要",
-          "source": "hsaikia",
-          "url": "https://karja.app/",
-          "time": "2026-07-02"
+          "source": "rafaepta",
+          "url": "https://www.technology.org/2026/07/03/dupehound-deterministic-guardrails-against-ai-code-duplication/",
+          "time": "2026-07-03"
         },
         {
-          "title": "AI CV Radar – ranks jobs against your CV and auto-fills applications",
+          "title": "Adapt: AI Native Work",
           "summary": "暂无摘要",
-          "source": "kistlak",
-          "url": "https://ai-cv-radar.vercel.app/",
-          "time": "2026-07-02"
+          "source": "handfuloflight",
+          "url": "https://adapt.com",
+          "time": "2026-07-03"
         },
         {
-          "title": "Show HN: Fastest Enterprise AI Gateway",
+          "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
           "summary": "暂无摘要",
-          "source": "aanthonymax",
-          "url": "https://github.com/maximhq/bifrost",
-          "time": "2026-07-02"
+          "source": "mroche",
+          "url": "https://kagi.com/changelog#10959",
+          "time": "2026-07-03"
         },
         {
-          "title": "AI #175: The Fable Continues",
+          "title": "Independent Studio Buys Movie About OpenAI That Amazon Dropped",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-175-the-fable-continues",
-          "time": "2026-07-02"
+          "source": "JumpCrisscross",
+          "url": "https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html",
+          "time": "2026-07-03"
         },
         {
-          "title": "Microsoft launches its own AI deployment company with $2.5B commitment",
+          "title": "Show HN: An AI-friendly CLI for public space data",
           "summary": "暂无摘要",
-          "source": "builtbystef",
-          "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-          "time": "2026-07-02"
+          "source": "oscarjpicazo",
+          "url": "https://www.npmjs.com/package/spacedata",
+          "time": "2026-07-03"
         },
         {
-          "title": "CHackerBlog Released – How it was made with AI",
+          "title": "AI agents are not your \"coworkers\"",
           "summary": "暂无摘要",
-          "source": "etcimon",
-          "url": "https://cimons.com/article/how-this-blog-was-created-with-ai",
-          "time": "2026-07-02"
+          "source": "ashumz",
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "time": "2026-07-03"
         },
         {
-          "title": "Google caps Meta's Gemini use as AI demand strains capacity",
+          "title": "Meta reuses old RAM in new servers with custom bridge chip",
           "summary": "暂无摘要",
-          "source": "achow",
-          "url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
-          "time": "2026-07-02"
+          "source": "ihsw",
+          "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+          "time": "2026-07-03"
         },
         {
-          "title": "HN: Words on Repeat – AI vocabulary extraction and FSRS spaced repetition",
+          "title": "Show HN: Kontext – Move an AI chat's full context to another AI in one click",
           "summary": "暂无摘要",
-          "source": "palachdigital",
-          "url": "https://wordsonrepeat.com/",
-          "time": "2026-07-02"
+          "source": "anuragmerndev",
+          "url": "https://github.com/anuragmerndev/kontext-ai",
+          "time": "2026-07-03"
         },
         {
-          "title": "OpenAI Courts Trump administration as Its Latest Investor",
+          "title": "A political belief changed how AI analysts read the same data",
           "summary": "暂无摘要",
-          "source": "jamesgill",
-          "url": "https://www.axios.com/2026/07/02/openai-stake-trump-altman",
-          "time": "2026-07-02"
+          "source": "thatsgcasey",
+          "url": "https://arxiv.org/abs/2607.01507",
+          "time": "2026-07-03"
         },
         {
-          "title": "AI content flood: why the web's signal is dying",
+          "title": "An AI Koan",
           "summary": "暂无摘要",
-          "source": "lucasfletcher",
-          "url": "https://psyll.com/articles/technology/ai-machine-learning/ai-content-flood-why-the-webs-signal-is-dying",
-          "time": "2026-07-02"
+          "source": "rcanand2025",
+          "url": "https://news.ycombinator.com/item?id=48778522",
+          "time": "2026-07-03"
         },
         {
-          "title": "Quantifying the impact of AI data centers in a warming world [pdf]",
+          "title": "Ask HN: Are any startups hiring front-end developers, or are they just using AI?",
           "summary": "暂无摘要",
-          "source": "rixed",
-          "url": "https://dcmag.fr/wp-content/uploads/2026/04/2603.20897v2.pdf",
-          "time": "2026-07-02"
+          "source": "Kathan2651",
+          "url": "https://news.ycombinator.com/item?id=48778312",
+          "time": "2026-07-03"
         },
         {
-          "title": "The Effective Agent: what technical leaders should know about agentic AI today",
+          "title": "SaaS Economics in the AI Era",
           "summary": "暂无摘要",
-          "source": "gkanellopoulos",
-          "url": "https://gkanellopoulos.com/ai-in-the-enterprise/the-effective-agent/",
-          "time": "2026-07-02"
+          "source": "hsrada93",
+          "url": "https://medium.com/@adarshdeepsingh/saas-economics-in-the-ai-era-39b63acfaae7",
+          "time": "2026-07-03"
         },
         {
-          "title": "Why build AI data center in cornfield, Saudi Arabia has cheap oil, cheaper power",
+          "title": "AI turned every engineer into three. Now companies need more product thinkers",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
+          "time": "2026-07-03"
+        },
+        {
+          "title": "Physics informed generative AI for semiconductor manufacturing",
+          "summary": "暂无摘要",
+          "source": "Jimmc414",
+          "url": "https://arxiv.org/abs/2606.11247",
+          "time": "2026-07-03"
+        },
+        {
+          "title": "Show HN: Solace – A quiet, local AI companion for Android with long-term memory",
+          "summary": "暂无摘要",
+          "source": "redhotcookerr",
+          "url": "https://play.google.com/store/apps/details?id=com.solace.bot&amp;hl=en_US",
+          "time": "2026-07-03"
+        },
+        {
+          "title": "Token prices collapsing, regulation rising, AI's pricing power looks fragile",
           "summary": "暂无摘要",
           "source": "1vuio0pswjnm7",
-          "url": "https://fortune.com/2026/07/02/meta-cloud-computing-detour-not-strategy-for-attention/",
-          "time": "2026-07-02"
+          "url": "https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile",
+          "time": "2026-07-03"
         },
         {
-          "title": "Photocore – Local AI – Find and organize your photos",
+          "title": "Flora: A Diagram Library Built with (and for) AI",
           "summary": "暂无摘要",
-          "source": "amennox",
-          "url": "https://photocore.pro/en",
-          "time": "2026-07-02"
+          "source": "jillcates",
+          "url": "https://www.normallydistributed.dev/introducing-flora-a-diagram-library-built-with-and-for-ai/",
+          "time": "2026-07-03"
         },
         {
-          "title": "Show HN: Collection of skills to help improve UX and AI Product design",
+          "title": "Patagonia Vests Are \"Out\" with AI Crowd",
           "summary": "暂无摘要",
-          "source": "tommyjepsen",
-          "url": "https://github.com/tommyjepsen/awesome-ux-skills",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Framesmith 1.8 – click an element to give an AI agent design feedback",
-          "summary": "暂无摘要",
-          "source": "vicvelazquez",
-          "url": "https://github.com/vicmaster/framesmith",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "The Linux Foundation Uses DNS to Give AI Agents a Trusted Identity",
-          "summary": "暂无摘要",
-          "source": "losgehts",
-          "url": "https://www.linuxinsider.com/story/the-linux-foundation-uses-dns-to-give-ai-agents-a-trusted-identity-177743.html",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Microsoft commits $2.5B and 6k employees to new AI implementation unit",
-          "summary": "暂无摘要",
-          "source": "cebert",
-          "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-          "time": "2026-07-02"
+          "source": "runamuck",
+          "url": "https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7",
+          "time": "2026-07-03"
         }
       ]
     },
@@ -415,7 +415,7 @@
       "news": [
         {
           "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
-          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
           "source": "Julie Bort",
           "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
           "time": "2026-07-02"
@@ -449,165 +449,11 @@
           "time": "2026-07-01"
         },
         {
-          "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-          "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-          "source": "Anna Heim",
-          "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-          "time": "2026-06-30"
-        },
-        {
           "title": "Bernie Sanders Saw This Coming",
           "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
           "source": "Katie Drummond",
           "url": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
           "time": "2026-06-30"
-        },
-        {
-          "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-          "summary": "Flexion Robotics, a startup founded by ex-Nvidia engineers, has a clever way of training robots to do useful work.",
-          "source": "Will Knight",
-          "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-          "time": "2026-06-29"
-        },
-        {
-          "title": "Mathematics in the Age of AI",
-          "summary": "暂无摘要",
-          "source": "digital55",
-          "url": "https://www.quantabooks.org/kevin-hartnett-on-mathematics-in-the-age-of-ai/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Zuckerberg says AI agent development going slower than expected",
-          "summary": "暂无摘要",
-          "source": "cwwc",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Karja – A privacy first, local AI powered superapp",
-          "summary": "暂无摘要",
-          "source": "hsaikia",
-          "url": "https://karja.app/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "AI CV Radar – ranks jobs against your CV and auto-fills applications",
-          "summary": "暂无摘要",
-          "source": "kistlak",
-          "url": "https://ai-cv-radar.vercel.app/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Show HN: Fastest Enterprise AI Gateway",
-          "summary": "暂无摘要",
-          "source": "aanthonymax",
-          "url": "https://github.com/maximhq/bifrost",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "AI #175: The Fable Continues",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-175-the-fable-continues",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Microsoft launches its own AI deployment company with $2.5B commitment",
-          "summary": "暂无摘要",
-          "source": "builtbystef",
-          "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "CHackerBlog Released – How it was made with AI",
-          "summary": "暂无摘要",
-          "source": "etcimon",
-          "url": "https://cimons.com/article/how-this-blog-was-created-with-ai",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Google caps Meta's Gemini use as AI demand strains capacity",
-          "summary": "暂无摘要",
-          "source": "achow",
-          "url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "HN: Words on Repeat – AI vocabulary extraction and FSRS spaced repetition",
-          "summary": "暂无摘要",
-          "source": "palachdigital",
-          "url": "https://wordsonrepeat.com/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "AI content flood: why the web's signal is dying",
-          "summary": "暂无摘要",
-          "source": "lucasfletcher",
-          "url": "https://psyll.com/articles/technology/ai-machine-learning/ai-content-flood-why-the-webs-signal-is-dying",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Quantifying the impact of AI data centers in a warming world [pdf]",
-          "summary": "暂无摘要",
-          "source": "rixed",
-          "url": "https://dcmag.fr/wp-content/uploads/2026/04/2603.20897v2.pdf",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "The Effective Agent: what technical leaders should know about agentic AI today",
-          "summary": "暂无摘要",
-          "source": "gkanellopoulos",
-          "url": "https://gkanellopoulos.com/ai-in-the-enterprise/the-effective-agent/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Why build AI data center in cornfield, Saudi Arabia has cheap oil, cheaper power",
-          "summary": "暂无摘要",
-          "source": "1vuio0pswjnm7",
-          "url": "https://fortune.com/2026/07/02/meta-cloud-computing-detour-not-strategy-for-attention/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Photocore – Local AI – Find and organize your photos",
-          "summary": "暂无摘要",
-          "source": "amennox",
-          "url": "https://photocore.pro/en",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Show HN: Collection of skills to help improve UX and AI Product design",
-          "summary": "暂无摘要",
-          "source": "tommyjepsen",
-          "url": "https://github.com/tommyjepsen/awesome-ux-skills",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Framesmith 1.8 – click an element to give an AI agent design feedback",
-          "summary": "暂无摘要",
-          "source": "vicvelazquez",
-          "url": "https://github.com/vicmaster/framesmith",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "The Linux Foundation Uses DNS to Give AI Agents a Trusted Identity",
-          "summary": "暂无摘要",
-          "source": "losgehts",
-          "url": "https://www.linuxinsider.com/story/the-linux-foundation-uses-dns-to-give-ai-agents-a-trusted-identity-177743.html",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Microsoft commits $2.5B and 6k employees to new AI implementation unit",
-          "summary": "暂无摘要",
-          "source": "cebert",
-          "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Show HN: Piggy – lazy senior dev mode for AI agents (80–94% less code)",
-          "summary": "暂无摘要",
-          "source": "piggydev",
-          "url": "https://github.com/adamyasingh-12/Piggy-",
-          "time": "2026-07-02"
         }
       ]
     },
@@ -804,146 +650,6 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
-        },
-        {
-          "title": "Mathematics in the Age of AI",
-          "summary": "暂无摘要",
-          "source": "digital55",
-          "url": "https://www.quantabooks.org/kevin-hartnett-on-mathematics-in-the-age-of-ai/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Zuckerberg says AI agent development going slower than expected",
-          "summary": "暂无摘要",
-          "source": "cwwc",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Karja – A privacy first, local AI powered superapp",
-          "summary": "暂无摘要",
-          "source": "hsaikia",
-          "url": "https://karja.app/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "AI CV Radar – ranks jobs against your CV and auto-fills applications",
-          "summary": "暂无摘要",
-          "source": "kistlak",
-          "url": "https://ai-cv-radar.vercel.app/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Show HN: Fastest Enterprise AI Gateway",
-          "summary": "暂无摘要",
-          "source": "aanthonymax",
-          "url": "https://github.com/maximhq/bifrost",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "AI #175: The Fable Continues",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-175-the-fable-continues",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Microsoft launches its own AI deployment company with $2.5B commitment",
-          "summary": "暂无摘要",
-          "source": "builtbystef",
-          "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "CHackerBlog Released – How it was made with AI",
-          "summary": "暂无摘要",
-          "source": "etcimon",
-          "url": "https://cimons.com/article/how-this-blog-was-created-with-ai",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Google caps Meta's Gemini use as AI demand strains capacity",
-          "summary": "暂无摘要",
-          "source": "achow",
-          "url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "HN: Words on Repeat – AI vocabulary extraction and FSRS spaced repetition",
-          "summary": "暂无摘要",
-          "source": "palachdigital",
-          "url": "https://wordsonrepeat.com/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "AI content flood: why the web's signal is dying",
-          "summary": "暂无摘要",
-          "source": "lucasfletcher",
-          "url": "https://psyll.com/articles/technology/ai-machine-learning/ai-content-flood-why-the-webs-signal-is-dying",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Quantifying the impact of AI data centers in a warming world [pdf]",
-          "summary": "暂无摘要",
-          "source": "rixed",
-          "url": "https://dcmag.fr/wp-content/uploads/2026/04/2603.20897v2.pdf",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "The Effective Agent: what technical leaders should know about agentic AI today",
-          "summary": "暂无摘要",
-          "source": "gkanellopoulos",
-          "url": "https://gkanellopoulos.com/ai-in-the-enterprise/the-effective-agent/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Why build AI data center in cornfield, Saudi Arabia has cheap oil, cheaper power",
-          "summary": "暂无摘要",
-          "source": "1vuio0pswjnm7",
-          "url": "https://fortune.com/2026/07/02/meta-cloud-computing-detour-not-strategy-for-attention/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Photocore – Local AI – Find and organize your photos",
-          "summary": "暂无摘要",
-          "source": "amennox",
-          "url": "https://photocore.pro/en",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Show HN: Collection of skills to help improve UX and AI Product design",
-          "summary": "暂无摘要",
-          "source": "tommyjepsen",
-          "url": "https://github.com/tommyjepsen/awesome-ux-skills",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Framesmith 1.8 – click an element to give an AI agent design feedback",
-          "summary": "暂无摘要",
-          "source": "vicvelazquez",
-          "url": "https://github.com/vicmaster/framesmith",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "The Linux Foundation Uses DNS to Give AI Agents a Trusted Identity",
-          "summary": "暂无摘要",
-          "source": "losgehts",
-          "url": "https://www.linuxinsider.com/story/the-linux-foundation-uses-dns-to-give-ai-agents-a-trusted-identity-177743.html",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Microsoft commits $2.5B and 6k employees to new AI implementation unit",
-          "summary": "暂无摘要",
-          "source": "cebert",
-          "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Show HN: Piggy – lazy senior dev mode for AI agents (80–94% less code)",
-          "summary": "暂无摘要",
-          "source": "piggydev",
-          "url": "https://github.com/adamyasingh-12/Piggy-",
-          "time": "2026-07-02"
         },
         {
           "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
