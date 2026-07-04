@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-03T20:53:29.686Z",
-  "date": "2026年7月3日 20时53分",
+  "updateTime": "2026-07-04T20:43:31.637Z",
+  "date": "2026年7月4日 20时43分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "A Runtime Modulation Layer for Large Language Models",
+          "title": "Providence AI",
           "summary": "暂无摘要",
-          "source": "w89780175",
-          "url": "https://github.com/divinecanon/signalengine-EN-",
-          "time": "2026-07-03"
+          "source": "j_anderssen",
+          "url": "https://providenceai.app",
+          "time": "2026-07-04"
         },
         {
-          "title": "OpenCode, Pi, and Goose: Three Layers of the AI Agent Stack",
+          "title": "Trees are mostly made of air and a generalizable lesson for AI safety",
           "summary": "暂无摘要",
-          "source": "AIMOWAY",
-          "url": "https://gist.github.com/AIMOWAY/bd8007c8f834a9bc83c71e3178239d75",
-          "time": "2026-07-03"
+          "source": "paulpauper",
+          "url": "https://www.lesswrong.com/posts/xiTBpBDwubnr4MLRe/trees-are-mostly-made-of-air-and-a-generalizable-lesson-for",
+          "time": "2026-07-04"
         },
         {
-          "title": "AI Is Boring",
+          "title": "A Twist in This Year's Strangest Literary AI Scandal",
           "summary": "暂无摘要",
-          "source": "sverp",
-          "url": "https://news.ycombinator.com/item?id=48779624",
-          "time": "2026-07-03"
+          "source": "paulpauper",
+          "url": "https://www.theatlantic.com/technology/2026/07/commonwealth-prize-ai-writing-jamir-nazir/687806/",
+          "time": "2026-07-04"
         },
         {
-          "title": "Deterministic Guardrails Against AI Code Duplication",
+          "title": "Speck v1.0 – AI spec-driven agents, inspired by compilers and build tools",
           "summary": "暂无摘要",
-          "source": "rafaepta",
-          "url": "https://www.technology.org/2026/07/03/dupehound-deterministic-guardrails-against-ai-code-duplication/",
-          "time": "2026-07-03"
+          "source": "gidellav",
+          "url": "https://crates.io/crates/speck-dev",
+          "time": "2026-07-04"
         },
         {
-          "title": "Adapt: AI Native Work",
+          "title": "Speck – AI spec-driven agents, inspired by compilers and build tools",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://adapt.com",
-          "time": "2026-07-03"
+          "source": "gidellav",
+          "url": "https://github.com/gi-dellav/speck/tree/main",
+          "time": "2026-07-04"
         },
         {
-          "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "title": "Ford rehires human engineers after AI fails to match quality checks",
           "summary": "暂无摘要",
-          "source": "mroche",
-          "url": "https://kagi.com/changelog#10959",
-          "time": "2026-07-03"
+          "source": "jack1689",
+          "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
+          "time": "2026-07-04"
         },
         {
-          "title": "Show HN: An AI-friendly CLI for public space data",
+          "title": "How AI is changing language",
           "summary": "暂无摘要",
-          "source": "oscarjpicazo",
-          "url": "https://www.npmjs.com/package/spacedata",
-          "time": "2026-07-03"
+          "source": "mellosouls",
+          "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
+          "time": "2026-07-04"
         },
         {
-          "title": "AI agents are not your \"coworkers\"",
+          "title": "Retrieval is not the future of AI – if it was, Google would have won already",
           "summary": "暂无摘要",
-          "source": "ashumz",
-          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-          "time": "2026-07-03"
+          "source": "lamprouge",
+          "url": "https://news.ycombinator.com/item?id=48788520",
+          "time": "2026-07-04"
         },
         {
-          "title": "Show HN: Kontext – Move an AI chat's full context to another AI in one click",
+          "title": "Miller 6.20.2: Miller and AI, bash/zsh tab-completion, bytes datatype",
           "summary": "暂无摘要",
-          "source": "anuragmerndev",
-          "url": "https://github.com/anuragmerndev/kontext-ai",
-          "time": "2026-07-03"
+          "source": "john_kerl",
+          "url": "https://github.com/johnkerl/miller/releases/tag/v6.20.2",
+          "time": "2026-07-04"
         },
         {
-          "title": "A political belief changed how AI analysts read the same data",
+          "title": "AI has torched the market for junior programmers",
           "summary": "暂无摘要",
-          "source": "thatsgcasey",
-          "url": "https://arxiv.org/abs/2607.01507",
-          "time": "2026-07-03"
+          "source": "cdrnsf",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+          "time": "2026-07-04"
         },
         {
-          "title": "An AI Koan",
+          "title": "I ran an AI nuclear engineering department for a week",
           "summary": "暂无摘要",
-          "source": "rcanand2025",
-          "url": "https://news.ycombinator.com/item?id=48778522",
-          "time": "2026-07-03"
+          "source": "couAUIA",
+          "url": "https://charlesazam.com/blog/ai-engineering-department/",
+          "time": "2026-07-04"
         },
         {
-          "title": "Mathematics in Machine Learning (Vector Embeddings)",
+          "title": "AI-writing-pattern linter that kept flagging my own README",
           "summary": "暂无摘要",
-          "source": "tech2trees",
-          "url": "https://www.youtube.com/watch?v=GbPNRDvpQ6E",
-          "time": "2026-07-03"
+          "source": "danishyar",
+          "url": "https://github.com/Shirhussain/humanize",
+          "time": "2026-07-04"
         },
         {
-          "title": "Ask HN: Are any startups hiring front-end developers, or are they just using AI?",
+          "title": "Generative AI creates delicious, sustainable, and nutritious burgers",
           "summary": "暂无摘要",
-          "source": "Kathan2651",
-          "url": "https://news.ycombinator.com/item?id=48778312",
-          "time": "2026-07-03"
+          "source": "nojito",
+          "url": "https://www.nature.com/articles/s41538-026-00953-x",
+          "time": "2026-07-04"
         },
         {
-          "title": "SaaS Economics in the AI Era",
+          "title": "A Little Machine Near the Sun – Ecuador Robot Climbs Chimborazo",
           "summary": "暂无摘要",
-          "source": "hsrada93",
-          "url": "https://medium.com/@adarshdeepsingh/saas-economics-in-the-ai-era-39b63acfaae7",
-          "time": "2026-07-03"
+          "source": "dxs",
+          "url": "https://latinamericanpost.com/science-technology/ecuador-robot-climbs-chimborazo-as-science-gets-altitude-and-attitude/",
+          "time": "2026-07-04"
         },
         {
-          "title": "AI turned every engineer into three. Now companies need more product thinkers",
+          "title": "US and Chinese companies train almost all of the most-used AI models",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
-          "time": "2026-07-03"
+          "source": "01-_-",
+          "url": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
+          "time": "2026-07-04"
         },
         {
-          "title": "Physics informed generative AI for semiconductor manufacturing",
+          "title": "Understanding AI Memory the Basics",
           "summary": "暂无摘要",
-          "source": "Jimmc414",
-          "url": "https://arxiv.org/abs/2606.11247",
-          "time": "2026-07-03"
+          "source": "KingofKimchi",
+          "url": "https://kingofkimchi.substack.com/p/the-memory-files-case-01-ai-memory",
+          "time": "2026-07-04"
         },
         {
-          "title": "Show HN: Solace – A quiet, local AI companion for Android with long-term memory",
+          "title": "HN – The first AI recruitment assistant beyond traditional ATS",
           "summary": "暂无摘要",
-          "source": "redhotcookerr",
-          "url": "https://play.google.com/store/apps/details?id=com.solace.bot&amp;hl=en_US",
-          "time": "2026-07-03"
+          "source": "Alex_Bonjean",
+          "url": "https://www.kyntoai.com",
+          "time": "2026-07-04"
         },
         {
-          "title": "Token prices collapsing, regulation rising, AI's pricing power looks fragile",
+          "title": "Email inboxes for AI agents: the complete guide – MailKite",
           "summary": "暂无摘要",
-          "source": "1vuio0pswjnm7",
-          "url": "https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile",
-          "time": "2026-07-03"
+          "source": "fijiwebdesign",
+          "url": "https://mailkite.dev/blog/email-inbox-for-ai-agents-guide/",
+          "time": "2026-07-04"
         },
         {
-          "title": "Flora: A Diagram Library Built with (and for) AI",
+          "title": "Show HN: AI-powered code review tool",
           "summary": "暂无摘要",
-          "source": "jillcates",
-          "url": "https://www.normallydistributed.dev/introducing-flora-a-diagram-library-built-with-and-for-ai/",
-          "time": "2026-07-03"
+          "source": "k1r111",
+          "url": "https://github.com/Kirill89/reviewcerberus",
+          "time": "2026-07-04"
         },
         {
-          "title": "Patagonia Vests Are \"Out\" with AI Crowd",
+          "title": "AI researchers ran a secret experiment on Reddit users (2025)",
           "summary": "暂无摘要",
-          "source": "runamuck",
-          "url": "https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7",
-          "time": "2026-07-03"
+          "source": "rolph",
+          "url": "https://www.livescience.com/technology/artificial-intelligence/ai-researchers-ran-a-secret-experiment-on-reddit-users-to-see-if-they-could-change-their-minds-and-the-results-are-creepy",
+          "time": "2026-07-04"
         },
         {
           "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
@@ -267,144 +267,144 @@
           "time": "2026-05-20"
         },
         {
-          "title": "OpenCode, Pi, and Goose: Three Layers of the AI Agent Stack",
+          "title": "Providence AI",
           "summary": "暂无摘要",
-          "source": "AIMOWAY",
-          "url": "https://gist.github.com/AIMOWAY/bd8007c8f834a9bc83c71e3178239d75",
-          "time": "2026-07-03"
+          "source": "j_anderssen",
+          "url": "https://providenceai.app",
+          "time": "2026-07-04"
         },
         {
-          "title": "AI Is Boring",
+          "title": "Trees are mostly made of air and a generalizable lesson for AI safety",
           "summary": "暂无摘要",
-          "source": "sverp",
-          "url": "https://news.ycombinator.com/item?id=48779624",
-          "time": "2026-07-03"
+          "source": "paulpauper",
+          "url": "https://www.lesswrong.com/posts/xiTBpBDwubnr4MLRe/trees-are-mostly-made-of-air-and-a-generalizable-lesson-for",
+          "time": "2026-07-04"
         },
         {
-          "title": "Deterministic Guardrails Against AI Code Duplication",
+          "title": "A Twist in This Year's Strangest Literary AI Scandal",
           "summary": "暂无摘要",
-          "source": "rafaepta",
-          "url": "https://www.technology.org/2026/07/03/dupehound-deterministic-guardrails-against-ai-code-duplication/",
-          "time": "2026-07-03"
+          "source": "paulpauper",
+          "url": "https://www.theatlantic.com/technology/2026/07/commonwealth-prize-ai-writing-jamir-nazir/687806/",
+          "time": "2026-07-04"
         },
         {
-          "title": "Adapt: AI Native Work",
+          "title": "Speck v1.0 – AI spec-driven agents, inspired by compilers and build tools",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://adapt.com",
-          "time": "2026-07-03"
+          "source": "gidellav",
+          "url": "https://crates.io/crates/speck-dev",
+          "time": "2026-07-04"
         },
         {
-          "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "title": "Speck – AI spec-driven agents, inspired by compilers and build tools",
           "summary": "暂无摘要",
-          "source": "mroche",
-          "url": "https://kagi.com/changelog#10959",
-          "time": "2026-07-03"
+          "source": "gidellav",
+          "url": "https://github.com/gi-dellav/speck/tree/main",
+          "time": "2026-07-04"
         },
         {
-          "title": "Independent Studio Buys Movie About OpenAI That Amazon Dropped",
+          "title": "Ford rehires human engineers after AI fails to match quality checks",
           "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html",
-          "time": "2026-07-03"
+          "source": "jack1689",
+          "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
+          "time": "2026-07-04"
         },
         {
-          "title": "Show HN: An AI-friendly CLI for public space data",
+          "title": "Possible evidence of literal prompt injection by Anthropic",
           "summary": "暂无摘要",
-          "source": "oscarjpicazo",
-          "url": "https://www.npmjs.com/package/spacedata",
-          "time": "2026-07-03"
+          "source": "theanonymousone",
+          "url": "https://old.reddit.com/r/LocalLLaMA/comments/1unif51/possible_evidence_of_literal_prompt_injection_by/",
+          "time": "2026-07-04"
         },
         {
-          "title": "AI agents are not your \"coworkers\"",
+          "title": "How AI is changing language",
           "summary": "暂无摘要",
-          "source": "ashumz",
-          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-          "time": "2026-07-03"
+          "source": "mellosouls",
+          "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
+          "time": "2026-07-04"
         },
         {
-          "title": "Meta reuses old RAM in new servers with custom bridge chip",
+          "title": "Retrieval is not the future of AI – if it was, Google would have won already",
           "summary": "暂无摘要",
-          "source": "ihsw",
-          "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
-          "time": "2026-07-03"
+          "source": "lamprouge",
+          "url": "https://news.ycombinator.com/item?id=48788520",
+          "time": "2026-07-04"
         },
         {
-          "title": "Show HN: Kontext – Move an AI chat's full context to another AI in one click",
+          "title": "Miller 6.20.2: Miller and AI, bash/zsh tab-completion, bytes datatype",
           "summary": "暂无摘要",
-          "source": "anuragmerndev",
-          "url": "https://github.com/anuragmerndev/kontext-ai",
-          "time": "2026-07-03"
+          "source": "john_kerl",
+          "url": "https://github.com/johnkerl/miller/releases/tag/v6.20.2",
+          "time": "2026-07-04"
         },
         {
-          "title": "A political belief changed how AI analysts read the same data",
+          "title": "AI has torched the market for junior programmers",
           "summary": "暂无摘要",
-          "source": "thatsgcasey",
-          "url": "https://arxiv.org/abs/2607.01507",
-          "time": "2026-07-03"
+          "source": "cdrnsf",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+          "time": "2026-07-04"
         },
         {
-          "title": "An AI Koan",
+          "title": "I ran an AI nuclear engineering department for a week",
           "summary": "暂无摘要",
-          "source": "rcanand2025",
-          "url": "https://news.ycombinator.com/item?id=48778522",
-          "time": "2026-07-03"
+          "source": "couAUIA",
+          "url": "https://charlesazam.com/blog/ai-engineering-department/",
+          "time": "2026-07-04"
         },
         {
-          "title": "Ask HN: Are any startups hiring front-end developers, or are they just using AI?",
+          "title": "AI-writing-pattern linter that kept flagging my own README",
           "summary": "暂无摘要",
-          "source": "Kathan2651",
-          "url": "https://news.ycombinator.com/item?id=48778312",
-          "time": "2026-07-03"
+          "source": "danishyar",
+          "url": "https://github.com/Shirhussain/humanize",
+          "time": "2026-07-04"
         },
         {
-          "title": "SaaS Economics in the AI Era",
+          "title": "Generative AI creates delicious, sustainable, and nutritious burgers",
           "summary": "暂无摘要",
-          "source": "hsrada93",
-          "url": "https://medium.com/@adarshdeepsingh/saas-economics-in-the-ai-era-39b63acfaae7",
-          "time": "2026-07-03"
+          "source": "nojito",
+          "url": "https://www.nature.com/articles/s41538-026-00953-x",
+          "time": "2026-07-04"
         },
         {
-          "title": "AI turned every engineer into three. Now companies need more product thinkers",
+          "title": "US and Chinese companies train almost all of the most-used AI models",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://venturebeat.com/ai/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
-          "time": "2026-07-03"
+          "source": "01-_-",
+          "url": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
+          "time": "2026-07-04"
         },
         {
-          "title": "Physics informed generative AI for semiconductor manufacturing",
+          "title": "Anthropic wants to develop its own drugs",
           "summary": "暂无摘要",
-          "source": "Jimmc414",
-          "url": "https://arxiv.org/abs/2606.11247",
-          "time": "2026-07-03"
+          "source": "erhuve",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+          "time": "2026-07-04"
         },
         {
-          "title": "Show HN: Solace – A quiet, local AI companion for Android with long-term memory",
+          "title": "Understanding AI Memory the Basics",
           "summary": "暂无摘要",
-          "source": "redhotcookerr",
-          "url": "https://play.google.com/store/apps/details?id=com.solace.bot&amp;hl=en_US",
-          "time": "2026-07-03"
+          "source": "KingofKimchi",
+          "url": "https://kingofkimchi.substack.com/p/the-memory-files-case-01-ai-memory",
+          "time": "2026-07-04"
         },
         {
-          "title": "Token prices collapsing, regulation rising, AI's pricing power looks fragile",
+          "title": "HN – The first AI recruitment assistant beyond traditional ATS",
           "summary": "暂无摘要",
-          "source": "1vuio0pswjnm7",
-          "url": "https://www.latimes.com/business/story/2026-07-03/with-token-prices-collapsing-regulation-rising-ais-pricing-power-looks-fragile",
-          "time": "2026-07-03"
+          "source": "Alex_Bonjean",
+          "url": "https://www.kyntoai.com",
+          "time": "2026-07-04"
         },
         {
-          "title": "Flora: A Diagram Library Built with (and for) AI",
+          "title": "Email inboxes for AI agents: the complete guide – MailKite",
           "summary": "暂无摘要",
-          "source": "jillcates",
-          "url": "https://www.normallydistributed.dev/introducing-flora-a-diagram-library-built-with-and-for-ai/",
-          "time": "2026-07-03"
+          "source": "fijiwebdesign",
+          "url": "https://mailkite.dev/blog/email-inbox-for-ai-agents-guide/",
+          "time": "2026-07-04"
         },
         {
-          "title": "Patagonia Vests Are \"Out\" with AI Crowd",
+          "title": "Show HN: AI-powered code review tool",
           "summary": "暂无摘要",
-          "source": "runamuck",
-          "url": "https://www.businessinsider.com/whats-in-and-whats-out-among-new-ai-money-crowd-2026-7",
-          "time": "2026-07-03"
+          "source": "k1r111",
+          "url": "https://github.com/Kirill89/reviewcerberus",
+          "time": "2026-07-04"
         }
       ]
     },
@@ -413,6 +413,13 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+          "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+          "source": "Anna Heim",
+          "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+          "time": "2026-07-04"
+        },
         {
           "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
           "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
@@ -442,18 +449,151 @@
           "time": "2026-07-01"
         },
         {
-          "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-          "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-          "time": "2026-07-01"
-        },
-        {
           "title": "Bernie Sanders Saw This Coming",
           "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
           "source": "Katie Drummond",
           "url": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
           "time": "2026-06-30"
+        },
+        {
+          "title": "Providence AI",
+          "summary": "暂无摘要",
+          "source": "j_anderssen",
+          "url": "https://providenceai.app",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Trees are mostly made of air and a generalizable lesson for AI safety",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.lesswrong.com/posts/xiTBpBDwubnr4MLRe/trees-are-mostly-made-of-air-and-a-generalizable-lesson-for",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "A Twist in This Year's Strangest Literary AI Scandal",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.theatlantic.com/technology/2026/07/commonwealth-prize-ai-writing-jamir-nazir/687806/",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Speck v1.0 – AI spec-driven agents, inspired by compilers and build tools",
+          "summary": "暂无摘要",
+          "source": "gidellav",
+          "url": "https://crates.io/crates/speck-dev",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Speck – AI spec-driven agents, inspired by compilers and build tools",
+          "summary": "暂无摘要",
+          "source": "gidellav",
+          "url": "https://github.com/gi-dellav/speck/tree/main",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Ford rehires human engineers after AI fails to match quality checks",
+          "summary": "暂无摘要",
+          "source": "jack1689",
+          "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "How AI is changing language",
+          "summary": "暂无摘要",
+          "source": "mellosouls",
+          "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Retrieval is not the future of AI – if it was, Google would have won already",
+          "summary": "暂无摘要",
+          "source": "lamprouge",
+          "url": "https://news.ycombinator.com/item?id=48788520",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Miller 6.20.2: Miller and AI, bash/zsh tab-completion, bytes datatype",
+          "summary": "暂无摘要",
+          "source": "john_kerl",
+          "url": "https://github.com/johnkerl/miller/releases/tag/v6.20.2",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "AI has torched the market for junior programmers",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "I ran an AI nuclear engineering department for a week",
+          "summary": "暂无摘要",
+          "source": "couAUIA",
+          "url": "https://charlesazam.com/blog/ai-engineering-department/",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "AI-writing-pattern linter that kept flagging my own README",
+          "summary": "暂无摘要",
+          "source": "danishyar",
+          "url": "https://github.com/Shirhussain/humanize",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Generative AI creates delicious, sustainable, and nutritious burgers",
+          "summary": "暂无摘要",
+          "source": "nojito",
+          "url": "https://www.nature.com/articles/s41538-026-00953-x",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "US and Chinese companies train almost all of the most-used AI models",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Funding Your Own Disruption",
+          "summary": "暂无摘要",
+          "source": "swastikanayak",
+          "url": "https://stratnotes.substack.com/p/funding-your-own-disruption",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Understanding AI Memory the Basics",
+          "summary": "暂无摘要",
+          "source": "KingofKimchi",
+          "url": "https://kingofkimchi.substack.com/p/the-memory-files-case-01-ai-memory",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "HN – The first AI recruitment assistant beyond traditional ATS",
+          "summary": "暂无摘要",
+          "source": "Alex_Bonjean",
+          "url": "https://www.kyntoai.com",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Email inboxes for AI agents: the complete guide – MailKite",
+          "summary": "暂无摘要",
+          "source": "fijiwebdesign",
+          "url": "https://mailkite.dev/blog/email-inbox-for-ai-agents-guide/",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Show HN: AI-powered code review tool",
+          "summary": "暂无摘要",
+          "source": "k1r111",
+          "url": "https://github.com/Kirill89/reviewcerberus",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "AI researchers ran a secret experiment on Reddit users (2025)",
+          "summary": "暂无摘要",
+          "source": "rolph",
+          "url": "https://www.livescience.com/technology/artificial-intelligence/ai-researchers-ran-a-secret-experiment-on-reddit-users-to-see-if-they-could-change-their-minds-and-the-results-are-creepy",
+          "time": "2026-07-04"
         }
       ]
     },
@@ -650,6 +790,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Providence AI",
+          "summary": "暂无摘要",
+          "source": "j_anderssen",
+          "url": "https://providenceai.app",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Trees are mostly made of air and a generalizable lesson for AI safety",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.lesswrong.com/posts/xiTBpBDwubnr4MLRe/trees-are-mostly-made-of-air-and-a-generalizable-lesson-for",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "A Twist in This Year's Strangest Literary AI Scandal",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.theatlantic.com/technology/2026/07/commonwealth-prize-ai-writing-jamir-nazir/687806/",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Speck v1.0 – AI spec-driven agents, inspired by compilers and build tools",
+          "summary": "暂无摘要",
+          "source": "gidellav",
+          "url": "https://crates.io/crates/speck-dev",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Speck – AI spec-driven agents, inspired by compilers and build tools",
+          "summary": "暂无摘要",
+          "source": "gidellav",
+          "url": "https://github.com/gi-dellav/speck/tree/main",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Ford rehires human engineers after AI fails to match quality checks",
+          "summary": "暂无摘要",
+          "source": "jack1689",
+          "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "How AI is changing language",
+          "summary": "暂无摘要",
+          "source": "mellosouls",
+          "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Retrieval is not the future of AI – if it was, Google would have won already",
+          "summary": "暂无摘要",
+          "source": "lamprouge",
+          "url": "https://news.ycombinator.com/item?id=48788520",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Terraforming Warfare and International Law",
+          "summary": "暂无摘要",
+          "source": "bryanrasmussen",
+          "url": "https://opiniojuris.org/2026/02/25/terraforming-warfare-and-international-law/",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Miller 6.20.2: Miller and AI, bash/zsh tab-completion, bytes datatype",
+          "summary": "暂无摘要",
+          "source": "john_kerl",
+          "url": "https://github.com/johnkerl/miller/releases/tag/v6.20.2",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "AI has torched the market for junior programmers",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "I ran an AI nuclear engineering department for a week",
+          "summary": "暂无摘要",
+          "source": "couAUIA",
+          "url": "https://charlesazam.com/blog/ai-engineering-department/",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "AI-writing-pattern linter that kept flagging my own README",
+          "summary": "暂无摘要",
+          "source": "danishyar",
+          "url": "https://github.com/Shirhussain/humanize",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Generative AI creates delicious, sustainable, and nutritious burgers",
+          "summary": "暂无摘要",
+          "source": "nojito",
+          "url": "https://www.nature.com/articles/s41538-026-00953-x",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "US and Chinese companies train almost all of the most-used AI models",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://ourworldindata.org/data-insights/us-and-chinese-companies-train-almost-all-of-the-worlds-most-used-ai-models",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Understanding AI Memory the Basics",
+          "summary": "暂无摘要",
+          "source": "KingofKimchi",
+          "url": "https://kingofkimchi.substack.com/p/the-memory-files-case-01-ai-memory",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "HN – The first AI recruitment assistant beyond traditional ATS",
+          "summary": "暂无摘要",
+          "source": "Alex_Bonjean",
+          "url": "https://www.kyntoai.com",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Email inboxes for AI agents: the complete guide – MailKite",
+          "summary": "暂无摘要",
+          "source": "fijiwebdesign",
+          "url": "https://mailkite.dev/blog/email-inbox-for-ai-agents-guide/",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "Show HN: AI-powered code review tool",
+          "summary": "暂无摘要",
+          "source": "k1r111",
+          "url": "https://github.com/Kirill89/reviewcerberus",
+          "time": "2026-07-04"
+        },
+        {
+          "title": "AI researchers ran a secret experiment on Reddit users (2025)",
+          "summary": "暂无摘要",
+          "source": "rolph",
+          "url": "https://www.livescience.com/technology/artificial-intelligence/ai-researchers-ran-a-secret-experiment-on-reddit-users-to-see-if-they-could-change-their-minds-and-the-results-are-creepy",
+          "time": "2026-07-04"
         },
         {
           "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
