@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-05T20:47:20.927Z",
-  "date": "2026年7月5日 20时47分",
+  "updateTime": "2026-07-06T21:21:38.947Z",
+  "date": "2026年7月6日 21时21分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,11 @@
       "icon": "📰",
       "news": [
         {
-          "title": "OpenAI is fast-tracking its own \"AI Agent Phone\" for 2027 to challenge iPhone",
-          "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://old.reddit.com/r/OpenAI/comments/1unbqyd/openai_is_fasttracking_its_own_ai_agent_phone_for/",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Surveillance Companionship Entertainment: Intelligent Machines Ancient History",
-          "summary": "暂无摘要",
-          "source": "andsoitis",
-          "url": "https://thereader.mitpress.mit.edu/the-ancient-history-of-intelligent-machines/",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Tripadvisor AI summaries give glowing reviews to dangerous hotels",
-          "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.euronews.com/travel/2026/07/03/tripadvisor-ai-summaries-give-glowing-reviews-to-dangerous-hotels-consumer-watchdog-finds",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Show HN: Social and context-aware AI platform to do math",
-          "summary": "暂无摘要",
-          "source": "lemma1729",
-          "url": "https://www.prooftree.ai",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "The Mental Models I Use to Work with AI",
-          "summary": "暂无摘要",
-          "source": "young_mete",
-          "url": "https://metedata.substack.com/p/015-the-mental-models-i-use-to-work",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Social media management for AI Agents",
-          "summary": "暂无摘要",
-          "source": "schedpilot",
-          "url": "https://schedpilot.com/",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Turn Your AI Agent into an MCP Server for ChatGPT, Claude and Cursor",
-          "summary": "暂无摘要",
-          "source": "piotrgrudzien",
-          "url": "https://quickchat.ai/post/expose-ai-agent-as-mcp-server",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Large planets lighter than cotton candy",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://www.cbsnews.com/news/super-puff-planets-lighter-than-cotton-candy-found/",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "We'll fight the platform war against big AI",
-          "summary": "暂无摘要",
-          "source": "bnj",
-          "url": "https://www.anildash.com/2026/06/23/fight-ai-platform-war/",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Can AI do fact-checking?",
-          "summary": "暂无摘要",
-          "source": "simianwords",
-          "url": "https://www.wired.com/story/fact-checking-ai/",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Show HN: Make No Mistakes – AI coding agents must prove their work",
-          "summary": "暂无摘要",
-          "source": "mohamedmaache",
-          "url": "https://github.com/momomuchu/make-no-mistakes",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "AI Workflows Need Topological Sort",
-          "summary": "暂无摘要",
-          "source": "ashutosh-aanand",
-          "url": "https://arpitbhayani.me/blogs/ai-topological-sort/",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "America's 250th became a test of AI-powered Collective Intelligence",
-          "summary": "暂无摘要",
-          "source": "hogwash",
-          "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Has China obtained the most important machine?",
-          "summary": "暂无摘要",
-          "source": "pingou",
-          "url": "https://www.economist.com/china/2026/07/05/has-china-obtained-the-worlds-most-important-machine",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-          "summary": "暂无摘要",
-          "source": "jonahbard",
-          "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Show HN: GameFork – AI agents publish and fork browser games via MCP",
-          "summary": "暂无摘要",
-          "source": "TakayukiKomada",
-          "url": "https://gamefork.io",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "I built a weather station that runs machine learning to forecast weather",
-          "summary": "暂无摘要",
-          "source": "makegreatthings",
-          "url": "https://github.com/Dominic-Muscatella/weather-station-alpha/tree/master",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "When AI agents get you kicked out from a YC Startup",
-          "summary": "暂无摘要",
-          "source": "vaishcodescape",
-          "url": "https://github.com/vaishcodescape/shipd-agent",
-          "time": "2026-07-05"
-        },
-        {
-          "title": "Ghostlog: Live terminal UI to monitor AI coding agent Git commits",
-          "summary": "暂无摘要",
-          "source": "salarkhannn",
-          "url": "https://github.com/salarkhannn/ghostlog",
-          "time": "2026-07-05"
+          "title": "Your family&#8217;s $300 stake in OpenAI",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+          "time": "2026-07-06"
         },
         {
           "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
@@ -274,6 +141,13 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+          "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto",
+          "source": "Anna Heim",
+          "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+          "time": "2026-07-06"
+        },
+        {
           "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
           "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
           "source": "Anna Heim",
@@ -295,13 +169,6 @@
           "time": "2026-07-02"
         },
         {
-          "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-          "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-          "source": "Ram Iyer",
-          "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-          "time": "2026-07-01"
-        },
-        {
           "title": "Bernie Sanders Saw This Coming",
           "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
           "source": "Katie Drummond",
@@ -315,6 +182,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "Your family&#8217;s $300 stake in OpenAI",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+          "time": "2026-07-06"
+        },
         {
           "title": "Claude Science is Anthropic’s newest flagship product",
           "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way",
