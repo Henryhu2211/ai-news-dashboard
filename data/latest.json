@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-07-06T21:21:38.947Z",
-  "date": "2026年7月6日 21时21分",
+  "updateTime": "2026-07-07T21:15:46.929Z",
+  "date": "2026年7月7日 21时15分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "US manufacturers' energy costs soar because of AI data center demand",
+          "summary": "暂无摘要",
+          "source": "doener",
+          "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Show HN: Mkrrm – a waitlist only AI can use",
+          "summary": "暂无摘要",
+          "source": "yo9090",
+          "url": "https://mkrrm.com/",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Show HN: Agent Bus – IRC-style message bus for AI agents (MCP)",
+          "summary": "暂无摘要",
+          "source": "roriau",
+          "url": "https://github.com/roriau0422/AgentBus",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Understanding the Dynamics of the AI Ecosystem with Pace Layers",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Show HN: Gawk CLI – a live AI update feed in your terminal",
+          "summary": "暂无摘要",
+          "source": "gawkdev",
+          "url": "https://github.com/Neelagiri65/gawk-cli",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Code maintainability plummets in the AI coding era",
+          "summary": "暂无摘要",
+          "source": "gukov",
+          "url": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "We charge $10k a week to delete AI-generated code",
+          "summary": "暂无摘要",
+          "source": "zie1ony",
+          "url": "https://odra.dev/slopfix/",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "A Cursor Sandbox Escape Shows Why AI Agents Need Kernel Boundaries",
+          "summary": "暂无摘要",
+          "source": "syumei",
+          "url": "https://medium.com/@Koukyosyumei/a-cursor-sandbox-escape-shows-why-ai-agents-need-kernel-boundaries-281efdb56396",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Reconciling Enterprise AI Revenue: A Methodological Crosswalk [pdf]",
+          "summary": "暂无摘要",
+          "source": "toomuchtodo",
+          "url": "https://static.philippdubach.com/pdf/reconciling-enterprise-ai-revenue-2025.pdf",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
+          "summary": "暂无摘要",
+          "source": "skeledrew",
+          "url": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Microsoft Replaces OpenAI, Anthropic with Own AI in Some Apps",
+          "summary": "暂无摘要",
+          "source": "haritha1313",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Claude's Learning Mode",
+          "summary": "暂无摘要",
+          "source": "trekhleb",
+          "url": "https://www.engadget.com/ai/anthropic-brings-claudes-learning-mode-to-regular-users-and-devs-170018471.html",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Ask HN: If AI makes building trivial, what's the advantage for a SaaS in 2026?",
+          "summary": "暂无摘要",
+          "source": "izhonline",
+          "url": "https://kasspian.com/guides/is-saas-dead-in-the-age-of-ai",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Creative Directing AI Built SaaS, as a Service",
+          "summary": "暂无摘要",
+          "source": "krm01",
+          "url": "https://www.hyoomn.com/?ai",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Neuronpedia, an open source platform for AI interpretability",
+          "summary": "暂无摘要",
+          "source": "rzk",
+          "url": "https://www.neuronpedia.org/",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Quit trying to keep up with every new AI tool and keep building",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.dynatrace.com/news/blog/quit-trying-to-keep-up-with-every-new-ai-tool-and-keep-building/",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Abnormal.ai Response to Anthropic Lawsuit",
+          "summary": "暂无摘要",
+          "source": "babelfish",
+          "url": "https://abnormal.ai/blog/abnormal-response-to-anthropic-lawsuit",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Code is overpaying for AI. /tokendiet finds where",
+          "summary": "暂无摘要",
+          "source": "eMoka",
+          "url": "https://tokendiet.dev/",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "Sets up your AI agent for Cloudflare",
+          "summary": "暂无摘要",
+          "source": "gurjeet",
+          "url": "https://developers.cloudflare.com/agent-setup/prompt.md",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "AI Neovim",
+          "summary": "暂无摘要",
+          "source": "s2xon",
+          "url": "https://github.com/s2xon/aeovim/",
+          "time": "2026-07-07"
+        },
         {
           "title": "Your family&#8217;s $300 stake in OpenAI",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w",
@@ -141,6 +281,27 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+          "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+          "time": "2026-07-07"
+        },
+        {
+          "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
+          "summary": "暂无摘要",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+          "time": "2026-07-06"
+        },
+        {
+          "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+          "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+          "time": "2026-07-06"
+        },
+        {
           "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
           "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto",
           "source": "Anna Heim",
@@ -155,25 +316,11 @@
           "time": "2026-07-04"
         },
         {
-          "title": "Jersey Mike&#8217;s IPO illustrates how bad the AI hype has become",
-          "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-          "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-          "source": "Russell Brandom",
-          "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-          "time": "2026-07-02"
-        },
-        {
-          "title": "Bernie Sanders Saw This Coming",
-          "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
-          "source": "Katie Drummond",
-          "url": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
-          "time": "2026-06-30"
+          "title": "British Space Startup Launches Longevity Lab Into Orbit",
+          "summary": "The lab will beam back data to train AI models to predict how proteins behind age-related diseases like Alzheimer’s and certain cancers behave.",
+          "source": "Isabella Ward",
+          "url": "https://www.wired.com/story/british-space-startup-launches-longevity-lab-into-orbit/",
+          "time": "2026-07-07"
         }
       ]
     },
@@ -188,6 +335,13 @@
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
           "time": "2026-07-06"
+        },
+        {
+          "title": "Building the foundation for an autonomous enterprise",
+          "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+          "time": "2026-07-02"
         },
         {
           "title": "Claude Science is Anthropic’s newest flagship product",
@@ -209,13 +363,6 @@
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
           "time": "2026-06-29"
-        },
-        {
-          "title": "The emergence of the web data infrastructure layer for AI",
-          "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstru",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-          "time": "2026-06-24"
         }
       ]
     },
@@ -281,8 +428,8 @@
           "time": "2025-07-30"
         },
         {
-          "title": "Why Join the EU AI Scientific Panel?",
-          "summary": "The European Commission has published a call for applications for a scientific panel of independent experts. The panel focuses on general-purpose AI (GPAI) models and systems. Its tasks include advisi",
+          "title": "The Scientific Panel of Independent Experts: What Is It And How Does It Work?",
+          "summary": "The scientific panel of independent experts (the Scientific Panel) is a body established under the EU AI Act to support the enforcement of rules on general-purpose AI (GPAI) models and systems. It sit",
           "source": "Adam Radivojevic",
           "url": "https://artificialintelligenceact.eu/scientific-panel/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scientific-panel",
           "time": "2025-06-16"
@@ -379,18 +526,18 @@
           "time": "2022-12-16"
         },
         {
+          "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
+          "summary": "You can clip a cover over the cameras, which could be a double-edged sword.",
+          "source": "Boone Ashworth",
+          "url": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
+          "time": "2026-07-07"
+        },
+        {
           "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
           "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
           "source": "Hugo Lowell",
           "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
           "time": "2026-07-01"
-        },
-        {
-          "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-          "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
-          "source": "Hugo Lowell",
-          "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-          "time": "2026-06-30"
         }
       ]
     }
