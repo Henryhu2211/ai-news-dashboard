@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-07T21:15:46.929Z",
-  "date": "2026年7月7日 21时15分",
+  "updateTime": "2026-07-08T20:56:47.508Z",
+  "date": "2026年7月8日 20时56分",
   "categories": [
     {
       "id": "tech",
@@ -8,148 +8,8 @@
       "icon": "📰",
       "news": [
         {
-          "title": "US manufacturers' energy costs soar because of AI data center demand",
-          "summary": "暂无摘要",
-          "source": "doener",
-          "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Show HN: Mkrrm – a waitlist only AI can use",
-          "summary": "暂无摘要",
-          "source": "yo9090",
-          "url": "https://mkrrm.com/",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Show HN: Agent Bus – IRC-style message bus for AI agents (MCP)",
-          "summary": "暂无摘要",
-          "source": "roriau",
-          "url": "https://github.com/roriau0422/AgentBus",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Understanding the Dynamics of the AI Ecosystem with Pace Layers",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Show HN: Gawk CLI – a live AI update feed in your terminal",
-          "summary": "暂无摘要",
-          "source": "gawkdev",
-          "url": "https://github.com/Neelagiri65/gawk-cli",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Code maintainability plummets in the AI coding era",
-          "summary": "暂无摘要",
-          "source": "gukov",
-          "url": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "We charge $10k a week to delete AI-generated code",
-          "summary": "暂无摘要",
-          "source": "zie1ony",
-          "url": "https://odra.dev/slopfix/",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "A Cursor Sandbox Escape Shows Why AI Agents Need Kernel Boundaries",
-          "summary": "暂无摘要",
-          "source": "syumei",
-          "url": "https://medium.com/@Koukyosyumei/a-cursor-sandbox-escape-shows-why-ai-agents-need-kernel-boundaries-281efdb56396",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Reconciling Enterprise AI Revenue: A Methodological Crosswalk [pdf]",
-          "summary": "暂无摘要",
-          "source": "toomuchtodo",
-          "url": "https://static.philippdubach.com/pdf/reconciling-enterprise-ai-revenue-2025.pdf",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
-          "summary": "暂无摘要",
-          "source": "skeledrew",
-          "url": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Microsoft Replaces OpenAI, Anthropic with Own AI in Some Apps",
-          "summary": "暂无摘要",
-          "source": "haritha1313",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-replaces-openai-anthropic-own-161946596.html",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Claude's Learning Mode",
-          "summary": "暂无摘要",
-          "source": "trekhleb",
-          "url": "https://www.engadget.com/ai/anthropic-brings-claudes-learning-mode-to-regular-users-and-devs-170018471.html",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Ask HN: If AI makes building trivial, what's the advantage for a SaaS in 2026?",
-          "summary": "暂无摘要",
-          "source": "izhonline",
-          "url": "https://kasspian.com/guides/is-saas-dead-in-the-age-of-ai",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Creative Directing AI Built SaaS, as a Service",
-          "summary": "暂无摘要",
-          "source": "krm01",
-          "url": "https://www.hyoomn.com/?ai",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Neuronpedia, an open source platform for AI interpretability",
-          "summary": "暂无摘要",
-          "source": "rzk",
-          "url": "https://www.neuronpedia.org/",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Quit trying to keep up with every new AI tool and keep building",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.dynatrace.com/news/blog/quit-trying-to-keep-up-with-every-new-ai-tool-and-keep-building/",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Abnormal.ai Response to Anthropic Lawsuit",
-          "summary": "暂无摘要",
-          "source": "babelfish",
-          "url": "https://abnormal.ai/blog/abnormal-response-to-anthropic-lawsuit",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Code is overpaying for AI. /tokendiet finds where",
-          "summary": "暂无摘要",
-          "source": "eMoka",
-          "url": "https://tokendiet.dev/",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "Sets up your AI agent for Cloudflare",
-          "summary": "暂无摘要",
-          "source": "gurjeet",
-          "url": "https://developers.cloudflare.com/agent-setup/prompt.md",
-          "time": "2026-07-07"
-        },
-        {
-          "title": "AI Neovim",
-          "summary": "暂无摘要",
-          "source": "s2xon",
-          "url": "https://github.com/s2xon/aeovim/",
-          "time": "2026-07-07"
-        },
-        {
           "title": "Your family&#8217;s $300 stake in OpenAI",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americ",
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
           "time": "2026-07-06"
@@ -281,39 +141,46 @@
       "icon": "💼",
       "news": [
         {
+          "title": "This startup thinks robotics is about to have its ChatGPT moment",
+          "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "These AI startups are growing  revenue at faster and faster rates",
+          "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+          "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8",
+          "source": "Rebecca Bellan, Theresa Loconsolo",
+          "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+          "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+          "source": "Anna Heim",
+          "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+          "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+          "source": "Kate Park",
+          "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+          "time": "2026-07-08"
+        },
+        {
           "title": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
           "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
           "source": "Julie Bort",
           "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
           "time": "2026-07-07"
-        },
-        {
-          "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
-          "summary": "暂无摘要",
-          "source": "Connie Loizos",
-          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-          "time": "2026-07-06"
-        },
-        {
-          "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-          "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-          "time": "2026-07-06"
-        },
-        {
-          "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-          "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto",
-          "source": "Anna Heim",
-          "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-          "time": "2026-07-06"
-        },
-        {
-          "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-          "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-          "source": "Anna Heim",
-          "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-          "time": "2026-07-04"
         },
         {
           "title": "British Space Startup Launches Longevity Lab Into Orbit",
@@ -331,7 +198,7 @@
       "news": [
         {
           "title": "Your family&#8217;s $300 stake in OpenAI",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans w",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americ",
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
           "time": "2026-07-06"
@@ -526,18 +393,158 @@
           "time": "2022-12-16"
         },
         {
+          "title": "Most nurses say AI isn't good enough to trust with patient care, survey finds",
+          "summary": "暂无摘要",
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.washingtonpost.com/technology/2026/07/07/most-nurses-say-ai-isnt-good-enough-trust-with-patient-care-survey/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Our approach to government and national security partnerships",
+          "summary": "暂无摘要",
+          "source": "artninja1988",
+          "url": "https://openai.com/index/government-national-security-partnerships/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Show HN: Nully – FOSS AI chat without the bloat",
+          "summary": "暂无摘要",
+          "source": "johnfahey",
+          "url": "https://nully.chat/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "GitOps in the Age of AI",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://confighub.com/blog/gitops-in-the-age-of-ai-c73d0bd506ba",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "China Is Abusing AI",
+          "summary": "暂无摘要",
+          "source": "malshe",
+          "url": "https://www.theatlantic.com/international/2026/07/xi-jinping-censorship-ai-training/687696/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Dibi8 – Open-source AI tools directory, 4 languages",
+          "summary": "暂无摘要",
+          "source": "dibi8",
+          "url": "https://dibi8.com",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "AI Innovators Adopt Nvidia Vera – Why Max Single-Threaded CPU at Scale Matters",
+          "summary": "暂无摘要",
+          "source": "ksec",
+          "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Startup Spotlight: Sourcerer wants to turn AI procurement into a supplier",
+          "summary": "暂无摘要",
+          "source": "ryanmerket",
+          "url": "https://runtimewire.com/article/startup-spotlight-sourcerer-wants-to-turn-ai-procurement-into-a-supplier-not-saa",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "AI is starting to replace humans in operations, analyst jobs",
+          "summary": "暂无摘要",
+          "source": "petethomas",
+          "url": "https://www.americanbanker.com/news/ai-is-starting-to-replace-humans-in-operations-analyst-jobs",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "The Winning Essays for the Big Questions About AI",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://www.dwarkesh.com/p/blog-prize-winners",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "TaxCalcBench: An open source eval for testing if AI can file taxes",
+          "summary": "暂无摘要",
+          "source": "michaelrbock",
+          "url": "https://github.com/column-tax/tax-calc-bench",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Pro Max Ultra Fable Sol: AI Model Names Have Escaped Containment",
+          "summary": "暂无摘要",
+          "source": "ritzaco",
+          "url": "https://techstackups.com/articles/ai-model-naming-is-a-mess/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "The creator economy is above the law",
+          "summary": "暂无摘要",
+          "source": "dchi04",
+          "url": "https://www.profgmedia.com/p/the-creator-economy-is-above-the",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Show HN: Nino – a dedicated CFP/CPA team and AI to manage your financial life",
+          "summary": "暂无摘要",
+          "source": "jonlerner",
+          "url": "https://www.usenino.com/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Claude Fable 5: Why Anthropic's Most Powerful AI Was Suspended?",
+          "summary": "暂无摘要",
+          "source": "TheProbe",
+          "url": "https://news.ycombinator.com/item?id=48836009",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Open Source AI Gap Map",
+          "summary": "暂无摘要",
+          "source": "geoffeg",
+          "url": "https://map.currentai.org/",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Show HN: Genbuzz – An agent-driven news aggregator for AI filmmaking",
+          "summary": "暂无摘要",
+          "source": "yobfountain",
+          "url": "https://genbuzz.news",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "AI Slop as a Social Immune Response",
+          "summary": "暂无摘要",
+          "source": "pwmglenn",
+          "url": "https://thepatrickglenn.substack.com/p/on-ai-slop",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "What is wrong with AI services businesses",
+          "summary": "暂无摘要",
+          "source": "rcarrol6",
+          "url": "https://news.ycombinator.com/item?id=48835673",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "Meta tests 'super sensing' AI glasses that can capture every moment",
+          "summary": "暂无摘要",
+          "source": "ortusdux",
+          "url": "https://www.ft.com/content/ac282450-91a8-4597-8f60-9e6ef416865a",
+          "time": "2026-07-08"
+        },
+        {
+          "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+          "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
+          "source": "Joel Khalili",
+          "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+          "time": "2026-07-08"
+        },
+        {
           "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
           "summary": "You can clip a cover over the cameras, which could be a double-edged sword.",
           "source": "Boone Ashworth",
           "url": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
           "time": "2026-07-07"
-        },
-        {
-          "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
-          "summary": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
-          "source": "Hugo Lowell",
-          "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
-          "time": "2026-07-01"
         }
       ]
     }
