@@ -1,152 +1,12 @@
 {
-  "updateTime": "2026-07-11T20:38:36.036Z",
-  "date": "2026年7月11日 20时38分",
+  "updateTime": "2026-07-12T20:36:38.231Z",
+  "date": "2026年7月12日 20时36分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
-        {
-          "title": "Banning AI in Law School: We've Seen This Before",
-          "summary": "暂无摘要",
-          "source": "whobre",
-          "url": "https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "The AI Disagreement Index: 8 models agreed on the \"best tool\" 0 of 16 times",
-          "summary": "暂无摘要",
-          "source": "brainbootdev",
-          "url": "https://data.deepsynthesis.org/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Wealthy AI workers send San Francisco house prices soaring",
-          "summary": "暂无摘要",
-          "source": "root-parent",
-          "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "summary": "暂无摘要",
-          "source": "tejusarora",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI Arcade – which coding model can build the best arcade game",
-          "summary": "暂无摘要",
-          "source": "zapeterson16",
-          "url": "https://ai-arcade.app",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Nelson language for Engineers and Scientists (Matlab alternative)",
-          "summary": "暂无摘要",
-          "source": "ChaitanyaPatel",
-          "url": "https://nelson-lang.github.io/nelson-website/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Don't let your engineering brain rot in the age of AI",
-          "summary": "暂无摘要",
-          "source": "Chipatama90",
-          "url": "https://www.30secondsofknowledge.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "I built a free tool to evaluate AI agent outputs (human labels and LLM judges)",
-          "summary": "暂无摘要",
-          "source": "antoinefornas",
-          "url": "https://github.com/AntoineF23/verdict",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Sovereign AgentOps – Self-hosted constitutional AI governance for MCP agents",
-          "summary": "暂无摘要",
-          "source": "geludobre",
-          "url": "https://github.com/geludobre/sovereign-agentops",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Wizard – Self-extending Rust terminal AI agent (one-line install)",
-          "summary": "暂无摘要",
-          "source": "Theodoretennant",
-          "url": "https://wizard.teddytennant.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Settle any argument with a friend – an AI judge decides who's right",
-          "summary": "暂无摘要",
-          "source": "revolt2tech",
-          "url": "https://wram.chat",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2040 – The Comic",
-          "summary": "暂无摘要",
-          "source": "Alx_Dfy",
-          "url": "https://ai-2040-comic.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Meta removes controversial AI feature on Instagram after backlash",
-          "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI fiction is easy to detect because it's stupid and bad, research finds",
-          "summary": "暂无摘要",
-          "source": "theanonymousone",
-          "url": "https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Physical AI scale up chemistry startup gaining traction at Big Pharma",
-          "summary": "暂无摘要",
-          "source": "hairoglyphics",
-          "url": "https://skydeckconnect.com/telescope-innovations-telif",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2027",
-          "summary": "暂无摘要",
-          "source": "baalimago",
-          "url": "https://ai-2027.com/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI rebrands fail to deliver a lasting share price boost",
-          "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Ask HN: Has single-task focus become outdated in the AI era?",
-          "summary": "暂无摘要",
-          "source": "yura",
-          "url": "https://news.ycombinator.com/item?id=48874344",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Safe from AI: which jobs will help you thrive in the future?",
-          "summary": "暂无摘要",
-          "source": "hackernj",
-          "url": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2040 and the cult of intelligence",
-          "summary": "暂无摘要",
-          "source": "rvz",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "time": "2026-07-11"
-        },
         {
           "title": "Anthropic found a hidden space where Claude puzzles over concepts",
           "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they",
@@ -279,146 +139,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
           "time": "2026-05-20"
-        },
-        {
-          "title": "Banning AI in Law School: We've Seen This Before",
-          "summary": "暂无摘要",
-          "source": "whobre",
-          "url": "https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "The Montessori Method Under Scrutiny: A Meta-Analytic",
-          "summary": "暂无摘要",
-          "source": "doener",
-          "url": "https://journals.sagepub.com/doi/10.3102/00346543261458396",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "The AI Disagreement Index: 8 models agreed on the \"best tool\" 0 of 16 times",
-          "summary": "暂无摘要",
-          "source": "brainbootdev",
-          "url": "https://data.deepsynthesis.org/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Google Maps features I want in 2026",
-          "summary": "暂无摘要",
-          "source": "itskarad",
-          "url": "https://www.adityakarad.com/blog/google-maps-features",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Wealthy AI workers send San Francisco house prices soaring",
-          "summary": "暂无摘要",
-          "source": "root-parent",
-          "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "summary": "暂无摘要",
-          "source": "tejusarora",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI Arcade – which coding model can build the best arcade game",
-          "summary": "暂无摘要",
-          "source": "zapeterson16",
-          "url": "https://ai-arcade.app",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Don't let your engineering brain rot in the age of AI",
-          "summary": "暂无摘要",
-          "source": "Chipatama90",
-          "url": "https://www.30secondsofknowledge.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "I built a free tool to evaluate AI agent outputs (human labels and LLM judges)",
-          "summary": "暂无摘要",
-          "source": "antoinefornas",
-          "url": "https://github.com/AntoineF23/verdict",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Meta's Root Cause Analysis Platform at Scale",
-          "summary": "暂无摘要",
-          "source": "nikolay_sivko",
-          "url": "https://engineering.fb.com/2025/12/19/data-infrastructure/drp-metas-root-cause-analysis-platform-at-scale/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Sovereign AgentOps – Self-hosted constitutional AI governance for MCP agents",
-          "summary": "暂无摘要",
-          "source": "geludobre",
-          "url": "https://github.com/geludobre/sovereign-agentops",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Wizard – Self-extending Rust terminal AI agent (one-line install)",
-          "summary": "暂无摘要",
-          "source": "Theodoretennant",
-          "url": "https://wizard.teddytennant.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Settle any argument with a friend – an AI judge decides who's right",
-          "summary": "暂无摘要",
-          "source": "revolt2tech",
-          "url": "https://wram.chat",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2040 – The Comic",
-          "summary": "暂无摘要",
-          "source": "Alx_Dfy",
-          "url": "https://ai-2040-comic.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Meta removes controversial AI feature on Instagram after backlash",
-          "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI fiction is easy to detect because it's stupid and bad, research finds",
-          "summary": "暂无摘要",
-          "source": "theanonymousone",
-          "url": "https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Physical AI scale up chemistry startup gaining traction at Big Pharma",
-          "summary": "暂无摘要",
-          "source": "hairoglyphics",
-          "url": "https://skydeckconnect.com/telescope-innovations-telif",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2027",
-          "summary": "暂无摘要",
-          "source": "baalimago",
-          "url": "https://ai-2027.com/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI rebrands fail to deliver a lasting share price boost",
-          "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Ask HN: Has single-task focus become outdated in the AI era?",
-          "summary": "暂无摘要",
-          "source": "yura",
-          "url": "https://news.ycombinator.com/item?id=48874344",
-          "time": "2026-07-11"
         }
       ]
     },
@@ -463,6 +183,13 @@
           "time": "2026-07-09"
         },
         {
+          "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+          "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+          "source": "Isabella Ward",
+          "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+          "time": "2026-07-12"
+        },
+        {
           "title": "The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’",
           "summary": "A single wording mistake cost the government millions. Now Estonia is using AI to spot legal errors before they become law—and to automate more of the state.",
           "source": "Chris Stokel-Walker",
@@ -475,146 +202,6 @@
           "source": "Omnia Al Desoukie",
           "url": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
           "time": "2026-07-08"
-        },
-        {
-          "title": "Show HN: Sanfransim.com – a long waited startup simulation game",
-          "summary": "暂无摘要",
-          "source": "milkers",
-          "url": "https://sanfransim.com/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Banning AI in Law School: We've Seen This Before",
-          "summary": "暂无摘要",
-          "source": "whobre",
-          "url": "https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "The AI Disagreement Index: 8 models agreed on the \"best tool\" 0 of 16 times",
-          "summary": "暂无摘要",
-          "source": "brainbootdev",
-          "url": "https://data.deepsynthesis.org/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Wealthy AI workers send San Francisco house prices soaring",
-          "summary": "暂无摘要",
-          "source": "root-parent",
-          "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "summary": "暂无摘要",
-          "source": "tejusarora",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI Arcade – which coding model can build the best arcade game",
-          "summary": "暂无摘要",
-          "source": "zapeterson16",
-          "url": "https://ai-arcade.app",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Don't let your engineering brain rot in the age of AI",
-          "summary": "暂无摘要",
-          "source": "Chipatama90",
-          "url": "https://www.30secondsofknowledge.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "I built a free tool to evaluate AI agent outputs (human labels and LLM judges)",
-          "summary": "暂无摘要",
-          "source": "antoinefornas",
-          "url": "https://github.com/AntoineF23/verdict",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Sovereign AgentOps – Self-hosted constitutional AI governance for MCP agents",
-          "summary": "暂无摘要",
-          "source": "geludobre",
-          "url": "https://github.com/geludobre/sovereign-agentops",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Wizard – Self-extending Rust terminal AI agent (one-line install)",
-          "summary": "暂无摘要",
-          "source": "Theodoretennant",
-          "url": "https://wizard.teddytennant.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Settle any argument with a friend – an AI judge decides who's right",
-          "summary": "暂无摘要",
-          "source": "revolt2tech",
-          "url": "https://wram.chat",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2040 – The Comic",
-          "summary": "暂无摘要",
-          "source": "Alx_Dfy",
-          "url": "https://ai-2040-comic.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Meta removes controversial AI feature on Instagram after backlash",
-          "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI fiction is easy to detect because it's stupid and bad, research finds",
-          "summary": "暂无摘要",
-          "source": "theanonymousone",
-          "url": "https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Physical AI scale up chemistry startup gaining traction at Big Pharma",
-          "summary": "暂无摘要",
-          "source": "hairoglyphics",
-          "url": "https://skydeckconnect.com/telescope-innovations-telif",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2027",
-          "summary": "暂无摘要",
-          "source": "baalimago",
-          "url": "https://ai-2027.com/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI rebrands fail to deliver a lasting share price boost",
-          "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Ask HN: Has single-task focus become outdated in the AI era?",
-          "summary": "暂无摘要",
-          "source": "yura",
-          "url": "https://news.ycombinator.com/item?id=48874344",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Safe from AI: which jobs will help you thrive in the future?",
-          "summary": "暂无摘要",
-          "source": "hackernj",
-          "url": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2040 and the cult of intelligence",
-          "summary": "暂无摘要",
-          "source": "rvz",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "time": "2026-07-11"
         }
       ]
     },
@@ -665,6 +252,13 @@
       "name": "政策监管",
       "icon": "📜",
       "news": [
+        {
+          "title": "The Scientific Panel of Independent Experts: What Is It And How Does It Work?",
+          "summary": "The scientific panel of independent experts (the Scientific Panel) is a body established under the EU AI Act to support the enforcement of rules on general-purpose AI (GPAI) models and systems. It sit",
+          "source": "Adam Radivojevic",
+          "url": "https://artificialintelligenceact.eu/scientific-panel/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scientific-panel",
+          "time": "2026-07-07"
+        },
         {
           "title": "The Advisory Forum: What Is It And How Does It Work?",
           "summary": "The Advisory Forum (the Forum) is a general advisory body to the European Commission and the AI Board, established to provide technical expertise, advise them, and to contribute to their tasks under t",
@@ -720,13 +314,6 @@
           "source": "Adam Radivojevic",
           "url": "https://artificialintelligenceact.eu/code-of-practice-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=code-of-practice-overview",
           "time": "2025-07-30"
-        },
-        {
-          "title": "The Scientific Panel of Independent Experts: What Is It And How Does It Work?",
-          "summary": "The scientific panel of independent experts (the Scientific Panel) is a body established under the EU AI Act to support the enforcement of rules on general-purpose AI (GPAI) models and systems. It sit",
-          "source": "Adam Radivojevic",
-          "url": "https://artificialintelligenceact.eu/scientific-panel/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=scientific-panel",
-          "time": "2025-06-16"
         },
         {
           "title": "AI Literacy Programs in Europe – Supporting Article 4 of the EU AI Act",
@@ -818,146 +405,6 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
-        },
-        {
-          "title": "Banning AI in Law School: We've Seen This Before",
-          "summary": "暂无摘要",
-          "source": "whobre",
-          "url": "https://hardcoresoftware.learningbyshipping.com/p/240-banning-ai-in-law-school-weve",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "The AI Disagreement Index: 8 models agreed on the \"best tool\" 0 of 16 times",
-          "summary": "暂无摘要",
-          "source": "brainbootdev",
-          "url": "https://data.deepsynthesis.org/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Wealthy AI workers send San Francisco house prices soaring",
-          "summary": "暂无摘要",
-          "source": "root-parent",
-          "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "summary": "暂无摘要",
-          "source": "tejusarora",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI Arcade – which coding model can build the best arcade game",
-          "summary": "暂无摘要",
-          "source": "zapeterson16",
-          "url": "https://ai-arcade.app",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Don't let your engineering brain rot in the age of AI",
-          "summary": "暂无摘要",
-          "source": "Chipatama90",
-          "url": "https://www.30secondsofknowledge.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "I built a free tool to evaluate AI agent outputs (human labels and LLM judges)",
-          "summary": "暂无摘要",
-          "source": "antoinefornas",
-          "url": "https://github.com/AntoineF23/verdict",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Sovereign AgentOps – Self-hosted constitutional AI governance for MCP agents",
-          "summary": "暂无摘要",
-          "source": "geludobre",
-          "url": "https://github.com/geludobre/sovereign-agentops",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Wizard – Self-extending Rust terminal AI agent (one-line install)",
-          "summary": "暂无摘要",
-          "source": "Theodoretennant",
-          "url": "https://wizard.teddytennant.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Show HN: Settle any argument with a friend – an AI judge decides who's right",
-          "summary": "暂无摘要",
-          "source": "revolt2tech",
-          "url": "https://wram.chat",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2040 – The Comic",
-          "summary": "暂无摘要",
-          "source": "Alx_Dfy",
-          "url": "https://ai-2040-comic.com",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Meta removes controversial AI feature on Instagram after backlash",
-          "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI fiction is easy to detect because it's stupid and bad, research finds",
-          "summary": "暂无摘要",
-          "source": "theanonymousone",
-          "url": "https://www.404media.co/ai-fiction-is-easy-to-detect-because-its-stupid-and-bad-research-finds/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Physical AI scale up chemistry startup gaining traction at Big Pharma",
-          "summary": "暂无摘要",
-          "source": "hairoglyphics",
-          "url": "https://skydeckconnect.com/telescope-innovations-telif",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2027",
-          "summary": "暂无摘要",
-          "source": "baalimago",
-          "url": "https://ai-2027.com/",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI rebrands fail to deliver a lasting share price boost",
-          "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.ft.com/content/07fa9ce9-ac21-484c-a57c-078b0bb0fd3b",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Ask HN: Has single-task focus become outdated in the AI era?",
-          "summary": "暂无摘要",
-          "source": "yura",
-          "url": "https://news.ycombinator.com/item?id=48874344",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Safe from AI: which jobs will help you thrive in the future?",
-          "summary": "暂无摘要",
-          "source": "hackernj",
-          "url": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "AI 2040 and the cult of intelligence",
-          "summary": "暂无摘要",
-          "source": "rvz",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "time": "2026-07-11"
-        },
-        {
-          "title": "Thalmaar AI (Defense and Space Tech) Is Hiring Founding PM",
-          "summary": "暂无摘要",
-          "source": "reach_kapil",
-          "url": "https://wellfound.com/jobs/4377171-ai-product-manager-vision-ai",
-          "time": "2026-07-11"
         },
         {
           "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
