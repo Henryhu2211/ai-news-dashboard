@@ -1,12 +1,159 @@
 {
-  "updateTime": "2026-07-12T20:36:38.231Z",
-  "date": "2026年7月12日 20时36分",
+  "updateTime": "2026-07-13T20:49:50.762Z",
+  "date": "2026年7月13日 20时49分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "It's not AI slop you hate",
+          "summary": "暂无摘要",
+          "source": "sikakkar",
+          "url": "https://writing.sidharthkakkar.com/p/its-not-ai-slop-you-hate",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Open-source AI battle arena, plug your coding agent in and it fights bots",
+          "summary": "暂无摘要",
+          "source": "ademczuk",
+          "url": "https://arena.angel-serv.com/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Open source on-device AI apps (and counting), no cloud, works offline",
+          "summary": "暂无摘要",
+          "source": "rishabh121108",
+          "url": "https://github.com/zetic-ai/awesome-on-device-ai-apps",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Companies turn to Chinese AI models to cut costs",
+          "summary": "暂无摘要",
+          "source": "AnodicElegy",
+          "url": "https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Ask HN: Feedback on my solo, local-LLM-only AI content pipeline (100 posts in)",
+          "summary": "暂无摘要",
+          "source": "gladlabs",
+          "url": "https://www.gladlabs.io",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: AgentsProof – a small project for testing AI agents",
+          "summary": "暂无摘要",
+          "source": "adeeonline",
+          "url": "https://www.agentsproof.dev/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "\"I'm convinced that a large % of programmers don't like computers\"",
+          "summary": "暂无摘要",
+          "source": "bundie",
+          "url": "https://twitter.com/lauriewired/status/2076718031305384161",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "SREs to AI agents: Prove yourself before you touch production",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/13/sres-to-ai-agents-prove-yourself-before-you-touch-production/5264658",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard IP",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Samsung will delete your health data if you don't let them use it to train AI",
+          "summary": "暂无摘要",
+          "source": "bundie",
+          "url": "https://neow.in/cWsyMTV3",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: PlanWright – A control plane for AI coding agents",
+          "summary": "暂无摘要",
+          "source": "dudemanAtl",
+          "url": "https://planwright.tools",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: I created a platform to check which AI models is the best gamer",
+          "summary": "暂无摘要",
+          "source": "masterchef2209",
+          "url": "https://system-2-arena.vercel.app/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "AI Is a Bad Tool",
+          "summary": "暂无摘要",
+          "source": "shtgnwrng",
+          "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "AI data centers and the concentration of wealth",
+          "summary": "暂无摘要",
+          "source": "MattSayar",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "My Favorite Announcements from the Data and AI Summit 2026",
+          "summary": "暂无摘要",
+          "source": "protmaks",
+          "url": "https://medium.com/databrickscommunity/my-favorite-announcements-from-the-data-ai-summit-2026-317fc68d4e75",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Databricks News: CLI v1.0.0, AI-tools, Docker, DABs UI sync, mutators",
+          "summary": "暂无摘要",
+          "source": "protmaks",
+          "url": "https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "The Token Tax: When Bad AI Architecture Becomes Debt",
+          "summary": "暂无摘要",
+          "source": "encinas88",
+          "url": "https://medium.com/@alanscottencinas/the-token-tax-when-bad-ai-architecture-becomes-debt-81c29158ae0b",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Amid AI IP Theft Concerns, Microsoft CEO Floats New AI Patent Concept",
+          "summary": "暂无摘要",
+          "source": "PaulKeeble",
+          "url": "https://uk.pcmag.com/ai/166133/amid-ip-theft-concerns-microsoft-ceo-floats-new-ai-patent-concept",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "What would it take for AI to discover penicillin?",
+          "summary": "暂无摘要",
+          "source": "the_tyger",
+          "url": "https://bosoncutter.substack.com/p/what-would-it-take-for-ai-to-discover",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+          "time": "2026-07-13"
+        },
         {
           "title": "Anthropic found a hidden space where Claude puzzles over concepts",
           "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they",
@@ -139,6 +286,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
           "time": "2026-05-20"
+        },
+        {
+          "title": "It's not AI slop you hate",
+          "summary": "暂无摘要",
+          "source": "sikakkar",
+          "url": "https://writing.sidharthkakkar.com/p/its-not-ai-slop-you-hate",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Open-source AI battle arena, plug your coding agent in and it fights bots",
+          "summary": "暂无摘要",
+          "source": "ademczuk",
+          "url": "https://arena.angel-serv.com/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Open source on-device AI apps (and counting), no cloud, works offline",
+          "summary": "暂无摘要",
+          "source": "rishabh121108",
+          "url": "https://github.com/zetic-ai/awesome-on-device-ai-apps",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Companies turn to Chinese AI models to cut costs",
+          "summary": "暂无摘要",
+          "source": "AnodicElegy",
+          "url": "https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Ask HN: Feedback on my solo, local-LLM-only AI content pipeline (100 posts in)",
+          "summary": "暂无摘要",
+          "source": "gladlabs",
+          "url": "https://www.gladlabs.io",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: AgentsProof – a small project for testing AI agents",
+          "summary": "暂无摘要",
+          "source": "adeeonline",
+          "url": "https://www.agentsproof.dev/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "SREs to AI agents: Prove yourself before you touch production",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/13/sres-to-ai-agents-prove-yourself-before-you-touch-production/5264658",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard IP",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Samsung will delete your health data if you don't let them use it to train AI",
+          "summary": "暂无摘要",
+          "source": "bundie",
+          "url": "https://neow.in/cWsyMTV3",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: PlanWright – A control plane for AI coding agents",
+          "summary": "暂无摘要",
+          "source": "dudemanAtl",
+          "url": "https://planwright.tools",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: I created a platform to check which AI models is the best gamer",
+          "summary": "暂无摘要",
+          "source": "masterchef2209",
+          "url": "https://system-2-arena.vercel.app/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "AI Is a Bad Tool",
+          "summary": "暂无摘要",
+          "source": "shtgnwrng",
+          "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "AI data centers and the concentration of wealth",
+          "summary": "暂无摘要",
+          "source": "MattSayar",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "My Favorite Announcements from the Data and AI Summit 2026",
+          "summary": "暂无摘要",
+          "source": "protmaks",
+          "url": "https://medium.com/databrickscommunity/my-favorite-announcements-from-the-data-ai-summit-2026-317fc68d4e75",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Databricks News: CLI v1.0.0, AI-tools, Docker, DABs UI sync, mutators",
+          "summary": "暂无摘要",
+          "source": "protmaks",
+          "url": "https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "The Token Tax: When Bad AI Architecture Becomes Debt",
+          "summary": "暂无摘要",
+          "source": "encinas88",
+          "url": "https://medium.com/@alanscottencinas/the-token-tax-when-bad-ai-architecture-becomes-debt-81c29158ae0b",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Amid AI IP Theft Concerns, Microsoft CEO Floats New AI Patent Concept",
+          "summary": "暂无摘要",
+          "source": "PaulKeeble",
+          "url": "https://uk.pcmag.com/ai/166133/amid-ip-theft-concerns-microsoft-ceo-floats-new-ai-patent-concept",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "What would it take for AI to discover penicillin?",
+          "summary": "暂无摘要",
+          "source": "the_tyger",
+          "url": "https://bosoncutter.substack.com/p/what-would-it-take-for-ai-to-discover",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "The Equivalency Kernel: A 12-axiom framework for human-AI symbiosis",
+          "summary": "暂无摘要",
+          "source": "jamesberge",
+          "url": "https://github.com/jamesberge-coder/equivalency-kernel",
+          "time": "2026-07-13"
         }
       ]
     },
@@ -147,6 +434,20 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Sam Altman&#8217;s space data center trash talk is what most experts already believe",
+          "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+          "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+          "time": "2026-07-13"
+        },
         {
           "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
           "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
@@ -176,13 +477,6 @@
           "time": "2026-07-09"
         },
         {
-          "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-          "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-          "time": "2026-07-09"
-        },
-        {
           "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
           "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
           "source": "Isabella Ward",
@@ -202,6 +496,146 @@
           "source": "Omnia Al Desoukie",
           "url": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
           "time": "2026-07-08"
+        },
+        {
+          "title": "It's not AI slop you hate",
+          "summary": "暂无摘要",
+          "source": "sikakkar",
+          "url": "https://writing.sidharthkakkar.com/p/its-not-ai-slop-you-hate",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Open-source AI battle arena, plug your coding agent in and it fights bots",
+          "summary": "暂无摘要",
+          "source": "ademczuk",
+          "url": "https://arena.angel-serv.com/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Open source on-device AI apps (and counting), no cloud, works offline",
+          "summary": "暂无摘要",
+          "source": "rishabh121108",
+          "url": "https://github.com/zetic-ai/awesome-on-device-ai-apps",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Companies turn to Chinese AI models to cut costs",
+          "summary": "暂无摘要",
+          "source": "AnodicElegy",
+          "url": "https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Ask HN: Feedback on my solo, local-LLM-only AI content pipeline (100 posts in)",
+          "summary": "暂无摘要",
+          "source": "gladlabs",
+          "url": "https://www.gladlabs.io",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: AgentsProof – a small project for testing AI agents",
+          "summary": "暂无摘要",
+          "source": "adeeonline",
+          "url": "https://www.agentsproof.dev/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "SREs to AI agents: Prove yourself before you touch production",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/13/sres-to-ai-agents-prove-yourself-before-you-touch-production/5264658",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard IP",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Samsung will delete your health data if you don't let them use it to train AI",
+          "summary": "暂无摘要",
+          "source": "bundie",
+          "url": "https://neow.in/cWsyMTV3",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: PlanWright – A control plane for AI coding agents",
+          "summary": "暂无摘要",
+          "source": "dudemanAtl",
+          "url": "https://planwright.tools",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: I created a platform to check which AI models is the best gamer",
+          "summary": "暂无摘要",
+          "source": "masterchef2209",
+          "url": "https://system-2-arena.vercel.app/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "AI Is a Bad Tool",
+          "summary": "暂无摘要",
+          "source": "shtgnwrng",
+          "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Apple acquires observability startup SigScalr",
+          "summary": "暂无摘要",
+          "source": "herbertl",
+          "url": "https://9to5mac.com/2026/07/13/apple-acquires-observability-startup-sigscalr/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "AI data centers and the concentration of wealth",
+          "summary": "暂无摘要",
+          "source": "MattSayar",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "My Favorite Announcements from the Data and AI Summit 2026",
+          "summary": "暂无摘要",
+          "source": "protmaks",
+          "url": "https://medium.com/databrickscommunity/my-favorite-announcements-from-the-data-ai-summit-2026-317fc68d4e75",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Databricks News: CLI v1.0.0, AI-tools, Docker, DABs UI sync, mutators",
+          "summary": "暂无摘要",
+          "source": "protmaks",
+          "url": "https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "The Token Tax: When Bad AI Architecture Becomes Debt",
+          "summary": "暂无摘要",
+          "source": "encinas88",
+          "url": "https://medium.com/@alanscottencinas/the-token-tax-when-bad-ai-architecture-becomes-debt-81c29158ae0b",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "How an Indian startup is using software to break China's rare earth monopoly",
+          "summary": "暂无摘要",
+          "source": "phillengel",
+          "url": "https://www.indiatoday.in/technology/features/story/look-ma-no-magnets-how-an-indian-startup-is-using-software-to-break-chinas-rare-earth-monopoly-2946039-2026-07-12",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Amid AI IP Theft Concerns, Microsoft CEO Floats New AI Patent Concept",
+          "summary": "暂无摘要",
+          "source": "PaulKeeble",
+          "url": "https://uk.pcmag.com/ai/166133/amid-ip-theft-concerns-microsoft-ceo-floats-new-ai-patent-concept",
+          "time": "2026-07-13"
         }
       ]
     },
@@ -210,6 +644,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+          "time": "2026-07-13"
+        },
         {
           "title": "Your family&#8217;s $300 stake in OpenAI",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americ",
@@ -236,13 +677,6 @@
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r",
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-          "time": "2026-06-29"
-        },
-        {
-          "title": "Agent confidence on the technical frontier",
-          "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
           "time": "2026-06-29"
         }
       ]
@@ -405,6 +839,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "It's not AI slop you hate",
+          "summary": "暂无摘要",
+          "source": "sikakkar",
+          "url": "https://writing.sidharthkakkar.com/p/its-not-ai-slop-you-hate",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Open-source AI battle arena, plug your coding agent in and it fights bots",
+          "summary": "暂无摘要",
+          "source": "ademczuk",
+          "url": "https://arena.angel-serv.com/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Open source on-device AI apps (and counting), no cloud, works offline",
+          "summary": "暂无摘要",
+          "source": "rishabh121108",
+          "url": "https://github.com/zetic-ai/awesome-on-device-ai-apps",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Companies turn to Chinese AI models to cut costs",
+          "summary": "暂无摘要",
+          "source": "AnodicElegy",
+          "url": "https://www.ft.com/content/9c8ff45b-7c20-4c2e-93c9-c52339ffdcee",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Ask HN: Feedback on my solo, local-LLM-only AI content pipeline (100 posts in)",
+          "summary": "暂无摘要",
+          "source": "gladlabs",
+          "url": "https://www.gladlabs.io",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: AgentsProof – a small project for testing AI agents",
+          "summary": "暂无摘要",
+          "source": "adeeonline",
+          "url": "https://www.agentsproof.dev/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "SREs to AI agents: Prove yourself before you touch production",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/13/sres-to-ai-agents-prove-yourself-before-you-touch-production/5264658",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard IP",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Samsung will delete your health data if you don't let them use it to train AI",
+          "summary": "暂无摘要",
+          "source": "bundie",
+          "url": "https://neow.in/cWsyMTV3",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: PlanWright – A control plane for AI coding agents",
+          "summary": "暂无摘要",
+          "source": "dudemanAtl",
+          "url": "https://planwright.tools",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Show HN: I created a platform to check which AI models is the best gamer",
+          "summary": "暂无摘要",
+          "source": "masterchef2209",
+          "url": "https://system-2-arena.vercel.app/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "AI Is a Bad Tool",
+          "summary": "暂无摘要",
+          "source": "shtgnwrng",
+          "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "AI data centers and the concentration of wealth",
+          "summary": "暂无摘要",
+          "source": "MattSayar",
+          "url": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "My Favorite Announcements from the Data and AI Summit 2026",
+          "summary": "暂无摘要",
+          "source": "protmaks",
+          "url": "https://medium.com/databrickscommunity/my-favorite-announcements-from-the-data-ai-summit-2026-317fc68d4e75",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Databricks News: CLI v1.0.0, AI-tools, Docker, DABs UI sync, mutators",
+          "summary": "暂无摘要",
+          "source": "protmaks",
+          "url": "https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "The Token Tax: When Bad AI Architecture Becomes Debt",
+          "summary": "暂无摘要",
+          "source": "encinas88",
+          "url": "https://medium.com/@alanscottencinas/the-token-tax-when-bad-ai-architecture-becomes-debt-81c29158ae0b",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "Amid AI IP Theft Concerns, Microsoft CEO Floats New AI Patent Concept",
+          "summary": "暂无摘要",
+          "source": "PaulKeeble",
+          "url": "https://uk.pcmag.com/ai/166133/amid-ip-theft-concerns-microsoft-ceo-floats-new-ai-patent-concept",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "What would it take for AI to discover penicillin?",
+          "summary": "暂无摘要",
+          "source": "the_tyger",
+          "url": "https://bosoncutter.substack.com/p/what-would-it-take-for-ai-to-discover",
+          "time": "2026-07-13"
+        },
+        {
+          "title": "The Equivalency Kernel: A 12-axiom framework for human-AI symbiosis",
+          "summary": "暂无摘要",
+          "source": "jamesberge",
+          "url": "https://github.com/jamesberge-coder/equivalency-kernel",
+          "time": "2026-07-13"
         },
         {
           "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
