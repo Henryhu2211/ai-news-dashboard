@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-15T20:50:21.765Z",
-  "date": "2026年7月15日 20时50分",
+  "updateTime": "2026-07-16T20:46:10.856Z",
+  "date": "2026年7月16日 20时46分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "SQL vs. Sparql in the Age of AI: Which One Works in Enterprises?",
+          "title": "Evolving Windows vulnerability management to meet speed of AI-powered discovery",
           "summary": "暂无摘要",
-          "source": "smartmic",
-          "url": "https://medium.com/timbr-ai/sql-vs-sparql-in-the-age-of-ai-which-one-actually-works-in-enterprises-b2f4af155d96",
-          "time": "2026-07-15"
+          "source": "gmays",
+          "url": "https://blogs.windows.com/windowsexperience/2026/07/09/evolving-windows-vulnerability-management-to-meet-the-speed-of-ai-powered-discovery/",
+          "time": "2026-07-16"
         },
         {
-          "title": "Are \"no AI\" disclaimers necessary?",
+          "title": "Timeline Scan – AI fixes the dates on your scanned photos",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/",
-          "time": "2026-07-15"
+          "source": "HoserHoser",
+          "url": "https://timelinescan.com/",
+          "time": "2026-07-16"
         },
         {
-          "title": "X402 Foundation to Standardize Internet Payments for AI Agents",
+          "title": "If an AI chatbot misleads you, who is to blame?",
           "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://techstrong.ai/articles/linux-foundation-launches-x402-foundation-to-standardize-internet-native-payments-for-ai-agents/",
-          "time": "2026-07-15"
+          "source": "worik",
+          "url": "https://www.theguardian.com/commentisfree/2026/jun/24/ai-errors-companies-responsibility",
+          "time": "2026-07-16"
         },
         {
-          "title": "Software and softness (The etymology and meaning of the word 'software')",
+          "title": "LM Studio Bionic: the AI agent for open models",
           "summary": "暂无摘要",
-          "source": "lysace",
-          "url": "https://decasia.org/tech/2023/09/software-and-softness.html",
-          "time": "2026-07-15"
+          "source": "minimaxir",
+          "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+          "time": "2026-07-16"
         },
         {
-          "title": "YouMindAG – give AI coding tools full project context in one command",
+          "title": "How do you guys keep up with AI news?",
           "summary": "暂无摘要",
-          "source": "CESARBR2025",
-          "url": "https://github.com/CESARBR2025/youmindag",
-          "time": "2026-07-15"
+          "source": "anirudhc2005",
+          "url": "https://news.ycombinator.com/item?id=48939630",
+          "time": "2026-07-16"
         },
         {
-          "title": "Microsoft CEO echoes Palantir CEO's warning on enterprise AI",
+          "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
           "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.msn.com/en-us/money/other/microsoft-ceo-echoes-palantir-ceo-s-warning-on-enterprise-ai/ar-AA27VSu6",
-          "time": "2026-07-15"
+          "source": "hershyb_",
+          "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+          "time": "2026-07-16"
         },
         {
-          "title": "Show HN: Gate.cat – block an AI coding agent's rm -RF before it runs",
+          "title": "Using AI to build your own software",
           "summary": "暂无摘要",
-          "source": "bgmlai",
-          "url": "https://gate.cat/",
-          "time": "2026-07-15"
+          "source": "ashvardanian",
+          "url": "https://lemire.me/blog/2026/07/16/using-ai-to-build-your-own-software/",
+          "time": "2026-07-16"
         },
         {
-          "title": "TermShepherd- AI that audits your SaaS legal pages for free",
+          "title": "Cq: A Shared Knowledge Commons for AI Agents",
           "summary": "暂无摘要",
-          "source": "termshepherd",
-          "url": "https://news.ycombinator.com/item?id=48926427",
-          "time": "2026-07-15"
+          "source": "aquastorm",
+          "url": "https://www.i-programmer.info/news/105-artificial-intelligence/19009-cq-a-shared-knowledge-commons-for-ai-agents.html",
+          "time": "2026-07-16"
         },
         {
-          "title": "Jira launches system for AI-native software development",
+          "title": "I let AI build a trading bot, then Reddit caught my overfitting mistake",
           "summary": "暂无摘要",
-          "source": "foxh0und",
-          "url": "https://www.atlassian.com/blog/company-news/ai-sdlc",
-          "time": "2026-07-15"
+          "source": "vpsmonitor",
+          "url": "https://aiprojectlog.com/overfitting-backtest/",
+          "time": "2026-07-16"
         },
         {
-          "title": "Cross-cultural value frameworks, applied to individual relocation matching",
+          "title": "Using AI for Good Episode 1: SpiralOS Concept",
           "summary": "暂无摘要",
-          "source": "lapshov",
-          "url": "https://kinship.my",
-          "time": "2026-07-15"
+          "source": "rmcdermott",
+          "url": "https://news.ycombinator.com/item?id=48938896",
+          "time": "2026-07-16"
         },
         {
-          "title": "AI Folds DNA into Mini Masterpieces",
+          "title": "Older adults know AI is slop. They just like it",
           "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://spectrum.ieee.org/ai-dna-origami",
-          "time": "2026-07-15"
+          "source": "spelk",
+          "url": "https://restofworld.org/2026/china-seniors-ai-slop/",
+          "time": "2026-07-16"
         },
         {
-          "title": "Germany launched one of the best open-source AI models",
+          "title": "AI enthusiasts are in race against time, AI skeptics are in race against entropy",
           "summary": "暂无摘要",
-          "source": "shinryuu",
-          "url": "https://xcancel.com/NXT4EU/status/2077343621011935648",
-          "time": "2026-07-15"
+          "source": "ai_critic",
+          "url": "https://charity.wtf/p/ai-enthusiasts-are-in-a-race-against",
+          "time": "2026-07-16"
         },
         {
-          "title": "Linus Torvalds tells AI haters to fork off",
+          "title": "Large Open-Weight MoEs Are Converging on Lower Expert Activation Ratios",
           "summary": "暂无摘要",
-          "source": "amrrs",
-          "url": "https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894",
-          "time": "2026-07-15"
+          "source": "ayushpai",
+          "url": "https://twitter.com/ayushpai0/status/2077817066619351456",
+          "time": "2026-07-16"
         },
         {
-          "title": "My thoughts on the future of Go in the AI era",
+          "title": "Bootstrapping Trust: From Isolated Build Machines to Enclaved CI Pipelines",
           "summary": "暂无摘要",
-          "source": "der_gopher",
-          "url": "https://packagemain.tech/p/my-thoughts-on-the-future-of-go-in-ai-era",
-          "time": "2026-07-15"
+          "source": "benldrmn",
+          "url": "https://www.youtube.com/watch?v=V411Vadty38",
+          "time": "2026-07-16"
         },
         {
-          "title": "Iran Messaged Vance Warning That US Envoys Were \"Abusing\" Their Inside Access",
+          "title": "Hiring - Software Engineer (AI-Native WMS) Bilingual (ENG.KOR) Carson, CA",
           "summary": "暂无摘要",
-          "source": "enraged_camel",
-          "url": "https://www.dropsitenews.com/p/iran-jd-vance-kushner-witkoff-exploiting-negotiations",
-          "time": "2026-07-15"
+          "source": "wooltarihr",
+          "url": "https://app.notion.com/p/wooltari/Software-Engineer-AI-native-WMS-372c2cf4d496805b8080c067d6161834?source=copy_link",
+          "time": "2026-07-16"
         },
         {
-          "title": "Show HN: Limits, an on-device iOS app for tracking AI usage limits",
+          "title": "AI disruption in private credit: exposure to software firms in BDCs (BIS)",
           "summary": "暂无摘要",
-          "source": "treexs",
-          "url": "https://getlimits.app",
-          "time": "2026-07-15"
+          "source": "aanet",
+          "url": "https://www.bis.org/publ/bisbull128.htm",
+          "time": "2026-07-16"
         },
         {
-          "title": "Three governments agree on something the AI industry doesn't want to hear",
+          "title": "Linus Torvalds rebukes anti-AI stances in the Linux kernel code review process",
           "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.theattachmenteconomy.com/p/three-governments-agree-on-something",
-          "time": "2026-07-15"
+          "source": "vanburen",
+          "url": "https://www.tomshardware.com/software/linux/linus-torvalds-rebukes-anti-ai-stances-in-the-linux-kernel-code-review-process-says-linux-is-not-one-of-those-anti-ai-projects-creator-embraces-ai-as-just-a-tool-and-clearly-a-useful-one",
+          "time": "2026-07-16"
         },
         {
-          "title": "Show HN: AI Workflow Builder App Template for React",
+          "title": "Please Stop Making Me Opt Out of AI",
           "summary": "暂无摘要",
-          "source": "durman",
-          "url": "https://www.jointjs.com/demos/ai-workflow-builder",
-          "time": "2026-07-15"
+          "source": "Brajeshwar",
+          "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+          "time": "2026-07-16"
         },
         {
-          "title": "Archer Announces Zee, AI Foundation Model Purpose-Built for Aviation",
+          "title": "Can AI reliably generate dashboards from Excel or CSV files?",
           "summary": "暂无摘要",
-          "source": "vlovich123",
-          "url": "https://www.investors.archer.com/news/news-details/2026/Archer-Announces-Zee-AI-Foundation-Model-Purpose-Built-for-Aviation-a-Key-Pillar-of-Its-Physical-AI-Strategy/default.aspx",
-          "time": "2026-07-15"
+          "source": "Garywilson76",
+          "url": "https://dashboardbuilder.net/ai-generated-dashboard",
+          "time": "2026-07-16"
         },
         {
-          "title": "Nick Shirley Delivers his Testimony at the Senate Committee Hearing – 7/15/26 [video]",
+          "title": "Show HN: Pagora AI, WordPress AI page builder that outputs plain HTML/CSS/JS",
           "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=0ZyuhayRQ10",
-          "time": "2026-07-15"
+          "source": "azertyvode",
+          "url": "https://wordpress.org/plugins/pagora-ai/",
+          "time": "2026-07-16"
         },
         {
           "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
@@ -196,6 +196,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Create, edit and star in videos with two Google Vids updates",
+          "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+          "time": "2026-07-16"
+        },
         {
           "title": "Celebrating 25 years of visual search innovation",
           "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
@@ -293,146 +300,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
           "time": "2026-05-22"
-        },
-        {
-          "title": "SQL vs. Sparql in the Age of AI: Which One Works in Enterprises?",
-          "summary": "暂无摘要",
-          "source": "smartmic",
-          "url": "https://medium.com/timbr-ai/sql-vs-sparql-in-the-age-of-ai-which-one-actually-works-in-enterprises-b2f4af155d96",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Are \"no AI\" disclaimers necessary?",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "X402 Foundation to Standardize Internet Payments for AI Agents",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://techstrong.ai/articles/linux-foundation-launches-x402-foundation-to-standardize-internet-native-payments-for-ai-agents/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "YouMindAG – give AI coding tools full project context in one command",
-          "summary": "暂无摘要",
-          "source": "CESARBR2025",
-          "url": "https://github.com/CESARBR2025/youmindag",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Microsoft CEO echoes Palantir CEO's warning on enterprise AI",
-          "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.msn.com/en-us/money/other/microsoft-ceo-echoes-palantir-ceo-s-warning-on-enterprise-ai/ar-AA27VSu6",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Anthropic has two different CIMD clients",
-          "summary": "暂无摘要",
-          "source": "nvahalik",
-          "url": "https://leduccc.medium.com/testing-cimd-support-across-anthropics-claude-products-585366dbe089",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: Gate.cat – block an AI coding agent's rm -RF before it runs",
-          "summary": "暂无摘要",
-          "source": "bgmlai",
-          "url": "https://gate.cat/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "TermShepherd- AI that audits your SaaS legal pages for free",
-          "summary": "暂无摘要",
-          "source": "termshepherd",
-          "url": "https://news.ycombinator.com/item?id=48926427",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Anthropic to IPO as Early as October",
-          "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Jira launches system for AI-native software development",
-          "summary": "暂无摘要",
-          "source": "foxh0und",
-          "url": "https://www.atlassian.com/blog/company-news/ai-sdlc",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "AI Folds DNA into Mini Masterpieces",
-          "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://spectrum.ieee.org/ai-dna-origami",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Germany launched one of the best open-source AI models",
-          "summary": "暂无摘要",
-          "source": "shinryuu",
-          "url": "https://xcancel.com/NXT4EU/status/2077343621011935648",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Linus Torvalds tells AI haters to fork off",
-          "summary": "暂无摘要",
-          "source": "amrrs",
-          "url": "https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "My thoughts on the future of Go in the AI era",
-          "summary": "暂无摘要",
-          "source": "der_gopher",
-          "url": "https://packagemain.tech/p/my-thoughts-on-the-future-of-go-in-ai-era",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "ChatGPT's Wokeness Could Cost OpenAI Millions [video]",
-          "summary": "暂无摘要",
-          "source": "moebrowne",
-          "url": "https://www.youtube.com/watch?v=RUgF7MoUetk",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: Limits, an on-device iOS app for tracking AI usage limits",
-          "summary": "暂无摘要",
-          "source": "treexs",
-          "url": "https://getlimits.app",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Three governments agree on something the AI industry doesn't want to hear",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.theattachmenteconomy.com/p/three-governments-agree-on-something",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: AI Workflow Builder App Template for React",
-          "summary": "暂无摘要",
-          "source": "durman",
-          "url": "https://www.jointjs.com/demos/ai-workflow-builder",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Why I Left Google DeepMind",
-          "summary": "暂无摘要",
-          "source": "apsec112",
-          "url": "https://turntrout.com/why-i-left-google-deepmind",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Archer Announces Zee, AI Foundation Model Purpose-Built for Aviation",
-          "summary": "暂无摘要",
-          "source": "vlovich123",
-          "url": "https://www.investors.archer.com/news/news-details/2026/Archer-Announces-Zee-AI-Foundation-Model-Purpose-Built-for-Aviation-a-Key-Pillar-of-Its-Physical-AI-Strategy/default.aspx",
-          "time": "2026-07-15"
         }
       ]
     },
@@ -441,6 +308,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+          "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe",
+          "source": "Maggie Nye",
+          "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+          "time": "2026-07-16"
+        },
+        {
+          "title": "Why AMI Labs’ Alexandre LeBrun won&#8217;t call his AI &#8216;AGI&#8217; or &#8216;superintelligence&#8217;",
+          "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
+          "source": "Kate Park",
+          "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+          "time": "2026-07-16"
+        },
+        {
+          "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+          "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+          "source": "Sarah Perez",
+          "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+          "time": "2026-07-16"
+        },
         {
           "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
           "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
@@ -456,46 +344,11 @@
           "time": "2026-07-15"
         },
         {
-          "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-          "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-          "time": "2026-07-15"
-        },
-        {
           "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
           "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers i",
           "source": "Theresa Loconsolo",
           "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
           "time": "2026-07-15"
-        },
-        {
-          "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-          "summary": "Rime is handling over 100 million calls each month across multiple companies.",
-          "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-          "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-          "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Anthropic&#8217;s newest ad is creeping people out",
-          "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-          "time": "2026-07-14"
         },
         {
           "title": "Thinking Machines Lab Drops Its First Model",
@@ -516,146 +369,6 @@
           "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
           "source": "Maxwell Zeff",
           "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "SQL vs. Sparql in the Age of AI: Which One Works in Enterprises?",
-          "summary": "暂无摘要",
-          "source": "smartmic",
-          "url": "https://medium.com/timbr-ai/sql-vs-sparql-in-the-age-of-ai-which-one-actually-works-in-enterprises-b2f4af155d96",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Are \"no AI\" disclaimers necessary?",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "X402 Foundation to Standardize Internet Payments for AI Agents",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://techstrong.ai/articles/linux-foundation-launches-x402-foundation-to-standardize-internet-native-payments-for-ai-agents/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "YouMindAG – give AI coding tools full project context in one command",
-          "summary": "暂无摘要",
-          "source": "CESARBR2025",
-          "url": "https://github.com/CESARBR2025/youmindag",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Microsoft CEO echoes Palantir CEO's warning on enterprise AI",
-          "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.msn.com/en-us/money/other/microsoft-ceo-echoes-palantir-ceo-s-warning-on-enterprise-ai/ar-AA27VSu6",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: Gate.cat – block an AI coding agent's rm -RF before it runs",
-          "summary": "暂无摘要",
-          "source": "bgmlai",
-          "url": "https://gate.cat/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "TermShepherd- AI that audits your SaaS legal pages for free",
-          "summary": "暂无摘要",
-          "source": "termshepherd",
-          "url": "https://news.ycombinator.com/item?id=48926427",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Every fusion startup that has raised over $100M",
-          "summary": "暂无摘要",
-          "source": "crookedroad44",
-          "url": "https://insurancedimes.com/2026/07/09/every-fusion-startup-that-has-raised-over-100-million/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Jira launches system for AI-native software development",
-          "summary": "暂无摘要",
-          "source": "foxh0und",
-          "url": "https://www.atlassian.com/blog/company-news/ai-sdlc",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "AI Folds DNA into Mini Masterpieces",
-          "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://spectrum.ieee.org/ai-dna-origami",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Germany launched one of the best open-source AI models",
-          "summary": "暂无摘要",
-          "source": "shinryuu",
-          "url": "https://xcancel.com/NXT4EU/status/2077343621011935648",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Linus Torvalds tells AI haters to fork off",
-          "summary": "暂无摘要",
-          "source": "amrrs",
-          "url": "https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "My thoughts on the future of Go in the AI era",
-          "summary": "暂无摘要",
-          "source": "der_gopher",
-          "url": "https://packagemain.tech/p/my-thoughts-on-the-future-of-go-in-ai-era",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: Limits, an on-device iOS app for tracking AI usage limits",
-          "summary": "暂无摘要",
-          "source": "treexs",
-          "url": "https://getlimits.app",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Three governments agree on something the AI industry doesn't want to hear",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.theattachmenteconomy.com/p/three-governments-agree-on-something",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: AI Workflow Builder App Template for React",
-          "summary": "暂无摘要",
-          "source": "durman",
-          "url": "https://www.jointjs.com/demos/ai-workflow-builder",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Archer Announces Zee, AI Foundation Model Purpose-Built for Aviation",
-          "summary": "暂无摘要",
-          "source": "vlovich123",
-          "url": "https://www.investors.archer.com/news/news-details/2026/Archer-Announces-Zee-AI-Foundation-Model-Purpose-Built-for-Aviation-a-Key-Pillar-of-Its-Physical-AI-Strategy/default.aspx",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Ask HN: Are the heaviest AI users of your team blowing past everyone else?",
-          "summary": "暂无摘要",
-          "source": "ex-aws-dude",
-          "url": "https://news.ycombinator.com/item?id=48925067",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Funding Signals – an API that finds companies the moment they raise money",
-          "summary": "暂无摘要",
-          "source": "labombas",
-          "url": "https://funding-signals-api.onrender.com/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: Benchmarklist: track AI benchmarks (2.4k+), models, and capabilities",
-          "summary": "暂无摘要",
-          "source": "davidtsong",
-          "url": "https://benchmarklist.com/",
           "time": "2026-07-15"
         }
       ]
@@ -862,151 +575,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "SQL vs. Sparql in the Age of AI: Which One Works in Enterprises?",
-          "summary": "暂无摘要",
-          "source": "smartmic",
-          "url": "https://medium.com/timbr-ai/sql-vs-sparql-in-the-age-of-ai-which-one-actually-works-in-enterprises-b2f4af155d96",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Are \"no AI\" disclaimers necessary?",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "X402 Foundation to Standardize Internet Payments for AI Agents",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://techstrong.ai/articles/linux-foundation-launches-x402-foundation-to-standardize-internet-native-payments-for-ai-agents/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "YouMindAG – give AI coding tools full project context in one command",
-          "summary": "暂无摘要",
-          "source": "CESARBR2025",
-          "url": "https://github.com/CESARBR2025/youmindag",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Microsoft CEO echoes Palantir CEO's warning on enterprise AI",
-          "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.msn.com/en-us/money/other/microsoft-ceo-echoes-palantir-ceo-s-warning-on-enterprise-ai/ar-AA27VSu6",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: Gate.cat – block an AI coding agent's rm -RF before it runs",
-          "summary": "暂无摘要",
-          "source": "bgmlai",
-          "url": "https://gate.cat/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "TermShepherd- AI that audits your SaaS legal pages for free",
-          "summary": "暂无摘要",
-          "source": "termshepherd",
-          "url": "https://news.ycombinator.com/item?id=48926427",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Jira launches system for AI-native software development",
-          "summary": "暂无摘要",
-          "source": "foxh0und",
-          "url": "https://www.atlassian.com/blog/company-news/ai-sdlc",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "AI Folds DNA into Mini Masterpieces",
-          "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://spectrum.ieee.org/ai-dna-origami",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Germany launched one of the best open-source AI models",
-          "summary": "暂无摘要",
-          "source": "shinryuu",
-          "url": "https://xcancel.com/NXT4EU/status/2077343621011935648",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Linus Torvalds tells AI haters to fork off",
-          "summary": "暂无摘要",
-          "source": "amrrs",
-          "url": "https://www.theregister.com/ai-and-ml/2026/07/15/linus-torvalds-tells-ai-haters-to-fork-off/5271894",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "My thoughts on the future of Go in the AI era",
-          "summary": "暂无摘要",
-          "source": "der_gopher",
-          "url": "https://packagemain.tech/p/my-thoughts-on-the-future-of-go-in-ai-era",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: Limits, an on-device iOS app for tracking AI usage limits",
-          "summary": "暂无摘要",
-          "source": "treexs",
-          "url": "https://getlimits.app",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Three governments agree on something the AI industry doesn't want to hear",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.theattachmenteconomy.com/p/three-governments-agree-on-something",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: AI Workflow Builder App Template for React",
-          "summary": "暂无摘要",
-          "source": "durman",
-          "url": "https://www.jointjs.com/demos/ai-workflow-builder",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Archer Announces Zee, AI Foundation Model Purpose-Built for Aviation",
-          "summary": "暂无摘要",
-          "source": "vlovich123",
-          "url": "https://www.investors.archer.com/news/news-details/2026/Archer-Announces-Zee-AI-Foundation-Model-Purpose-Built-for-Aviation-a-Key-Pillar-of-Its-Physical-AI-Strategy/default.aspx",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Ask HN: Are the heaviest AI users of your team blowing past everyone else?",
-          "summary": "暂无摘要",
-          "source": "ex-aws-dude",
-          "url": "https://news.ycombinator.com/item?id=48925067",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Show HN: Benchmarklist: track AI benchmarks (2.4k+), models, and capabilities",
-          "summary": "暂无摘要",
-          "source": "davidtsong",
-          "url": "https://benchmarklist.com/",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "IBM Power S1112 Brings Local AI Inference to the Edge as Power Goes Autonomous",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.storagereview.com/news/ibm-power-s1112-brings-local-ai-inference-to-the-edge-as-power-goes-autonomous",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "Codex Micro – a compact hardware controller for AI agents",
-          "summary": "暂无摘要",
-          "source": "tortilla",
-          "url": "https://worklouder.cc/codex-micro",
-          "time": "2026-07-15"
-        },
-        {
-          "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
-          "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
-          "source": "Vittoria Elliott",
-          "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
-          "time": "2026-07-14"
+          "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+          "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+          "source": "Maxwell Zeff",
+          "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+          "time": "2026-07-16"
         }
       ]
     }
