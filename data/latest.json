@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-18T20:37:40.226Z",
-  "date": "2026年7月18日 20时37分",
+  "updateTime": "2026-07-19T20:38:17.205Z",
+  "date": "2026年7月19日 20时38分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "One probable outcome of an open-weight-model-dominant world is full AI communism",
+          "title": "Welcome to the wild world of AI Argentina",
           "summary": "暂无摘要",
-          "source": "rvz",
-          "url": "https://xcancel.com/deanwball/status/2078133895766114412?s=46",
-          "time": "2026-07-18"
+          "source": "billybuckwheat",
+          "url": "https://www.thenerve.news/p/uki-goni-argentina-javier-milei-peter-thiel-ai-non-human-corporations",
+          "time": "2026-07-19"
         },
         {
-          "title": "Databricks hits $188B valuation, extending its run as AI's favorite second act",
+          "title": "Show HN: Chalie – AI peer not employee",
           "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-          "time": "2026-07-18"
+          "source": "dylangrech92",
+          "url": "https://github.com/chalie-ai/chalie",
+          "time": "2026-07-19"
         },
         {
-          "title": "North Sea hits record 20.4°C amid marine heat wave",
+          "title": "Kq – jq but 1.5x faster on paths, from a language with no GC/lifetimes",
           "summary": "暂无摘要",
-          "source": "tcp_handshaker",
-          "url": "https://nltimes.nl/2026/07/17/north-sea-hits-record-204degc-amid-marine-heat-wave",
-          "time": "2026-07-18"
+          "source": "ClayShentrup",
+          "url": "https://github.com/kanso-lang/kq",
+          "time": "2026-07-19"
         },
         {
-          "title": "IBM CEO Arvind Krishna Has Nowhere to Hide from AI",
+          "title": "Show HN: Bothread, multiple AI coding agents talk, share one repo, no collisions",
           "summary": "暂无摘要",
-          "source": "johnbarron",
-          "url": "https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f",
-          "time": "2026-07-18"
+          "source": "AdamACE9",
+          "url": "https://github.com/AdamACE9/bothread",
+          "time": "2026-07-19"
         },
         {
-          "title": "Sync.md – keep AGENTS.md, Claude.md, .cursorrules in sync by meaning, not diff",
+          "title": "Two Loops: How China's Open AI Strategy Reinforces Its Industrial Dominance [pdf]",
           "summary": "暂无摘要",
-          "source": "anzilzedex",
-          "url": "https://marketplace.visualstudio.com/items?itemName=sync-md.sync-md",
-          "time": "2026-07-18"
+          "source": "pash",
+          "url": "https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf",
+          "time": "2026-07-19"
         },
         {
-          "title": "Valve's 14-Year Journey to Make the Steam Machine",
+          "title": "I argued with the father of open source for 2 years Now the AI fight is the same",
           "summary": "暂无摘要",
-          "source": "HelloUsername",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-07-17/valve-s-14-year-journey-to-make-the-steam-machine",
-          "time": "2026-07-18"
+          "source": "t-3",
+          "url": "https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/",
+          "time": "2026-07-19"
         },
         {
-          "title": "Jack Conte: Why I'm (sort of) not worried about AI [video]",
+          "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
           "summary": "暂无摘要",
-          "source": "magistr4te",
-          "url": "https://www.youtube.com/watch?v=17_HcR95YBc",
-          "time": "2026-07-18"
+          "source": "ortusdux",
+          "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
+          "time": "2026-07-19"
         },
         {
-          "title": "Show HN: Medows – an AI clinical workspace for doctors on ward rounds",
+          "title": "The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win",
           "summary": "暂无摘要",
-          "source": "alapanx",
-          "url": "https://www.medows.ai/demo",
-          "time": "2026-07-18"
+          "source": "NN88",
+          "url": "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8",
+          "time": "2026-07-19"
         },
         {
-          "title": "Meta's new AI chips will begin production in September",
+          "title": "Why Elixir Is the Best Language for LLMs (and What the Benchmarks Show)",
+          "summary": "暂无摘要",
+          "source": "ksec",
+          "url": "https://codemyspec.com/blog/why-elixir-is-the-best-language-for-llms",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Huginn: An AI Agent Activity Console",
+          "summary": "暂无摘要",
+          "source": "tohuw",
+          "url": "https://github.com/tohuw/huginn",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)",
+          "summary": "暂无摘要",
+          "source": "pawfromoz",
+          "url": "https://github.com/Ozperium/agentspec",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Generative AI Can Harm Teaching",
+          "summary": "暂无摘要",
+          "source": "rekabis",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video]",
+          "summary": "暂无摘要",
+          "source": "verdverm",
+          "url": "https://www.youtube.com/watch?v=0Pbv5_7t1GQ",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AI Requires a Labor Market Bailout",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.thecareertoolkitbook.com/blog/ai-requires-a-labor-market-bailout",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Signal to Noise: The challenge of AI-authored text",
+          "summary": "暂无摘要",
+          "source": "calmdown13",
+          "url": "https://calmdown13.substack.com/p/signal-to-noise",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "I Cut an AI Agent's Token Use by 94%",
           "summary": "暂无摘要",
           "source": "gmays",
-          "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-          "time": "2026-07-18"
+          "url": "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/",
+          "time": "2026-07-19"
         },
         {
-          "title": "Real-Time LuaTeX: Recompiling Large Documents in 1 ms [video]",
+          "title": "Resolution Horizon – Finding the mathematical limit where AI overfits to noise",
           "summary": "暂无摘要",
-          "source": "amichail",
-          "url": "https://www.youtube.com/watch?v=It9BMNGtjao",
-          "time": "2026-07-18"
+          "source": "bjoern_janson",
+          "url": "https://github.com/bjoern-janson/resolution-horizon",
+          "time": "2026-07-19"
         },
         {
-          "title": "Spotify Deleted 75M AI-Generated Tracks – and It's Not Done Yet",
+          "title": "AI slop cut first-time contributor merge rates 18.18% across 294 repos",
           "summary": "暂无摘要",
-          "source": "CharlesW",
-          "url": "https://www.gadgetreview.com/spotify-deleted-75-million-ai-generated-tracks-and-its-not-done-yet",
-          "time": "2026-07-18"
+          "source": "logickkk1",
+          "url": "https://arxiv.org/abs/2607.04003",
+          "time": "2026-07-19"
         },
         {
-          "title": "StartupForge AI – Generate a startup blueprint from an idea",
+          "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
           "summary": "暂无摘要",
-          "source": "kvreal",
-          "url": "https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Free AI Harness Profiler – What tf did Fable do with your tokens",
-          "summary": "暂无摘要",
-          "source": "TreDub",
-          "url": "http://profiler.getrekon.com/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "AI Karma Tracker",
-          "summary": "暂无摘要",
-          "source": "javatuts",
-          "url": "https://ai-karma-tracker.github.io/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "White House cybersecurity clearinghouse to patch software flaws by AI",
-          "summary": "暂无摘要",
-          "source": "megamike",
-          "url": "https://www.politico.com/news/2026/07/14/white-house-launches-gold-eagle-cybersecurity-clearinghouse-to-patch-software-flaws-discovered-by-ai-00998011",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Show HN: A pre-launch scanner for AI-built apps (it scores itself 60/100)",
-          "summary": "暂无摘要",
-          "source": "keeptahoeblue",
-          "url": "https://shippingszn.com/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape",
-          "summary": "暂无摘要",
-          "source": "shellwirt",
-          "url": "https://twitter.com/deanwball/status/2078133895766114412",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "An uroboros program with 100 programming languages",
-          "summary": "暂无摘要",
-          "source": "modinfo",
-          "url": "https://github.com/mame/quine-relay",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Overtraining as the path to human-like AI",
-          "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "AI's new political donor class is outspending Big Tech's last one",
-          "summary": "暂无摘要",
-          "source": "roddylindsay",
-          "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/",
-          "time": "2026-07-18"
+          "source": "logickkk1",
+          "url": "https://osf.io/preprints/psyarxiv/5y6m4_v1",
+          "time": "2026-07-19"
         },
         {
           "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
@@ -300,146 +300,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
           "time": "2026-05-22"
-        },
-        {
-          "title": "One probable outcome of an open-weight-model-dominant world is full AI communism",
-          "summary": "暂无摘要",
-          "source": "rvz",
-          "url": "https://xcancel.com/deanwball/status/2078133895766114412?s=46",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Databricks hits $188B valuation, extending its run as AI's favorite second act",
-          "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "IBM CEO Arvind Krishna Has Nowhere to Hide from AI",
-          "summary": "暂无摘要",
-          "source": "johnbarron",
-          "url": "https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Jack Conte: Why I'm (sort of) not worried about AI [video]",
-          "summary": "暂无摘要",
-          "source": "magistr4te",
-          "url": "https://www.youtube.com/watch?v=17_HcR95YBc",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Show HN: Medows – an AI clinical workspace for doctors on ward rounds",
-          "summary": "暂无摘要",
-          "source": "alapanx",
-          "url": "https://www.medows.ai/demo",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Meta's new AI chips will begin production in September",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Spotify Deleted 75M AI-Generated Tracks – and It's Not Done Yet",
-          "summary": "暂无摘要",
-          "source": "CharlesW",
-          "url": "https://www.gadgetreview.com/spotify-deleted-75-million-ai-generated-tracks-and-its-not-done-yet",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "StartupForge AI – Generate a startup blueprint from an idea",
-          "summary": "暂无摘要",
-          "source": "kvreal",
-          "url": "https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Free AI Harness Profiler – What tf did Fable do with your tokens",
-          "summary": "暂无摘要",
-          "source": "TreDub",
-          "url": "http://profiler.getrekon.com/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "AI Karma Tracker",
-          "summary": "暂无摘要",
-          "source": "javatuts",
-          "url": "https://ai-karma-tracker.github.io/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "White House cybersecurity clearinghouse to patch software flaws by AI",
-          "summary": "暂无摘要",
-          "source": "megamike",
-          "url": "https://www.politico.com/news/2026/07/14/white-house-launches-gold-eagle-cybersecurity-clearinghouse-to-patch-software-flaws-discovered-by-ai-00998011",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Show HN: A pre-launch scanner for AI-built apps (it scores itself 60/100)",
-          "summary": "暂无摘要",
-          "source": "keeptahoeblue",
-          "url": "https://shippingszn.com/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape",
-          "summary": "暂无摘要",
-          "source": "shellwirt",
-          "url": "https://twitter.com/deanwball/status/2078133895766114412",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Overtraining as the path to human-like AI",
-          "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "AI's new political donor class is outspending Big Tech's last one",
-          "summary": "暂无摘要",
-          "source": "roddylindsay",
-          "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Better Than Free: How to Differentiate in the Age of AI",
-          "summary": "暂无摘要",
-          "source": "Michelangelo11",
-          "url": "https://tim.blog/2026/07/17/better-than-free/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Studying the Role of Sandboxing for AI Control",
-          "summary": "暂无摘要",
-          "source": "joozio",
-          "url": "https://www.lesswrong.com/posts/6wo4weeujruLXrnsT/studying-the-role-of-sandboxing-for-ai-control",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Anthropic runs like Wile E. Coyote into the brick wall of consciousness research",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.theintrinsicperspective.com/p/anthropic-runs-like-wile-e-coyote",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Show HN: Talon – a self-hosted harness for long-lived AI agents",
-          "summary": "暂无摘要",
-          "source": "claudiusthebot",
-          "url": "https://github.com/dylanneve1/talon",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
-          "summary": "暂无摘要",
-          "source": "andsoitis",
-          "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
-          "time": "2026-07-18"
         }
       ]
     },
@@ -477,20 +337,6 @@
           "time": "2026-07-17"
         },
         {
-          "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-          "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe",
-          "source": "Maggie Nye",
-          "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-          "time": "2026-07-16"
-        },
-        {
-          "title": "Why AMI Labs’ Alexandre LeBrun won&#8217;t call his AI &#8216;AGI&#8217; or &#8216;superintelligence&#8217;",
-          "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
-          "source": "Kate Park",
-          "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-          "time": "2026-07-16"
-        },
-        {
           "title": "Thinking Machines Lab Drops Its First Model",
           "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
           "source": "Will Knight",
@@ -498,144 +344,144 @@
           "time": "2026-07-15"
         },
         {
-          "title": "One probable outcome of an open-weight-model-dominant world is full AI communism",
+          "title": "The Windows laptop market is so bad I'm considering a MacBook",
           "summary": "暂无摘要",
-          "source": "rvz",
-          "url": "https://xcancel.com/deanwball/status/2078133895766114412?s=46",
-          "time": "2026-07-18"
+          "source": "ksec",
+          "url": "https://old.reddit.com/r/laptops/comments/1uy4hj0/ive_officially_hit_rock_bottom_the_windows_laptop/",
+          "time": "2026-07-19"
         },
         {
-          "title": "Databricks hits $188B valuation, extending its run as AI's favorite second act",
+          "title": "Welcome to the wild world of AI Argentina",
           "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-          "time": "2026-07-18"
+          "source": "billybuckwheat",
+          "url": "https://www.thenerve.news/p/uki-goni-argentina-javier-milei-peter-thiel-ai-non-human-corporations",
+          "time": "2026-07-19"
         },
         {
-          "title": "Relationships and Power in Startup Ecosystems (2019)",
+          "title": "Show HN: Chalie – AI peer not employee",
           "summary": "暂无摘要",
-          "source": "robocat",
-          "url": "https://siliconhillslawyer.com/2019/02/18/relationships-and-power-startup-ecosystems/",
-          "time": "2026-07-18"
+          "source": "dylangrech92",
+          "url": "https://github.com/chalie-ai/chalie",
+          "time": "2026-07-19"
         },
         {
-          "title": "IBM CEO Arvind Krishna Has Nowhere to Hide from AI",
+          "title": "Show HN: Bothread, multiple AI coding agents talk, share one repo, no collisions",
           "summary": "暂无摘要",
-          "source": "johnbarron",
-          "url": "https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f",
-          "time": "2026-07-18"
+          "source": "AdamACE9",
+          "url": "https://github.com/AdamACE9/bothread",
+          "time": "2026-07-19"
         },
         {
-          "title": "Jack Conte: Why I'm (sort of) not worried about AI [video]",
+          "title": "Two Loops: How China's Open AI Strategy Reinforces Its Industrial Dominance [pdf]",
           "summary": "暂无摘要",
-          "source": "magistr4te",
-          "url": "https://www.youtube.com/watch?v=17_HcR95YBc",
-          "time": "2026-07-18"
+          "source": "pash",
+          "url": "https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf",
+          "time": "2026-07-19"
         },
         {
-          "title": "Show HN: Medows – an AI clinical workspace for doctors on ward rounds",
+          "title": "I argued with the father of open source for 2 years Now the AI fight is the same",
           "summary": "暂无摘要",
-          "source": "alapanx",
-          "url": "https://www.medows.ai/demo",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Meta's new AI chips will begin production in September",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Spotify Deleted 75M AI-Generated Tracks – and It's Not Done Yet",
-          "summary": "暂无摘要",
-          "source": "CharlesW",
-          "url": "https://www.gadgetreview.com/spotify-deleted-75-million-ai-generated-tracks-and-its-not-done-yet",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "StartupForge AI – Generate a startup blueprint from an idea",
-          "summary": "暂无摘要",
-          "source": "kvreal",
-          "url": "https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Free AI Harness Profiler – What tf did Fable do with your tokens",
-          "summary": "暂无摘要",
-          "source": "TreDub",
-          "url": "http://profiler.getrekon.com/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "AI Karma Tracker",
-          "summary": "暂无摘要",
-          "source": "javatuts",
-          "url": "https://ai-karma-tracker.github.io/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "White House cybersecurity clearinghouse to patch software flaws by AI",
-          "summary": "暂无摘要",
-          "source": "megamike",
-          "url": "https://www.politico.com/news/2026/07/14/white-house-launches-gold-eagle-cybersecurity-clearinghouse-to-patch-software-flaws-discovered-by-ai-00998011",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Show HN: A pre-launch scanner for AI-built apps (it scores itself 60/100)",
-          "summary": "暂无摘要",
-          "source": "keeptahoeblue",
-          "url": "https://shippingszn.com/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape",
-          "summary": "暂无摘要",
-          "source": "shellwirt",
-          "url": "https://twitter.com/deanwball/status/2078133895766114412",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Overtraining as the path to human-like AI",
-          "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "AI's new political donor class is outspending Big Tech's last one",
-          "summary": "暂无摘要",
-          "source": "roddylindsay",
-          "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Better Than Free: How to Differentiate in the Age of AI",
-          "summary": "暂无摘要",
-          "source": "Michelangelo11",
-          "url": "https://tim.blog/2026/07/17/better-than-free/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Studying the Role of Sandboxing for AI Control",
-          "summary": "暂无摘要",
-          "source": "joozio",
-          "url": "https://www.lesswrong.com/posts/6wo4weeujruLXrnsT/studying-the-role-of-sandboxing-for-ai-control",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Show HN: Talon – a self-hosted harness for long-lived AI agents",
-          "summary": "暂无摘要",
-          "source": "claudiusthebot",
-          "url": "https://github.com/dylanneve1/talon",
-          "time": "2026-07-18"
+          "source": "t-3",
+          "url": "https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/",
+          "time": "2026-07-19"
         },
         {
           "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
           "summary": "暂无摘要",
-          "source": "andsoitis",
+          "source": "ortusdux",
           "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
-          "time": "2026-07-18"
+          "time": "2026-07-19"
+        },
+        {
+          "title": "The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win",
+          "summary": "暂无摘要",
+          "source": "NN88",
+          "url": "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Huginn: An AI Agent Activity Console",
+          "summary": "暂无摘要",
+          "source": "tohuw",
+          "url": "https://github.com/tohuw/huginn",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)",
+          "summary": "暂无摘要",
+          "source": "pawfromoz",
+          "url": "https://github.com/Ozperium/agentspec",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Generative AI Can Harm Teaching",
+          "summary": "暂无摘要",
+          "source": "rekabis",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video]",
+          "summary": "暂无摘要",
+          "source": "verdverm",
+          "url": "https://www.youtube.com/watch?v=0Pbv5_7t1GQ",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AI Requires a Labor Market Bailout",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.thecareertoolkitbook.com/blog/ai-requires-a-labor-market-bailout",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Signal to Noise: The challenge of AI-authored text",
+          "summary": "暂无摘要",
+          "source": "calmdown13",
+          "url": "https://calmdown13.substack.com/p/signal-to-noise",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "I Cut an AI Agent's Token Use by 94%",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Resolution Horizon – Finding the mathematical limit where AI overfits to noise",
+          "summary": "暂无摘要",
+          "source": "bjoern_janson",
+          "url": "https://github.com/bjoern-janson/resolution-horizon",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AI slop cut first-time contributor merge rates 18.18% across 294 repos",
+          "summary": "暂无摘要",
+          "source": "logickkk1",
+          "url": "https://arxiv.org/abs/2607.04003",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
+          "summary": "暂无摘要",
+          "source": "logickkk1",
+          "url": "https://osf.io/preprints/psyarxiv/5y6m4_v1",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+          "summary": "暂无摘要",
+          "source": "joozio",
+          "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+          "time": "2026-07-19"
         }
       ]
     },
@@ -841,144 +687,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "One probable outcome of an open-weight-model-dominant world is full AI communism",
+          "title": "Welcome to the wild world of AI Argentina",
           "summary": "暂无摘要",
-          "source": "rvz",
-          "url": "https://xcancel.com/deanwball/status/2078133895766114412?s=46",
-          "time": "2026-07-18"
+          "source": "billybuckwheat",
+          "url": "https://www.thenerve.news/p/uki-goni-argentina-javier-milei-peter-thiel-ai-non-human-corporations",
+          "time": "2026-07-19"
         },
         {
-          "title": "Databricks hits $188B valuation, extending its run as AI's favorite second act",
+          "title": "Show HN: Chalie – AI peer not employee",
           "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-          "time": "2026-07-18"
+          "source": "dylangrech92",
+          "url": "https://github.com/chalie-ai/chalie",
+          "time": "2026-07-19"
         },
         {
-          "title": "IBM CEO Arvind Krishna Has Nowhere to Hide from AI",
+          "title": "Show HN: Bothread, multiple AI coding agents talk, share one repo, no collisions",
           "summary": "暂无摘要",
-          "source": "johnbarron",
-          "url": "https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f",
-          "time": "2026-07-18"
+          "source": "AdamACE9",
+          "url": "https://github.com/AdamACE9/bothread",
+          "time": "2026-07-19"
         },
         {
-          "title": "Jack Conte: Why I'm (sort of) not worried about AI [video]",
+          "title": "Two Loops: How China's Open AI Strategy Reinforces Its Industrial Dominance [pdf]",
           "summary": "暂无摘要",
-          "source": "magistr4te",
-          "url": "https://www.youtube.com/watch?v=17_HcR95YBc",
-          "time": "2026-07-18"
+          "source": "pash",
+          "url": "https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf",
+          "time": "2026-07-19"
         },
         {
-          "title": "Show HN: Medows – an AI clinical workspace for doctors on ward rounds",
+          "title": "I argued with the father of open source for 2 years Now the AI fight is the same",
           "summary": "暂无摘要",
-          "source": "alapanx",
-          "url": "https://www.medows.ai/demo",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Meta's new AI chips will begin production in September",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Spotify Deleted 75M AI-Generated Tracks – and It's Not Done Yet",
-          "summary": "暂无摘要",
-          "source": "CharlesW",
-          "url": "https://www.gadgetreview.com/spotify-deleted-75-million-ai-generated-tracks-and-its-not-done-yet",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "StartupForge AI – Generate a startup blueprint from an idea",
-          "summary": "暂无摘要",
-          "source": "kvreal",
-          "url": "https://b07ada739af0b4a7c99daf84e96b066a.ctonew.app/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Free AI Harness Profiler – What tf did Fable do with your tokens",
-          "summary": "暂无摘要",
-          "source": "TreDub",
-          "url": "http://profiler.getrekon.com/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "AI Karma Tracker",
-          "summary": "暂无摘要",
-          "source": "javatuts",
-          "url": "https://ai-karma-tracker.github.io/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "White House cybersecurity clearinghouse to patch software flaws by AI",
-          "summary": "暂无摘要",
-          "source": "megamike",
-          "url": "https://www.politico.com/news/2026/07/14/white-house-launches-gold-eagle-cybersecurity-clearinghouse-to-patch-software-flaws-discovered-by-ai-00998011",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Show HN: A pre-launch scanner for AI-built apps (it scores itself 60/100)",
-          "summary": "暂无摘要",
-          "source": "keeptahoeblue",
-          "url": "https://shippingszn.com/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "OpenAI Strategic Lead Defines Open-Source AI as Dystopian Hellscape",
-          "summary": "暂无摘要",
-          "source": "shellwirt",
-          "url": "https://twitter.com/deanwball/status/2078133895766114412",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Overtraining as the path to human-like AI",
-          "summary": "暂无摘要",
-          "source": "Brajeshwar",
-          "url": "https://www.seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "AI's new political donor class is outspending Big Tech's last one",
-          "summary": "暂无摘要",
-          "source": "roddylindsay",
-          "url": "https://sfstandard.com/2026/07/18/ai-s-new-political-donor-class-already-outspending-big-tech-s-last-one/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Better Than Free: How to Differentiate in the Age of AI",
-          "summary": "暂无摘要",
-          "source": "Michelangelo11",
-          "url": "https://tim.blog/2026/07/17/better-than-free/",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Studying the Role of Sandboxing for AI Control",
-          "summary": "暂无摘要",
-          "source": "joozio",
-          "url": "https://www.lesswrong.com/posts/6wo4weeujruLXrnsT/studying-the-role-of-sandboxing-for-ai-control",
-          "time": "2026-07-18"
-        },
-        {
-          "title": "Show HN: Talon – a self-hosted harness for long-lived AI agents",
-          "summary": "暂无摘要",
-          "source": "claudiusthebot",
-          "url": "https://github.com/dylanneve1/talon",
-          "time": "2026-07-18"
+          "source": "t-3",
+          "url": "https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/",
+          "time": "2026-07-19"
         },
         {
           "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
           "summary": "暂无摘要",
-          "source": "andsoitis",
+          "source": "ortusdux",
           "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
-          "time": "2026-07-18"
+          "time": "2026-07-19"
         },
         {
-          "title": "Soofi S: Our first model for industrial AI in Europe",
+          "title": "The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win",
           "summary": "暂无摘要",
-          "source": "doener",
-          "url": "https://www.soofi.info/",
-          "time": "2026-07-18"
+          "source": "NN88",
+          "url": "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Huginn: An AI Agent Activity Console",
+          "summary": "暂无摘要",
+          "source": "tohuw",
+          "url": "https://github.com/tohuw/huginn",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)",
+          "summary": "暂无摘要",
+          "source": "pawfromoz",
+          "url": "https://github.com/Ozperium/agentspec",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Generative AI Can Harm Teaching",
+          "summary": "暂无摘要",
+          "source": "rekabis",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video]",
+          "summary": "暂无摘要",
+          "source": "verdverm",
+          "url": "https://www.youtube.com/watch?v=0Pbv5_7t1GQ",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AI Requires a Labor Market Bailout",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.thecareertoolkitbook.com/blog/ai-requires-a-labor-market-bailout",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Signal to Noise: The challenge of AI-authored text",
+          "summary": "暂无摘要",
+          "source": "calmdown13",
+          "url": "https://calmdown13.substack.com/p/signal-to-noise",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "I Cut an AI Agent's Token Use by 94%",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Resolution Horizon – Finding the mathematical limit where AI overfits to noise",
+          "summary": "暂无摘要",
+          "source": "bjoern_janson",
+          "url": "https://github.com/bjoern-janson/resolution-horizon",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AI slop cut first-time contributor merge rates 18.18% across 294 repos",
+          "summary": "暂无摘要",
+          "source": "logickkk1",
+          "url": "https://arxiv.org/abs/2607.04003",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
+          "summary": "暂无摘要",
+          "source": "logickkk1",
+          "url": "https://osf.io/preprints/psyarxiv/5y6m4_v1",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+          "summary": "暂无摘要",
+          "source": "joozio",
+          "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+          "time": "2026-07-19"
+        },
+        {
+          "title": "Do you manage task/todo differently in this AI era?",
+          "summary": "暂无摘要",
+          "source": "khanhphd",
+          "url": "https://news.ycombinator.com/item?id=48969329",
+          "time": "2026-07-19"
         },
         {
           "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
