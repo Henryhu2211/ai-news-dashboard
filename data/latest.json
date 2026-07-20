@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-19T20:38:17.205Z",
-  "date": "2026年7月19日 20时38分",
+  "updateTime": "2026-07-20T21:01:08.289Z",
+  "date": "2026年7月20日 21时1分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,18 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Welcome to the wild world of AI Argentina",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.thenerve.news/p/uki-goni-argentina-javier-milei-peter-thiel-ai-non-human-corporations",
-          "time": "2026-07-19"
+          "title": "China’s AI models have Trump’s AI world at war with itself",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+          "time": "2026-07-20"
         },
         {
-          "title": "Show HN: Chalie – AI peer not employee",
-          "summary": "暂无摘要",
-          "source": "dylangrech92",
-          "url": "https://github.com/chalie-ai/chalie",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Kq – jq but 1.5x faster on paths, from a language with no GC/lifetimes",
-          "summary": "暂无摘要",
-          "source": "ClayShentrup",
-          "url": "https://github.com/kanso-lang/kq",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Show HN: Bothread, multiple AI coding agents talk, share one repo, no collisions",
-          "summary": "暂无摘要",
-          "source": "AdamACE9",
-          "url": "https://github.com/AdamACE9/bothread",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Two Loops: How China's Open AI Strategy Reinforces Its Industrial Dominance [pdf]",
-          "summary": "暂无摘要",
-          "source": "pash",
-          "url": "https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "I argued with the father of open source for 2 years Now the AI fight is the same",
-          "summary": "暂无摘要",
-          "source": "t-3",
-          "url": "https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
-          "summary": "暂无摘要",
-          "source": "ortusdux",
-          "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win",
-          "summary": "暂无摘要",
-          "source": "NN88",
-          "url": "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Why Elixir Is the Best Language for LLMs (and What the Benchmarks Show)",
-          "summary": "暂无摘要",
-          "source": "ksec",
-          "url": "https://codemyspec.com/blog/why-elixir-is-the-best-language-for-llms",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Huginn: An AI Agent Activity Console",
-          "summary": "暂无摘要",
-          "source": "tohuw",
-          "url": "https://github.com/tohuw/huginn",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)",
-          "summary": "暂无摘要",
-          "source": "pawfromoz",
-          "url": "https://github.com/Ozperium/agentspec",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Generative AI Can Harm Teaching",
-          "summary": "暂无摘要",
-          "source": "rekabis",
-          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video]",
-          "summary": "暂无摘要",
-          "source": "verdverm",
-          "url": "https://www.youtube.com/watch?v=0Pbv5_7t1GQ",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI Requires a Labor Market Bailout",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.thecareertoolkitbook.com/blog/ai-requires-a-labor-market-bailout",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Signal to Noise: The challenge of AI-authored text",
-          "summary": "暂无摘要",
-          "source": "calmdown13",
-          "url": "https://calmdown13.substack.com/p/signal-to-noise",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "I Cut an AI Agent's Token Use by 94%",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Resolution Horizon – Finding the mathematical limit where AI overfits to noise",
-          "summary": "暂无摘要",
-          "source": "bjoern_janson",
-          "url": "https://github.com/bjoern-janson/resolution-horizon",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI slop cut first-time contributor merge rates 18.18% across 294 repos",
-          "summary": "暂无摘要",
-          "source": "logickkk1",
-          "url": "https://arxiv.org/abs/2607.04003",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
-          "summary": "暂无摘要",
-          "source": "logickkk1",
-          "url": "https://osf.io/preprints/psyarxiv/5y6m4_v1",
-          "time": "2026-07-19"
+          "title": "AI is more likely than humans to form biases when hiring",
+          "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ",
+          "source": "Michelle Kim",
+          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+          "time": "2026-07-20"
         },
         {
           "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
@@ -174,20 +48,6 @@
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
           "time": "2026-07-06"
-        },
-        {
-          "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-          "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll",
-          "source": "Will Douglas Heaven",
-          "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-          "time": "2026-07-01"
-        },
-        {
-          "title": "Claude Science is Anthropic’s newest flagship product",
-          "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way",
-          "source": "Grace Huckins",
-          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-          "time": "2026-06-30"
         }
       ]
     },
@@ -310,7 +170,7 @@
       "news": [
         {
           "title": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second act",
-          "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+          "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
           "source": "Julie Bort",
           "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
           "time": "2026-07-17"
@@ -342,146 +202,6 @@
           "source": "Will Knight",
           "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
           "time": "2026-07-15"
-        },
-        {
-          "title": "The Windows laptop market is so bad I'm considering a MacBook",
-          "summary": "暂无摘要",
-          "source": "ksec",
-          "url": "https://old.reddit.com/r/laptops/comments/1uy4hj0/ive_officially_hit_rock_bottom_the_windows_laptop/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Welcome to the wild world of AI Argentina",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.thenerve.news/p/uki-goni-argentina-javier-milei-peter-thiel-ai-non-human-corporations",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Show HN: Chalie – AI peer not employee",
-          "summary": "暂无摘要",
-          "source": "dylangrech92",
-          "url": "https://github.com/chalie-ai/chalie",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Show HN: Bothread, multiple AI coding agents talk, share one repo, no collisions",
-          "summary": "暂无摘要",
-          "source": "AdamACE9",
-          "url": "https://github.com/AdamACE9/bothread",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Two Loops: How China's Open AI Strategy Reinforces Its Industrial Dominance [pdf]",
-          "summary": "暂无摘要",
-          "source": "pash",
-          "url": "https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "I argued with the father of open source for 2 years Now the AI fight is the same",
-          "summary": "暂无摘要",
-          "source": "t-3",
-          "url": "https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
-          "summary": "暂无摘要",
-          "source": "ortusdux",
-          "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win",
-          "summary": "暂无摘要",
-          "source": "NN88",
-          "url": "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Huginn: An AI Agent Activity Console",
-          "summary": "暂无摘要",
-          "source": "tohuw",
-          "url": "https://github.com/tohuw/huginn",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)",
-          "summary": "暂无摘要",
-          "source": "pawfromoz",
-          "url": "https://github.com/Ozperium/agentspec",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Generative AI Can Harm Teaching",
-          "summary": "暂无摘要",
-          "source": "rekabis",
-          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video]",
-          "summary": "暂无摘要",
-          "source": "verdverm",
-          "url": "https://www.youtube.com/watch?v=0Pbv5_7t1GQ",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI Requires a Labor Market Bailout",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.thecareertoolkitbook.com/blog/ai-requires-a-labor-market-bailout",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Signal to Noise: The challenge of AI-authored text",
-          "summary": "暂无摘要",
-          "source": "calmdown13",
-          "url": "https://calmdown13.substack.com/p/signal-to-noise",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "I Cut an AI Agent's Token Use by 94%",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Resolution Horizon – Finding the mathematical limit where AI overfits to noise",
-          "summary": "暂无摘要",
-          "source": "bjoern_janson",
-          "url": "https://github.com/bjoern-janson/resolution-horizon",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI slop cut first-time contributor merge rates 18.18% across 294 repos",
-          "summary": "暂无摘要",
-          "source": "logickkk1",
-          "url": "https://arxiv.org/abs/2607.04003",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
-          "summary": "暂无摘要",
-          "source": "logickkk1",
-          "url": "https://osf.io/preprints/psyarxiv/5y6m4_v1",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-          "summary": "暂无摘要",
-          "source": "joozio",
-          "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-          "time": "2026-07-19"
         }
       ]
     },
@@ -490,6 +210,20 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "China’s AI models have Trump’s AI world at war with itself",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+          "time": "2026-07-20"
+        },
+        {
+          "title": "AI is more likely than humans to form biases when hiring",
+          "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ",
+          "source": "Michelle Kim",
+          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+          "time": "2026-07-20"
+        },
         {
           "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
           "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver",
@@ -517,13 +251,6 @@
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
           "time": "2026-07-02"
-        },
-        {
-          "title": "Claude Science is Anthropic’s newest flagship product",
-          "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way",
-          "source": "Grace Huckins",
-          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-          "time": "2026-06-30"
         }
       ]
     },
@@ -685,146 +412,6 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
-        },
-        {
-          "title": "Welcome to the wild world of AI Argentina",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.thenerve.news/p/uki-goni-argentina-javier-milei-peter-thiel-ai-non-human-corporations",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Show HN: Chalie – AI peer not employee",
-          "summary": "暂无摘要",
-          "source": "dylangrech92",
-          "url": "https://github.com/chalie-ai/chalie",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Show HN: Bothread, multiple AI coding agents talk, share one repo, no collisions",
-          "summary": "暂无摘要",
-          "source": "AdamACE9",
-          "url": "https://github.com/AdamACE9/bothread",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Two Loops: How China's Open AI Strategy Reinforces Its Industrial Dominance [pdf]",
-          "summary": "暂无摘要",
-          "source": "pash",
-          "url": "https://www.uscc.gov/sites/default/files/2026-03/Two_Loops--How_Chinas_Open_AI_Strategy_Reinforces_Its_Industrial_Dominance.pdf",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "I argued with the father of open source for 2 years Now the AI fight is the same",
-          "summary": "暂无摘要",
-          "source": "t-3",
-          "url": "https://fortune.com/2026/07/03/open-source-ai-same-fight-as-software-fight-1980s-david-siegel-two-sigma/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Netflix Paid $587M for Ben Affleck's AI Startup InterPositive",
-          "summary": "暂无摘要",
-          "source": "ortusdux",
-          "url": "https://variety.com/2026/film/news/netflix-paid-587-million-ben-affleck-ai-interpositive-1236815111/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "The CIA Operative Who Spied on the U.A.E.–and Played a Role in Its AI Win",
-          "summary": "暂无摘要",
-          "source": "NN88",
-          "url": "https://www.wsj.com/world/middle-east/cia-spy-united-arab-emirates-ai-49d909a8",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Huginn: An AI Agent Activity Console",
-          "summary": "暂无摘要",
-          "source": "tohuw",
-          "url": "https://github.com/tohuw/huginn",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AgentSpec: Testing framework for AI agents (Jest for non-deterministic behavior)",
-          "summary": "暂无摘要",
-          "source": "pawfromoz",
-          "url": "https://github.com/Ozperium/agentspec",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Generative AI Can Harm Teaching",
-          "summary": "暂无摘要",
-          "source": "rekabis",
-          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7007339",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Xi Jinping Delivers Keynote Speech at World AI Conference 2026 in Shanghai [video]",
-          "summary": "暂无摘要",
-          "source": "verdverm",
-          "url": "https://www.youtube.com/watch?v=0Pbv5_7t1GQ",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI Requires a Labor Market Bailout",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.thecareertoolkitbook.com/blog/ai-requires-a-labor-market-bailout",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Signal to Noise: The challenge of AI-authored text",
-          "summary": "暂无摘要",
-          "source": "calmdown13",
-          "url": "https://calmdown13.substack.com/p/signal-to-noise",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI Chip Startup Etched Is in Talks for $20B Valuation",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "I Cut an AI Agent's Token Use by 94%",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://vivekhaldar.com/articles/compiling-an-ai-agent-skill/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Resolution Horizon – Finding the mathematical limit where AI overfits to noise",
-          "summary": "暂无摘要",
-          "source": "bjoern_janson",
-          "url": "https://github.com/bjoern-janson/resolution-horizon",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI slop cut first-time contributor merge rates 18.18% across 294 repos",
-          "summary": "暂无摘要",
-          "source": "logickkk1",
-          "url": "https://arxiv.org/abs/2607.04003",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "AI advice reduced \"I don't know\" answers from 44% to 3%",
-          "summary": "暂无摘要",
-          "source": "logickkk1",
-          "url": "https://osf.io/preprints/psyarxiv/5y6m4_v1",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-          "summary": "暂无摘要",
-          "source": "joozio",
-          "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-          "time": "2026-07-19"
-        },
-        {
-          "title": "Do you manage task/todo differently in this AI era?",
-          "summary": "暂无摘要",
-          "source": "khanhphd",
-          "url": "https://news.ycombinator.com/item?id=48969329",
-          "time": "2026-07-19"
         },
         {
           "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
