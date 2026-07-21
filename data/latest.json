@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-20T21:01:08.289Z",
-  "date": "2026年7月20日 21时1分",
+  "updateTime": "2026-07-21T20:57:56.873Z",
+  "date": "2026年7月21日 20时57分",
   "categories": [
     {
       "id": "tech",
@@ -169,39 +169,11 @@
       "icon": "💼",
       "news": [
         {
-          "title": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second act",
-          "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-          "time": "2026-07-17"
-        },
-        {
-          "title": "AI-driven memory crunch jolts India&#8217;s smartphone market",
-          "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-          "time": "2026-07-17"
-        },
-        {
-          "title": "How Apple&#8217;s big lawsuit could disrupt OpenAI&#8217;s IPO plans",
-          "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to Ope",
-          "source": "Theresa Loconsolo",
-          "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-          "time": "2026-07-17"
-        },
-        {
-          "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-          "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+          "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+          "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
           "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-          "time": "2026-07-17"
-        },
-        {
-          "title": "Thinking Machines Lab Drops Its First Model",
-          "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
-          "source": "Will Knight",
-          "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
-          "time": "2026-07-15"
+          "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+          "time": "2026-07-21"
         }
       ]
     },
@@ -244,13 +216,6 @@
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
           "time": "2026-07-06"
-        },
-        {
-          "title": "Building the foundation for an autonomous enterprise",
-          "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-          "time": "2026-07-02"
         }
       ]
     },
@@ -414,11 +379,18 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
-          "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
-          "source": "Maxwell Zeff",
-          "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
-          "time": "2026-07-16"
+          "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+          "summary": "Pat Gelsinger wants to pave the way to ever more powerful artificial intelligence using tiny beams of light.",
+          "source": "Joel Khalili",
+          "url": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+          "time": "2026-07-21"
+        },
+        {
+          "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
+          "summary": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
+          "source": "Ej Dickson",
+          "url": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
+          "time": "2026-07-21"
         }
       ]
     }
