@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-07-21T20:57:56.873Z",
-  "date": "2026年7月21日 20时57分",
+  "updateTime": "2026-07-22T20:55:37.470Z",
+  "date": "2026年7月22日 20时55分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Show HN: ClawLite – Local-first personal AI assistant on Telegram",
+          "summary": "暂无摘要",
+          "source": "ForgeSynapse",
+          "url": "https://github.com/forgesynapseltd/ClawLite",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "DOJ Now Citing Fake AI-Generated Cases to Keep ICE Detainees Locked Up",
+          "summary": "暂无摘要",
+          "source": "hn_acker",
+          "url": "https://www.techdirt.com/2026/07/22/doj-now-citing-fake-ai-generated-cases-to-keep-ice-detainees-locked-up/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: Netmon – self-hosted LAN monitor with sarcastic AI reports to Telegram",
+          "summary": "暂无摘要",
+          "source": "OymInIRole",
+          "url": "https://github.com/Role1776/netmon",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Google revenue surges on AI-driven boom in Cloud unit",
+          "summary": "暂无摘要",
+          "source": "alephnerd",
+          "url": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "AI Impact – A Collection of Stats",
+          "summary": "暂无摘要",
+          "source": "vesterde",
+          "url": "https://vester.si/ai-impact/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Is AI speedrunning crypto's mistakes of no consumer?",
+          "summary": "暂无摘要",
+          "source": "invalidmonk",
+          "url": "https://www.wsj.com/cio-journal/openais-high-stakes-high-touch-push-to-make-ai-work-for-business-7f08b7d4",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Most \"self-improving\" AI agents don't improve",
+          "summary": "暂无摘要",
+          "source": "kamselig",
+          "url": "https://loadbearingtech.substack.com/p/self-improving-agent-loops-verifier",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Is AI productivity growth in the room with us?",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.ft.com/content/3fcda833-80d2-4e13-86f4-29b479b79adf",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Puffin: Scheme-like language with self-hosting compiler and gradual types",
+          "summary": "暂无摘要",
+          "source": "azhenley",
+          "url": "https://kmicinski.com/puffin-lang/index.html",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Grok Imagine will make 'historically accurate' AI adaptation of Homer's Odyssey",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Why care about programming languages",
+          "summary": "暂无摘要",
+          "source": "b-man",
+          "url": "https://ebellani.github.io/blog/2026/why-care-about-programming-languages/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: The Harbinger- mTLS proxy that gives AI agents identity, not API keys",
+          "summary": "暂无摘要",
+          "source": "not-duckie",
+          "url": "https://github.com/n0tduck1e/theharbinger",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "TopTierClass – AI that responds to Google reviews for local businesses",
+          "summary": "暂无摘要",
+          "source": "aboutdavidkim",
+          "url": "https://toptierclass.com/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Musk's anti-Odyssey campaign backfires over threat to make AI version of epic",
+          "summary": "暂无摘要",
+          "source": "devonnull",
+          "url": "https://www.euronews.com/culture/2026/07/22/elon-musks-anti-odyssey-campaign-backfires-over-threat-to-make-ai-version-of-nolans-epic",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "AI-isms go deeper than em-dashes and 'load-bearing'",
+          "summary": "暂无摘要",
+          "source": "ozozozd",
+          "url": "https://jesseduffield.com/AI-isms-go-deeper/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Basil Halperin on Macroeconomic Policy in an Age of Transformative AI",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.mercatus.org/macro-musings/basil-halperin-macroeconomic-policy-age-transformative-ai",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand",
+          "summary": "暂无摘要",
+          "source": "sebmellen",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Top White House official escalating the fight over Moonshot AI's Kimi K3 model",
+          "summary": "暂无摘要",
+          "source": "baddash",
+          "url": "https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "District 9 and Gran Turismo director has made an AI film",
+          "summary": "暂无摘要",
+          "source": "LordDefender",
+          "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/district-9-and-gran-turismo-director-has-made-a-fully-ai-film-and-the-internet-is-not-holding-back/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Rabbitty – a native Mac terminal for running AI coding agents in parallel",
+          "summary": "暂无摘要",
+          "source": "mauscoelho",
+          "url": "https://github.com/mauscoelho/rabbitty-app/releases",
+          "time": "2026-07-22"
+        },
         {
           "title": "China’s AI models have Trump’s AI world at war with itself",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
@@ -56,6 +196,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "3 Google updates from Galaxy Unpacked 2026",
+          "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+          "time": "2026-07-22"
+        },
         {
           "title": "Create, edit and star in videos with two Google Vids updates",
           "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
@@ -155,11 +302,144 @@
           "time": "2026-05-28"
         },
         {
-          "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-          "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-          "time": "2026-05-22"
+          "title": "Character.ai: The Technical Story of What Keeps Users Hooked",
+          "summary": "暂无摘要",
+          "source": "ms7892",
+          "url": "https://manish.sh/writings/ai-tools/inside-character-ai-the-technical-story-of-what-keeps-users-hooked",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: ClawLite – Local-first personal AI assistant on Telegram",
+          "summary": "暂无摘要",
+          "source": "ForgeSynapse",
+          "url": "https://github.com/forgesynapseltd/ClawLite",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "DOJ Now Citing Fake AI-Generated Cases to Keep ICE Detainees Locked Up",
+          "summary": "暂无摘要",
+          "source": "hn_acker",
+          "url": "https://www.techdirt.com/2026/07/22/doj-now-citing-fake-ai-generated-cases-to-keep-ice-detainees-locked-up/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: Netmon – self-hosted LAN monitor with sarcastic AI reports to Telegram",
+          "summary": "暂无摘要",
+          "source": "OymInIRole",
+          "url": "https://github.com/Role1776/netmon",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Google revenue surges on AI-driven boom in Cloud unit",
+          "summary": "暂无摘要",
+          "source": "alephnerd",
+          "url": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "AI Impact – A Collection of Stats",
+          "summary": "暂无摘要",
+          "source": "vesterde",
+          "url": "https://vester.si/ai-impact/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Is AI speedrunning crypto's mistakes of no consumer?",
+          "summary": "暂无摘要",
+          "source": "invalidmonk",
+          "url": "https://www.wsj.com/cio-journal/openais-high-stakes-high-touch-push-to-make-ai-work-for-business-7f08b7d4",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Most \"self-improving\" AI agents don't improve",
+          "summary": "暂无摘要",
+          "source": "kamselig",
+          "url": "https://loadbearingtech.substack.com/p/self-improving-agent-loops-verifier",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
+          "summary": "暂无摘要",
+          "source": "gnabgib",
+          "url": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Is AI productivity growth in the room with us?",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.ft.com/content/3fcda833-80d2-4e13-86f4-29b479b79adf",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Grok Imagine will make 'historically accurate' AI adaptation of Homer's Odyssey",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Anthropic Economic Index",
+          "summary": "暂无摘要",
+          "source": "pretext",
+          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Social-Media Harm Trial Halted After Teen Drops Meta Lawsuit",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.wsj.com/us-news/law/social-media-harm-trial-halted-after-teen-drops-meta-lawsuit-03ee3c17",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "We got California to intervene about OpenAI's corporate switch from nonprofit",
+          "summary": "暂无摘要",
+          "source": "SLHamlet",
+          "url": "https://fortune.com/2026/07/22/openai-foundation-class-n-stock-board-control-ipo/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Proxy for OpenAI Codex and Claude Code, use any LLM with those apps",
+          "summary": "暂无摘要",
+          "source": "dandaka",
+          "url": "https://github.com/lidge-jun/opencodex",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: The Harbinger- mTLS proxy that gives AI agents identity, not API keys",
+          "summary": "暂无摘要",
+          "source": "not-duckie",
+          "url": "https://github.com/n0tduck1e/theharbinger",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "TopTierClass – AI that responds to Google reviews for local businesses",
+          "summary": "暂无摘要",
+          "source": "aboutdavidkim",
+          "url": "https://toptierclass.com/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Musk's anti-Odyssey campaign backfires over threat to make AI version of epic",
+          "summary": "暂无摘要",
+          "source": "devonnull",
+          "url": "https://www.euronews.com/culture/2026/07/22/elon-musks-anti-odyssey-campaign-backfires-over-threat-to-make-ai-version-of-nolans-epic",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "OpenAI sued over ChatGPT health advice that almost killed a pastor",
+          "summary": "暂无摘要",
+          "source": "ryanmerket",
+          "url": "https://www.engadget.com/2221044/openai-sued-over-chatgpt-health-advice-that-almost-killed-a-pastor/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "AI-isms go deeper than em-dashes and 'load-bearing'",
+          "summary": "暂无摘要",
+          "source": "ozozozd",
+          "url": "https://jesseduffield.com/AI-isms-go-deeper/",
+          "time": "2026-07-22"
         }
       ]
     },
@@ -169,11 +449,179 @@
       "icon": "💼",
       "news": [
         {
-          "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-          "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-          "time": "2026-07-21"
+          "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+          "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha",
+          "source": "Sarah Perez",
+          "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+          "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16",
+          "source": "Theresa Loconsolo, Julie Bort",
+          "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+          "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+          "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+          "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Character.ai: The Technical Story of What Keeps Users Hooked",
+          "summary": "暂无摘要",
+          "source": "ms7892",
+          "url": "https://manish.sh/writings/ai-tools/inside-character-ai-the-technical-story-of-what-keeps-users-hooked",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: ClawLite – Local-first personal AI assistant on Telegram",
+          "summary": "暂无摘要",
+          "source": "ForgeSynapse",
+          "url": "https://github.com/forgesynapseltd/ClawLite",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "DOJ Now Citing Fake AI-Generated Cases to Keep ICE Detainees Locked Up",
+          "summary": "暂无摘要",
+          "source": "hn_acker",
+          "url": "https://www.techdirt.com/2026/07/22/doj-now-citing-fake-ai-generated-cases-to-keep-ice-detainees-locked-up/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: Netmon – self-hosted LAN monitor with sarcastic AI reports to Telegram",
+          "summary": "暂无摘要",
+          "source": "OymInIRole",
+          "url": "https://github.com/Role1776/netmon",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Google revenue surges on AI-driven boom in Cloud unit",
+          "summary": "暂无摘要",
+          "source": "alephnerd",
+          "url": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "AI Impact – A Collection of Stats",
+          "summary": "暂无摘要",
+          "source": "vesterde",
+          "url": "https://vester.si/ai-impact/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Is AI speedrunning crypto's mistakes of no consumer?",
+          "summary": "暂无摘要",
+          "source": "invalidmonk",
+          "url": "https://www.wsj.com/cio-journal/openais-high-stakes-high-touch-push-to-make-ai-work-for-business-7f08b7d4",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Most \"self-improving\" AI agents don't improve",
+          "summary": "暂无摘要",
+          "source": "kamselig",
+          "url": "https://loadbearingtech.substack.com/p/self-improving-agent-loops-verifier",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Is AI productivity growth in the room with us?",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.ft.com/content/3fcda833-80d2-4e13-86f4-29b479b79adf",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Grok Imagine will make 'historically accurate' AI adaptation of Homer's Odyssey",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: The Harbinger- mTLS proxy that gives AI agents identity, not API keys",
+          "summary": "暂无摘要",
+          "source": "not-duckie",
+          "url": "https://github.com/n0tduck1e/theharbinger",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "TopTierClass – AI that responds to Google reviews for local businesses",
+          "summary": "暂无摘要",
+          "source": "aboutdavidkim",
+          "url": "https://toptierclass.com/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Musk's anti-Odyssey campaign backfires over threat to make AI version of epic",
+          "summary": "暂无摘要",
+          "source": "devonnull",
+          "url": "https://www.euronews.com/culture/2026/07/22/elon-musks-anti-odyssey-campaign-backfires-over-threat-to-make-ai-version-of-nolans-epic",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "AI-isms go deeper than em-dashes and 'load-bearing'",
+          "summary": "暂无摘要",
+          "source": "ozozozd",
+          "url": "https://jesseduffield.com/AI-isms-go-deeper/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Basil Halperin on Macroeconomic Policy in an Age of Transformative AI",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.mercatus.org/macro-musings/basil-halperin-macroeconomic-policy-age-transformative-ai",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand",
+          "summary": "暂无摘要",
+          "source": "sebmellen",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Top White House official escalating the fight over Moonshot AI's Kimi K3 model",
+          "summary": "暂无摘要",
+          "source": "baddash",
+          "url": "https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "District 9 and Gran Turismo director has made an AI film",
+          "summary": "暂无摘要",
+          "source": "LordDefender",
+          "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/district-9-and-gran-turismo-director-has-made-a-fully-ai-film-and-the-internet-is-not-holding-back/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Rabbitty – a native Mac terminal for running AI coding agents in parallel",
+          "summary": "暂无摘要",
+          "source": "mauscoelho",
+          "url": "https://github.com/mauscoelho/rabbitty-app/releases",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Reddit stock sinks as company weighs blocking Google's AI access to its content",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://qz.com/reddit-stock-google-ai-content-deal-072226",
+          "time": "2026-07-22"
         }
       ]
     },
@@ -377,6 +825,153 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Character.ai: The Technical Story of What Keeps Users Hooked",
+          "summary": "暂无摘要",
+          "source": "ms7892",
+          "url": "https://manish.sh/writings/ai-tools/inside-character-ai-the-technical-story-of-what-keeps-users-hooked",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: ClawLite – Local-first personal AI assistant on Telegram",
+          "summary": "暂无摘要",
+          "source": "ForgeSynapse",
+          "url": "https://github.com/forgesynapseltd/ClawLite",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "DOJ Now Citing Fake AI-Generated Cases to Keep ICE Detainees Locked Up",
+          "summary": "暂无摘要",
+          "source": "hn_acker",
+          "url": "https://www.techdirt.com/2026/07/22/doj-now-citing-fake-ai-generated-cases-to-keep-ice-detainees-locked-up/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: Netmon – self-hosted LAN monitor with sarcastic AI reports to Telegram",
+          "summary": "暂无摘要",
+          "source": "OymInIRole",
+          "url": "https://github.com/Role1776/netmon",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Google revenue surges on AI-driven boom in Cloud unit",
+          "summary": "暂无摘要",
+          "source": "alephnerd",
+          "url": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "AI Impact – A Collection of Stats",
+          "summary": "暂无摘要",
+          "source": "vesterde",
+          "url": "https://vester.si/ai-impact/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Is AI speedrunning crypto's mistakes of no consumer?",
+          "summary": "暂无摘要",
+          "source": "invalidmonk",
+          "url": "https://www.wsj.com/cio-journal/openais-high-stakes-high-touch-push-to-make-ai-work-for-business-7f08b7d4",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Most \"self-improving\" AI agents don't improve",
+          "summary": "暂无摘要",
+          "source": "kamselig",
+          "url": "https://loadbearingtech.substack.com/p/self-improving-agent-loops-verifier",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Is AI productivity growth in the room with us?",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.ft.com/content/3fcda833-80d2-4e13-86f4-29b479b79adf",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Grok Imagine will make 'historically accurate' AI adaptation of Homer's Odyssey",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.theguardian.com/film/2026/jul/22/elon-musk-grok-imagine-historically-accurate-ai-homers-odyssey-christopher-nolan",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Every .ru Domain Now Needs Government ID",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://webhosting.today/2026/07/22/a-government-id-for-every-ru-domain-and-a-warning-for-every-country-code/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Show HN: The Harbinger- mTLS proxy that gives AI agents identity, not API keys",
+          "summary": "暂无摘要",
+          "source": "not-duckie",
+          "url": "https://github.com/n0tduck1e/theharbinger",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "TopTierClass – AI that responds to Google reviews for local businesses",
+          "summary": "暂无摘要",
+          "source": "aboutdavidkim",
+          "url": "https://toptierclass.com/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Musk's anti-Odyssey campaign backfires over threat to make AI version of epic",
+          "summary": "暂无摘要",
+          "source": "devonnull",
+          "url": "https://www.euronews.com/culture/2026/07/22/elon-musks-anti-odyssey-campaign-backfires-over-threat-to-make-ai-version-of-nolans-epic",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "AI-isms go deeper than em-dashes and 'load-bearing'",
+          "summary": "暂无摘要",
+          "source": "ozozozd",
+          "url": "https://jesseduffield.com/AI-isms-go-deeper/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Basil Halperin on Macroeconomic Policy in an Age of Transformative AI",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.mercatus.org/macro-musings/basil-halperin-macroeconomic-policy-age-transformative-ai",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand",
+          "summary": "暂无摘要",
+          "source": "sebmellen",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Top White House official escalating the fight over Moonshot AI's Kimi K3 model",
+          "summary": "暂无摘要",
+          "source": "baddash",
+          "url": "https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "District 9 and Gran Turismo director has made an AI film",
+          "summary": "暂无摘要",
+          "source": "LordDefender",
+          "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/district-9-and-gran-turismo-director-has-made-a-fully-ai-film-and-the-internet-is-not-holding-back/",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "Gravity from Entropy connects law of thermodynamics with cosmic structure",
+          "summary": "暂无摘要",
+          "source": "aard",
+          "url": "https://phys.org/news/2026-07-gravity-entropy-theory-law-thermodynamics.html",
+          "time": "2026-07-22"
+        },
+        {
+          "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+          "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+          "source": "Zeyi Yang",
+          "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+          "time": "2026-07-22"
         },
         {
           "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
