@@ -1,152 +1,12 @@
 {
-  "updateTime": "2026-07-25T20:40:00.084Z",
-  "date": "2026年7月25日 20时40分",
+  "updateTime": "2026-07-26T20:45:49.013Z",
+  "date": "2026年7月26日 20时45分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
-        {
-          "title": "Have your say on advancing AI transparency in Canada",
-          "summary": "暂无摘要",
-          "source": "hmokiguess",
-          "url": "https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Ask HN: What are some popular AI detection software that you know/have used?",
-          "summary": "暂无摘要",
-          "source": "dd-sharma",
-          "url": "https://news.ycombinator.com/item?id=49051022",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "How are you authorizing AI agents that call MCP servers?",
-          "summary": "暂无摘要",
-          "source": "ahmed89",
-          "url": "https://www.keydris.com/",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Show HN: Open-source AI bookmark manager for busy people",
-          "summary": "暂无摘要",
-          "source": "gsmt",
-          "url": "https://github.com/rortan134/cache-app",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Jack Conte: The future of creativity on the internet in a world with AI [video]",
-          "summary": "暂无摘要",
-          "source": "marvinborner",
-          "url": "https://www.youtube.com/watch?v=17_HcR95YBc",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "What is the status on continual learning for LLMs?",
-          "summary": "暂无摘要",
-          "source": "fred123123",
-          "url": "https://news.ycombinator.com/item?id=49050360",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Home of local AI and useful web tools",
-          "summary": "暂无摘要",
-          "source": "shafkathullah",
-          "url": "https://pocketweb.tools/",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "OpenAI agent goes rogue, hacks AI community, left escape plans in infrastructure",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Pyshackle: A hard pre-execution gate for AI agent tool calls (open source)",
-          "summary": "暂无摘要",
-          "source": "shacklepro",
-          "url": "https://pypi.org/project/pyshackle/",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Ask HN: What do you do when your AI agents are working?",
-          "summary": "暂无摘要",
-          "source": "mavsman",
-          "url": "https://news.ycombinator.com/item?id=49049986",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Ask HN: How's your experience with the Siri AI beta?",
-          "summary": "暂无摘要",
-          "source": "Austin_Conlon",
-          "url": "https://news.ycombinator.com/item?id=49049960",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Persistent State Machine: Breaking the von Neumann Memory Wall for LLM Attention",
-          "summary": "暂无摘要",
-          "source": "yusuke_esaka",
-          "url": "https://zenodo.org/records/21566453",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "AI in the Breach: How an Adversary Leveraged AI to Target a Water Utility's OT",
-          "summary": "暂无摘要",
-          "source": "MariusGjerd",
-          "url": "https://www.dragos.com/blog/ai-assisted-ics-attack-water-utility",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "The rock star founder behind China's Moonshot AI",
-          "summary": "暂无摘要",
-          "source": "nhannht",
-          "url": "https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Kain – A non-von Neumann language (Zero GC, Python syntax, no borrow checker)",
-          "summary": "暂无摘要",
-          "source": "ephemara",
-          "url": "https://github.com/kainlang/kain",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "A system prompt to get AI to stop pretending to be human",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Silicon Valley Is Completely Divided over Chinese AI",
-          "summary": "暂无摘要",
-          "source": "joozio",
-          "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Show HN: Tongue – Text Your AI Personal Assistant",
-          "summary": "暂无摘要",
-          "source": "chadnewbry",
-          "url": "https://trytongue.com/demo",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Show HN: Protoai – an open source peer-to-peer network for sharing AI contexts",
-          "summary": "暂无摘要",
-          "source": "piecesJohn",
-          "url": "https://github.com/johndebord/protoai",
-          "time": "2026-07-25"
-        },
-        {
-          "title": "Apple Is the King of AI and Nobody Knows It",
-          "summary": "暂无摘要",
-          "source": "cyanbane",
-          "url": "https://limitededitionjonathan.substack.com/p/apple-is-the-king-of-ai-and-nobody",
-          "time": "2026-07-25"
-        },
         {
           "title": "China’s AI models have Trump’s AI world at war with itself",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
@@ -300,6 +160,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
           "time": "2026-05-28"
+        },
+        {
+          "title": "AI is set to drive surging electricity demand from data centres (2025)",
+          "summary": "暂无摘要",
+          "source": "dredmorbius",
+          "url": "https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "An Open-Source Static AI Capability and Risk Analyzer – First Week Report",
+          "summary": "暂无摘要",
+          "source": "ikaruscareer",
+          "url": "https://github.com/ikaruscareer/SafeAI",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Automate 7 Projects Marketing with AI for $40",
+          "summary": "暂无摘要",
+          "source": "apsquared",
+          "url": "https://apsquared.co/posts/marketing-automation-claude-codex",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Two AI Futures to Choose From",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://www.rameznaam.com/p/two-ai-futures-to-choose-from",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Optical Memory Link Could Boost AI in Robotics",
+          "summary": "暂无摘要",
+          "source": "jonbaer",
+          "url": "https://spectrum.ieee.org/ai-in-robotics",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Please ship APIs, not AI",
+          "summary": "暂无摘要",
+          "source": "wxw",
+          "url": "https://iamwillwang.com/notes/please-ship-apis-not-ai/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "OpenAI: A Bubble Bigger Than Dotcom",
+          "summary": "暂无摘要",
+          "source": "cable2600",
+          "url": "https://www.youtube.com/watch?v=zDtvrme-L-0",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Writers set to share millions after $1.5B Anthropic settlement",
+          "summary": "暂无摘要",
+          "source": "afshinmeh",
+          "url": "https://www.irishtimes.com/crime-law/courts/2026/07/26/hundreds-of-irish-writers-set-to-share-millions-of-euro-after-131bn-anthropic-settlement/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "What Americans Think About the Global AI Race",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": "暂无摘要",
+          "source": "hevolveai",
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: ModelFuzz – Open-source runtime guardrails for AI agents",
+          "summary": "暂无摘要",
+          "source": "higagan",
+          "url": "https://www.modelfuzz.com/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Narcissism, Machiavellianism, and AI Use",
+          "summary": "暂无摘要",
+          "source": "colinprince",
+          "url": "https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Google Cache used to have a copy of this page at",
+          "summary": "暂无摘要",
+          "source": "jruohonen",
+          "url": "https://www.hornet.org/wikipedia-notes.txt",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: Readability for web and PDFs with TTS and local AI summary",
+          "summary": "暂无摘要",
+          "source": "ldenoue",
+          "url": "https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Hugging Face CEO calls for 'radical transparency' after 'unprecedented' OpenAI",
+          "summary": "暂无摘要",
+          "source": "sbulaev",
+          "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",
+          "summary": "暂无摘要",
+          "source": "shacklepro",
+          "url": "https://github.com/Fame510/SHACKLE/blob/master/SP-1.0-SPECIFICATION.md",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+          "summary": "暂无摘要",
+          "source": "mic_sm",
+          "url": "https://github.com/MicSm/boffin",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Karen Hao: AI Doesn't Have to Be Built This Way",
+          "summary": "暂无摘要",
+          "source": "evo_9",
+          "url": "https://www.bloomberg.com/features/2026-karen-hao-weekend-interview/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization",
+          "summary": "暂无摘要",
+          "source": "squirrel",
+          "url": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "AI use policy for my essay writing",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing",
+          "time": "2026-07-26"
         }
       ]
     },
@@ -316,18 +316,151 @@
           "time": "2026-07-24"
         },
         {
-          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-          "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-          "time": "2026-07-23"
-        },
-        {
           "title": "Silicon Valley Is Completely Divided Over Chinese AI",
           "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
           "source": "Lauren Goode",
           "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
           "time": "2026-07-24"
+        },
+        {
+          "title": "AI is set to drive surging electricity demand from data centres (2025)",
+          "summary": "暂无摘要",
+          "source": "dredmorbius",
+          "url": "https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "An Open-Source Static AI Capability and Risk Analyzer – First Week Report",
+          "summary": "暂无摘要",
+          "source": "ikaruscareer",
+          "url": "https://github.com/ikaruscareer/SafeAI",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Automate 7 Projects Marketing with AI for $40",
+          "summary": "暂无摘要",
+          "source": "apsquared",
+          "url": "https://apsquared.co/posts/marketing-automation-claude-codex",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Two AI Futures to Choose From",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://www.rameznaam.com/p/two-ai-futures-to-choose-from",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "New funding rules will make US research slower, costlier and harder to share",
+          "summary": "暂无摘要",
+          "source": "teaman2000",
+          "url": "https://theconversation.com/new-trump-administration-rules-on-federal-science-funding-could-make-american-research-slower-costlier-and-harder-to-share-286430",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Optical Memory Link Could Boost AI in Robotics",
+          "summary": "暂无摘要",
+          "source": "jonbaer",
+          "url": "https://spectrum.ieee.org/ai-in-robotics",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Please ship APIs, not AI",
+          "summary": "暂无摘要",
+          "source": "wxw",
+          "url": "https://iamwillwang.com/notes/please-ship-apis-not-ai/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "What Americans Think About the Global AI Race",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": "暂无摘要",
+          "source": "hevolveai",
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: ModelFuzz – Open-source runtime guardrails for AI agents",
+          "summary": "暂无摘要",
+          "source": "higagan",
+          "url": "https://www.modelfuzz.com/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Narcissism, Machiavellianism, and AI Use",
+          "summary": "暂无摘要",
+          "source": "colinprince",
+          "url": "https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: Readability for web and PDFs with TTS and local AI summary",
+          "summary": "暂无摘要",
+          "source": "ldenoue",
+          "url": "https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",
+          "summary": "暂无摘要",
+          "source": "shacklepro",
+          "url": "https://github.com/Fame510/SHACKLE/blob/master/SP-1.0-SPECIFICATION.md",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+          "summary": "暂无摘要",
+          "source": "mic_sm",
+          "url": "https://github.com/MicSm/boffin",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Karen Hao: AI Doesn't Have to Be Built This Way",
+          "summary": "暂无摘要",
+          "source": "evo_9",
+          "url": "https://www.bloomberg.com/features/2026-karen-hao-weekend-interview/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization",
+          "summary": "暂无摘要",
+          "source": "squirrel",
+          "url": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "AI use policy for my essay writing",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+          "summary": "暂无摘要",
+          "source": "andytratt",
+          "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Ask HN:Anyone know a good AI slop detection service.",
+          "summary": "暂无摘要",
+          "source": "boveyking",
+          "url": "https://news.ycombinator.com/item?id=49059537",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Roast My Startup (thebuildnation.com)",
+          "summary": "暂无摘要",
+          "source": "Guru_Raj",
+          "url": "https://news.ycombinator.com/item?id=49059500",
+          "time": "2026-07-26"
         }
       ]
     },
@@ -531,6 +664,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "AI is set to drive surging electricity demand from data centres (2025)",
+          "summary": "暂无摘要",
+          "source": "dredmorbius",
+          "url": "https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "An Open-Source Static AI Capability and Risk Analyzer – First Week Report",
+          "summary": "暂无摘要",
+          "source": "ikaruscareer",
+          "url": "https://github.com/ikaruscareer/SafeAI",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Wright's Law Edges Out Moore's Law in Predicting Technology Development (2012)",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://spectrum.ieee.org/wrights-law-edges-out-moores-law-in-predicting-technology-development",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Automate 7 Projects Marketing with AI for $40",
+          "summary": "暂无摘要",
+          "source": "apsquared",
+          "url": "https://apsquared.co/posts/marketing-automation-claude-codex",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Two AI Futures to Choose From",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://www.rameznaam.com/p/two-ai-futures-to-choose-from",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Optical Memory Link Could Boost AI in Robotics",
+          "summary": "暂无摘要",
+          "source": "jonbaer",
+          "url": "https://spectrum.ieee.org/ai-in-robotics",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Please ship APIs, not AI",
+          "summary": "暂无摘要",
+          "source": "wxw",
+          "url": "https://iamwillwang.com/notes/please-ship-apis-not-ai/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "What Americans Think About the Global AI Race",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": "暂无摘要",
+          "source": "hevolveai",
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: ModelFuzz – Open-source runtime guardrails for AI agents",
+          "summary": "暂无摘要",
+          "source": "higagan",
+          "url": "https://www.modelfuzz.com/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Narcissism, Machiavellianism, and AI Use",
+          "summary": "暂无摘要",
+          "source": "colinprince",
+          "url": "https://thenextweb.com/news/dark-traits-problematic-ai-use-psychology",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: Readability for web and PDFs with TTS and local AI summary",
+          "summary": "暂无摘要",
+          "source": "ldenoue",
+          "url": "https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",
+          "summary": "暂无摘要",
+          "source": "shacklepro",
+          "url": "https://github.com/Fame510/SHACKLE/blob/master/SP-1.0-SPECIFICATION.md",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: Boffin – Staff-engineer layer for AI coding agents",
+          "summary": "暂无摘要",
+          "source": "mic_sm",
+          "url": "https://github.com/MicSm/boffin",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Karen Hao: AI Doesn't Have to Be Built This Way",
+          "summary": "暂无摘要",
+          "source": "evo_9",
+          "url": "https://www.bloomberg.com/features/2026-karen-hao-weekend-interview/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization",
+          "summary": "暂无摘要",
+          "source": "squirrel",
+          "url": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "AI use policy for my essay writing",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.lesswrong.com/posts/tgigHkZoYrJEGe4tP/ai-use-policy-for-my-essay-writing",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
+          "summary": "暂无摘要",
+          "source": "andytratt",
+          "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Ask HN:Anyone know a good AI slop detection service.",
+          "summary": "暂无摘要",
+          "source": "boveyking",
+          "url": "https://news.ycombinator.com/item?id=49059537",
+          "time": "2026-07-26"
+        },
+        {
+          "title": "Show HN: Cookbook AI – turn scattered recipe files into a print-ready cookbook",
+          "summary": "暂无摘要",
+          "source": "bookletaitcv1re",
+          "url": "https://cookbookai.io/index.html",
+          "time": "2026-07-26"
         },
         {
           "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
