@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-27T21:02:31.505Z",
-  "date": "2026年7月27日 21时2分",
+  "updateTime": "2026-07-28T20:58:54.594Z",
+  "date": "2026年7月28日 20时58分",
   "categories": [
     {
       "id": "tech",
@@ -27,13 +27,6 @@
           "source": "Michelle Kim",
           "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
           "time": "2026-07-20"
-        },
-        {
-          "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-          "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver",
-          "source": "Will Douglas Heaven",
-          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-          "time": "2026-07-15"
         }
       ]
     },
@@ -42,6 +35,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "5 ways to host the ultimate dinner party with Google Search",
+          "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+          "time": "2026-07-28"
+        },
         {
           "title": "3 Google updates from Galaxy Unpacked 2026",
           "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
@@ -132,20 +132,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
           "time": "2026-05-29"
-        },
-        {
-          "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-          "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-          "time": "2026-05-29"
-        },
-        {
-          "title": "Catch up on 12 major I/O 2026 moments",
-          "summary": "Here are 12 of the biggest Google I/O 2026 keynote moments, including news about Gemini Omni, Gemini 3.5 Flash and more.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-          "time": "2026-05-28"
         }
       ]
     },
@@ -155,11 +141,39 @@
       "icon": "💼",
       "news": [
         {
-          "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-          "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-          "time": "2026-07-24"
+          "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+          "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+          "time": "2026-07-28"
+        },
+        {
+          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+          "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+          "time": "2026-07-28"
+        },
+        {
+          "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+          "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+          "time": "2026-07-28"
+        },
+        {
+          "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+          "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+          "source": "Katie Drummond",
+          "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+          "time": "2026-07-28"
+        },
+        {
+          "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+          "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+          "source": "Paresh Dave",
+          "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+          "time": "2026-07-28"
         },
         {
           "title": "Silicon Valley Is Completely Divided Over Chinese AI",
@@ -202,13 +216,6 @@
           "source": "Michelle Kim",
           "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
           "time": "2026-07-20"
-        },
-        {
-          "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-          "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest ver",
-          "source": "Will Douglas Heaven",
-          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-          "time": "2026-07-15"
         }
       ]
     },
@@ -391,13 +398,6 @@
           "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
           "url": "https://www.wired.com/story/uncanny-valley-podcast/",
           "time": "2026-07-24"
-        },
-        {
-          "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-          "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
-          "source": "Zeyi Yang",
-          "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-          "time": "2026-07-22"
         }
       ]
     }
