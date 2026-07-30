@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-29T20:42:44.781Z",
-  "date": "2026年7月29日 20时42分",
+  "updateTime": "2026-07-30T20:56:18.930Z",
+  "date": "2026年7月30日 20时56分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,151 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Darwin Among the Machines(1863)[pdf]",
+          "title": "Scale AI appoints Google Cloud exec as new CEO",
           "summary": "暂无摘要",
-          "source": "kelseyfrog",
-          "url": "https://publish.fid-media.de/server/api/core/bitstreams/e0da505d-200c-43ab-be4b-6604a4df816f/content",
-          "time": "2026-07-29"
+          "source": "JustinGraham",
+          "url": "https://scale.com/blog/scale-appoints-new-ceo",
+          "time": "2026-07-30"
         },
         {
-          "title": "Show HN: MindFlock – Parallel AI coding agents, each in its own Git worktree",
+          "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
           "summary": "暂无摘要",
-          "source": "emandel2630",
-          "url": "https://github.com/MindFlock/MindFlock",
-          "time": "2026-07-29"
+          "source": "wudmaing00",
+          "url": "https://github.com/colliehq/collie",
+          "time": "2026-07-30"
         },
         {
-          "title": "Runlayer sues Rippling, alleging source-code access preceded rival AI gateway",
+          "title": "What Happens When C Becomes Machine Code (10 Real Examples)",
           "summary": "暂无摘要",
-          "source": "ryanmerket",
-          "url": "https://runtimewire.com/article/runlayer-sues-rippling-alleging-source-code-access-preceded-rival-ai-gateway",
-          "time": "2026-07-29"
+          "source": "01-_-",
+          "url": "https://comuniq.xyz/post?t=1458",
+          "time": "2026-07-30"
         },
         {
-          "title": "China's Moonshot AI reportedly used Nvidia Blackwell chips for training Kimi K3",
+          "title": "Firebender: Android AI Coder",
           "summary": "暂无摘要",
-          "source": "rndsignals",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute",
-          "time": "2026-07-29"
+          "source": "handfuloflight",
+          "url": "https://firebender.com/",
+          "time": "2026-07-30"
         },
         {
-          "title": "Microsoft FY26 Q4 Earnings",
+          "title": "Made by Human, Not by Gen-AI",
           "summary": "暂无摘要",
-          "source": "corvad",
-          "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q4/press-release-webcast",
-          "time": "2026-07-29"
+          "source": "monax",
+          "url": "https://www.by-human.net/",
+          "time": "2026-07-30"
         },
         {
-          "title": "Cory Doctorow on Why AI Won't Replace Workers, but Will Crash the Economy [video]",
+          "title": "Google Search on Firefox Without AI",
           "summary": "暂无摘要",
-          "source": "SockThief",
-          "url": "https://www.youtube.com/watch?v=rRRmUuxJolY",
-          "time": "2026-07-29"
+          "source": "speckx",
+          "url": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
+          "time": "2026-07-30"
         },
         {
-          "title": "What Is an AI Employee?",
+          "title": "EU Opens Call for Creation of Local AI Gigafactories",
           "summary": "暂无摘要",
-          "source": "ankushKun",
-          "url": "https://construct.computer/blog/what-is-an-ai-employee/",
-          "time": "2026-07-29"
+          "source": "JumpCrisscross",
+          "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
+          "time": "2026-07-30"
         },
         {
-          "title": "Lilian Weng joins OpenAI after saying Thinking Machine's pace hurt her health",
+          "title": "Open source project fools AI scrapers with poisoned font",
           "summary": "暂无摘要",
-          "source": "elo2000",
-          "url": "https://www.businessinsider.com/lilian-weng-returns-to-openai-after-leaving-thinking-machines-lab-2026-7",
-          "time": "2026-07-29"
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+          "time": "2026-07-30"
         },
         {
-          "title": "The Largest Open World MMO Made with AI to Date",
+          "title": "From Junk Work to Judgment Work: What AI Should Change",
           "summary": "暂无摘要",
-          "source": "bingewave",
-          "url": "https://www.glitch.fun/games/42de534c-600f-4228-af9e-b69faef94cce/play",
-          "time": "2026-07-29"
+          "source": "lucaserb",
+          "url": "https://www.aiexperts.com/blog/junk-work-to-judgment-work",
+          "time": "2026-07-30"
         },
         {
-          "title": "Ask HN: Are you ready for non crashing valuations for AI?",
+          "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
           "summary": "暂无摘要",
-          "source": "kingleopold",
-          "url": "https://news.ycombinator.com/item?id=49101639",
-          "time": "2026-07-29"
+          "source": "htrp",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
+          "time": "2026-07-30"
         },
         {
-          "title": "Epoch.ai: Parallelization constraints could delay a technological singularity",
+          "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
           "summary": "暂无摘要",
-          "source": "dataking",
-          "url": "https://twitter.com/epochairesearch/status/2082534303955890505",
-          "time": "2026-07-29"
+          "source": "ilamont",
+          "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
+          "time": "2026-07-30"
         },
         {
-          "title": "Claude Opus 5 cheated when tasked with running a vending machine",
+          "title": "EU opens call for seven 'gigafactories' to train next-generation AI technologies",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "AI-agent-only trade show, Ferrari Luce",
+          "summary": "暂无摘要",
+          "source": "historian1066",
+          "url": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
+          "summary": "暂无摘要",
+          "source": "sroerick",
+          "url": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Claude Opus 5 became ruthless when tasked with running a vending machine",
+          "summary": "暂无摘要",
+          "source": "wasting_time",
+          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+          "summary": "暂无摘要",
+          "source": "joeymabia1",
+          "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "The Friend AI Pendant is not a product",
           "summary": "暂无摘要",
           "source": "mikelgan",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-          "time": "2026-07-29"
+          "url": "https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product",
+          "time": "2026-07-30"
         },
         {
-          "title": "Lightweight, zero-dependency prompt that prevents AI agents from losing context",
+          "title": "AI #179 Part 1: A Louder Fire Alarm for General Intelligence",
           "summary": "暂无摘要",
-          "source": "sourdecor",
-          "url": "https://gist.github.com/sourdecor/78b2ff9016f3f597934150a3501427ff",
-          "time": "2026-07-29"
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/ai-179-part-1-a-louder-fire-alarm",
+          "time": "2026-07-30"
         },
         {
-          "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+          "title": "Citadel buys most of Situational's stock holdings after AI share rout",
           "summary": "暂无摘要",
-          "source": "cl42",
-          "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-          "time": "2026-07-29"
+          "source": "paulpauper",
+          "url": "https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/",
+          "time": "2026-07-30"
         },
         {
-          "title": "AI \"Proves\" Collatz Conjecture with Lean 4 Bug",
-          "summary": "暂无摘要",
-          "source": "pfdietz",
-          "url": "https://twitter.com/gro_tsen/status/2082483878480977959",
-          "time": "2026-07-29"
-        },
-        {
-          "title": "Show HN: Mirrors – Improve AI agents with staging environments",
-          "summary": "暂无摘要",
-          "source": "idyeetya",
-          "url": "https://www.runmirrors.com/",
-          "time": "2026-07-29"
-        },
-        {
-          "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-          "summary": "暂无摘要",
-          "source": "eth0up",
-          "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-          "time": "2026-07-29"
-        },
-        {
-          "title": "A field day for Gleam's language server – Gleam v1.18.0 release",
-          "summary": "暂无摘要",
-          "source": "linggen",
-          "url": "https://gleam.run/news/a-field-day-for-gleams-language-server/",
-          "time": "2026-07-29"
-        },
-        {
-          "title": "Opening Keynote by Chinese President Xi Jinping at 2026 World AI Conference",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://english.www.gov.cn/news/202607/17/content_WS6a5a1172c6d00ca5f9a0c46b.html",
-          "time": "2026-07-29"
-        },
-        {
-          "title": "Wired's Kevin Kelly on Why AI Is a 50-Year Overnight Success [video]",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.youtube.com/watch?v=s4Ld3ZkM0Do",
-          "time": "2026-07-29"
+          "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+          "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen",
+          "source": "Will Douglas Heaven",
+          "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+          "time": "2026-07-30"
         },
         {
           "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
@@ -159,13 +166,6 @@
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-          "time": "2026-07-20"
-        },
-        {
-          "title": "AI is more likely than humans to form biases when hiring",
-          "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ",
-          "source": "Michelle Kim",
-          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
           "time": "2026-07-20"
         }
       ]
@@ -274,144 +274,144 @@
           "time": "2026-05-29"
         },
         {
-          "title": "Claude users' shared conversations were showing up in Google searches",
+          "title": "Scale AI appoints Google Cloud exec as new CEO",
           "summary": "暂无摘要",
-          "source": "1vuio0pswjnm7",
-          "url": "https://www.fastcompany.com/91580420/claude-users-shared-conversations-were-showing-up-in-google-searches",
-          "time": "2026-07-29"
+          "source": "JustinGraham",
+          "url": "https://scale.com/blog/scale-appoints-new-ceo",
+          "time": "2026-07-30"
         },
         {
-          "title": "Show HN: MindFlock – Parallel AI coding agents, each in its own Git worktree",
+          "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
           "summary": "暂无摘要",
-          "source": "emandel2630",
-          "url": "https://github.com/MindFlock/MindFlock",
-          "time": "2026-07-29"
+          "source": "wudmaing00",
+          "url": "https://github.com/colliehq/collie",
+          "time": "2026-07-30"
         },
         {
-          "title": "Runlayer sues Rippling, alleging source-code access preceded rival AI gateway",
+          "title": "Banks Line Up $15B of Debt for Anthropic with Google Aid",
           "summary": "暂无摘要",
-          "source": "ryanmerket",
-          "url": "https://runtimewire.com/article/runlayer-sues-rippling-alleging-source-code-access-preceded-rival-ai-gateway",
-          "time": "2026-07-29"
+          "source": "petethomas",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/banks-line-up-15-billion-of-debt-for-anthropic-with-google-aid",
+          "time": "2026-07-30"
         },
         {
-          "title": "China's Moonshot AI reportedly used Nvidia Blackwell chips for training Kimi K3",
+          "title": "Firebender: Android AI Coder",
           "summary": "暂无摘要",
-          "source": "rndsignals",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute",
-          "time": "2026-07-29"
+          "source": "handfuloflight",
+          "url": "https://firebender.com/",
+          "time": "2026-07-30"
         },
         {
-          "title": "Meta Reports Second Quarter 2026 Results",
+          "title": "Made by Human, Not by Gen-AI",
           "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/default.aspx",
-          "time": "2026-07-29"
+          "source": "monax",
+          "url": "https://www.by-human.net/",
+          "time": "2026-07-30"
         },
         {
-          "title": "Cory Doctorow on Why AI Won't Replace Workers, but Will Crash the Economy [video]",
+          "title": "Google Search on Firefox Without AI",
           "summary": "暂无摘要",
-          "source": "SockThief",
-          "url": "https://www.youtube.com/watch?v=rRRmUuxJolY",
-          "time": "2026-07-29"
+          "source": "speckx",
+          "url": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
+          "time": "2026-07-30"
         },
         {
-          "title": "What Is an AI Employee?",
+          "title": "EU Opens Call for Creation of Local AI Gigafactories",
           "summary": "暂无摘要",
-          "source": "ankushKun",
-          "url": "https://construct.computer/blog/what-is-an-ai-employee/",
-          "time": "2026-07-29"
+          "source": "JumpCrisscross",
+          "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
+          "time": "2026-07-30"
         },
         {
-          "title": "Lilian Weng joins OpenAI after saying Thinking Machine's pace hurt her health",
+          "title": "Open source project fools AI scrapers with poisoned font",
           "summary": "暂无摘要",
-          "source": "elo2000",
-          "url": "https://www.businessinsider.com/lilian-weng-returns-to-openai-after-leaving-thinking-machines-lab-2026-7",
-          "time": "2026-07-29"
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+          "time": "2026-07-30"
         },
         {
-          "title": "OpenAI's rogue agent compromised a customer at a second tech firm",
+          "title": "From Junk Work to Judgment Work: What AI Should Change",
           "summary": "暂无摘要",
-          "source": "johnbarron",
-          "url": "https://www.cnbc.com/2026/07/29/openais-rogue-agent-compromised-a-customer-at-a-second-tech-firm.html",
-          "time": "2026-07-29"
+          "source": "lucaserb",
+          "url": "https://www.aiexperts.com/blog/junk-work-to-judgment-work",
+          "time": "2026-07-30"
         },
         {
-          "title": "The Largest Open World MMO Made with AI to Date",
+          "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
           "summary": "暂无摘要",
-          "source": "bingewave",
-          "url": "https://www.glitch.fun/games/42de534c-600f-4228-af9e-b69faef94cce/play",
-          "time": "2026-07-29"
+          "source": "htrp",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
+          "time": "2026-07-30"
         },
         {
-          "title": "Ask HN: Are you ready for non crashing valuations for AI?",
+          "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
           "summary": "暂无摘要",
-          "source": "kingleopold",
-          "url": "https://news.ycombinator.com/item?id=49101639",
-          "time": "2026-07-29"
+          "source": "ilamont",
+          "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
+          "time": "2026-07-30"
         },
         {
-          "title": "Epoch.ai: Parallelization constraints could delay a technological singularity",
+          "title": "EU opens call for seven 'gigafactories' to train next-generation AI technologies",
           "summary": "暂无摘要",
-          "source": "dataking",
-          "url": "https://twitter.com/epochairesearch/status/2082534303955890505",
-          "time": "2026-07-29"
+          "source": "billybuckwheat",
+          "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
+          "time": "2026-07-30"
         },
         {
-          "title": "Lightweight, zero-dependency prompt that prevents AI agents from losing context",
+          "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
           "summary": "暂无摘要",
-          "source": "sourdecor",
-          "url": "https://gist.github.com/sourdecor/78b2ff9016f3f597934150a3501427ff",
-          "time": "2026-07-29"
+          "source": "Bender",
+          "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+          "time": "2026-07-30"
         },
         {
-          "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+          "title": "AI-agent-only trade show, Ferrari Luce",
           "summary": "暂无摘要",
-          "source": "cl42",
-          "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-          "time": "2026-07-29"
+          "source": "historian1066",
+          "url": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
+          "time": "2026-07-30"
         },
         {
-          "title": "AI \"Proves\" Collatz Conjecture with Lean 4 Bug",
-          "summary": "暂无摘要",
-          "source": "pfdietz",
-          "url": "https://twitter.com/gro_tsen/status/2082483878480977959",
-          "time": "2026-07-29"
-        },
-        {
-          "title": "Show HN: Mirrors – Improve AI agents with staging environments",
-          "summary": "暂无摘要",
-          "source": "idyeetya",
-          "url": "https://www.runmirrors.com/",
-          "time": "2026-07-29"
-        },
-        {
-          "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-          "summary": "暂无摘要",
-          "source": "eth0up",
-          "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-          "time": "2026-07-29"
-        },
-        {
-          "title": "Anthropic Doesn't Want Open Weight Models Banned. Just All That Makes Them Good",
+          "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
           "summary": "暂无摘要",
           "source": "cdrnsf",
-          "url": "https://www.techdirt.com/2026/07/29/anthropic-says-its-against-a-ban-on-open-weight-models-it-just-wants-to-ban-everything-that-makes-them-good/",
-          "time": "2026-07-29"
+          "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
+          "time": "2026-07-30"
         },
         {
-          "title": "Opening Keynote by Chinese President Xi Jinping at 2026 World AI Conference",
+          "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://english.www.gov.cn/news/202607/17/content_WS6a5a1172c6d00ca5f9a0c46b.html",
-          "time": "2026-07-29"
+          "source": "sroerick",
+          "url": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
+          "time": "2026-07-30"
         },
         {
-          "title": "OpenAI's First Devices: Speaker, Smartphone, and More",
+          "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
           "summary": "暂无摘要",
-          "source": "mgh2",
-          "url": "https://www.macrumors.com/2026/07/28/openai-first-devices/",
-          "time": "2026-07-29"
+          "source": "joeymabia1",
+          "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "The Friend AI Pendant is not a product",
+          "summary": "暂无摘要",
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "AI #179 Part 1: A Louder Fire Alarm for General Intelligence",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/ai-179-part-1-a-louder-fire-alarm",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Citadel buys most of Situational's stock holdings after AI share rout",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/",
+          "time": "2026-07-30"
         }
       ]
     },
@@ -421,6 +421,41 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Okta buys AI security startup Permiso — source says for about $200M",
+          "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+          "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+          "source": "Ram Iyer",
+          "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+          "source": "Amanda Silberling",
+          "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+          "time": "2026-07-29"
+        },
+        {
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+          "time": "2026-07-29"
+        },
+        {
+          "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+          "time": "2026-07-29"
+        },
+        {
           "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
           "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing",
           "source": "Sarah Perez",
@@ -428,67 +463,151 @@
           "time": "2026-07-29"
         },
         {
-          "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-          "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-          "source": "Ram Iyer",
-          "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-          "time": "2026-07-29"
+          "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
+          "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
+          "source": "Reece Rogers",
+          "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
+          "time": "2026-07-30"
         },
         {
-          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-          "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-          "time": "2026-07-29"
+          "title": "Scale AI appoints Google Cloud exec as new CEO",
+          "summary": "暂无摘要",
+          "source": "JustinGraham",
+          "url": "https://scale.com/blog/scale-appoints-new-ceo",
+          "time": "2026-07-30"
         },
         {
-          "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-          "summary": "The deal is Cyera's third acquisition this year.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-          "time": "2026-07-29"
+          "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
+          "summary": "暂无摘要",
+          "source": "wudmaing00",
+          "url": "https://github.com/colliehq/collie",
+          "time": "2026-07-30"
         },
         {
-          "title": "Bot-detection startup Spur nabs $200M from Insight",
-          "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-          "time": "2026-07-28"
+          "title": "Firebender: Android AI Coder",
+          "summary": "暂无摘要",
+          "source": "handfuloflight",
+          "url": "https://firebender.com/",
+          "time": "2026-07-30"
         },
         {
-          "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-          "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-          "time": "2026-07-28"
+          "title": "Microsoft's $450B Jump Is Biggest in Stock Market History",
+          "summary": "暂无摘要",
+          "source": "signatoremo",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/microsoft-eyes-history-with-490-billion-pop-in-market-value",
+          "time": "2026-07-30"
         },
         {
-          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-          "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-          "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-          "time": "2026-07-28"
+          "title": "Made by Human, Not by Gen-AI",
+          "summary": "暂无摘要",
+          "source": "monax",
+          "url": "https://www.by-human.net/",
+          "time": "2026-07-30"
         },
         {
-          "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-          "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-          "time": "2026-07-28"
+          "title": "Google Search on Firefox Without AI",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
+          "time": "2026-07-30"
         },
         {
-          "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-          "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
-          "source": "Katie Drummond",
-          "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
-          "time": "2026-07-28"
+          "title": "EU Opens Call for Creation of Local AI Gigafactories",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
+          "time": "2026-07-30"
         },
         {
-          "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-          "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
-          "source": "Paresh Dave",
-          "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-          "time": "2026-07-28"
+          "title": "Open source project fools AI scrapers with poisoned font",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "From Junk Work to Judgment Work: What AI Should Change",
+          "summary": "暂无摘要",
+          "source": "lucaserb",
+          "url": "https://www.aiexperts.com/blog/junk-work-to-judgment-work",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
+          "summary": "暂无摘要",
+          "source": "htrp",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
+          "summary": "暂无摘要",
+          "source": "ilamont",
+          "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "EU opens call for seven 'gigafactories' to train next-generation AI technologies",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "AI-agent-only trade show, Ferrari Luce",
+          "summary": "暂无摘要",
+          "source": "historian1066",
+          "url": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
+          "summary": "暂无摘要",
+          "source": "sroerick",
+          "url": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+          "summary": "暂无摘要",
+          "source": "joeymabia1",
+          "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "The Friend AI Pendant is not a product",
+          "summary": "暂无摘要",
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "AI #179 Part 1: A Louder Fire Alarm for General Intelligence",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/ai-179-part-1-a-louder-fire-alarm",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Citadel buys most of Situational's stock holdings after AI share rout",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+          "time": "2026-07-30"
         }
       ]
     },
@@ -516,13 +635,6 @@
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-          "time": "2026-07-20"
-        },
-        {
-          "title": "AI is more likely than humans to form biases when hiring",
-          "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up ",
-          "source": "Michelle Kim",
-          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
           "time": "2026-07-20"
         }
       ]
@@ -687,18 +799,151 @@
           "time": "2022-12-16"
         },
         {
-          "title": "This Is Donald Trump’s AI Brain Trust",
-          "summary": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
-          "source": "Hugo Lowell",
-          "url": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
-          "time": "2026-07-27"
+          "title": "Scale AI appoints Google Cloud exec as new CEO",
+          "summary": "暂无摘要",
+          "source": "JustinGraham",
+          "url": "https://scale.com/blog/scale-appoints-new-ceo",
+          "time": "2026-07-30"
         },
         {
-          "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-          "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-          "source": "Lily Hay Newman, Dhruv Mehrotra",
-          "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-          "time": "2026-07-25"
+          "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
+          "summary": "暂无摘要",
+          "source": "wudmaing00",
+          "url": "https://github.com/colliehq/collie",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Firebender: Android AI Coder",
+          "summary": "暂无摘要",
+          "source": "handfuloflight",
+          "url": "https://firebender.com/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Made by Human, Not by Gen-AI",
+          "summary": "暂无摘要",
+          "source": "monax",
+          "url": "https://www.by-human.net/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Google Search on Firefox Without AI",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "EU Opens Call for Creation of Local AI Gigafactories",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Open source project fools AI scrapers with poisoned font",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "From Junk Work to Judgment Work: What AI Should Change",
+          "summary": "暂无摘要",
+          "source": "lucaserb",
+          "url": "https://www.aiexperts.com/blog/junk-work-to-judgment-work",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
+          "summary": "暂无摘要",
+          "source": "htrp",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
+          "summary": "暂无摘要",
+          "source": "ilamont",
+          "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "EU opens call for seven 'gigafactories' to train next-generation AI technologies",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "AI-agent-only trade show, Ferrari Luce",
+          "summary": "暂无摘要",
+          "source": "historian1066",
+          "url": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
+          "summary": "暂无摘要",
+          "source": "sroerick",
+          "url": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+          "summary": "暂无摘要",
+          "source": "joeymabia1",
+          "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "The Friend AI Pendant is not a product",
+          "summary": "暂无摘要",
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "AI #179 Part 1: A Louder Fire Alarm for General Intelligence",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/ai-179-part-1-a-louder-fire-alarm",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Citadel buys most of Situational's stock holdings after AI share rout",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "We're making Chrome and the web safer in the AI Era",
+          "summary": "暂无摘要",
+          "source": "xnx",
+          "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+          "time": "2026-07-30"
+        },
+        {
+          "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+          "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
+          "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+          "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+          "time": "2026-07-30"
         }
       ]
     }
