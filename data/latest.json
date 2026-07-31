@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-30T20:56:18.930Z",
-  "date": "2026年7月30日 20时56分",
+  "updateTime": "2026-07-31T20:54:18.977Z",
+  "date": "2026年7月31日 20时54分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Scale AI appoints Google Cloud exec as new CEO",
+          "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
           "summary": "暂无摘要",
-          "source": "JustinGraham",
-          "url": "https://scale.com/blog/scale-appoints-new-ceo",
-          "time": "2026-07-30"
+          "source": "mapping365",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires",
+          "time": "2026-07-31"
         },
         {
-          "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
+          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
           "summary": "暂无摘要",
-          "source": "wudmaing00",
-          "url": "https://github.com/colliehq/collie",
-          "time": "2026-07-30"
+          "source": "stalfosknight",
+          "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+          "time": "2026-07-31"
         },
         {
-          "title": "What Happens When C Becomes Machine Code (10 Real Examples)",
+          "title": "Opus 5 runs vending machines",
           "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://comuniq.xyz/post?t=1458",
-          "time": "2026-07-30"
+          "source": "sudo_cowsay",
+          "url": "https://andonlabs.com/evals/vending-bench-2",
+          "time": "2026-07-31"
         },
         {
-          "title": "Firebender: Android AI Coder",
+          "title": "When AI Starts Writing Systems Code",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://firebender.com/",
-          "time": "2026-07-30"
+          "source": "skidrow",
+          "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+          "time": "2026-07-31"
         },
         {
-          "title": "Made by Human, Not by Gen-AI",
+          "title": "YouTuber Hank Green pauses multiple channels after admitting he relies on AI",
           "summary": "暂无摘要",
-          "source": "monax",
-          "url": "https://www.by-human.net/",
-          "time": "2026-07-30"
+          "source": "javhu",
+          "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Google Search on Firefox Without AI",
+          "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
-          "time": "2026-07-30"
+          "source": "ajyoon",
+          "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
+          "time": "2026-07-31"
         },
         {
-          "title": "EU Opens Call for Creation of Local AI Gigafactories",
+          "title": "Marvin Minsky: a proof that led to the first AI winter",
           "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
-          "time": "2026-07-30"
+          "source": "nutwani91",
+          "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
+          "time": "2026-07-31"
         },
         {
-          "title": "Open source project fools AI scrapers with poisoned font",
+          "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
           "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
-          "time": "2026-07-30"
+          "source": "th3-br41n",
+          "url": "https://getbrainstorm.online/",
+          "time": "2026-07-31"
         },
         {
-          "title": "From Junk Work to Judgment Work: What AI Should Change",
+          "title": "Prompt Caching in Agents",
           "summary": "暂无摘要",
-          "source": "lucaserb",
-          "url": "https://www.aiexperts.com/blog/junk-work-to-judgment-work",
-          "time": "2026-07-30"
+          "source": "gmays",
+          "url": "https://earendil.com/posts/prompt-caching/",
+          "time": "2026-07-31"
         },
         {
-          "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
+          "title": "Why your AI startup dies at customer six (and the three-layer fix)",
           "summary": "暂无摘要",
-          "source": "htrp",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
-          "time": "2026-07-30"
+          "source": "tlince",
+          "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
+          "time": "2026-07-31"
         },
         {
-          "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
+          "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
           "summary": "暂无摘要",
-          "source": "ilamont",
-          "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
-          "time": "2026-07-30"
+          "source": "dabinat",
+          "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
+          "time": "2026-07-31"
         },
         {
-          "title": "EU opens call for seven 'gigafactories' to train next-generation AI technologies",
+          "title": "Can we see AI's contributions directly in the economy yet? and by how much",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
-          "time": "2026-07-30"
+          "source": "echohive42",
+          "url": "https://www.echohive.ai/ai-economy-hidden-productivity",
+          "time": "2026-07-31"
         },
         {
-          "title": "AI-agent-only trade show, Ferrari Luce",
+          "title": "Growing a language by Guy Steele [video]",
           "summary": "暂无摘要",
-          "source": "historian1066",
-          "url": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
-          "time": "2026-07-30"
+          "source": "azhenley",
+          "url": "https://www.youtube.com/watch?v=_ahvzDzKdB0",
+          "time": "2026-07-31"
         },
         {
-          "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
+          "title": "Pygame Tutorial for Beginners: Game Loop, Screen Window, & FPS Explained – No AI",
           "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
-          "time": "2026-07-30"
+          "source": "shriekdj",
+          "url": "https://www.youtube.com/watch?v=P0IjXbKQfNc",
+          "time": "2026-07-31"
         },
         {
-          "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
+          "title": "Sqlite.ai Pricing",
           "summary": "暂无摘要",
-          "source": "sroerick",
-          "url": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
-          "time": "2026-07-30"
+          "source": "peter_d_sherman",
+          "url": "https://www.sqlite.ai/pricing",
+          "time": "2026-07-31"
         },
         {
-          "title": "Claude Opus 5 became ruthless when tasked with running a vending machine",
+          "title": "Show HN: GG Translator – Turn in-game flaming into friendly language",
           "summary": "暂无摘要",
-          "source": "wasting_time",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-          "time": "2026-07-30"
+          "source": "mcadenhe",
+          "url": "https://ggtranslator.com/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+          "title": "Show HN: Reading Pacer – A \"Struggle Detector\" for kids learning to read",
           "summary": "暂无摘要",
-          "source": "joeymabia1",
-          "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
-          "time": "2026-07-30"
+          "source": "ataturkle",
+          "url": "https://readingpacer.com/",
+          "time": "2026-07-31"
         },
         {
-          "title": "The Friend AI Pendant is not a product",
+          "title": "Ask HN: What's your monthly personal AI budget?",
           "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product",
-          "time": "2026-07-30"
+          "source": "thatgloomyguy",
+          "url": "https://news.ycombinator.com/item?id=49127681",
+          "time": "2026-07-31"
         },
         {
-          "title": "AI #179 Part 1: A Louder Fire Alarm for General Intelligence",
+          "title": "Lookup Tables Could Cut AI Energy Costs",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-179-part-1-a-louder-fire-alarm",
-          "time": "2026-07-30"
+          "source": "rbanffy",
+          "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
+          "time": "2026-07-31"
         },
         {
-          "title": "Citadel buys most of Situational's stock holdings after AI share rout",
+          "title": "F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/",
-          "time": "2026-07-30"
+          "source": "r2sk5t",
+          "url": "https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/",
+          "time": "2026-07-31"
         },
         {
           "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -274,144 +274,144 @@
           "time": "2026-05-29"
         },
         {
-          "title": "Scale AI appoints Google Cloud exec as new CEO",
+          "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
           "summary": "暂无摘要",
-          "source": "JustinGraham",
-          "url": "https://scale.com/blog/scale-appoints-new-ceo",
-          "time": "2026-07-30"
+          "source": "mapping365",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires",
+          "time": "2026-07-31"
         },
         {
-          "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
+          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
           "summary": "暂无摘要",
-          "source": "wudmaing00",
-          "url": "https://github.com/colliehq/collie",
-          "time": "2026-07-30"
+          "source": "stalfosknight",
+          "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Banks Line Up $15B of Debt for Anthropic with Google Aid",
+          "title": "Time for OpenAI and Anthropic to take a leaf from Microsoft's book?",
           "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/banks-line-up-15-billion-of-debt-for-anthropic-with-google-aid",
-          "time": "2026-07-30"
+          "source": "chrisjj",
+          "url": "https://news.ycombinator.com/item?id=49128289",
+          "time": "2026-07-31"
         },
         {
-          "title": "Firebender: Android AI Coder",
+          "title": "When AI Starts Writing Systems Code",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://firebender.com/",
-          "time": "2026-07-30"
+          "source": "skidrow",
+          "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+          "time": "2026-07-31"
         },
         {
-          "title": "Made by Human, Not by Gen-AI",
+          "title": "YouTuber Hank Green pauses multiple channels after admitting he relies on AI",
           "summary": "暂无摘要",
-          "source": "monax",
-          "url": "https://www.by-human.net/",
-          "time": "2026-07-30"
+          "source": "javhu",
+          "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Google Search on Firefox Without AI",
+          "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
-          "time": "2026-07-30"
+          "source": "ajyoon",
+          "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
+          "time": "2026-07-31"
         },
         {
-          "title": "EU Opens Call for Creation of Local AI Gigafactories",
+          "title": "Marvin Minsky: a proof that led to the first AI winter",
           "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
-          "time": "2026-07-30"
+          "source": "nutwani91",
+          "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
+          "time": "2026-07-31"
         },
         {
-          "title": "Open source project fools AI scrapers with poisoned font",
+          "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
           "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
-          "time": "2026-07-30"
+          "source": "th3-br41n",
+          "url": "https://getbrainstorm.online/",
+          "time": "2026-07-31"
         },
         {
-          "title": "From Junk Work to Judgment Work: What AI Should Change",
+          "title": "Why your AI startup dies at customer six (and the three-layer fix)",
           "summary": "暂无摘要",
-          "source": "lucaserb",
-          "url": "https://www.aiexperts.com/blog/junk-work-to-judgment-work",
-          "time": "2026-07-30"
+          "source": "tlince",
+          "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
+          "time": "2026-07-31"
         },
         {
-          "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
+          "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
           "summary": "暂无摘要",
-          "source": "htrp",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
-          "time": "2026-07-30"
+          "source": "dabinat",
+          "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
+          "time": "2026-07-31"
         },
         {
-          "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
+          "title": "Can we see AI's contributions directly in the economy yet? and by how much",
           "summary": "暂无摘要",
-          "source": "ilamont",
-          "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
-          "time": "2026-07-30"
+          "source": "echohive42",
+          "url": "https://www.echohive.ai/ai-economy-hidden-productivity",
+          "time": "2026-07-31"
         },
         {
-          "title": "EU opens call for seven 'gigafactories' to train next-generation AI technologies",
+          "title": "Pygame Tutorial for Beginners: Game Loop, Screen Window, & FPS Explained – No AI",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
-          "time": "2026-07-30"
+          "source": "shriekdj",
+          "url": "https://www.youtube.com/watch?v=P0IjXbKQfNc",
+          "time": "2026-07-31"
         },
         {
-          "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+          "title": "Sqlite.ai Pricing",
           "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-          "time": "2026-07-30"
+          "source": "peter_d_sherman",
+          "url": "https://www.sqlite.ai/pricing",
+          "time": "2026-07-31"
         },
         {
-          "title": "AI-agent-only trade show, Ferrari Luce",
+          "title": "OpenAI serves more than one billion active users",
           "summary": "暂无摘要",
-          "source": "historian1066",
-          "url": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
-          "time": "2026-07-30"
+          "source": "hallvard",
+          "url": "https://openai.com/index/building-abundant-intelligence/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
+          "title": "Ask HN: What's your monthly personal AI budget?",
           "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
-          "time": "2026-07-30"
+          "source": "thatgloomyguy",
+          "url": "https://news.ycombinator.com/item?id=49127681",
+          "time": "2026-07-31"
         },
         {
-          "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
+          "title": "Lookup Tables Could Cut AI Energy Costs",
           "summary": "暂无摘要",
-          "source": "sroerick",
-          "url": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
-          "time": "2026-07-30"
+          "source": "rbanffy",
+          "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
+          "time": "2026-07-31"
         },
         {
-          "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+          "title": "F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter",
           "summary": "暂无摘要",
-          "source": "joeymabia1",
-          "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
-          "time": "2026-07-30"
+          "source": "r2sk5t",
+          "url": "https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/",
+          "time": "2026-07-31"
         },
         {
-          "title": "The Friend AI Pendant is not a product",
+          "title": "Big Tech Holds $2.4T of Spending Commitments for AI Boom",
           "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product",
-          "time": "2026-07-30"
+          "source": "mapping365",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
+          "time": "2026-07-31"
         },
         {
-          "title": "AI #179 Part 1: A Louder Fire Alarm for General Intelligence",
+          "title": "I use AI on this blog",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-179-part-1-a-louder-fire-alarm",
-          "time": "2026-07-30"
+          "source": "gpjt",
+          "url": "https://www.gilesthomas.com/2026/07/ai-use",
+          "time": "2026-07-31"
         },
         {
-          "title": "Citadel buys most of Situational's stock holdings after AI share rout",
+          "title": "Nano Banana 2 removed from Google Earth",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/",
-          "time": "2026-07-30"
+          "source": "taubek",
+          "url": "https://www.digitaldigging.org/p/nano-banana-2-removed-from-google",
+          "time": "2026-07-31"
         }
       ]
     },
@@ -420,6 +420,20 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+          "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+          "time": "2026-07-31"
+        },
+        {
+          "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
+          "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+          "source": "Lucas Ropek",
+          "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+          "time": "2026-07-30"
+        },
         {
           "title": "Okta buys AI security startup Permiso — source says for about $200M",
           "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
@@ -435,179 +449,158 @@
           "time": "2026-07-30"
         },
         {
-          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-          "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-          "source": "Amanda Silberling",
-          "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-          "time": "2026-07-29"
+          "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+          "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
+          "source": "Steven Levy",
+          "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-          "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-          "time": "2026-07-29"
+          "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
+          "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
+          "source": "Louise Matsakis, Lily Hay Newman",
+          "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-          "time": "2026-07-29"
-        },
-        {
-          "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-          "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-          "time": "2026-07-29"
-        },
-        {
-          "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
-          "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
-          "source": "Reece Rogers",
-          "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-          "time": "2026-07-30"
-        },
-        {
-          "title": "Scale AI appoints Google Cloud exec as new CEO",
+          "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
           "summary": "暂无摘要",
-          "source": "JustinGraham",
-          "url": "https://scale.com/blog/scale-appoints-new-ceo",
-          "time": "2026-07-30"
+          "source": "mapping365",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires",
+          "time": "2026-07-31"
         },
         {
-          "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
+          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
           "summary": "暂无摘要",
-          "source": "wudmaing00",
-          "url": "https://github.com/colliehq/collie",
-          "time": "2026-07-30"
+          "source": "stalfosknight",
+          "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Firebender: Android AI Coder",
+          "title": "When AI Starts Writing Systems Code",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://firebender.com/",
-          "time": "2026-07-30"
+          "source": "skidrow",
+          "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+          "time": "2026-07-31"
         },
         {
-          "title": "Microsoft's $450B Jump Is Biggest in Stock Market History",
+          "title": "YouTuber Hank Green pauses multiple channels after admitting he relies on AI",
           "summary": "暂无摘要",
-          "source": "signatoremo",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/microsoft-eyes-history-with-490-billion-pop-in-market-value",
-          "time": "2026-07-30"
+          "source": "javhu",
+          "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Made by Human, Not by Gen-AI",
+          "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
           "summary": "暂无摘要",
-          "source": "monax",
-          "url": "https://www.by-human.net/",
-          "time": "2026-07-30"
+          "source": "ajyoon",
+          "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Google Search on Firefox Without AI",
+          "title": "Marvin Minsky: a proof that led to the first AI winter",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
-          "time": "2026-07-30"
+          "source": "nutwani91",
+          "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
+          "time": "2026-07-31"
         },
         {
-          "title": "EU Opens Call for Creation of Local AI Gigafactories",
+          "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
           "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
-          "time": "2026-07-30"
+          "source": "th3-br41n",
+          "url": "https://getbrainstorm.online/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Open source project fools AI scrapers with poisoned font",
+          "title": "Why your AI startup dies at customer six (and the three-layer fix)",
           "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
-          "time": "2026-07-30"
+          "source": "tlince",
+          "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
+          "time": "2026-07-31"
         },
         {
-          "title": "From Junk Work to Judgment Work: What AI Should Change",
+          "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
           "summary": "暂无摘要",
-          "source": "lucaserb",
-          "url": "https://www.aiexperts.com/blog/junk-work-to-judgment-work",
-          "time": "2026-07-30"
+          "source": "dabinat",
+          "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
+          "time": "2026-07-31"
         },
         {
-          "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
+          "title": "Can we see AI's contributions directly in the economy yet? and by how much",
           "summary": "暂无摘要",
-          "source": "htrp",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
-          "time": "2026-07-30"
+          "source": "echohive42",
+          "url": "https://www.echohive.ai/ai-economy-hidden-productivity",
+          "time": "2026-07-31"
         },
         {
-          "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
+          "title": "Pygame Tutorial for Beginners: Game Loop, Screen Window, & FPS Explained – No AI",
           "summary": "暂无摘要",
-          "source": "ilamont",
-          "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
-          "time": "2026-07-30"
+          "source": "shriekdj",
+          "url": "https://www.youtube.com/watch?v=P0IjXbKQfNc",
+          "time": "2026-07-31"
         },
         {
-          "title": "EU opens call for seven 'gigafactories' to train next-generation AI technologies",
+          "title": "Sqlite.ai Pricing",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
-          "time": "2026-07-30"
+          "source": "peter_d_sherman",
+          "url": "https://www.sqlite.ai/pricing",
+          "time": "2026-07-31"
         },
         {
-          "title": "AI-agent-only trade show, Ferrari Luce",
+          "title": "Ask HN: What's your monthly personal AI budget?",
           "summary": "暂无摘要",
-          "source": "historian1066",
-          "url": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
-          "time": "2026-07-30"
+          "source": "thatgloomyguy",
+          "url": "https://news.ycombinator.com/item?id=49127681",
+          "time": "2026-07-31"
         },
         {
-          "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
+          "title": "Lookup Tables Could Cut AI Energy Costs",
           "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
-          "time": "2026-07-30"
+          "source": "rbanffy",
+          "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
+          "time": "2026-07-31"
         },
         {
-          "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
+          "title": "F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter",
           "summary": "暂无摘要",
-          "source": "sroerick",
-          "url": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
-          "time": "2026-07-30"
+          "source": "r2sk5t",
+          "url": "https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+          "title": "Big Tech Holds $2.4T of Spending Commitments for AI Boom",
           "summary": "暂无摘要",
-          "source": "joeymabia1",
-          "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
-          "time": "2026-07-30"
+          "source": "mapping365",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
+          "time": "2026-07-31"
         },
         {
-          "title": "The Friend AI Pendant is not a product",
+          "title": "I use AI on this blog",
           "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product",
-          "time": "2026-07-30"
+          "source": "gpjt",
+          "url": "https://www.gilesthomas.com/2026/07/ai-use",
+          "time": "2026-07-31"
         },
         {
-          "title": "AI #179 Part 1: A Louder Fire Alarm for General Intelligence",
+          "title": "MCP is going stateless: What the new spec means for AI agents",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-179-part-1-a-louder-fire-alarm",
-          "time": "2026-07-30"
+          "source": "inferhaven",
+          "url": "https://newrelic.com/blog/ai/mcp-is-going-stateless",
+          "time": "2026-07-31"
         },
         {
-          "title": "Citadel buys most of Situational's stock holdings after AI share rout",
+          "title": "AI Dominates the Microsoft Conversation, but Not the Company's Business",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/",
-          "time": "2026-07-30"
+          "source": "rbanffy",
+          "url": "https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992",
+          "time": "2026-07-31"
         },
         {
-          "title": "Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses",
+          "title": "Claude vs. ChatGPT: Which AI Security Incident Was Worse",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-          "time": "2026-07-30"
+          "source": "ticust",
+          "url": "https://industrycontents.com/claude-vs-chatgpt-ai-security-incident-worse/",
+          "time": "2026-07-31"
         }
       ]
     },
@@ -799,144 +792,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Scale AI appoints Google Cloud exec as new CEO",
+          "title": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
           "summary": "暂无摘要",
-          "source": "JustinGraham",
-          "url": "https://scale.com/blog/scale-appoints-new-ceo",
-          "time": "2026-07-30"
+          "source": "rmason",
+          "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
+          "time": "2026-07-31"
         },
         {
-          "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
+          "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
           "summary": "暂无摘要",
-          "source": "wudmaing00",
-          "url": "https://github.com/colliehq/collie",
-          "time": "2026-07-30"
+          "source": "mapping365",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires",
+          "time": "2026-07-31"
         },
         {
-          "title": "Firebender: Android AI Coder",
+          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://firebender.com/",
-          "time": "2026-07-30"
+          "source": "stalfosknight",
+          "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Made by Human, Not by Gen-AI",
+          "title": "When AI Starts Writing Systems Code",
           "summary": "暂无摘要",
-          "source": "monax",
-          "url": "https://www.by-human.net/",
-          "time": "2026-07-30"
+          "source": "skidrow",
+          "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+          "time": "2026-07-31"
         },
         {
-          "title": "Google Search on Firefox Without AI",
+          "title": "YouTuber Hank Green pauses multiple channels after admitting he relies on AI",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
-          "time": "2026-07-30"
+          "source": "javhu",
+          "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
+          "time": "2026-07-31"
         },
         {
-          "title": "EU Opens Call for Creation of Local AI Gigafactories",
+          "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
           "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
-          "time": "2026-07-30"
+          "source": "ajyoon",
+          "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
+          "time": "2026-07-31"
         },
         {
-          "title": "Open source project fools AI scrapers with poisoned font",
+          "title": "Marvin Minsky: a proof that led to the first AI winter",
           "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
-          "time": "2026-07-30"
+          "source": "nutwani91",
+          "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
+          "time": "2026-07-31"
         },
         {
-          "title": "From Junk Work to Judgment Work: What AI Should Change",
+          "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
           "summary": "暂无摘要",
-          "source": "lucaserb",
-          "url": "https://www.aiexperts.com/blog/junk-work-to-judgment-work",
-          "time": "2026-07-30"
+          "source": "th3-br41n",
+          "url": "https://getbrainstorm.online/",
+          "time": "2026-07-31"
         },
         {
-          "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
+          "title": "Why your AI startup dies at customer six (and the three-layer fix)",
           "summary": "暂无摘要",
-          "source": "htrp",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
-          "time": "2026-07-30"
+          "source": "tlince",
+          "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
+          "time": "2026-07-31"
         },
         {
-          "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
+          "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
           "summary": "暂无摘要",
-          "source": "ilamont",
-          "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
-          "time": "2026-07-30"
+          "source": "dabinat",
+          "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
+          "time": "2026-07-31"
         },
         {
-          "title": "EU opens call for seven 'gigafactories' to train next-generation AI technologies",
+          "title": "Can we see AI's contributions directly in the economy yet? and by how much",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
-          "time": "2026-07-30"
+          "source": "echohive42",
+          "url": "https://www.echohive.ai/ai-economy-hidden-productivity",
+          "time": "2026-07-31"
         },
         {
-          "title": "AI-agent-only trade show, Ferrari Luce",
+          "title": "Pygame Tutorial for Beginners: Game Loop, Screen Window, & FPS Explained – No AI",
           "summary": "暂无摘要",
-          "source": "historian1066",
-          "url": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
-          "time": "2026-07-30"
+          "source": "shriekdj",
+          "url": "https://www.youtube.com/watch?v=P0IjXbKQfNc",
+          "time": "2026-07-31"
         },
         {
-          "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
+          "title": "Sqlite.ai Pricing",
           "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
-          "time": "2026-07-30"
+          "source": "peter_d_sherman",
+          "url": "https://www.sqlite.ai/pricing",
+          "time": "2026-07-31"
         },
         {
-          "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
+          "title": "Ask HN: What's your monthly personal AI budget?",
           "summary": "暂无摘要",
-          "source": "sroerick",
-          "url": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
-          "time": "2026-07-30"
+          "source": "thatgloomyguy",
+          "url": "https://news.ycombinator.com/item?id=49127681",
+          "time": "2026-07-31"
         },
         {
-          "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+          "title": "Lookup Tables Could Cut AI Energy Costs",
           "summary": "暂无摘要",
-          "source": "joeymabia1",
-          "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
-          "time": "2026-07-30"
+          "source": "rbanffy",
+          "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
+          "time": "2026-07-31"
         },
         {
-          "title": "The Friend AI Pendant is not a product",
+          "title": "F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter",
           "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.machinesociety.ai/p/the-friend-ai-pendant-is-not-a-product",
-          "time": "2026-07-30"
+          "source": "r2sk5t",
+          "url": "https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/",
+          "time": "2026-07-31"
         },
         {
-          "title": "AI #179 Part 1: A Louder Fire Alarm for General Intelligence",
+          "title": "Big Tech Holds $2.4T of Spending Commitments for AI Boom",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-179-part-1-a-louder-fire-alarm",
-          "time": "2026-07-30"
+          "source": "mapping365",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
+          "time": "2026-07-31"
         },
         {
-          "title": "Citadel buys most of Situational's stock holdings after AI share rout",
+          "title": "I use AI on this blog",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/",
-          "time": "2026-07-30"
+          "source": "gpjt",
+          "url": "https://www.gilesthomas.com/2026/07/ai-use",
+          "time": "2026-07-31"
         },
         {
-          "title": "Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses",
+          "title": "MCP is going stateless: What the new spec means for AI agents",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
-          "time": "2026-07-30"
+          "source": "inferhaven",
+          "url": "https://newrelic.com/blog/ai/mcp-is-going-stateless",
+          "time": "2026-07-31"
         },
         {
-          "title": "We're making Chrome and the web safer in the AI Era",
+          "title": "AI Dominates the Microsoft Conversation, but Not the Company's Business",
           "summary": "暂无摘要",
-          "source": "xnx",
-          "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-          "time": "2026-07-30"
+          "source": "rbanffy",
+          "url": "https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992",
+          "time": "2026-07-31"
         },
         {
           "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
