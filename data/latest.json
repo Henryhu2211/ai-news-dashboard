@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-07-31T20:54:18.977Z",
-  "date": "2026年7月31日 20时54分",
+  "updateTime": "2026-08-01T20:40:06.700Z",
+  "date": "2026年8月1日 20时40分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
+          "title": "Show HN: Voris: privacy-first analytics for the AI-influenced web",
           "summary": "暂无摘要",
-          "source": "mapping365",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires",
-          "time": "2026-07-31"
+          "source": "wowinter15",
+          "url": "https://voris.ai/",
+          "time": "2026-08-01"
         },
         {
-          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+          "title": "\"AI Brendans\" or \"Virtual Brendans\" (2025)",
           "summary": "暂无摘要",
-          "source": "stalfosknight",
-          "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-          "time": "2026-07-31"
+          "source": "Jimmc414",
+          "url": "https://www.brendangregg.com/blog/2025-11-28/ai-virtual-brendans.html",
+          "time": "2026-08-01"
         },
         {
-          "title": "Opus 5 runs vending machines",
+          "title": "Which web browser has no AI?",
           "summary": "暂无摘要",
-          "source": "sudo_cowsay",
-          "url": "https://andonlabs.com/evals/vending-bench-2",
-          "time": "2026-07-31"
+          "source": "lilerjee",
+          "url": "https://news.ycombinator.com/item?id=49137677",
+          "time": "2026-08-01"
         },
         {
-          "title": "When AI Starts Writing Systems Code",
+          "title": "The Index – a hand-checked catalog of AI tools",
           "summary": "暂无摘要",
-          "source": "skidrow",
-          "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
-          "time": "2026-07-31"
+          "source": "Code_A-Z",
+          "url": "https://theindex.agnissanisaac.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "YouTuber Hank Green pauses multiple channels after admitting he relies on AI",
+          "title": "AI #179 Part 2: Hearing the Fire Alarm",
           "summary": "暂无摘要",
-          "source": "javhu",
-          "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
-          "time": "2026-07-31"
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
+          "time": "2026-08-01"
         },
         {
-          "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
+          "title": "Show HN AI Data Center Alert",
           "summary": "暂无摘要",
-          "source": "ajyoon",
-          "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
-          "time": "2026-07-31"
+          "source": "studsnchayns",
+          "url": "https://aidatacenterimpact.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "Marvin Minsky: a proof that led to the first AI winter",
+          "title": "Chess Engine Dev Community Openly Hostile to AI Assisted Development",
           "summary": "暂无摘要",
-          "source": "nutwani91",
-          "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
-          "time": "2026-07-31"
+          "source": "chesspeoplercra",
+          "url": "https://github.com/adamtwiss/coda/issues/15",
+          "time": "2026-08-01"
         },
         {
-          "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
+          "title": "Google cancels AI Studio app after 800k preorders",
           "summary": "暂无摘要",
-          "source": "th3-br41n",
-          "url": "https://getbrainstorm.online/",
-          "time": "2026-07-31"
+          "source": "BlueBerry2001",
+          "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
+          "time": "2026-08-01"
         },
         {
-          "title": "Prompt Caching in Agents",
+          "title": "Show HN: BugDetect AI – AI-powered code debugging assistant",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://earendil.com/posts/prompt-caching/",
-          "time": "2026-07-31"
+          "source": "laxmansubedi",
+          "url": "https://bugdetectai.com",
+          "time": "2026-08-01"
         },
         {
-          "title": "Why your AI startup dies at customer six (and the three-layer fix)",
+          "title": "Show HN: OpenLongevity – Longevity × AI – open, verifiable, for everyone",
           "summary": "暂无摘要",
-          "source": "tlince",
-          "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
-          "time": "2026-07-31"
+          "source": "edison7009",
+          "url": "https://github.com/edison7009/OpenLongevity",
+          "time": "2026-08-01"
         },
         {
-          "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
+          "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
           "summary": "暂无摘要",
-          "source": "dabinat",
-          "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
-          "time": "2026-07-31"
+          "source": "amadmike",
+          "url": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
+          "time": "2026-08-01"
         },
         {
-          "title": "Can we see AI's contributions directly in the economy yet? and by how much",
+          "title": "House Committees Investigate DoorDash's Use of Chinese AI",
           "summary": "暂无摘要",
-          "source": "echohive42",
-          "url": "https://www.echohive.ai/ai-economy-hidden-productivity",
-          "time": "2026-07-31"
+          "source": "Jimmc414",
+          "url": "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
+          "time": "2026-08-01"
         },
         {
-          "title": "Growing a language by Guy Steele [video]",
+          "title": "Random thoughts while gazing at the misty AI Frontier",
           "summary": "暂无摘要",
-          "source": "azhenley",
-          "url": "https://www.youtube.com/watch?v=_ahvzDzKdB0",
-          "time": "2026-07-31"
+          "source": "FinnKuhn",
+          "url": "https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the",
+          "time": "2026-08-01"
         },
         {
-          "title": "Pygame Tutorial for Beginners: Game Loop, Screen Window, & FPS Explained – No AI",
+          "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
           "summary": "暂无摘要",
-          "source": "shriekdj",
-          "url": "https://www.youtube.com/watch?v=P0IjXbKQfNc",
-          "time": "2026-07-31"
+          "source": "maxloh",
+          "url": "https://supabase.com/blog/introducing-supabase-evals",
+          "time": "2026-08-01"
         },
         {
-          "title": "Sqlite.ai Pricing",
+          "title": "Lack of FISA reform lets federal govt surveil 'entire communities' with AI",
           "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://www.sqlite.ai/pricing",
-          "time": "2026-07-31"
+          "source": "01-_-",
+          "url": "https://www.thecentersquare.com/national/article_1e430e4c-82e5-48f7-aed1-681998d2cb02.html",
+          "time": "2026-08-01"
         },
         {
-          "title": "Show HN: GG Translator – Turn in-game flaming into friendly language",
+          "title": "Show HN: SteerPlane – Deterministic runtime guardrails for AI agents",
           "summary": "暂无摘要",
-          "source": "mcadenhe",
-          "url": "https://ggtranslator.com/",
-          "time": "2026-07-31"
+          "source": "vijaym2k6",
+          "url": "https://github.com/vijaym2k6/SteerPlane",
+          "time": "2026-08-01"
         },
         {
-          "title": "Show HN: Reading Pacer – A \"Struggle Detector\" for kids learning to read",
+          "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
           "summary": "暂无摘要",
-          "source": "ataturkle",
-          "url": "https://readingpacer.com/",
-          "time": "2026-07-31"
+          "source": "thm",
+          "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
+          "time": "2026-08-01"
         },
         {
-          "title": "Ask HN: What's your monthly personal AI budget?",
+          "title": "An honesty-first pipeline for AI-transcribing a small letter archive",
           "summary": "暂无摘要",
-          "source": "thatgloomyguy",
-          "url": "https://news.ycombinator.com/item?id=49127681",
-          "time": "2026-07-31"
+          "source": "tangentdesignco",
+          "url": "https://aboxofletters.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "Lookup Tables Could Cut AI Energy Costs",
+          "title": "Sovereign and European AI where your Data Stays under European law",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
-          "time": "2026-07-31"
+          "source": "marcfrommelious",
+          "url": "https://melious.ai/",
+          "time": "2026-08-01"
         },
         {
-          "title": "F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter",
+          "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
           "summary": "暂无摘要",
-          "source": "r2sk5t",
-          "url": "https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/",
-          "time": "2026-07-31"
+          "source": "linuxterminal",
+          "url": "https://freeaipromptgen.com/",
+          "time": "2026-08-01"
         },
         {
           "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -274,144 +274,144 @@
           "time": "2026-05-29"
         },
         {
-          "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
+          "title": "Show HN: Voris: privacy-first analytics for the AI-influenced web",
           "summary": "暂无摘要",
-          "source": "mapping365",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires",
-          "time": "2026-07-31"
+          "source": "wowinter15",
+          "url": "https://voris.ai/",
+          "time": "2026-08-01"
         },
         {
-          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+          "title": "\"AI Brendans\" or \"Virtual Brendans\" (2025)",
           "summary": "暂无摘要",
-          "source": "stalfosknight",
-          "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-          "time": "2026-07-31"
+          "source": "Jimmc414",
+          "url": "https://www.brendangregg.com/blog/2025-11-28/ai-virtual-brendans.html",
+          "time": "2026-08-01"
         },
         {
-          "title": "Time for OpenAI and Anthropic to take a leaf from Microsoft's book?",
+          "title": "Google News is just Forrest Gump's shrimp boat now",
           "summary": "暂无摘要",
-          "source": "chrisjj",
-          "url": "https://news.ycombinator.com/item?id=49128289",
-          "time": "2026-07-31"
+          "source": "mikelgan",
+          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+          "time": "2026-08-01"
         },
         {
-          "title": "When AI Starts Writing Systems Code",
+          "title": "Which web browser has no AI?",
           "summary": "暂无摘要",
-          "source": "skidrow",
-          "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
-          "time": "2026-07-31"
+          "source": "lilerjee",
+          "url": "https://news.ycombinator.com/item?id=49137677",
+          "time": "2026-08-01"
         },
         {
-          "title": "YouTuber Hank Green pauses multiple channels after admitting he relies on AI",
+          "title": "The Index – a hand-checked catalog of AI tools",
           "summary": "暂无摘要",
-          "source": "javhu",
-          "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
-          "time": "2026-07-31"
+          "source": "Code_A-Z",
+          "url": "https://theindex.agnissanisaac.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
+          "title": "AI #179 Part 2: Hearing the Fire Alarm",
           "summary": "暂无摘要",
-          "source": "ajyoon",
-          "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
-          "time": "2026-07-31"
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
+          "time": "2026-08-01"
         },
         {
-          "title": "Marvin Minsky: a proof that led to the first AI winter",
+          "title": "Show HN AI Data Center Alert",
           "summary": "暂无摘要",
-          "source": "nutwani91",
-          "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
-          "time": "2026-07-31"
+          "source": "studsnchayns",
+          "url": "https://aidatacenterimpact.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
+          "title": "GenAI Added to Google Earth",
           "summary": "暂无摘要",
-          "source": "th3-br41n",
-          "url": "https://getbrainstorm.online/",
-          "time": "2026-07-31"
+          "source": "alwa",
+          "url": "https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145/",
+          "time": "2026-08-01"
         },
         {
-          "title": "Why your AI startup dies at customer six (and the three-layer fix)",
+          "title": "Chess Engine Dev Community Openly Hostile to AI Assisted Development",
           "summary": "暂无摘要",
-          "source": "tlince",
-          "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
-          "time": "2026-07-31"
+          "source": "chesspeoplercra",
+          "url": "https://github.com/adamtwiss/coda/issues/15",
+          "time": "2026-08-01"
         },
         {
-          "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
+          "title": "Google cancels AI Studio app after 800k preorders",
           "summary": "暂无摘要",
-          "source": "dabinat",
-          "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
-          "time": "2026-07-31"
+          "source": "BlueBerry2001",
+          "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
+          "time": "2026-08-01"
         },
         {
-          "title": "Can we see AI's contributions directly in the economy yet? and by how much",
+          "title": "Show HN: BugDetect AI – AI-powered code debugging assistant",
           "summary": "暂无摘要",
-          "source": "echohive42",
-          "url": "https://www.echohive.ai/ai-economy-hidden-productivity",
-          "time": "2026-07-31"
+          "source": "laxmansubedi",
+          "url": "https://bugdetectai.com",
+          "time": "2026-08-01"
         },
         {
-          "title": "Pygame Tutorial for Beginners: Game Loop, Screen Window, & FPS Explained – No AI",
+          "title": "Show HN: OpenLongevity – Longevity × AI – open, verifiable, for everyone",
           "summary": "暂无摘要",
-          "source": "shriekdj",
-          "url": "https://www.youtube.com/watch?v=P0IjXbKQfNc",
-          "time": "2026-07-31"
+          "source": "edison7009",
+          "url": "https://github.com/edison7009/OpenLongevity",
+          "time": "2026-08-01"
         },
         {
-          "title": "Sqlite.ai Pricing",
+          "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
           "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://www.sqlite.ai/pricing",
-          "time": "2026-07-31"
+          "source": "amadmike",
+          "url": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
+          "time": "2026-08-01"
         },
         {
-          "title": "OpenAI serves more than one billion active users",
+          "title": "House Committees Investigate DoorDash's Use of Chinese AI",
           "summary": "暂无摘要",
-          "source": "hallvard",
-          "url": "https://openai.com/index/building-abundant-intelligence/",
-          "time": "2026-07-31"
+          "source": "Jimmc414",
+          "url": "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
+          "time": "2026-08-01"
         },
         {
-          "title": "Ask HN: What's your monthly personal AI budget?",
+          "title": "Random thoughts while gazing at the misty AI Frontier",
           "summary": "暂无摘要",
-          "source": "thatgloomyguy",
-          "url": "https://news.ycombinator.com/item?id=49127681",
-          "time": "2026-07-31"
+          "source": "FinnKuhn",
+          "url": "https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the",
+          "time": "2026-08-01"
         },
         {
-          "title": "Lookup Tables Could Cut AI Energy Costs",
+          "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
-          "time": "2026-07-31"
+          "source": "maxloh",
+          "url": "https://supabase.com/blog/introducing-supabase-evals",
+          "time": "2026-08-01"
         },
         {
-          "title": "F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter",
+          "title": "Lack of FISA reform lets federal govt surveil 'entire communities' with AI",
           "summary": "暂无摘要",
-          "source": "r2sk5t",
-          "url": "https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/",
-          "time": "2026-07-31"
+          "source": "01-_-",
+          "url": "https://www.thecentersquare.com/national/article_1e430e4c-82e5-48f7-aed1-681998d2cb02.html",
+          "time": "2026-08-01"
         },
         {
-          "title": "Big Tech Holds $2.4T of Spending Commitments for AI Boom",
+          "title": "Show HN: SteerPlane – Deterministic runtime guardrails for AI agents",
           "summary": "暂无摘要",
-          "source": "mapping365",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
-          "time": "2026-07-31"
+          "source": "vijaym2k6",
+          "url": "https://github.com/vijaym2k6/SteerPlane",
+          "time": "2026-08-01"
         },
         {
-          "title": "I use AI on this blog",
+          "title": "How Google helped destroy adoption of RSS feeds (2023)",
           "summary": "暂无摘要",
-          "source": "gpjt",
-          "url": "https://www.gilesthomas.com/2026/07/ai-use",
-          "time": "2026-07-31"
+          "source": "pudgywalsh",
+          "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+          "time": "2026-08-01"
         },
         {
-          "title": "Nano Banana 2 removed from Google Earth",
+          "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
           "summary": "暂无摘要",
-          "source": "taubek",
-          "url": "https://www.digitaldigging.org/p/nano-banana-2-removed-from-google",
-          "time": "2026-07-31"
+          "source": "thm",
+          "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
+          "time": "2026-08-01"
         }
       ]
     },
@@ -420,6 +420,13 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "India is starting to pay for apps, not just download them",
+          "summary": "India's app market generated a record $345 million in Q2.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+          "time": "2026-07-31"
+        },
         {
           "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
           "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
@@ -432,20 +439,6 @@
           "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
           "source": "Lucas Ropek",
           "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-          "time": "2026-07-30"
-        },
-        {
-          "title": "Okta buys AI security startup Permiso — source says for about $200M",
-          "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-          "time": "2026-07-30"
-        },
-        {
-          "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-          "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-          "source": "Ram Iyer",
-          "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
           "time": "2026-07-30"
         },
         {
@@ -463,144 +456,144 @@
           "time": "2026-07-31"
         },
         {
-          "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
+          "title": "Show HN: Voris: privacy-first analytics for the AI-influenced web",
           "summary": "暂无摘要",
-          "source": "mapping365",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires",
-          "time": "2026-07-31"
+          "source": "wowinter15",
+          "url": "https://voris.ai/",
+          "time": "2026-08-01"
         },
         {
-          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+          "title": "\"AI Brendans\" or \"Virtual Brendans\" (2025)",
           "summary": "暂无摘要",
-          "source": "stalfosknight",
-          "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-          "time": "2026-07-31"
+          "source": "Jimmc414",
+          "url": "https://www.brendangregg.com/blog/2025-11-28/ai-virtual-brendans.html",
+          "time": "2026-08-01"
         },
         {
-          "title": "When AI Starts Writing Systems Code",
+          "title": "Which web browser has no AI?",
           "summary": "暂无摘要",
-          "source": "skidrow",
-          "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
-          "time": "2026-07-31"
+          "source": "lilerjee",
+          "url": "https://news.ycombinator.com/item?id=49137677",
+          "time": "2026-08-01"
         },
         {
-          "title": "YouTuber Hank Green pauses multiple channels after admitting he relies on AI",
+          "title": "The Index – a hand-checked catalog of AI tools",
           "summary": "暂无摘要",
-          "source": "javhu",
-          "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
-          "time": "2026-07-31"
+          "source": "Code_A-Z",
+          "url": "https://theindex.agnissanisaac.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
+          "title": "AI #179 Part 2: Hearing the Fire Alarm",
           "summary": "暂无摘要",
-          "source": "ajyoon",
-          "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
-          "time": "2026-07-31"
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
+          "time": "2026-08-01"
         },
         {
-          "title": "Marvin Minsky: a proof that led to the first AI winter",
+          "title": "Show HN AI Data Center Alert",
           "summary": "暂无摘要",
-          "source": "nutwani91",
-          "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
-          "time": "2026-07-31"
+          "source": "studsnchayns",
+          "url": "https://aidatacenterimpact.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
+          "title": "Chess Engine Dev Community Openly Hostile to AI Assisted Development",
           "summary": "暂无摘要",
-          "source": "th3-br41n",
-          "url": "https://getbrainstorm.online/",
-          "time": "2026-07-31"
+          "source": "chesspeoplercra",
+          "url": "https://github.com/adamtwiss/coda/issues/15",
+          "time": "2026-08-01"
         },
         {
-          "title": "Why your AI startup dies at customer six (and the three-layer fix)",
+          "title": "Google cancels AI Studio app after 800k preorders",
           "summary": "暂无摘要",
-          "source": "tlince",
-          "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
-          "time": "2026-07-31"
+          "source": "BlueBerry2001",
+          "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
+          "time": "2026-08-01"
         },
         {
-          "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
+          "title": "Show HN: BugDetect AI – AI-powered code debugging assistant",
           "summary": "暂无摘要",
-          "source": "dabinat",
-          "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
-          "time": "2026-07-31"
+          "source": "laxmansubedi",
+          "url": "https://bugdetectai.com",
+          "time": "2026-08-01"
         },
         {
-          "title": "Can we see AI's contributions directly in the economy yet? and by how much",
+          "title": "Show HN: OpenLongevity – Longevity × AI – open, verifiable, for everyone",
           "summary": "暂无摘要",
-          "source": "echohive42",
-          "url": "https://www.echohive.ai/ai-economy-hidden-productivity",
-          "time": "2026-07-31"
+          "source": "edison7009",
+          "url": "https://github.com/edison7009/OpenLongevity",
+          "time": "2026-08-01"
         },
         {
-          "title": "Pygame Tutorial for Beginners: Game Loop, Screen Window, & FPS Explained – No AI",
+          "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
           "summary": "暂无摘要",
-          "source": "shriekdj",
-          "url": "https://www.youtube.com/watch?v=P0IjXbKQfNc",
-          "time": "2026-07-31"
+          "source": "amadmike",
+          "url": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
+          "time": "2026-08-01"
         },
         {
-          "title": "Sqlite.ai Pricing",
+          "title": "House Committees Investigate DoorDash's Use of Chinese AI",
           "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://www.sqlite.ai/pricing",
-          "time": "2026-07-31"
+          "source": "Jimmc414",
+          "url": "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
+          "time": "2026-08-01"
         },
         {
-          "title": "Ask HN: What's your monthly personal AI budget?",
+          "title": "Random thoughts while gazing at the misty AI Frontier",
           "summary": "暂无摘要",
-          "source": "thatgloomyguy",
-          "url": "https://news.ycombinator.com/item?id=49127681",
-          "time": "2026-07-31"
+          "source": "FinnKuhn",
+          "url": "https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the",
+          "time": "2026-08-01"
         },
         {
-          "title": "Lookup Tables Could Cut AI Energy Costs",
+          "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
-          "time": "2026-07-31"
+          "source": "maxloh",
+          "url": "https://supabase.com/blog/introducing-supabase-evals",
+          "time": "2026-08-01"
         },
         {
-          "title": "F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter",
+          "title": "Lack of FISA reform lets federal govt surveil 'entire communities' with AI",
           "summary": "暂无摘要",
-          "source": "r2sk5t",
-          "url": "https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/",
-          "time": "2026-07-31"
+          "source": "01-_-",
+          "url": "https://www.thecentersquare.com/national/article_1e430e4c-82e5-48f7-aed1-681998d2cb02.html",
+          "time": "2026-08-01"
         },
         {
-          "title": "Big Tech Holds $2.4T of Spending Commitments for AI Boom",
+          "title": "Show HN: SteerPlane – Deterministic runtime guardrails for AI agents",
           "summary": "暂无摘要",
-          "source": "mapping365",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
-          "time": "2026-07-31"
+          "source": "vijaym2k6",
+          "url": "https://github.com/vijaym2k6/SteerPlane",
+          "time": "2026-08-01"
         },
         {
-          "title": "I use AI on this blog",
+          "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
           "summary": "暂无摘要",
-          "source": "gpjt",
-          "url": "https://www.gilesthomas.com/2026/07/ai-use",
-          "time": "2026-07-31"
+          "source": "thm",
+          "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
+          "time": "2026-08-01"
         },
         {
-          "title": "MCP is going stateless: What the new spec means for AI agents",
+          "title": "An honesty-first pipeline for AI-transcribing a small letter archive",
           "summary": "暂无摘要",
-          "source": "inferhaven",
-          "url": "https://newrelic.com/blog/ai/mcp-is-going-stateless",
-          "time": "2026-07-31"
+          "source": "tangentdesignco",
+          "url": "https://aboxofletters.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "AI Dominates the Microsoft Conversation, but Not the Company's Business",
+          "title": "Sovereign and European AI where your Data Stays under European law",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992",
-          "time": "2026-07-31"
+          "source": "marcfrommelious",
+          "url": "https://melious.ai/",
+          "time": "2026-08-01"
         },
         {
-          "title": "Claude vs. ChatGPT: Which AI Security Incident Was Worse",
+          "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
           "summary": "暂无摘要",
-          "source": "ticust",
-          "url": "https://industrycontents.com/claude-vs-chatgpt-ai-security-incident-worse/",
-          "time": "2026-07-31"
+          "source": "linuxterminal",
+          "url": "https://freeaipromptgen.com/",
+          "time": "2026-08-01"
         }
       ]
     },
@@ -792,144 +785,158 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps",
+          "title": "Show HN: Voris: privacy-first analytics for the AI-influenced web",
           "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html",
-          "time": "2026-07-31"
+          "source": "wowinter15",
+          "url": "https://voris.ai/",
+          "time": "2026-08-01"
         },
         {
-          "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
+          "title": "\"AI Brendans\" or \"Virtual Brendans\" (2025)",
           "summary": "暂无摘要",
-          "source": "mapping365",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-29/ai-boom-spurs-insider-selling-by-nvidia-coreweave-billionaires",
-          "time": "2026-07-31"
+          "source": "Jimmc414",
+          "url": "https://www.brendangregg.com/blog/2025-11-28/ai-virtual-brendans.html",
+          "time": "2026-08-01"
         },
         {
-          "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+          "title": "Which web browser has no AI?",
           "summary": "暂无摘要",
-          "source": "stalfosknight",
-          "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-          "time": "2026-07-31"
+          "source": "lilerjee",
+          "url": "https://news.ycombinator.com/item?id=49137677",
+          "time": "2026-08-01"
         },
         {
-          "title": "When AI Starts Writing Systems Code",
+          "title": "The Index – a hand-checked catalog of AI tools",
           "summary": "暂无摘要",
-          "source": "skidrow",
-          "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
-          "time": "2026-07-31"
+          "source": "Code_A-Z",
+          "url": "https://theindex.agnissanisaac.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "YouTuber Hank Green pauses multiple channels after admitting he relies on AI",
+          "title": "AI #179 Part 2: Hearing the Fire Alarm",
           "summary": "暂无摘要",
-          "source": "javhu",
-          "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
-          "time": "2026-07-31"
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
+          "time": "2026-08-01"
         },
         {
-          "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
+          "title": "Show HN AI Data Center Alert",
           "summary": "暂无摘要",
-          "source": "ajyoon",
-          "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
-          "time": "2026-07-31"
+          "source": "studsnchayns",
+          "url": "https://aidatacenterimpact.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "Marvin Minsky: a proof that led to the first AI winter",
+          "title": "Chess Engine Dev Community Openly Hostile to AI Assisted Development",
           "summary": "暂无摘要",
-          "source": "nutwani91",
-          "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
-          "time": "2026-07-31"
+          "source": "chesspeoplercra",
+          "url": "https://github.com/adamtwiss/coda/issues/15",
+          "time": "2026-08-01"
         },
         {
-          "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
+          "title": "Google cancels AI Studio app after 800k preorders",
           "summary": "暂无摘要",
-          "source": "th3-br41n",
-          "url": "https://getbrainstorm.online/",
-          "time": "2026-07-31"
+          "source": "BlueBerry2001",
+          "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
+          "time": "2026-08-01"
         },
         {
-          "title": "Why your AI startup dies at customer six (and the three-layer fix)",
+          "title": "Show HN: BugDetect AI – AI-powered code debugging assistant",
           "summary": "暂无摘要",
-          "source": "tlince",
-          "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
-          "time": "2026-07-31"
+          "source": "laxmansubedi",
+          "url": "https://bugdetectai.com",
+          "time": "2026-08-01"
         },
         {
-          "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
+          "title": "Show HN: OpenLongevity – Longevity × AI – open, verifiable, for everyone",
           "summary": "暂无摘要",
-          "source": "dabinat",
-          "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
-          "time": "2026-07-31"
+          "source": "edison7009",
+          "url": "https://github.com/edison7009/OpenLongevity",
+          "time": "2026-08-01"
         },
         {
-          "title": "Can we see AI's contributions directly in the economy yet? and by how much",
+          "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
           "summary": "暂无摘要",
-          "source": "echohive42",
-          "url": "https://www.echohive.ai/ai-economy-hidden-productivity",
-          "time": "2026-07-31"
+          "source": "amadmike",
+          "url": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
+          "time": "2026-08-01"
         },
         {
-          "title": "Pygame Tutorial for Beginners: Game Loop, Screen Window, & FPS Explained – No AI",
+          "title": "House Committees Investigate DoorDash's Use of Chinese AI",
           "summary": "暂无摘要",
-          "source": "shriekdj",
-          "url": "https://www.youtube.com/watch?v=P0IjXbKQfNc",
-          "time": "2026-07-31"
+          "source": "Jimmc414",
+          "url": "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
+          "time": "2026-08-01"
         },
         {
-          "title": "Sqlite.ai Pricing",
+          "title": "Random thoughts while gazing at the misty AI Frontier",
           "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://www.sqlite.ai/pricing",
-          "time": "2026-07-31"
+          "source": "FinnKuhn",
+          "url": "https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the",
+          "time": "2026-08-01"
         },
         {
-          "title": "Ask HN: What's your monthly personal AI budget?",
+          "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
           "summary": "暂无摘要",
-          "source": "thatgloomyguy",
-          "url": "https://news.ycombinator.com/item?id=49127681",
-          "time": "2026-07-31"
+          "source": "maxloh",
+          "url": "https://supabase.com/blog/introducing-supabase-evals",
+          "time": "2026-08-01"
         },
         {
-          "title": "Lookup Tables Could Cut AI Energy Costs",
+          "title": "Lack of FISA reform lets federal govt surveil 'entire communities' with AI",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
-          "time": "2026-07-31"
+          "source": "01-_-",
+          "url": "https://www.thecentersquare.com/national/article_1e430e4c-82e5-48f7-aed1-681998d2cb02.html",
+          "time": "2026-08-01"
         },
         {
-          "title": "F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter",
+          "title": "Show HN: SteerPlane – Deterministic runtime guardrails for AI agents",
           "summary": "暂无摘要",
-          "source": "r2sk5t",
-          "url": "https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/",
-          "time": "2026-07-31"
+          "source": "vijaym2k6",
+          "url": "https://github.com/vijaym2k6/SteerPlane",
+          "time": "2026-08-01"
         },
         {
-          "title": "Big Tech Holds $2.4T of Spending Commitments for AI Boom",
+          "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
           "summary": "暂无摘要",
-          "source": "mapping365",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
-          "time": "2026-07-31"
+          "source": "thm",
+          "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
+          "time": "2026-08-01"
         },
         {
-          "title": "I use AI on this blog",
+          "title": "An honesty-first pipeline for AI-transcribing a small letter archive",
           "summary": "暂无摘要",
-          "source": "gpjt",
-          "url": "https://www.gilesthomas.com/2026/07/ai-use",
-          "time": "2026-07-31"
+          "source": "tangentdesignco",
+          "url": "https://aboxofletters.com/",
+          "time": "2026-08-01"
         },
         {
-          "title": "MCP is going stateless: What the new spec means for AI agents",
+          "title": "Sovereign and European AI where your Data Stays under European law",
           "summary": "暂无摘要",
-          "source": "inferhaven",
-          "url": "https://newrelic.com/blog/ai/mcp-is-going-stateless",
-          "time": "2026-07-31"
+          "source": "marcfrommelious",
+          "url": "https://melious.ai/",
+          "time": "2026-08-01"
         },
         {
-          "title": "AI Dominates the Microsoft Conversation, but Not the Company's Business",
+          "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.nextplatform.com/cloud/2026/07/31/ai-dominates-the-microsoft-conversation-but-not-the-companys-business/5281992",
-          "time": "2026-07-31"
+          "source": "linuxterminal",
+          "url": "https://freeaipromptgen.com/",
+          "time": "2026-08-01"
+        },
+        {
+          "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+          "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+          "source": "Matt Burgess, Maddy Varner, Dell Cameron, Andy Greenberg",
+          "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+          "time": "2026-08-01"
+        },
+        {
+          "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+          "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+          "source": "Lily Hay Newman",
+          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+          "time": "2026-08-01"
         },
         {
           "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
