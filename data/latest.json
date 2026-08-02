@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-01T20:40:06.700Z",
-  "date": "2026年8月1日 20时40分",
+  "updateTime": "2026-08-02T20:42:55.665Z",
+  "date": "2026年8月2日 20时42分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Show HN: Voris: privacy-first analytics for the AI-influenced web",
+          "title": "The next 50 years: humanity, AI, power – Yuval Noah Harari [video]",
           "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://voris.ai/",
-          "time": "2026-08-01"
+          "source": "jamesblonde",
+          "url": "https://www.youtube.com/watch?v=_V_ed5fuexA[Video]",
+          "time": "2026-08-02"
         },
         {
-          "title": "\"AI Brendans\" or \"Virtual Brendans\" (2025)",
+          "title": "Show HN: Authoryze- payment controls for AI agents",
           "summary": "暂无摘要",
-          "source": "Jimmc414",
-          "url": "https://www.brendangregg.com/blog/2025-11-28/ai-virtual-brendans.html",
-          "time": "2026-08-01"
+          "source": "kevinfee",
+          "url": "https://authoryze.ai",
+          "time": "2026-08-02"
         },
         {
-          "title": "Which web browser has no AI?",
+          "title": "SynthID watermark is hard to break, but it doesn't solve AI disinformation",
           "summary": "暂无摘要",
-          "source": "lilerjee",
-          "url": "https://news.ycombinator.com/item?id=49137677",
-          "time": "2026-08-01"
+          "source": "saikatsg",
+          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+          "time": "2026-08-02"
         },
         {
-          "title": "The Index – a hand-checked catalog of AI tools",
+          "title": "Let the Machines In",
           "summary": "暂无摘要",
-          "source": "Code_A-Z",
-          "url": "https://theindex.agnissanisaac.com/",
-          "time": "2026-08-01"
+          "source": "lluvt",
+          "url": "https://blog.semenzin.com/let-the-machines-in/",
+          "time": "2026-08-02"
         },
         {
-          "title": "AI #179 Part 2: Hearing the Fire Alarm",
+          "title": "I gave local AI eyes",
+          "summary": "暂无摘要",
+          "source": "aether-zyads",
+          "url": "https://github.com/zyads/eyes",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "I Built a Million-Dollar Machine for $200 [video]",
+          "summary": "暂无摘要",
+          "source": "binyu",
+          "url": "https://www.youtube.com/watch?v=YP-hdsrOYo8",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": "暂无摘要",
+          "source": "thebigship",
+          "url": "https://frogs.vaguespac.es/",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "EU rules on AI models become enforceable. What's going to change?",
+          "summary": "暂无摘要",
+          "source": "devonnull",
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Apple struggles to keep pace with AI 'bug' hunters",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "AI Coding Is a Dead End",
+          "summary": "暂无摘要",
+          "source": "bundie",
+          "url": "https://www.youtube.com/watch?v=02MspGEWyuo",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Show HN: Kota – Bring AI agent CLIs into the same room",
+          "summary": "暂无摘要",
+          "source": "chriswunan",
+          "url": "https://www.kota.place/",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Is AI Progress Stalling? Or is it me?",
           "summary": "暂无摘要",
           "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
-          "time": "2026-08-01"
+          "url": "https://arnoldkling.substack.com/p/is-ai-progress-stalling",
+          "time": "2026-08-02"
         },
         {
-          "title": "Show HN AI Data Center Alert",
+          "title": "AI-assisted analytics now 10x cheaper",
           "summary": "暂无摘要",
-          "source": "studsnchayns",
-          "url": "https://aidatacenterimpact.com/",
-          "time": "2026-08-01"
+          "source": "ryguyrg",
+          "url": "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/",
+          "time": "2026-08-02"
         },
         {
-          "title": "Chess Engine Dev Community Openly Hostile to AI Assisted Development",
-          "summary": "暂无摘要",
-          "source": "chesspeoplercra",
-          "url": "https://github.com/adamtwiss/coda/issues/15",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Google cancels AI Studio app after 800k preorders",
-          "summary": "暂无摘要",
-          "source": "BlueBerry2001",
-          "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: BugDetect AI – AI-powered code debugging assistant",
-          "summary": "暂无摘要",
-          "source": "laxmansubedi",
-          "url": "https://bugdetectai.com",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: OpenLongevity – Longevity × AI – open, verifiable, for everyone",
-          "summary": "暂无摘要",
-          "source": "edison7009",
-          "url": "https://github.com/edison7009/OpenLongevity",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
-          "summary": "暂无摘要",
-          "source": "amadmike",
-          "url": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "House Committees Investigate DoorDash's Use of Chinese AI",
-          "summary": "暂无摘要",
-          "source": "Jimmc414",
-          "url": "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Random thoughts while gazing at the misty AI Frontier",
-          "summary": "暂无摘要",
-          "source": "FinnKuhn",
-          "url": "https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
-          "summary": "暂无摘要",
-          "source": "maxloh",
-          "url": "https://supabase.com/blog/introducing-supabase-evals",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Lack of FISA reform lets federal govt surveil 'entire communities' with AI",
-          "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.thecentersquare.com/national/article_1e430e4c-82e5-48f7-aed1-681998d2cb02.html",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: SteerPlane – Deterministic runtime guardrails for AI agents",
-          "summary": "暂无摘要",
-          "source": "vijaym2k6",
-          "url": "https://github.com/vijaym2k6/SteerPlane",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+          "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
           "summary": "暂无摘要",
           "source": "thm",
-          "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
-          "time": "2026-08-01"
+          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+          "time": "2026-08-02"
         },
         {
-          "title": "An honesty-first pipeline for AI-transcribing a small letter archive",
+          "title": "AI and the iPod Test",
           "summary": "暂无摘要",
-          "source": "tangentdesignco",
-          "url": "https://aboxofletters.com/",
-          "time": "2026-08-01"
+          "source": "speckx",
+          "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test",
+          "time": "2026-08-02"
         },
         {
-          "title": "Sovereign and European AI where your Data Stays under European law",
+          "title": "Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees",
           "summary": "暂无摘要",
-          "source": "marcfrommelious",
-          "url": "https://melious.ai/",
-          "time": "2026-08-01"
+          "source": "ithkai92",
+          "url": "https://ai-five-layer-map.pages.dev/",
+          "time": "2026-08-02"
         },
         {
-          "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
+          "title": "Show HN: Mousecrack – Bypass captchas with deep learning",
           "summary": "暂无摘要",
-          "source": "linuxterminal",
-          "url": "https://freeaipromptgen.com/",
-          "time": "2026-08-01"
+          "source": "ReactRocks",
+          "url": "https://github.com/puffinsoft/mousecrack",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "YouTuber Hank Green says his AI usage is 'not healthy'",
+          "summary": "暂无摘要",
+          "source": "embedding-shape",
+          "url": "https://old.reddit.com/r/nerdfighters/comments/1vbmoj5/on_hank_admitting_he_used_chatgpt_for_his_latest/p0vzmog/",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Show HN: Growth-Ratio Energy Function as Leading Indicator of Agent Task Failure",
+          "summary": "暂无摘要",
+          "source": "visha1v",
+          "url": "https://vishalvermalabs.com/papers/empirical-lyapunov-stability-agent-failure/",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
+          "summary": "暂无摘要",
+          "source": "CharlesW",
+          "url": "https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die",
+          "time": "2026-08-02"
         },
         {
           "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -274,144 +274,144 @@
           "time": "2026-05-29"
         },
         {
-          "title": "Show HN: Voris: privacy-first analytics for the AI-influenced web",
+          "title": "Anthropic's Fever Dream: Claude's package that stole real keys",
           "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://voris.ai/",
-          "time": "2026-08-01"
+          "source": "lschueller",
+          "url": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
+          "time": "2026-08-02"
         },
         {
-          "title": "\"AI Brendans\" or \"Virtual Brendans\" (2025)",
+          "title": "The next 50 years: humanity, AI, power – Yuval Noah Harari [video]",
           "summary": "暂无摘要",
-          "source": "Jimmc414",
-          "url": "https://www.brendangregg.com/blog/2025-11-28/ai-virtual-brendans.html",
-          "time": "2026-08-01"
+          "source": "jamesblonde",
+          "url": "https://www.youtube.com/watch?v=_V_ed5fuexA[Video]",
+          "time": "2026-08-02"
         },
         {
-          "title": "Google News is just Forrest Gump's shrimp boat now",
+          "title": "Show HN: Authoryze- payment controls for AI agents",
           "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-          "time": "2026-08-01"
+          "source": "kevinfee",
+          "url": "https://authoryze.ai",
+          "time": "2026-08-02"
         },
         {
-          "title": "Which web browser has no AI?",
+          "title": "SynthID watermark is hard to break, but it doesn't solve AI disinformation",
           "summary": "暂无摘要",
-          "source": "lilerjee",
-          "url": "https://news.ycombinator.com/item?id=49137677",
-          "time": "2026-08-01"
+          "source": "saikatsg",
+          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+          "time": "2026-08-02"
         },
         {
-          "title": "The Index – a hand-checked catalog of AI tools",
+          "title": "I gave local AI eyes",
           "summary": "暂无摘要",
-          "source": "Code_A-Z",
-          "url": "https://theindex.agnissanisaac.com/",
-          "time": "2026-08-01"
+          "source": "aether-zyads",
+          "url": "https://github.com/zyads/eyes",
+          "time": "2026-08-02"
         },
         {
-          "title": "AI #179 Part 2: Hearing the Fire Alarm",
+          "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "summary": "暂无摘要",
+          "source": "paoloanzn",
+          "url": "https://github.com/paoloanzn/microcodex",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": "暂无摘要",
+          "source": "thebigship",
+          "url": "https://frogs.vaguespac.es/",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "EU rules on AI models become enforceable. What's going to change?",
+          "summary": "暂无摘要",
+          "source": "devonnull",
+          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Saying 'Google It' Makes You Sound Old",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://www.nytimes.com/2026/07/23/magazine/google-it-search-it-up.html",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Apple struggles to keep pace with AI 'bug' hunters",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "AI Coding Is a Dead End",
+          "summary": "暂无摘要",
+          "source": "bundie",
+          "url": "https://www.youtube.com/watch?v=02MspGEWyuo",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Show HN: Kota – Bring AI agent CLIs into the same room",
+          "summary": "暂无摘要",
+          "source": "chriswunan",
+          "url": "https://www.kota.place/",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Is AI Progress Stalling? Or is it me?",
           "summary": "暂无摘要",
           "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
-          "time": "2026-08-01"
+          "url": "https://arnoldkling.substack.com/p/is-ai-progress-stalling",
+          "time": "2026-08-02"
         },
         {
-          "title": "Show HN AI Data Center Alert",
+          "title": "AI-assisted analytics now 10x cheaper",
           "summary": "暂无摘要",
-          "source": "studsnchayns",
-          "url": "https://aidatacenterimpact.com/",
-          "time": "2026-08-01"
+          "source": "ryguyrg",
+          "url": "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/",
+          "time": "2026-08-02"
         },
         {
-          "title": "GenAI Added to Google Earth",
-          "summary": "暂无摘要",
-          "source": "alwa",
-          "url": "https://www.theatlantic.com/technology/2026/07/google-earth-ai-images/688145/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Chess Engine Dev Community Openly Hostile to AI Assisted Development",
-          "summary": "暂无摘要",
-          "source": "chesspeoplercra",
-          "url": "https://github.com/adamtwiss/coda/issues/15",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Google cancels AI Studio app after 800k preorders",
-          "summary": "暂无摘要",
-          "source": "BlueBerry2001",
-          "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: BugDetect AI – AI-powered code debugging assistant",
-          "summary": "暂无摘要",
-          "source": "laxmansubedi",
-          "url": "https://bugdetectai.com",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: OpenLongevity – Longevity × AI – open, verifiable, for everyone",
-          "summary": "暂无摘要",
-          "source": "edison7009",
-          "url": "https://github.com/edison7009/OpenLongevity",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
-          "summary": "暂无摘要",
-          "source": "amadmike",
-          "url": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "House Committees Investigate DoorDash's Use of Chinese AI",
-          "summary": "暂无摘要",
-          "source": "Jimmc414",
-          "url": "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Random thoughts while gazing at the misty AI Frontier",
-          "summary": "暂无摘要",
-          "source": "FinnKuhn",
-          "url": "https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
-          "summary": "暂无摘要",
-          "source": "maxloh",
-          "url": "https://supabase.com/blog/introducing-supabase-evals",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Lack of FISA reform lets federal govt surveil 'entire communities' with AI",
-          "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.thecentersquare.com/national/article_1e430e4c-82e5-48f7-aed1-681998d2cb02.html",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: SteerPlane – Deterministic runtime guardrails for AI agents",
-          "summary": "暂无摘要",
-          "source": "vijaym2k6",
-          "url": "https://github.com/vijaym2k6/SteerPlane",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "How Google helped destroy adoption of RSS feeds (2023)",
-          "summary": "暂无摘要",
-          "source": "pudgywalsh",
-          "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+          "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
           "summary": "暂无摘要",
           "source": "thm",
-          "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
-          "time": "2026-08-01"
+          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Nanocodex: Building blocks for frontier OpenAI agents in Rust",
+          "summary": "暂无摘要",
+          "source": "sygma",
+          "url": "https://github.com/gakonst/nanocodex",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "AI and the iPod Test",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees",
+          "summary": "暂无摘要",
+          "source": "ithkai92",
+          "url": "https://ai-five-layer-map.pages.dev/",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "YouTuber Hank Green says his AI usage is 'not healthy'",
+          "summary": "暂无摘要",
+          "source": "embedding-shape",
+          "url": "https://old.reddit.com/r/nerdfighters/comments/1vbmoj5/on_hank_admitting_he_used_chatgpt_for_his_latest/p0vzmog/",
+          "time": "2026-08-02"
+        },
+        {
+          "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
+          "summary": "暂无摘要",
+          "source": "CharlesW",
+          "url": "https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die",
+          "time": "2026-08-02"
         }
       ]
     },
@@ -454,146 +454,6 @@
           "source": "Louise Matsakis, Lily Hay Newman",
           "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
           "time": "2026-07-31"
-        },
-        {
-          "title": "Show HN: Voris: privacy-first analytics for the AI-influenced web",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://voris.ai/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "\"AI Brendans\" or \"Virtual Brendans\" (2025)",
-          "summary": "暂无摘要",
-          "source": "Jimmc414",
-          "url": "https://www.brendangregg.com/blog/2025-11-28/ai-virtual-brendans.html",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Which web browser has no AI?",
-          "summary": "暂无摘要",
-          "source": "lilerjee",
-          "url": "https://news.ycombinator.com/item?id=49137677",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "The Index – a hand-checked catalog of AI tools",
-          "summary": "暂无摘要",
-          "source": "Code_A-Z",
-          "url": "https://theindex.agnissanisaac.com/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "AI #179 Part 2: Hearing the Fire Alarm",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN AI Data Center Alert",
-          "summary": "暂无摘要",
-          "source": "studsnchayns",
-          "url": "https://aidatacenterimpact.com/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Chess Engine Dev Community Openly Hostile to AI Assisted Development",
-          "summary": "暂无摘要",
-          "source": "chesspeoplercra",
-          "url": "https://github.com/adamtwiss/coda/issues/15",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Google cancels AI Studio app after 800k preorders",
-          "summary": "暂无摘要",
-          "source": "BlueBerry2001",
-          "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: BugDetect AI – AI-powered code debugging assistant",
-          "summary": "暂无摘要",
-          "source": "laxmansubedi",
-          "url": "https://bugdetectai.com",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: OpenLongevity – Longevity × AI – open, verifiable, for everyone",
-          "summary": "暂无摘要",
-          "source": "edison7009",
-          "url": "https://github.com/edison7009/OpenLongevity",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
-          "summary": "暂无摘要",
-          "source": "amadmike",
-          "url": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "House Committees Investigate DoorDash's Use of Chinese AI",
-          "summary": "暂无摘要",
-          "source": "Jimmc414",
-          "url": "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Random thoughts while gazing at the misty AI Frontier",
-          "summary": "暂无摘要",
-          "source": "FinnKuhn",
-          "url": "https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
-          "summary": "暂无摘要",
-          "source": "maxloh",
-          "url": "https://supabase.com/blog/introducing-supabase-evals",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Lack of FISA reform lets federal govt surveil 'entire communities' with AI",
-          "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.thecentersquare.com/national/article_1e430e4c-82e5-48f7-aed1-681998d2cb02.html",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: SteerPlane – Deterministic runtime guardrails for AI agents",
-          "summary": "暂无摘要",
-          "source": "vijaym2k6",
-          "url": "https://github.com/vijaym2k6/SteerPlane",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "An honesty-first pipeline for AI-transcribing a small letter archive",
-          "summary": "暂无摘要",
-          "source": "tangentdesignco",
-          "url": "https://aboxofletters.com/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Sovereign and European AI where your Data Stays under European law",
-          "summary": "暂无摘要",
-          "source": "marcfrommelious",
-          "url": "https://melious.ai/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
-          "summary": "暂无摘要",
-          "source": "linuxterminal",
-          "url": "https://freeaipromptgen.com/",
-          "time": "2026-08-01"
         }
       ]
     },
@@ -785,144 +645,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Show HN: Voris: privacy-first analytics for the AI-influenced web",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://voris.ai/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "\"AI Brendans\" or \"Virtual Brendans\" (2025)",
-          "summary": "暂无摘要",
-          "source": "Jimmc414",
-          "url": "https://www.brendangregg.com/blog/2025-11-28/ai-virtual-brendans.html",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Which web browser has no AI?",
-          "summary": "暂无摘要",
-          "source": "lilerjee",
-          "url": "https://news.ycombinator.com/item?id=49137677",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "The Index – a hand-checked catalog of AI tools",
-          "summary": "暂无摘要",
-          "source": "Code_A-Z",
-          "url": "https://theindex.agnissanisaac.com/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "AI #179 Part 2: Hearing the Fire Alarm",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN AI Data Center Alert",
-          "summary": "暂无摘要",
-          "source": "studsnchayns",
-          "url": "https://aidatacenterimpact.com/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Chess Engine Dev Community Openly Hostile to AI Assisted Development",
-          "summary": "暂无摘要",
-          "source": "chesspeoplercra",
-          "url": "https://github.com/adamtwiss/coda/issues/15",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Google cancels AI Studio app after 800k preorders",
-          "summary": "暂无摘要",
-          "source": "BlueBerry2001",
-          "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: BugDetect AI – AI-powered code debugging assistant",
-          "summary": "暂无摘要",
-          "source": "laxmansubedi",
-          "url": "https://bugdetectai.com",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: OpenLongevity – Longevity × AI – open, verifiable, for everyone",
-          "summary": "暂无摘要",
-          "source": "edison7009",
-          "url": "https://github.com/edison7009/OpenLongevity",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "How to Build a Modern Distributed SaaS from Scratch with AI Agents",
-          "summary": "暂无摘要",
-          "source": "amadmike",
-          "url": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "House Committees Investigate DoorDash's Use of Chinese AI",
-          "summary": "暂无摘要",
-          "source": "Jimmc414",
-          "url": "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Random thoughts while gazing at the misty AI Frontier",
-          "summary": "暂无摘要",
-          "source": "FinnKuhn",
-          "url": "https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Supabase Evals: Benchmark for testing how well AI agents build using Supabase",
-          "summary": "暂无摘要",
-          "source": "maxloh",
-          "url": "https://supabase.com/blog/introducing-supabase-evals",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Lack of FISA reform lets federal govt surveil 'entire communities' with AI",
-          "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.thecentersquare.com/national/article_1e430e4c-82e5-48f7-aed1-681998d2cb02.html",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: SteerPlane – Deterministic runtime guardrails for AI agents",
-          "summary": "暂无摘要",
-          "source": "vijaym2k6",
-          "url": "https://github.com/vijaym2k6/SteerPlane",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "An honesty-first pipeline for AI-transcribing a small letter archive",
-          "summary": "暂无摘要",
-          "source": "tangentdesignco",
-          "url": "https://aboxofletters.com/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Sovereign and European AI where your Data Stays under European law",
-          "summary": "暂无摘要",
-          "source": "marcfrommelious",
-          "url": "https://melious.ai/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
-          "summary": "暂无摘要",
-          "source": "linuxterminal",
-          "url": "https://freeaipromptgen.com/",
-          "time": "2026-08-01"
+          "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+          "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+          "source": "Isabella Ward",
+          "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+          "time": "2026-08-02"
         },
         {
           "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
