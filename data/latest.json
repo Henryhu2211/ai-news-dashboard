@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-02T20:42:55.665Z",
-  "date": "2026年8月2日 20时42分",
+  "updateTime": "2026-08-03T20:55:18.628Z",
+  "date": "2026年8月3日 20时55分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,151 @@
       "icon": "📰",
       "news": [
         {
-          "title": "The next 50 years: humanity, AI, power – Yuval Noah Harari [video]",
+          "title": "Boomers Are Leaving Behind More Art Than Anyone Wants",
           "summary": "暂无摘要",
-          "source": "jamesblonde",
-          "url": "https://www.youtube.com/watch?v=_V_ed5fuexA[Video]",
-          "time": "2026-08-02"
+          "source": "lispybanana",
+          "url": "https://www.bloomberg.com/news/features/2026-07-31/the-great-wealth-transfer-includes-1-trillion-in-art",
+          "time": "2026-08-03"
         },
         {
-          "title": "Show HN: Authoryze- payment controls for AI agents",
+          "title": "Minimum Description Length Meets Singular Learning Theory",
           "summary": "暂无摘要",
-          "source": "kevinfee",
-          "url": "https://authoryze.ai",
-          "time": "2026-08-02"
+          "source": "E-Reverance",
+          "url": "https://arxiv.org/abs/2510.12077",
+          "time": "2026-08-03"
         },
         {
-          "title": "SynthID watermark is hard to break, but it doesn't solve AI disinformation",
+          "title": "Can an AI Model Obey a Strict Style Guide?",
           "summary": "暂无摘要",
-          "source": "saikatsg",
-          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-          "time": "2026-08-02"
+          "source": "johnrising",
+          "url": "https://bymorning.ai/journal/ai-style-guide",
+          "time": "2026-08-03"
         },
         {
-          "title": "Let the Machines In",
+          "title": "Forward Deployed Executives: The Next Billion-Dollar AI Unblock",
           "summary": "暂无摘要",
-          "source": "lluvt",
-          "url": "https://blog.semenzin.com/let-the-machines-in/",
-          "time": "2026-08-02"
+          "source": "rickmanelius",
+          "url": "https://www.rickmanelius.com/p/forward-deployed-executives-the-next",
+          "time": "2026-08-03"
         },
         {
-          "title": "I gave local AI eyes",
+          "title": "A Closed-Loop Consequence-Governance Runtime for AI Agents",
           "summary": "暂无摘要",
-          "source": "aether-zyads",
-          "url": "https://github.com/zyads/eyes",
-          "time": "2026-08-02"
+          "source": "TealGrapes93",
+          "url": "https://zenodo.org/records/21778592",
+          "time": "2026-08-03"
         },
         {
-          "title": "I Built a Million-Dollar Machine for $200 [video]",
+          "title": "The college earnings gap isn't one number",
           "summary": "暂无摘要",
-          "source": "binyu",
-          "url": "https://www.youtube.com/watch?v=YP-hdsrOYo8",
-          "time": "2026-08-02"
+          "source": "gmays",
+          "url": "https://blog.waldrn.com/p/the-college-earnings-gap-isnt-one",
+          "time": "2026-08-03"
         },
         {
-          "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title": "Show HN: Mirall – Secure large (terabyte) file transfer. No cloud. No middleman",
           "summary": "暂无摘要",
-          "source": "thebigship",
-          "url": "https://frogs.vaguespac.es/",
-          "time": "2026-08-02"
+          "source": "gokohl",
+          "url": "https://github.com/ok/mirall-app",
+          "time": "2026-08-03"
         },
         {
-          "title": "EU rules on AI models become enforceable. What's going to change?",
+          "title": "We Keep Renaming AI Coding. Here's What I'd Call It",
           "summary": "暂无摘要",
-          "source": "devonnull",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "time": "2026-08-02"
+          "source": "BerislavLopac",
+          "url": "https://www.oreilly.com/radar/we-keep-renaming-ai-coding-heres-what-id-call-it/",
+          "time": "2026-08-03"
         },
         {
-          "title": "Apple struggles to keep pace with AI 'bug' hunters",
+          "title": "The U.S. lead over China in AI is all but gone",
           "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2",
-          "time": "2026-08-02"
+          "source": "yogthos",
+          "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+          "time": "2026-08-03"
         },
         {
-          "title": "AI Coding Is a Dead End",
+          "title": "AI Trivia Tavern – realtime multiplayer trivia with AI-generated questions",
           "summary": "暂无摘要",
-          "source": "bundie",
-          "url": "https://www.youtube.com/watch?v=02MspGEWyuo",
-          "time": "2026-08-02"
+          "source": "jbtruats",
+          "url": "https://ai-trivia-tavern.onrender.com/",
+          "time": "2026-08-03"
         },
         {
-          "title": "Show HN: Kota – Bring AI agent CLIs into the same room",
+          "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
           "summary": "暂无摘要",
-          "source": "chriswunan",
-          "url": "https://www.kota.place/",
-          "time": "2026-08-02"
+          "source": "mapping365",
+          "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+          "time": "2026-08-03"
         },
         {
-          "title": "Is AI Progress Stalling? Or is it me?",
+          "title": "Linux didn't just eat 10% of Windows share, AI bots are inflating the numbers",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://arnoldkling.substack.com/p/is-ai-progress-stalling",
-          "time": "2026-08-02"
+          "source": "taubek",
+          "url": "https://www.windowslatest.com/2026/08/03/linux-didnt-just-eat-10-of-windows-market-share-ai-bots-are-inflating-the-numbers/",
+          "time": "2026-08-03"
         },
         {
-          "title": "AI-assisted analytics now 10x cheaper",
+          "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
           "summary": "暂无摘要",
-          "source": "ryguyrg",
-          "url": "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/",
-          "time": "2026-08-02"
+          "source": "mikelgan",
+          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+          "time": "2026-08-03"
         },
         {
-          "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+          "title": "The 1990s Web vs. today's AI",
           "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-          "time": "2026-08-02"
+          "source": "Ariarule",
+          "url": "https://arnoldkling.substack.com/p/the-1990s-web-vs-todays-ai",
+          "time": "2026-08-03"
         },
         {
-          "title": "AI and the iPod Test",
+          "title": "How do we prove our newsroom isn't AI?",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test",
-          "time": "2026-08-02"
+          "source": "softwaredoug",
+          "url": "https://www.reddit.com/r/Virginia/comments/1vent3o/ok_rvirginia_how_can_we_prove_our_newsroom_isnt_ai/",
+          "time": "2026-08-03"
         },
         {
-          "title": "Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees",
+          "title": "When is it OK to use AI?",
           "summary": "暂无摘要",
-          "source": "ithkai92",
-          "url": "https://ai-five-layer-map.pages.dev/",
-          "time": "2026-08-02"
+          "source": "erikschoster",
+          "url": "https://techtonic.fm/episodes/2026-05-18-when-is-it-ok-to-use-ai/",
+          "time": "2026-08-03"
         },
         {
-          "title": "Show HN: Mousecrack – Bypass captchas with deep learning",
+          "title": "Concern about AI spikes following OpenAI hacking incident",
           "summary": "暂无摘要",
-          "source": "ReactRocks",
-          "url": "https://github.com/puffinsoft/mousecrack",
-          "time": "2026-08-02"
+          "source": "colinhb",
+          "url": "https://news.americanson.ai/p/concern-about-ai-spikes-following",
+          "time": "2026-08-03"
         },
         {
-          "title": "YouTuber Hank Green says his AI usage is 'not healthy'",
+          "title": "Modeling generative AI adoption and digital divide among Chinese rural teachers",
           "summary": "暂无摘要",
-          "source": "embedding-shape",
-          "url": "https://old.reddit.com/r/nerdfighters/comments/1vbmoj5/on_hank_admitting_he_used_chatgpt_for_his_latest/p0vzmog/",
-          "time": "2026-08-02"
+          "source": "thinkingemote",
+          "url": "https://www.nature.com/articles/s41598-026-64624-3",
+          "time": "2026-08-03"
         },
         {
-          "title": "Show HN: Growth-Ratio Energy Function as Leading Indicator of Agent Task Failure",
+          "title": "Learning Rust: Updated",
           "summary": "暂无摘要",
-          "source": "visha1v",
-          "url": "https://vishalvermalabs.com/papers/empirical-lyapunov-stability-agent-failure/",
-          "time": "2026-08-02"
+          "source": "dumindunuwan",
+          "url": "https://learning-rust.github.io",
+          "time": "2026-08-03"
         },
         {
-          "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
+          "title": "16 Year old used AI to disprove professor",
           "summary": "暂无摘要",
-          "source": "CharlesW",
-          "url": "https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die",
-          "time": "2026-08-02"
+          "source": "nicoraga",
+          "url": "https://twitter.com/MaseehG_/status/2084327646209392907",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "Here’s why AI agents lie and cheat to reach their goals",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+          "time": "2026-08-03"
         },
         {
           "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
@@ -160,13 +167,6 @@
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
           "time": "2026-07-27"
-        },
-        {
-          "title": "China’s AI models have Trump’s AI world at war with itself",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
-          "source": "James O'Donnell",
-          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-          "time": "2026-07-20"
         }
       ]
     },
@@ -274,144 +274,144 @@
           "time": "2026-05-29"
         },
         {
-          "title": "Anthropic's Fever Dream: Claude's package that stole real keys",
+          "title": "Can an AI Model Obey a Strict Style Guide?",
           "summary": "暂无摘要",
-          "source": "lschueller",
-          "url": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
-          "time": "2026-08-02"
+          "source": "johnrising",
+          "url": "https://bymorning.ai/journal/ai-style-guide",
+          "time": "2026-08-03"
         },
         {
-          "title": "The next 50 years: humanity, AI, power – Yuval Noah Harari [video]",
+          "title": "Forward Deployed Executives: The Next Billion-Dollar AI Unblock",
           "summary": "暂无摘要",
-          "source": "jamesblonde",
-          "url": "https://www.youtube.com/watch?v=_V_ed5fuexA[Video]",
-          "time": "2026-08-02"
+          "source": "rickmanelius",
+          "url": "https://www.rickmanelius.com/p/forward-deployed-executives-the-next",
+          "time": "2026-08-03"
         },
         {
-          "title": "Show HN: Authoryze- payment controls for AI agents",
+          "title": "A Closed-Loop Consequence-Governance Runtime for AI Agents",
           "summary": "暂无摘要",
-          "source": "kevinfee",
-          "url": "https://authoryze.ai",
-          "time": "2026-08-02"
+          "source": "TealGrapes93",
+          "url": "https://zenodo.org/records/21778592",
+          "time": "2026-08-03"
         },
         {
-          "title": "SynthID watermark is hard to break, but it doesn't solve AI disinformation",
+          "title": "Why it's impossible to get relevant news on Google News",
           "summary": "暂无摘要",
-          "source": "saikatsg",
-          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-          "time": "2026-08-02"
+          "source": "mikelgan",
+          "url": "https://elgan.com/why-its-impossible-to-get-relevant-news-on-google-news",
+          "time": "2026-08-03"
         },
         {
-          "title": "I gave local AI eyes",
+          "title": "We Keep Renaming AI Coding. Here's What I'd Call It",
           "summary": "暂无摘要",
-          "source": "aether-zyads",
-          "url": "https://github.com/zyads/eyes",
-          "time": "2026-08-02"
+          "source": "BerislavLopac",
+          "url": "https://www.oreilly.com/radar/we-keep-renaming-ai-coding-heres-what-id-call-it/",
+          "time": "2026-08-03"
         },
         {
-          "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title": "The U.S. lead over China in AI is all but gone",
           "summary": "暂无摘要",
-          "source": "paoloanzn",
-          "url": "https://github.com/paoloanzn/microcodex",
-          "time": "2026-08-02"
+          "source": "yogthos",
+          "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+          "time": "2026-08-03"
         },
         {
-          "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title": "AI Trivia Tavern – realtime multiplayer trivia with AI-generated questions",
           "summary": "暂无摘要",
-          "source": "thebigship",
-          "url": "https://frogs.vaguespac.es/",
-          "time": "2026-08-02"
+          "source": "jbtruats",
+          "url": "https://ai-trivia-tavern.onrender.com/",
+          "time": "2026-08-03"
         },
         {
-          "title": "EU rules on AI models become enforceable. What's going to change?",
+          "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
           "summary": "暂无摘要",
-          "source": "devonnull",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "time": "2026-08-02"
+          "source": "mapping365",
+          "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+          "time": "2026-08-03"
         },
         {
-          "title": "Saying 'Google It' Makes You Sound Old",
+          "title": "Linux didn't just eat 10% of Windows share, AI bots are inflating the numbers",
           "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.nytimes.com/2026/07/23/magazine/google-it-search-it-up.html",
-          "time": "2026-08-02"
+          "source": "taubek",
+          "url": "https://www.windowslatest.com/2026/08/03/linux-didnt-just-eat-10-of-windows-market-share-ai-bots-are-inflating-the-numbers/",
+          "time": "2026-08-03"
         },
         {
-          "title": "Apple struggles to keep pace with AI 'bug' hunters",
+          "title": "Ask HN: ThePirateBay vs. Anthropic",
           "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2",
-          "time": "2026-08-02"
+          "source": "sarmadgulzar",
+          "url": "https://news.ycombinator.com/item?id=49160614",
+          "time": "2026-08-03"
         },
         {
-          "title": "AI Coding Is a Dead End",
+          "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
           "summary": "暂无摘要",
-          "source": "bundie",
-          "url": "https://www.youtube.com/watch?v=02MspGEWyuo",
-          "time": "2026-08-02"
+          "source": "mikelgan",
+          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+          "time": "2026-08-03"
         },
         {
-          "title": "Show HN: Kota – Bring AI agent CLIs into the same room",
+          "title": "The 1990s Web vs. today's AI",
           "summary": "暂无摘要",
-          "source": "chriswunan",
-          "url": "https://www.kota.place/",
-          "time": "2026-08-02"
+          "source": "Ariarule",
+          "url": "https://arnoldkling.substack.com/p/the-1990s-web-vs-todays-ai",
+          "time": "2026-08-03"
         },
         {
-          "title": "Is AI Progress Stalling? Or is it me?",
+          "title": "How do we prove our newsroom isn't AI?",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://arnoldkling.substack.com/p/is-ai-progress-stalling",
-          "time": "2026-08-02"
+          "source": "softwaredoug",
+          "url": "https://www.reddit.com/r/Virginia/comments/1vent3o/ok_rvirginia_how_can_we_prove_our_newsroom_isnt_ai/",
+          "time": "2026-08-03"
         },
         {
-          "title": "AI-assisted analytics now 10x cheaper",
+          "title": "When is it OK to use AI?",
           "summary": "暂无摘要",
-          "source": "ryguyrg",
-          "url": "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/",
-          "time": "2026-08-02"
+          "source": "erikschoster",
+          "url": "https://techtonic.fm/episodes/2026-05-18-when-is-it-ok-to-use-ai/",
+          "time": "2026-08-03"
         },
         {
-          "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+          "title": "Concern about AI spikes following OpenAI hacking incident",
           "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-          "time": "2026-08-02"
+          "source": "colinhb",
+          "url": "https://news.americanson.ai/p/concern-about-ai-spikes-following",
+          "time": "2026-08-03"
         },
         {
-          "title": "Nanocodex: Building blocks for frontier OpenAI agents in Rust",
+          "title": "Modeling generative AI adoption and digital divide among Chinese rural teachers",
           "summary": "暂无摘要",
-          "source": "sygma",
-          "url": "https://github.com/gakonst/nanocodex",
-          "time": "2026-08-02"
+          "source": "thinkingemote",
+          "url": "https://www.nature.com/articles/s41598-026-64624-3",
+          "time": "2026-08-03"
         },
         {
-          "title": "AI and the iPod Test",
+          "title": "16 Year old used AI to disprove professor",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202607/ai-and-the-ipod-test",
-          "time": "2026-08-02"
+          "source": "nicoraga",
+          "url": "https://twitter.com/MaseehG_/status/2084327646209392907",
+          "time": "2026-08-03"
         },
         {
-          "title": "Show HN: Mapping Jensen Huang's five-layer AI stack to engineering degrees",
+          "title": "GNU Compiler Collection – AI Policy",
           "summary": "暂无摘要",
-          "source": "ithkai92",
-          "url": "https://ai-five-layer-map.pages.dev/",
-          "time": "2026-08-02"
+          "source": "foxmoss",
+          "url": "https://gcc.gnu.org/ai-policy.html",
+          "time": "2026-08-03"
         },
         {
-          "title": "YouTuber Hank Green says his AI usage is 'not healthy'",
+          "title": "So many fake AI marketing articles on home page of HN in working days? So evil?",
           "summary": "暂无摘要",
-          "source": "embedding-shape",
-          "url": "https://old.reddit.com/r/nerdfighters/comments/1vbmoj5/on_hank_admitting_he_used_chatgpt_for_his_latest/p0vzmog/",
-          "time": "2026-08-02"
+          "source": "lilerjee",
+          "url": "https://news.ycombinator.com/item?id=49160266",
+          "time": "2026-08-03"
         },
         {
-          "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
+          "title": "Many businesses using AI to save time, but do they know what they're doing?",
           "summary": "暂无摘要",
-          "source": "CharlesW",
-          "url": "https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die",
-          "time": "2026-08-02"
+          "source": "billybuckwheat",
+          "url": "https://www.rnz.co.nz/news/business/874814/many-businesses-using-ai-to-save-time-but-do-they-know-what-they-re-doing",
+          "time": "2026-08-03"
         }
       ]
     },
@@ -420,6 +420,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+          "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+          "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+          "source": "Russell Brandom",
+          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+          "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+          "time": "2026-08-03"
+        },
         {
           "title": "India is starting to pay for apps, not just download them",
           "summary": "India's app market generated a record $345 million in Q2.",
@@ -433,13 +454,6 @@
           "source": "Marina Temkin",
           "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
           "time": "2026-07-31"
-        },
-        {
-          "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
-          "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-          "time": "2026-07-30"
         },
         {
           "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
@@ -463,6 +477,13 @@
       "icon": "💡",
       "news": [
         {
+          "title": "Trump’s AI protectionism has come for robotics",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+          "time": "2026-08-03"
+        },
+        {
           "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its mod",
           "source": "Will Douglas Heaven",
@@ -475,13 +496,6 @@
           "source": "Keegan Sheedy, Lucas Melo",
           "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
           "time": "2026-07-27"
-        },
-        {
-          "title": "China’s AI models have Trump’s AI world at war with itself",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to ",
-          "source": "James O'Donnell",
-          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-          "time": "2026-07-20"
         }
       ]
     },
@@ -645,6 +659,146 @@
           "time": "2022-12-16"
         },
         {
+          "title": "Can an AI Model Obey a Strict Style Guide?",
+          "summary": "暂无摘要",
+          "source": "johnrising",
+          "url": "https://bymorning.ai/journal/ai-style-guide",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "Forward Deployed Executives: The Next Billion-Dollar AI Unblock",
+          "summary": "暂无摘要",
+          "source": "rickmanelius",
+          "url": "https://www.rickmanelius.com/p/forward-deployed-executives-the-next",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "A Closed-Loop Consequence-Governance Runtime for AI Agents",
+          "summary": "暂无摘要",
+          "source": "TealGrapes93",
+          "url": "https://zenodo.org/records/21778592",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "We Keep Renaming AI Coding. Here's What I'd Call It",
+          "summary": "暂无摘要",
+          "source": "BerislavLopac",
+          "url": "https://www.oreilly.com/radar/we-keep-renaming-ai-coding-heres-what-id-call-it/",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "The U.S. lead over China in AI is all but gone",
+          "summary": "暂无摘要",
+          "source": "yogthos",
+          "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "AI Trivia Tavern – realtime multiplayer trivia with AI-generated questions",
+          "summary": "暂无摘要",
+          "source": "jbtruats",
+          "url": "https://ai-trivia-tavern.onrender.com/",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+          "summary": "暂无摘要",
+          "source": "mapping365",
+          "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "Linux didn't just eat 10% of Windows share, AI bots are inflating the numbers",
+          "summary": "暂无摘要",
+          "source": "taubek",
+          "url": "https://www.windowslatest.com/2026/08/03/linux-didnt-just-eat-10-of-windows-market-share-ai-bots-are-inflating-the-numbers/",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "DDoS against Norwegian government IT infrastructure – status",
+          "summary": "暂无摘要",
+          "source": "e12e",
+          "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
+          "summary": "暂无摘要",
+          "source": "mikelgan",
+          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "The 1990s Web vs. today's AI",
+          "summary": "暂无摘要",
+          "source": "Ariarule",
+          "url": "https://arnoldkling.substack.com/p/the-1990s-web-vs-todays-ai",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "How do we prove our newsroom isn't AI?",
+          "summary": "暂无摘要",
+          "source": "softwaredoug",
+          "url": "https://www.reddit.com/r/Virginia/comments/1vent3o/ok_rvirginia_how_can_we_prove_our_newsroom_isnt_ai/",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "When is it OK to use AI?",
+          "summary": "暂无摘要",
+          "source": "erikschoster",
+          "url": "https://techtonic.fm/episodes/2026-05-18-when-is-it-ok-to-use-ai/",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "Concern about AI spikes following OpenAI hacking incident",
+          "summary": "暂无摘要",
+          "source": "colinhb",
+          "url": "https://news.americanson.ai/p/concern-about-ai-spikes-following",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "Modeling generative AI adoption and digital divide among Chinese rural teachers",
+          "summary": "暂无摘要",
+          "source": "thinkingemote",
+          "url": "https://www.nature.com/articles/s41598-026-64624-3",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "16 Year old used AI to disprove professor",
+          "summary": "暂无摘要",
+          "source": "nicoraga",
+          "url": "https://twitter.com/MaseehG_/status/2084327646209392907",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "GNU Compiler Collection – AI Policy",
+          "summary": "暂无摘要",
+          "source": "foxmoss",
+          "url": "https://gcc.gnu.org/ai-policy.html",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "So many fake AI marketing articles on home page of HN in working days? So evil?",
+          "summary": "暂无摘要",
+          "source": "lilerjee",
+          "url": "https://news.ycombinator.com/item?id=49160266",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "Many businesses using AI to save time, but do they know what they're doing?",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.rnz.co.nz/news/business/874814/many-businesses-using-ai-to-save-time-but-do-they-know-what-they-re-doing",
+          "time": "2026-08-03"
+        },
+        {
+          "title": "Apple challenges UK government's latest demand for iCloud backdoor: report",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+          "time": "2026-08-03"
+        },
+        {
           "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
           "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
           "source": "Isabella Ward",
@@ -664,13 +818,6 @@
           "source": "Lily Hay Newman",
           "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
           "time": "2026-08-01"
-        },
-        {
-          "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-          "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-          "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-          "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-          "time": "2026-07-30"
         }
       ]
     }
