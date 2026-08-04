@@ -1,152 +1,12 @@
 {
-  "updateTime": "2026-08-03T20:55:18.628Z",
-  "date": "2026年8月3日 20时55分",
+  "updateTime": "2026-08-04T21:01:43.418Z",
+  "date": "2026年8月4日 21时1分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
-        {
-          "title": "Boomers Are Leaving Behind More Art Than Anyone Wants",
-          "summary": "暂无摘要",
-          "source": "lispybanana",
-          "url": "https://www.bloomberg.com/news/features/2026-07-31/the-great-wealth-transfer-includes-1-trillion-in-art",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Minimum Description Length Meets Singular Learning Theory",
-          "summary": "暂无摘要",
-          "source": "E-Reverance",
-          "url": "https://arxiv.org/abs/2510.12077",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Can an AI Model Obey a Strict Style Guide?",
-          "summary": "暂无摘要",
-          "source": "johnrising",
-          "url": "https://bymorning.ai/journal/ai-style-guide",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Forward Deployed Executives: The Next Billion-Dollar AI Unblock",
-          "summary": "暂无摘要",
-          "source": "rickmanelius",
-          "url": "https://www.rickmanelius.com/p/forward-deployed-executives-the-next",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "A Closed-Loop Consequence-Governance Runtime for AI Agents",
-          "summary": "暂无摘要",
-          "source": "TealGrapes93",
-          "url": "https://zenodo.org/records/21778592",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "The college earnings gap isn't one number",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://blog.waldrn.com/p/the-college-earnings-gap-isnt-one",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Show HN: Mirall – Secure large (terabyte) file transfer. No cloud. No middleman",
-          "summary": "暂无摘要",
-          "source": "gokohl",
-          "url": "https://github.com/ok/mirall-app",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "We Keep Renaming AI Coding. Here's What I'd Call It",
-          "summary": "暂无摘要",
-          "source": "BerislavLopac",
-          "url": "https://www.oreilly.com/radar/we-keep-renaming-ai-coding-heres-what-id-call-it/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "The U.S. lead over China in AI is all but gone",
-          "summary": "暂无摘要",
-          "source": "yogthos",
-          "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "AI Trivia Tavern – realtime multiplayer trivia with AI-generated questions",
-          "summary": "暂无摘要",
-          "source": "jbtruats",
-          "url": "https://ai-trivia-tavern.onrender.com/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-          "summary": "暂无摘要",
-          "source": "mapping365",
-          "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Linux didn't just eat 10% of Windows share, AI bots are inflating the numbers",
-          "summary": "暂无摘要",
-          "source": "taubek",
-          "url": "https://www.windowslatest.com/2026/08/03/linux-didnt-just-eat-10-of-windows-market-share-ai-bots-are-inflating-the-numbers/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "The 1990s Web vs. today's AI",
-          "summary": "暂无摘要",
-          "source": "Ariarule",
-          "url": "https://arnoldkling.substack.com/p/the-1990s-web-vs-todays-ai",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "How do we prove our newsroom isn't AI?",
-          "summary": "暂无摘要",
-          "source": "softwaredoug",
-          "url": "https://www.reddit.com/r/Virginia/comments/1vent3o/ok_rvirginia_how_can_we_prove_our_newsroom_isnt_ai/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "When is it OK to use AI?",
-          "summary": "暂无摘要",
-          "source": "erikschoster",
-          "url": "https://techtonic.fm/episodes/2026-05-18-when-is-it-ok-to-use-ai/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Concern about AI spikes following OpenAI hacking incident",
-          "summary": "暂无摘要",
-          "source": "colinhb",
-          "url": "https://news.americanson.ai/p/concern-about-ai-spikes-following",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Modeling generative AI adoption and digital divide among Chinese rural teachers",
-          "summary": "暂无摘要",
-          "source": "thinkingemote",
-          "url": "https://www.nature.com/articles/s41598-026-64624-3",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Learning Rust: Updated",
-          "summary": "暂无摘要",
-          "source": "dumindunuwan",
-          "url": "https://learning-rust.github.io",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "16 Year old used AI to disprove professor",
-          "summary": "暂无摘要",
-          "source": "nicoraga",
-          "url": "https://twitter.com/MaseehG_/status/2084327646209392907",
-          "time": "2026-08-03"
-        },
         {
           "title": "Here’s why AI agents lie and cheat to reach their goals",
           "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model",
@@ -175,6 +35,20 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "The latest AI news we announced in July 2026",
+          "summary": "Here are Google’s latest AI updates from July 2026",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+          "time": "2026-08-04"
+        },
+        {
+          "title": "Inside our 353,000-person vibe coding course",
+          "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+          "time": "2026-08-03"
+        },
         {
           "title": "5 ways to host the ultimate dinner party with Google Search",
           "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
@@ -258,160 +132,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
           "time": "2026-06-03"
-        },
-        {
-          "title": "How we used Gemini to build Google I/O 2026",
-          "summary": "Learn how Googlers used AI to produce Google I/O 2026.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-          "time": "2026-06-01"
-        },
-        {
-          "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-          "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-          "time": "2026-05-29"
-        },
-        {
-          "title": "Can an AI Model Obey a Strict Style Guide?",
-          "summary": "暂无摘要",
-          "source": "johnrising",
-          "url": "https://bymorning.ai/journal/ai-style-guide",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Forward Deployed Executives: The Next Billion-Dollar AI Unblock",
-          "summary": "暂无摘要",
-          "source": "rickmanelius",
-          "url": "https://www.rickmanelius.com/p/forward-deployed-executives-the-next",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "A Closed-Loop Consequence-Governance Runtime for AI Agents",
-          "summary": "暂无摘要",
-          "source": "TealGrapes93",
-          "url": "https://zenodo.org/records/21778592",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Why it's impossible to get relevant news on Google News",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://elgan.com/why-its-impossible-to-get-relevant-news-on-google-news",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "We Keep Renaming AI Coding. Here's What I'd Call It",
-          "summary": "暂无摘要",
-          "source": "BerislavLopac",
-          "url": "https://www.oreilly.com/radar/we-keep-renaming-ai-coding-heres-what-id-call-it/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "The U.S. lead over China in AI is all but gone",
-          "summary": "暂无摘要",
-          "source": "yogthos",
-          "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "AI Trivia Tavern – realtime multiplayer trivia with AI-generated questions",
-          "summary": "暂无摘要",
-          "source": "jbtruats",
-          "url": "https://ai-trivia-tavern.onrender.com/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-          "summary": "暂无摘要",
-          "source": "mapping365",
-          "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Linux didn't just eat 10% of Windows share, AI bots are inflating the numbers",
-          "summary": "暂无摘要",
-          "source": "taubek",
-          "url": "https://www.windowslatest.com/2026/08/03/linux-didnt-just-eat-10-of-windows-market-share-ai-bots-are-inflating-the-numbers/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Ask HN: ThePirateBay vs. Anthropic",
-          "summary": "暂无摘要",
-          "source": "sarmadgulzar",
-          "url": "https://news.ycombinator.com/item?id=49160614",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "The 1990s Web vs. today's AI",
-          "summary": "暂无摘要",
-          "source": "Ariarule",
-          "url": "https://arnoldkling.substack.com/p/the-1990s-web-vs-todays-ai",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "How do we prove our newsroom isn't AI?",
-          "summary": "暂无摘要",
-          "source": "softwaredoug",
-          "url": "https://www.reddit.com/r/Virginia/comments/1vent3o/ok_rvirginia_how_can_we_prove_our_newsroom_isnt_ai/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "When is it OK to use AI?",
-          "summary": "暂无摘要",
-          "source": "erikschoster",
-          "url": "https://techtonic.fm/episodes/2026-05-18-when-is-it-ok-to-use-ai/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Concern about AI spikes following OpenAI hacking incident",
-          "summary": "暂无摘要",
-          "source": "colinhb",
-          "url": "https://news.americanson.ai/p/concern-about-ai-spikes-following",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Modeling generative AI adoption and digital divide among Chinese rural teachers",
-          "summary": "暂无摘要",
-          "source": "thinkingemote",
-          "url": "https://www.nature.com/articles/s41598-026-64624-3",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "16 Year old used AI to disprove professor",
-          "summary": "暂无摘要",
-          "source": "nicoraga",
-          "url": "https://twitter.com/MaseehG_/status/2084327646209392907",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "GNU Compiler Collection – AI Policy",
-          "summary": "暂无摘要",
-          "source": "foxmoss",
-          "url": "https://gcc.gnu.org/ai-policy.html",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "So many fake AI marketing articles on home page of HN in working days? So evil?",
-          "summary": "暂无摘要",
-          "source": "lilerjee",
-          "url": "https://news.ycombinator.com/item?id=49160266",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Many businesses using AI to save time, but do they know what they're doing?",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/business/874814/many-businesses-using-ai-to-save-time-but-do-they-know-what-they-re-doing",
-          "time": "2026-08-03"
         }
       ]
     },
@@ -421,15 +141,29 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "source": "Lucas Ropek",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "time": "2026-08-04"
+        },
+        {
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
+          "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+          "time": "2026-08-03"
+        },
+        {
           "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-          "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+          "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
           "source": "Julie Bort",
           "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
           "time": "2026-08-03"
         },
         {
-          "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
-          "summary": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+          "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
           "source": "Russell Brandom",
           "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
           "time": "2026-08-03"
@@ -442,32 +176,11 @@
           "time": "2026-08-03"
         },
         {
-          "title": "India is starting to pay for apps, not just download them",
-          "summary": "India's app market generated a record $345 million in Q2.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-          "time": "2026-07-31"
-        },
-        {
-          "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-          "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-          "time": "2026-07-31"
-        },
-        {
-          "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
-          "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
-          "source": "Steven Levy",
-          "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
-          "time": "2026-07-31"
-        },
-        {
-          "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
-          "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
-          "source": "Louise Matsakis, Lily Hay Newman",
-          "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
-          "time": "2026-07-31"
+          "title": "How One Startup Built a (Mostly) China-Free Robot",
+          "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+          "source": "Paresh Dave",
+          "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+          "time": "2026-08-04"
         }
       ]
     },
@@ -478,7 +191,7 @@
       "news": [
         {
           "title": "Trump’s AI protectionism has come for robotics",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stum",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They",
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
           "time": "2026-08-03"
@@ -659,144 +372,18 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Can an AI Model Obey a Strict Style Guide?",
-          "summary": "暂无摘要",
-          "source": "johnrising",
-          "url": "https://bymorning.ai/journal/ai-style-guide",
-          "time": "2026-08-03"
+          "title": "How One Startup Built a (Mostly) China-Free Robot",
+          "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+          "source": "Paresh Dave",
+          "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+          "time": "2026-08-04"
         },
         {
-          "title": "Forward Deployed Executives: The Next Billion-Dollar AI Unblock",
-          "summary": "暂无摘要",
-          "source": "rickmanelius",
-          "url": "https://www.rickmanelius.com/p/forward-deployed-executives-the-next",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "A Closed-Loop Consequence-Governance Runtime for AI Agents",
-          "summary": "暂无摘要",
-          "source": "TealGrapes93",
-          "url": "https://zenodo.org/records/21778592",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "We Keep Renaming AI Coding. Here's What I'd Call It",
-          "summary": "暂无摘要",
-          "source": "BerislavLopac",
-          "url": "https://www.oreilly.com/radar/we-keep-renaming-ai-coding-heres-what-id-call-it/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "The U.S. lead over China in AI is all but gone",
-          "summary": "暂无摘要",
-          "source": "yogthos",
-          "url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "AI Trivia Tavern – realtime multiplayer trivia with AI-generated questions",
-          "summary": "暂无摘要",
-          "source": "jbtruats",
-          "url": "https://ai-trivia-tavern.onrender.com/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-          "summary": "暂无摘要",
-          "source": "mapping365",
-          "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Linux didn't just eat 10% of Windows share, AI bots are inflating the numbers",
-          "summary": "暂无摘要",
-          "source": "taubek",
-          "url": "https://www.windowslatest.com/2026/08/03/linux-didnt-just-eat-10-of-windows-market-share-ai-bots-are-inflating-the-numbers/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "DDoS against Norwegian government IT infrastructure – status",
-          "summary": "暂无摘要",
-          "source": "e12e",
-          "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Who's legally to blame for Anthropic and OpenAI's autonomous AI hacks?",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "The 1990s Web vs. today's AI",
-          "summary": "暂无摘要",
-          "source": "Ariarule",
-          "url": "https://arnoldkling.substack.com/p/the-1990s-web-vs-todays-ai",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "How do we prove our newsroom isn't AI?",
-          "summary": "暂无摘要",
-          "source": "softwaredoug",
-          "url": "https://www.reddit.com/r/Virginia/comments/1vent3o/ok_rvirginia_how_can_we_prove_our_newsroom_isnt_ai/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "When is it OK to use AI?",
-          "summary": "暂无摘要",
-          "source": "erikschoster",
-          "url": "https://techtonic.fm/episodes/2026-05-18-when-is-it-ok-to-use-ai/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Concern about AI spikes following OpenAI hacking incident",
-          "summary": "暂无摘要",
-          "source": "colinhb",
-          "url": "https://news.americanson.ai/p/concern-about-ai-spikes-following",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Modeling generative AI adoption and digital divide among Chinese rural teachers",
-          "summary": "暂无摘要",
-          "source": "thinkingemote",
-          "url": "https://www.nature.com/articles/s41598-026-64624-3",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "16 Year old used AI to disprove professor",
-          "summary": "暂无摘要",
-          "source": "nicoraga",
-          "url": "https://twitter.com/MaseehG_/status/2084327646209392907",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "GNU Compiler Collection – AI Policy",
-          "summary": "暂无摘要",
-          "source": "foxmoss",
-          "url": "https://gcc.gnu.org/ai-policy.html",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "So many fake AI marketing articles on home page of HN in working days? So evil?",
-          "summary": "暂无摘要",
-          "source": "lilerjee",
-          "url": "https://news.ycombinator.com/item?id=49160266",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Many businesses using AI to save time, but do they know what they're doing?",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/business/874814/many-businesses-using-ai-to-save-time-but-do-they-know-what-they-re-doing",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "Apple challenges UK government's latest demand for iCloud backdoor: report",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
-          "time": "2026-08-03"
+          "title": "How Data Centers Broke American Politics",
+          "summary": "What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
+          "source": "Molly Taft",
+          "url": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
+          "time": "2026-08-04"
         },
         {
           "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
@@ -810,13 +397,6 @@
           "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
           "source": "Matt Burgess, Maddy Varner, Dell Cameron, Andy Greenberg",
           "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-          "time": "2026-08-01"
-        },
-        {
-          "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-          "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
-          "source": "Lily Hay Newman",
-          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
           "time": "2026-08-01"
         }
       ]
