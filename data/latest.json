@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-04T21:01:43.418Z",
-  "date": "2026年8月4日 21时1分",
+  "updateTime": "2026-08-05T20:57:13.304Z",
+  "date": "2026年8月5日 20时57分",
   "categories": [
     {
       "id": "tech",
@@ -141,6 +141,20 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+          "source": "Lucas Ropek",
+          "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+          "time": "2026-08-05"
+        },
+        {
+          "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+          "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+          "time": "2026-08-05"
+        },
+        {
           "title": "Anthropic signs $10B deal with AI cloud startup Volta",
           "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
           "source": "Lucas Ropek",
@@ -155,32 +169,18 @@
           "time": "2026-08-03"
         },
         {
-          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-          "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-          "time": "2026-08-03"
+          "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
+          "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
+          "source": "Steven Levy",
+          "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+          "time": "2026-08-05"
         },
         {
-          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-          "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-          "source": "Russell Brandom",
-          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-          "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-          "time": "2026-08-03"
-        },
-        {
-          "title": "How One Startup Built a (Mostly) China-Free Robot",
-          "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
-          "source": "Paresh Dave",
-          "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
-          "time": "2026-08-04"
+          "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
+          "summary": "Nobody likes getting a swab shoved up their nose. A startup in Japan has developed a much less intrusive system.",
+          "source": "Daisuke Takimoto",
+          "url": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
+          "time": "2026-08-05"
         }
       ]
     },
@@ -372,32 +372,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "How One Startup Built a (Mostly) China-Free Robot",
-          "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
-          "source": "Paresh Dave",
-          "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
-          "time": "2026-08-04"
-        },
-        {
-          "title": "How Data Centers Broke American Politics",
-          "summary": "What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
-          "source": "Molly Taft",
-          "url": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
-          "time": "2026-08-04"
-        },
-        {
-          "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-          "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-          "source": "Isabella Ward",
-          "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-          "time": "2026-08-02"
-        },
-        {
-          "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-          "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
-          "source": "Matt Burgess, Maddy Varner, Dell Cameron, Andy Greenberg",
-          "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-          "time": "2026-08-01"
+          "title": "AI Influencers Are Heading Into Uncharted Territory",
+          "summary": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
+          "source": "Megan Carnegie",
+          "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
+          "time": "2026-08-05"
         }
       ]
     }
