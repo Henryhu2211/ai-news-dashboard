@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-05T20:57:13.304Z",
-  "date": "2026年8月5日 20时57分",
+  "updateTime": "2026-08-07T00:50:44.507Z",
+  "date": "2026年8月7日 0时50分",
   "categories": [
     {
       "id": "tech",
@@ -132,6 +132,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
           "time": "2026-06-03"
+        },
+        {
+          "title": "Open source Cloud AI agents",
+          "summary": "暂无摘要",
+          "source": "nikonruslan7",
+          "url": "https://www.krowoc.com/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "New Orleans will use AI to answer 911 calls instead of a human",
+          "summary": "暂无摘要",
+          "source": "champagnepapi",
+          "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Meta fined $567M in largest child safety ruling against social media giant",
+          "summary": "暂无摘要",
+          "source": "tartoran",
+          "url": "https://www.bbc.com/news/articles/cd7lz3wr2rlo",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "New Mexico court orders Meta to pay $567M over harms to children's mental health",
+          "summary": "暂无摘要",
+          "source": "devonnull",
+          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Tracely – Turn AI agent production failures into CI regression tests",
+          "summary": "暂无摘要",
+          "source": "jwuthri",
+          "url": "https://tracely-studio.xyz/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "I launched a fake deodorant brand to see if AI would notice",
+          "summary": "暂无摘要",
+          "source": "glaslong",
+          "url": "https://xcancel.com/antibot/captcha",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Trump's AI Framework Is So Bad They Won't Show You What's in It",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.techdirt.com/2026/08/06/trumps-ai-framework-is-so-bad-they-wont-show-you-whats-in-it/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+          "summary": "暂无摘要",
+          "source": "boplicity",
+          "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Show HN: AI Tutoring with Visual Grounding",
+          "summary": "暂无摘要",
+          "source": "samuelzxu",
+          "url": "https://useknowable.ai/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "OpenAI Response to Apple [pdf]",
+          "summary": "暂无摘要",
+          "source": "sanj",
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.59.0.pdf",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Google Shakes Up A.I. Leadership",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Google Shifts AI Power Back to Brin as DeepMind's Hassabis Steps Aside",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Reasons I [Gary Marcus] wouldn't count Google out",
+          "summary": "暂无摘要",
+          "source": "mdp2021",
+          "url": "https://garymarcus.substack.com/p/seven-reasons-i-wouldnt-count-google",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Show HN: ARF – a record format for AI evaluation runs, with reproducible digests",
+          "summary": "暂无摘要",
+          "source": "akshay_bhardwaj",
+          "url": "https://www.korvo.xyz/arf",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Intuitize – The Thoughtful AI",
+          "summary": "暂无摘要",
+          "source": "telui",
+          "url": "https://intuitize.pages.dev/",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "The energy use of agentic AI",
+          "summary": "暂无摘要",
+          "source": "alphabetatango",
+          "url": "https://www.theclimatebrink.com/p/the-real-energy-use-of-agentic-ai",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Social Media AI Agent That Works over WhatsApp",
+          "summary": "暂无摘要",
+          "source": "jflynn2",
+          "url": "https://www.youtube.com/watch?v=J9TJciv_hxc",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Show HN: GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor",
+          "summary": "暂无摘要",
+          "source": "clapptastic",
+          "url": "https://www.greatarrow.ai",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Google repository now has 90 skills",
+          "summary": "暂无摘要",
+          "source": "haebom",
+          "url": "https://github.com/google/skills",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
+          "summary": "暂无摘要",
+          "source": "prng2021",
+          "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/",
+          "time": "2026-08-06"
         }
       ]
     },
@@ -140,6 +280,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+          "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+          "source": "Lauren Forristal",
+          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+          "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and ",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Omilia raises $67M to scale its customer support platform",
+          "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+          "time": "2026-08-06"
+        },
         {
           "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
           "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
@@ -155,20 +316,6 @@
           "time": "2026-08-05"
         },
         {
-          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-          "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-          "time": "2026-08-04"
-        },
-        {
-          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
-          "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-          "time": "2026-08-03"
-        },
-        {
           "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
           "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
           "source": "Steven Levy",
@@ -176,11 +323,137 @@
           "time": "2026-08-05"
         },
         {
-          "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
-          "summary": "Nobody likes getting a swab shoved up their nose. A startup in Japan has developed a much less intrusive system.",
-          "source": "Daisuke Takimoto",
-          "url": "https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/",
-          "time": "2026-08-05"
+          "title": "Open source Cloud AI agents",
+          "summary": "暂无摘要",
+          "source": "nikonruslan7",
+          "url": "https://www.krowoc.com/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "New Orleans will use AI to answer 911 calls instead of a human",
+          "summary": "暂无摘要",
+          "source": "champagnepapi",
+          "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Tracely – Turn AI agent production failures into CI regression tests",
+          "summary": "暂无摘要",
+          "source": "jwuthri",
+          "url": "https://tracely-studio.xyz/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "I launched a fake deodorant brand to see if AI would notice",
+          "summary": "暂无摘要",
+          "source": "glaslong",
+          "url": "https://xcancel.com/antibot/captcha",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Trump's AI Framework Is So Bad They Won't Show You What's in It",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.techdirt.com/2026/08/06/trumps-ai-framework-is-so-bad-they-wont-show-you-whats-in-it/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "One Startup Built a (Mostly) China-Free Robot",
+          "summary": "暂无摘要",
+          "source": "dwa3592",
+          "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Show HN: AI Tutoring with Visual Grounding",
+          "summary": "暂无摘要",
+          "source": "samuelzxu",
+          "url": "https://useknowable.ai/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Google Shifts AI Power Back to Brin as DeepMind's Hassabis Steps Aside",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Show HN: ARF – a record format for AI evaluation runs, with reproducible digests",
+          "summary": "暂无摘要",
+          "source": "akshay_bhardwaj",
+          "url": "https://www.korvo.xyz/arf",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Intuitize – The Thoughtful AI",
+          "summary": "暂无摘要",
+          "source": "telui",
+          "url": "https://intuitize.pages.dev/",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "The energy use of agentic AI",
+          "summary": "暂无摘要",
+          "source": "alphabetatango",
+          "url": "https://www.theclimatebrink.com/p/the-real-energy-use-of-agentic-ai",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Social Media AI Agent That Works over WhatsApp",
+          "summary": "暂无摘要",
+          "source": "jflynn2",
+          "url": "https://www.youtube.com/watch?v=J9TJciv_hxc",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Show HN: GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor",
+          "summary": "暂无摘要",
+          "source": "clapptastic",
+          "url": "https://www.greatarrow.ai",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Kevin Warsh to stick with lean Fed messaging despite market backlash",
+          "summary": "暂无摘要",
+          "source": "petethomas",
+          "url": "https://www.ft.com/content/debe096f-ec89-424f-a8ca-d3843ef53549",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Introducing Dogwood: runtime verification for AI agents",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "OpenAI and four rivals just agreed on one standard for AI agents",
+          "summary": "暂无摘要",
+          "source": "FireBeyond",
+          "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "The messy politics behind Google's big AI shakeup",
+          "summary": "暂无摘要",
+          "source": "Anon84",
+          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "BMS ran AI for drug discovery 3 years- what they found and why they doubled down",
+          "summary": "暂无摘要",
+          "source": "bcaulfield",
+          "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Why AI is a risk to Communist China",
+          "summary": "暂无摘要",
+          "source": "petethomas",
+          "url": "https://www.economist.com/leaders/2026/08/06/why-ai-is-a-risk-to-communist-china",
+          "time": "2026-08-06"
         }
       ]
     },
@@ -370,6 +643,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Open source Cloud AI agents",
+          "summary": "暂无摘要",
+          "source": "nikonruslan7",
+          "url": "https://www.krowoc.com/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "New Orleans will use AI to answer 911 calls instead of a human",
+          "summary": "暂无摘要",
+          "source": "champagnepapi",
+          "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Tracely – Turn AI agent production failures into CI regression tests",
+          "summary": "暂无摘要",
+          "source": "jwuthri",
+          "url": "https://tracely-studio.xyz/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "I launched a fake deodorant brand to see if AI would notice",
+          "summary": "暂无摘要",
+          "source": "glaslong",
+          "url": "https://xcancel.com/antibot/captcha",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Trump's AI Framework Is So Bad They Won't Show You What's in It",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.techdirt.com/2026/08/06/trumps-ai-framework-is-so-bad-they-wont-show-you-whats-in-it/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Show HN: AI Tutoring with Visual Grounding",
+          "summary": "暂无摘要",
+          "source": "samuelzxu",
+          "url": "https://useknowable.ai/",
+          "time": "2026-08-07"
+        },
+        {
+          "title": "Google Shifts AI Power Back to Brin as DeepMind's Hassabis Steps Aside",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Show HN: ARF – a record format for AI evaluation runs, with reproducible digests",
+          "summary": "暂无摘要",
+          "source": "akshay_bhardwaj",
+          "url": "https://www.korvo.xyz/arf",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Intuitize – The Thoughtful AI",
+          "summary": "暂无摘要",
+          "source": "telui",
+          "url": "https://intuitize.pages.dev/",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "The energy use of agentic AI",
+          "summary": "暂无摘要",
+          "source": "alphabetatango",
+          "url": "https://www.theclimatebrink.com/p/the-real-energy-use-of-agentic-ai",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Social Media AI Agent That Works over WhatsApp",
+          "summary": "暂无摘要",
+          "source": "jflynn2",
+          "url": "https://www.youtube.com/watch?v=J9TJciv_hxc",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Show HN: GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor",
+          "summary": "暂无摘要",
+          "source": "clapptastic",
+          "url": "https://www.greatarrow.ai",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Introducing Dogwood: runtime verification for AI agents",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://aws.amazon.com/blogs/opensource/introducing-dogwood-runtime-verification-for-ai-agents/",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "OpenAI and four rivals just agreed on one standard for AI agents",
+          "summary": "暂无摘要",
+          "source": "FireBeyond",
+          "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "The messy politics behind Google's big AI shakeup",
+          "summary": "暂无摘要",
+          "source": "Anon84",
+          "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "BMS ran AI for drug discovery 3 years- what they found and why they doubled down",
+          "summary": "暂无摘要",
+          "source": "bcaulfield",
+          "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Why AI is a risk to Communist China",
+          "summary": "暂无摘要",
+          "source": "petethomas",
+          "url": "https://www.economist.com/leaders/2026/08/06/why-ai-is-a-risk-to-communist-china",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+          "summary": "暂无摘要",
+          "source": "gnabgib",
+          "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "China built its 'Manhattan Project' to rival the West in AI chips [video]",
+          "summary": "暂无摘要",
+          "source": "binyu",
+          "url": "https://www.youtube.com/watch?v=25ttDa0eqJQ",
+          "time": "2026-08-06"
+        },
+        {
+          "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+          "summary": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+          "source": "Matt Burgess",
+          "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+          "time": "2026-08-05"
         },
         {
           "title": "AI Influencers Are Heading Into Uncharted Territory",
