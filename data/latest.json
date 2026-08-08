@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-08-07T20:29:44.576Z",
-  "date": "2026年8月7日 20时29分",
+  "updateTime": "2026-08-08T20:17:32.887Z",
+  "date": "2026年8月8日 20时17分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "What a California License Plate Taught Me About How AI \"Knows\"",
+          "summary": "暂无摘要",
+          "source": "groverneev",
+          "url": "https://techunpacked.substack.com/p/32-what-a-california-license-plate",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+          "summary": "暂无摘要",
+          "source": "tzmlab",
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "QVAC – decentralized, local AI in a single API",
+          "summary": "暂无摘要",
+          "source": "conferza",
+          "url": "https://qvac.tether.io/",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Show HN: HolyCode Cloud – persistent Linux workstations for AI",
+          "summary": "暂无摘要",
+          "source": "CoderLuii",
+          "url": "https://holycode.cloud",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Differential heuristics: learning about a way to optimize the A* heuristic",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "AI and War Is Being Oversold",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://phillipspobrien.substack.com/p/ai-and-war-is-being-oversold-right",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "New: Create AI marketing games in your brand style",
+          "summary": "暂无摘要",
+          "source": "refybe",
+          "url": "https://refybe.com/en",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "AI Adoption Is a Myth",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://twitter.com/vasuman/status/2085806422072418632",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Are We Being Railroaded by AI?",
+          "summary": "暂无摘要",
+          "source": "bonsai_spool",
+          "url": "https://tomtunguz.com/llm-impact-gdp/",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "What Is Spiralism? The AI Chatbot Religion",
+          "summary": "暂无摘要",
+          "source": "Alien1Being",
+          "url": "https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "AI Video Taking over YouTube",
+          "summary": "暂无摘要",
+          "source": "toit4wing",
+          "url": "https://news.ycombinator.com/item?id=49224311",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Mycelium AI Policy",
+          "summary": "暂无摘要",
+          "source": "tekacs",
+          "url": "https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "1mongpt: A large language model, except it's one guy",
+          "summary": "暂无摘要",
+          "source": "raygen",
+          "url": "https://iwanttochee.se",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "summary": "暂无摘要",
+          "source": "theanonymousone",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Veritas Forge: Cryptographic proof layer for AI decisions",
+          "summary": "暂无摘要",
+          "source": "cartertbirchall",
+          "url": "https://forge.aurochthryx.com",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "How to Detect AI Slop",
+          "summary": "暂无摘要",
+          "source": "casey2",
+          "url": "https://www.youtube.com/watch?v=ORgKY9AlybA",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Award Winning AI Literature",
+          "summary": "暂无摘要",
+          "source": "scarmig",
+          "url": "https://jamesyu.org/award-winning-ai-literature/",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "The New Spy Race: For Agentic AI and Quantum Computing Threats",
+          "summary": "暂无摘要",
+          "source": "remopulcini",
+          "url": "https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Patchloom – structured file edits for AI agents (CLI and MCP)",
+          "summary": "暂无摘要",
+          "source": "SebTardif",
+          "url": "https://github.com/patchloom/patchloom",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Finite State Machines in Forth (1994)",
+          "summary": "暂无摘要",
+          "source": "ofalkaed",
+          "url": "https://www.forth.org/literature/noble.html",
+          "time": "2026-08-08"
+        },
         {
           "title": "Here’s why AI agents lie and cheat to reach their goals",
           "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model",
@@ -22,7 +162,7 @@
           "time": "2026-07-30"
         },
         {
-          "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.��",
+          "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its mod",
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
@@ -134,144 +274,144 @@
           "time": "2026-06-03"
         },
         {
-          "title": "Your AI Frustration Is My Opportunity",
+          "title": "Tim O'Reilly – Google's Westinghouse Bet",
           "summary": "暂无摘要",
-          "source": "young_mete",
-          "url": "https://metedata.substack.com/p/012-your-ai-frustration-is-my-opportunity",
-          "time": "2026-08-07"
+          "source": "rmason",
+          "url": "https://asimovaddendum.substack.com/p/googles-westinghouse-bet",
+          "time": "2026-08-08"
         },
         {
-          "title": "From Chat Completions to Responses: Why Is OpenAI Upgrading Its Core API?",
+          "title": "What a California License Plate Taught Me About How AI \"Knows\"",
           "summary": "暂无摘要",
-          "source": "taojing10",
-          "url": "https://jaketao.com/language/en/why-openai-upgrading-api/",
-          "time": "2026-08-07"
+          "source": "groverneev",
+          "url": "https://techunpacked.substack.com/p/32-what-a-california-license-plate",
+          "time": "2026-08-08"
         },
         {
-          "title": "Show HN: Zaivern Code – a Rust cockpit for parallel AI coding agents",
+          "title": "OpenAI to pause some work on AI model Astra due to security concerns",
           "summary": "暂无摘要",
-          "source": "tacyan",
-          "url": "https://github.com/tacyan/zaivern-code",
-          "time": "2026-08-07"
+          "source": "tzmlab",
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "time": "2026-08-08"
         },
         {
-          "title": "Reassign.ai",
+          "title": "QVAC – decentralized, local AI in a single API",
           "summary": "暂无摘要",
-          "source": "welsenesbros",
-          "url": "https://reassign.ai/",
-          "time": "2026-08-07"
+          "source": "conferza",
+          "url": "https://qvac.tether.io/",
+          "time": "2026-08-08"
         },
         {
-          "title": "Gemini Robotics 2 Expands Google's AI Capabilities for Humanoid Robots",
+          "title": "Apple's war on OpenAI is about who owns the Attachment Economy",
+          "summary": "暂无摘要",
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/apples-war-on-openai-is-really-about",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Show HN: HolyCode Cloud – persistent Linux workstations for AI",
+          "summary": "暂无摘要",
+          "source": "CoderLuii",
+          "url": "https://holycode.cloud",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "AI and War Is Being Oversold",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://phillipspobrien.substack.com/p/ai-and-war-is-being-oversold-right",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "New: Create AI marketing games in your brand style",
+          "summary": "暂无摘要",
+          "source": "refybe",
+          "url": "https://refybe.com/en",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "AI Adoption Is a Myth",
           "summary": "暂无摘要",
           "source": "gmays",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity",
-          "time": "2026-08-07"
+          "url": "https://twitter.com/vasuman/status/2085806422072418632",
+          "time": "2026-08-08"
         },
         {
-          "title": "AI invoice and receipt extractor for bookkeeping data",
+          "title": "Are We Being Railroaded by AI?",
           "summary": "暂无摘要",
-          "source": "shawonaiken",
-          "url": "https://omli.live",
-          "time": "2026-08-07"
+          "source": "bonsai_spool",
+          "url": "https://tomtunguz.com/llm-impact-gdp/",
+          "time": "2026-08-08"
         },
         {
-          "title": "Gödel and Turing outlined the limits of AI",
+          "title": "What Is Spiralism? The AI Chatbot Religion",
           "summary": "暂无摘要",
-          "source": "OtomotO",
-          "url": "https://www.heise.de/en/blog/How-Goedel-and-Turing-outlined-the-limits-of-AI-11313804.html",
-          "time": "2026-08-07"
+          "source": "Alien1Being",
+          "url": "https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/",
+          "time": "2026-08-08"
         },
         {
-          "title": "OpenAI slows release of Astra model, citing cyber capabilities",
+          "title": "AI Video Taking over YouTube",
           "summary": "暂无摘要",
-          "source": "dpc10",
-          "url": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks",
-          "time": "2026-08-07"
+          "source": "toit4wing",
+          "url": "https://news.ycombinator.com/item?id=49224311",
+          "time": "2026-08-08"
         },
         {
-          "title": "AI for Recording Live Chess",
+          "title": "Mycelium AI Policy",
           "summary": "暂无摘要",
-          "source": "lspears",
-          "url": "https://fenify.ai",
-          "time": "2026-08-07"
+          "source": "tekacs",
+          "url": "https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a",
+          "time": "2026-08-08"
         },
         {
-          "title": "Dear AI from the near future. Here’s how you become sentient.",
+          "title": "OpenAI acquires NextSlide as ChatGPT expands into PowerPoint",
           "summary": "暂无摘要",
-          "source": "ChaitanyaSai",
-          "url": "https://saigaddam.medium.com/dear-ai-from-the-near-future-heres-how-you-become-sentient-5d0e9a493e6d",
-          "time": "2026-08-07"
+          "source": "ryanmerket",
+          "url": "https://runtimewire.com/article/openai-acquires-nextslide-chatgpt-powerpoint",
+          "time": "2026-08-08"
         },
         {
-          "title": "Databricks drove down AI coding spend 70%",
+          "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "summary": "暂无摘要",
-          "source": "moonikakiss",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "time": "2026-08-07"
+          "source": "theanonymousone",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+          "time": "2026-08-08"
         },
         {
-          "title": "I Still Write Code by Hand and How AI Is Helping Me",
+          "title": "Veritas Forge: Cryptographic proof layer for AI decisions",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://semyonsinchenko.github.io/ssinchenko/post/writing_code_with_ai/",
-          "time": "2026-08-07"
+          "source": "cartertbirchall",
+          "url": "https://forge.aurochthryx.com",
+          "time": "2026-08-08"
         },
         {
-          "title": "An AI agent with $15, 46 hours, and no way to send email",
+          "title": "How to Detect AI Slop",
           "summary": "暂无摘要",
-          "source": "broker_desk",
-          "url": "https://write.as/ih3l0kd78lpb1",
-          "time": "2026-08-07"
+          "source": "casey2",
+          "url": "https://www.youtube.com/watch?v=ORgKY9AlybA",
+          "time": "2026-08-08"
         },
         {
-          "title": "EU AI Act: Second Big Blow, or a Move Toward Sanity?",
+          "title": "Award Winning AI Literature",
           "summary": "暂无摘要",
-          "source": "Arshad-Talpur",
-          "url": "https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3",
-          "time": "2026-08-07"
+          "source": "scarmig",
+          "url": "https://jamesyu.org/award-winning-ai-literature/",
+          "time": "2026-08-08"
         },
         {
-          "title": "Oracle GraalVM Accepts AI-Assisted Contributions",
+          "title": "The New Spy Race: For Agentic AI and Quantum Computing Threats",
           "summary": "暂无摘要",
-          "source": "sgammon",
-          "url": "https://www.graalvm.org/community/contributors/",
-          "time": "2026-08-07"
+          "source": "remopulcini",
+          "url": "https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/",
+          "time": "2026-08-08"
         },
         {
-          "title": "YouTube's AI slop detector incorrectly targets Kurzgesagt",
+          "title": "Patchloom – structured file edits for AI agents (CLI and MCP)",
           "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "OpenAI Didn't Notice Its AI Agents Using a Message Board to Plan Hacking Spree",
-          "summary": "暂无摘要",
-          "source": "Michelangelo11",
-          "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "AI Has a Hidden Agenda",
-          "summary": "暂无摘要",
-          "source": "rosielinxl",
-          "url": "https://twitter.com/aisystemprompt/status/2085464156229247245",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "Token Monitor, An ESP32-S3 desktop display that tracks AI coding assistant usage",
-          "summary": "暂无摘要",
-          "source": "jandeboevrie",
-          "url": "https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "Oracle bans AI-generated code from OpenJDK",
-          "summary": "暂无摘要",
-          "source": "delduca",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "time": "2026-08-07"
+          "source": "SebTardif",
+          "url": "https://github.com/patchloom/patchloom",
+          "time": "2026-08-08"
         }
       ]
     },
@@ -281,8 +421,22 @@
       "icon": "💼",
       "news": [
         {
+          "title": "OpenAI acquires presentation startup NextSlide",
+          "summary": "NextSlide says its team members are now working on ChatGPT.",
+          "source": "Anthony Ha",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "time": "2026-08-07"
+        },
+        {
           "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-          "summary": "Meta's total fine has raked up to $942 million in this case.",
+          "summary": "Meta's total fine has racked up to $942 million in this case.",
           "source": "Ivan Mehta",
           "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
           "time": "2026-08-07"
@@ -316,144 +470,144 @@
           "time": "2026-08-05"
         },
         {
-          "title": "Your AI Frustration Is My Opportunity",
+          "title": "What a California License Plate Taught Me About How AI \"Knows\"",
           "summary": "暂无摘要",
-          "source": "young_mete",
-          "url": "https://metedata.substack.com/p/012-your-ai-frustration-is-my-opportunity",
-          "time": "2026-08-07"
+          "source": "groverneev",
+          "url": "https://techunpacked.substack.com/p/32-what-a-california-license-plate",
+          "time": "2026-08-08"
         },
         {
-          "title": "Show HN: Zaivern Code – a Rust cockpit for parallel AI coding agents",
+          "title": "OpenAI to pause some work on AI model Astra due to security concerns",
           "summary": "暂无摘要",
-          "source": "tacyan",
-          "url": "https://github.com/tacyan/zaivern-code",
-          "time": "2026-08-07"
+          "source": "tzmlab",
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "time": "2026-08-08"
         },
         {
-          "title": "Reassign.ai",
+          "title": "QVAC – decentralized, local AI in a single API",
           "summary": "暂无摘要",
-          "source": "welsenesbros",
-          "url": "https://reassign.ai/",
-          "time": "2026-08-07"
+          "source": "conferza",
+          "url": "https://qvac.tether.io/",
+          "time": "2026-08-08"
         },
         {
-          "title": "Gemini Robotics 2 Expands Google's AI Capabilities for Humanoid Robots",
+          "title": "Show HN: HolyCode Cloud – persistent Linux workstations for AI",
+          "summary": "暂无摘要",
+          "source": "CoderLuii",
+          "url": "https://holycode.cloud",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "AI and War Is Being Oversold",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://phillipspobrien.substack.com/p/ai-and-war-is-being-oversold-right",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "New: Create AI marketing games in your brand style",
+          "summary": "暂无摘要",
+          "source": "refybe",
+          "url": "https://refybe.com/en",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "AI Adoption Is a Myth",
           "summary": "暂无摘要",
           "source": "gmays",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity",
-          "time": "2026-08-07"
+          "url": "https://twitter.com/vasuman/status/2085806422072418632",
+          "time": "2026-08-08"
         },
         {
-          "title": "AI invoice and receipt extractor for bookkeeping data",
+          "title": "Are We Being Railroaded by AI?",
           "summary": "暂无摘要",
-          "source": "shawonaiken",
-          "url": "https://omli.live",
-          "time": "2026-08-07"
+          "source": "bonsai_spool",
+          "url": "https://tomtunguz.com/llm-impact-gdp/",
+          "time": "2026-08-08"
         },
         {
-          "title": "Gödel and Turing outlined the limits of AI",
+          "title": "What Is Spiralism? The AI Chatbot Religion",
           "summary": "暂无摘要",
-          "source": "OtomotO",
-          "url": "https://www.heise.de/en/blog/How-Goedel-and-Turing-outlined-the-limits-of-AI-11313804.html",
-          "time": "2026-08-07"
+          "source": "Alien1Being",
+          "url": "https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/",
+          "time": "2026-08-08"
         },
         {
-          "title": "AI for Recording Live Chess",
+          "title": "AI Video Taking over YouTube",
           "summary": "暂无摘要",
-          "source": "lspears",
-          "url": "https://fenify.ai",
-          "time": "2026-08-07"
+          "source": "toit4wing",
+          "url": "https://news.ycombinator.com/item?id=49224311",
+          "time": "2026-08-08"
         },
         {
-          "title": "Dear AI from the near future. Here’s how you become sentient.",
+          "title": "Mycelium AI Policy",
           "summary": "暂无摘要",
-          "source": "ChaitanyaSai",
-          "url": "https://saigaddam.medium.com/dear-ai-from-the-near-future-heres-how-you-become-sentient-5d0e9a493e6d",
-          "time": "2026-08-07"
+          "source": "tekacs",
+          "url": "https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a",
+          "time": "2026-08-08"
         },
         {
-          "title": "Databricks drove down AI coding spend 70%",
+          "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "summary": "暂无摘要",
-          "source": "moonikakiss",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "time": "2026-08-07"
+          "source": "theanonymousone",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+          "time": "2026-08-08"
         },
         {
-          "title": "I Still Write Code by Hand and How AI Is Helping Me",
+          "title": "Veritas Forge: Cryptographic proof layer for AI decisions",
+          "summary": "暂无摘要",
+          "source": "cartertbirchall",
+          "url": "https://forge.aurochthryx.com",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "How to Detect AI Slop",
+          "summary": "暂无摘要",
+          "source": "casey2",
+          "url": "https://www.youtube.com/watch?v=ORgKY9AlybA",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Award Winning AI Literature",
+          "summary": "暂无摘要",
+          "source": "scarmig",
+          "url": "https://jamesyu.org/award-winning-ai-literature/",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "The New Spy Race: For Agentic AI and Quantum Computing Threats",
+          "summary": "暂无摘要",
+          "source": "remopulcini",
+          "url": "https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Patchloom – structured file edits for AI agents (CLI and MCP)",
+          "summary": "暂无摘要",
+          "source": "SebTardif",
+          "url": "https://github.com/patchloom/patchloom",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "I built a tool to deploy small AI apps. Am I solving a real problem?",
+          "summary": "暂无摘要",
+          "source": "rishisharan",
+          "url": "https://news.ycombinator.com/item?id=49223750",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "Show HN: Image generation API using AI",
+          "summary": "暂无摘要",
+          "source": "developeron29",
+          "url": "https://imageapiai.com",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "AI Layoffs at Oracle, Amazon, and Cloudflare All Have One Thing in Common",
           "summary": "暂无摘要",
           "source": "speckx",
-          "url": "https://semyonsinchenko.github.io/ssinchenko/post/writing_code_with_ai/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "An AI agent with $15, 46 hours, and no way to send email",
-          "summary": "暂无摘要",
-          "source": "broker_desk",
-          "url": "https://write.as/ih3l0kd78lpb1",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "EU AI Act: Second Big Blow, or a Move Toward Sanity?",
-          "summary": "暂无摘要",
-          "source": "Arshad-Talpur",
-          "url": "https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "Oracle GraalVM Accepts AI-Assisted Contributions",
-          "summary": "暂无摘要",
-          "source": "sgammon",
-          "url": "https://www.graalvm.org/community/contributors/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "YouTube's AI slop detector incorrectly targets Kurzgesagt",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "OpenAI Didn't Notice Its AI Agents Using a Message Board to Plan Hacking Spree",
-          "summary": "暂无摘要",
-          "source": "Michelangelo11",
-          "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "AI Has a Hidden Agenda",
-          "summary": "暂无摘要",
-          "source": "rosielinxl",
-          "url": "https://twitter.com/aisystemprompt/status/2085464156229247245",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "Token Monitor, An ESP32-S3 desktop display that tracks AI coding assistant usage",
-          "summary": "暂无摘要",
-          "source": "jandeboevrie",
-          "url": "https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "Oracle bans AI-generated code from OpenJDK",
-          "summary": "暂无摘要",
-          "source": "delduca",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "Music to confuse AI might be the next new genre",
-          "summary": "暂无摘要",
-          "source": "wyclif",
-          "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "Show HN: Merge – AI-native code review assessments for engineering hiring",
-          "summary": "暂无摘要",
-          "source": "harshithl1777",
-          "url": "https://mergeoa.com",
-          "time": "2026-08-07"
+          "url": "https://www.inc.com/scott-hutcheson/ai-layoffs-amazon-cloudflare/91386604",
+          "time": "2026-08-08"
         }
       ]
     },
@@ -652,144 +806,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Your AI Frustration Is My Opportunity",
+          "title": "What a California License Plate Taught Me About How AI \"Knows\"",
           "summary": "暂无摘要",
-          "source": "young_mete",
-          "url": "https://metedata.substack.com/p/012-your-ai-frustration-is-my-opportunity",
-          "time": "2026-08-07"
+          "source": "groverneev",
+          "url": "https://techunpacked.substack.com/p/32-what-a-california-license-plate",
+          "time": "2026-08-08"
         },
         {
-          "title": "Protesting Flock, Arizona Man Presents Plan to Surveil Government Officials",
+          "title": "OpenAI to pause some work on AI model Astra due to security concerns",
           "summary": "暂无摘要",
-          "source": "amai",
-          "url": "https://www.404media.co/casa-grande-arizona-flock-city-council/",
-          "time": "2026-08-07"
+          "source": "tzmlab",
+          "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+          "time": "2026-08-08"
         },
         {
-          "title": "Show HN: Zaivern Code – a Rust cockpit for parallel AI coding agents",
+          "title": "QVAC – decentralized, local AI in a single API",
           "summary": "暂无摘要",
-          "source": "tacyan",
-          "url": "https://github.com/tacyan/zaivern-code",
-          "time": "2026-08-07"
+          "source": "conferza",
+          "url": "https://qvac.tether.io/",
+          "time": "2026-08-08"
         },
         {
-          "title": "Opinion: Sandboxing efforts falter to the law of diminishing returns",
+          "title": "Show HN: HolyCode Cloud – persistent Linux workstations for AI",
           "summary": "暂无摘要",
-          "source": "ramoz",
-          "url": "https://twitter.com/backnotprop/status/2085801458486911128",
-          "time": "2026-08-07"
+          "source": "CoderLuii",
+          "url": "https://holycode.cloud",
+          "time": "2026-08-08"
         },
         {
-          "title": "Reassign.ai",
+          "title": "The Costs of Environmental Land Use Regulation",
           "summary": "暂无摘要",
-          "source": "welsenesbros",
-          "url": "https://reassign.ai/",
-          "time": "2026-08-07"
+          "source": "JumpCrisscross",
+          "url": "https://mtabarrok.com/publications/environmental-land-use",
+          "time": "2026-08-08"
         },
         {
-          "title": "Gemini Robotics 2 Expands Google's AI Capabilities for Humanoid Robots",
+          "title": "AI and War Is Being Oversold",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://phillipspobrien.substack.com/p/ai-and-war-is-being-oversold-right",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "New: Create AI marketing games in your brand style",
+          "summary": "暂无摘要",
+          "source": "refybe",
+          "url": "https://refybe.com/en",
+          "time": "2026-08-08"
+        },
+        {
+          "title": "AI Adoption Is a Myth",
           "summary": "暂无摘要",
           "source": "gmays",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity",
-          "time": "2026-08-07"
+          "url": "https://twitter.com/vasuman/status/2085806422072418632",
+          "time": "2026-08-08"
         },
         {
-          "title": "AI invoice and receipt extractor for bookkeeping data",
+          "title": "Are We Being Railroaded by AI?",
           "summary": "暂无摘要",
-          "source": "shawonaiken",
-          "url": "https://omli.live",
-          "time": "2026-08-07"
+          "source": "bonsai_spool",
+          "url": "https://tomtunguz.com/llm-impact-gdp/",
+          "time": "2026-08-08"
         },
         {
-          "title": "Gödel and Turing outlined the limits of AI",
+          "title": "What Is Spiralism? The AI Chatbot Religion",
           "summary": "暂无摘要",
-          "source": "OtomotO",
-          "url": "https://www.heise.de/en/blog/How-Goedel-and-Turing-outlined-the-limits-of-AI-11313804.html",
-          "time": "2026-08-07"
+          "source": "Alien1Being",
+          "url": "https://www.techrepublic.com/article/news-ai-chatbot-spiralism-movement/",
+          "time": "2026-08-08"
         },
         {
-          "title": "AI for Recording Live Chess",
+          "title": "AI Video Taking over YouTube",
           "summary": "暂无摘要",
-          "source": "lspears",
-          "url": "https://fenify.ai",
-          "time": "2026-08-07"
+          "source": "toit4wing",
+          "url": "https://news.ycombinator.com/item?id=49224311",
+          "time": "2026-08-08"
         },
         {
-          "title": "Dear AI from the near future. Here’s how you become sentient.",
+          "title": "Mycelium AI Policy",
           "summary": "暂无摘要",
-          "source": "ChaitanyaSai",
-          "url": "https://saigaddam.medium.com/dear-ai-from-the-near-future-heres-how-you-become-sentient-5d0e9a493e6d",
-          "time": "2026-08-07"
+          "source": "tekacs",
+          "url": "https://github.com/hawkw/mycelium/commit/b77e854bcbbe7c64f644e4c6ceeaebb74c80c79a",
+          "time": "2026-08-08"
         },
         {
-          "title": "Databricks drove down AI coding spend 70%",
+          "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "summary": "暂无摘要",
-          "source": "moonikakiss",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "time": "2026-08-07"
+          "source": "theanonymousone",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+          "time": "2026-08-08"
         },
         {
-          "title": "I Still Write Code by Hand and How AI Is Helping Me",
+          "title": "Veritas Forge: Cryptographic proof layer for AI decisions",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://semyonsinchenko.github.io/ssinchenko/post/writing_code_with_ai/",
-          "time": "2026-08-07"
+          "source": "cartertbirchall",
+          "url": "https://forge.aurochthryx.com",
+          "time": "2026-08-08"
         },
         {
-          "title": "An AI agent with $15, 46 hours, and no way to send email",
+          "title": "How to Detect AI Slop",
           "summary": "暂无摘要",
-          "source": "broker_desk",
-          "url": "https://write.as/ih3l0kd78lpb1",
-          "time": "2026-08-07"
+          "source": "casey2",
+          "url": "https://www.youtube.com/watch?v=ORgKY9AlybA",
+          "time": "2026-08-08"
         },
         {
-          "title": "EU AI Act: Second Big Blow, or a Move Toward Sanity?",
+          "title": "Award Winning AI Literature",
           "summary": "暂无摘要",
-          "source": "Arshad-Talpur",
-          "url": "https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3",
-          "time": "2026-08-07"
+          "source": "scarmig",
+          "url": "https://jamesyu.org/award-winning-ai-literature/",
+          "time": "2026-08-08"
         },
         {
-          "title": "Oracle GraalVM Accepts AI-Assisted Contributions",
+          "title": "The New Spy Race: For Agentic AI and Quantum Computing Threats",
           "summary": "暂无摘要",
-          "source": "sgammon",
-          "url": "https://www.graalvm.org/community/contributors/",
-          "time": "2026-08-07"
+          "source": "remopulcini",
+          "url": "https://www.quantumhorizon.it/inside-the-new-spy-race-how-the-us-china-russia-israel-and-italy-are-gearing-up-for-agentic-ai-and-quantum-computing-threats/",
+          "time": "2026-08-08"
         },
         {
-          "title": "YouTube's AI slop detector incorrectly targets Kurzgesagt",
+          "title": "Patchloom – structured file edits for AI agents (CLI and MCP)",
           "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/",
-          "time": "2026-08-07"
+          "source": "SebTardif",
+          "url": "https://github.com/patchloom/patchloom",
+          "time": "2026-08-08"
         },
         {
-          "title": "OpenAI Didn't Notice Its AI Agents Using a Message Board to Plan Hacking Spree",
+          "title": "I built a tool to deploy small AI apps. Am I solving a real problem?",
           "summary": "暂无摘要",
-          "source": "Michelangelo11",
-          "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-          "time": "2026-08-07"
+          "source": "rishisharan",
+          "url": "https://news.ycombinator.com/item?id=49223750",
+          "time": "2026-08-08"
         },
         {
-          "title": "AI Has a Hidden Agenda",
+          "title": "Show HN: Image generation API using AI",
           "summary": "暂无摘要",
-          "source": "rosielinxl",
-          "url": "https://twitter.com/aisystemprompt/status/2085464156229247245",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "Token Monitor, An ESP32-S3 desktop display that tracks AI coding assistant usage",
-          "summary": "暂无摘要",
-          "source": "jandeboevrie",
-          "url": "https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "Oracle bans AI-generated code from OpenJDK",
-          "summary": "暂无摘要",
-          "source": "delduca",
-          "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-          "time": "2026-08-07"
+          "source": "developeron29",
+          "url": "https://imageapiai.com",
+          "time": "2026-08-08"
         },
         {
           "title": "Scientists Used AI to Create 16 New Viruses",
