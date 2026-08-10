@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-09T20:20:14.306Z",
-  "date": "2026年8月9日 20时20分",
+  "updateTime": "2026-08-10T20:31:15.480Z",
+  "date": "2026年8月10日 20时31分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,18 @@
       "icon": "📰",
       "news": [
         {
-          "title": "The Argument Against AI Writing Is at Least 2,400 Years Old",
-          "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://feld.com/archives/2026/08/ai-writing-2400-years-old/",
-          "time": "2026-08-09"
+          "title": "AI professors are negotiating the new realities of academic research",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+          "time": "2026-08-10"
         },
         {
-          "title": "Greenland issues 'strong warning' as Trump-linked oil firm prepares to drill",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.theguardian.com/world/2026/aug/08/greenland-iwarning-trump-linked-oil-firm-prepares-drill",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Multistack Concatenative Programming Languages",
-          "summary": "暂无摘要",
-          "source": "birdculture",
-          "url": "https://www.sheeeeeeeep.art/multistack-catlangs.html",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Employees Do Not Want Your AI",
-          "summary": "暂无摘要",
-          "source": "Airealist",
-          "url": "https://substack.com/sign-in",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "The tragedy of the commons, AI edition",
-          "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "The AI safety test is becoming a safety risk",
-          "summary": "暂无摘要",
-          "source": "ashurandi",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Ask HN: Are functional programmers more upset about how good AI is at coding?",
-          "summary": "暂无摘要",
-          "source": "amichail",
-          "url": "https://news.ycombinator.com/item?id=49234658",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "A zero-dependency, ultra-lightweight database time machine for SQLite",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://github.com/nsrht/time-travel-sqlite-debugger",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Anti-AI Populism Is Reshaping American Politics",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "As AI guzzles water and energy, we are facing a choice: datacentres or homes?",
-          "summary": "暂无摘要",
-          "source": "tomwphillips",
-          "url": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Is on Its Last Legs [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=zdsoe_OsnHw",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Large-Scale Code Refactoring with AI",
-          "summary": "暂无摘要",
-          "source": "aakashns",
-          "url": "https://swiftace.org/posts/large-scale-code-refactoring-with-ai",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Workers Ask U.S. Government for Tools to Slow AI Before a Crisis",
-          "summary": "暂无摘要",
-          "source": "ashurandi",
-          "url": "https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "A Philosophy for AI Agents",
-          "summary": "暂无摘要",
-          "source": "iroha1203",
-          "url": "https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Browser's new page that shows quotes inspired by your AI chats history",
-          "summary": "暂无摘要",
-          "source": "pghqdev",
-          "url": "https://musing.wiki",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Show HN: Open-source playground to red-team AI agents against public prompts",
-          "summary": "暂无摘要",
-          "source": "zachdotai",
-          "url": "https://playground.fabraix.com/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
-          "summary": "暂无摘要",
-          "source": "kjhughes",
-          "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Show HN: RunOnMine – local policy and approvals for AI access to your machine",
-          "summary": "暂无摘要",
-          "source": "ademisler",
-          "url": "https://github.com/ademisler/RunOnMine",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Barons Are Ready to Give Away Their Fortunes",
-          "summary": "暂无摘要",
-          "source": "joozio",
-          "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-          "time": "2026-08-09"
+          "title": "These startups are chasing the next big thing in LLMs",
+          "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of ",
+          "source": "Will Douglas Heaven",
+          "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+          "time": "2026-08-10"
         },
         {
           "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -175,6 +49,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Evolve your marketing with new AI tools",
+          "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+          "time": "2026-08-10"
+        },
         {
           "title": "The latest AI news we announced in July 2026",
           "summary": "Here are Google’s latest AI updates from July 2026",
@@ -265,153 +146,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
           "time": "2026-06-05"
-        },
-        {
-          "title": "5 ways Google Search can level up your thrift and vintage shopping",
-          "summary": "Uncover second-hand scores with AI tools in Google Search and Shopping.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-          "time": "2026-06-03"
-        },
-        {
-          "title": "The Argument Against AI Writing Is at Least 2,400 Years Old",
-          "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://feld.com/archives/2026/08/ai-writing-2400-years-old/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Employees Do Not Want Your AI",
-          "summary": "暂无摘要",
-          "source": "Airealist",
-          "url": "https://substack.com/sign-in",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "The tragedy of the commons, AI edition",
-          "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "The AI safety test is becoming a safety risk",
-          "summary": "暂无摘要",
-          "source": "ashurandi",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Anthropic is turning Claude Code's auto mode on by default",
-          "summary": "暂无摘要",
-          "source": "ashurandi",
-          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "The OpenAI and Hugging Face incident, explained in simple terms",
-          "summary": "暂无摘要",
-          "source": "ashu1461",
-          "url": "https://ashu1461.com/posts/openai-hugging-face-incident-in-simple-terms/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Ask HN: Are functional programmers more upset about how good AI is at coding?",
-          "summary": "暂无摘要",
-          "source": "amichail",
-          "url": "https://news.ycombinator.com/item?id=49234658",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Anti-AI Populism Is Reshaping American Politics",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Google doesn't need the LLM crown",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.semafor.com/article/08/07/2026/google-doesnt-need-the-llm-crown",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "As AI guzzles water and energy, we are facing a choice: datacentres or homes?",
-          "summary": "暂无摘要",
-          "source": "tomwphillips",
-          "url": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Devs to Anthropic, OpenAI, Cursor, and friends Make security and privacy default",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Is on Its Last Legs [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=zdsoe_OsnHw",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Large-Scale Code Refactoring with AI",
-          "summary": "暂无摘要",
-          "source": "aakashns",
-          "url": "https://swiftace.org/posts/large-scale-code-refactoring-with-ai",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Workers Ask U.S. Government for Tools to Slow AI Before a Crisis",
-          "summary": "暂无摘要",
-          "source": "ashurandi",
-          "url": "https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "A Philosophy for AI Agents",
-          "summary": "暂无摘要",
-          "source": "iroha1203",
-          "url": "https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Browser's new page that shows quotes inspired by your AI chats history",
-          "summary": "暂无摘要",
-          "source": "pghqdev",
-          "url": "https://musing.wiki",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Show HN: Open-source playground to red-team AI agents against public prompts",
-          "summary": "暂无摘要",
-          "source": "zachdotai",
-          "url": "https://playground.fabraix.com/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
-          "summary": "暂无摘要",
-          "source": "kjhughes",
-          "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Show HN: RunOnMine – local policy and approvals for AI access to your machine",
-          "summary": "暂无摘要",
-          "source": "ademisler",
-          "url": "https://github.com/ademisler/RunOnMine",
-          "time": "2026-08-09"
         }
       ]
     },
@@ -421,8 +155,22 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+          "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+          "time": "2026-08-10"
+        },
+        {
+          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "summary": "The AI-focused hedge fund is still making some big bets.",
+          "source": "Anthony Ha",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "time": "2026-08-09"
+        },
+        {
           "title": "OpenAI acquires presentation startup NextSlide",
-          "summary": "NextSlide says its team members are now working on ChatGPT.",
+          "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
           "source": "Anthony Ha",
           "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
           "time": "2026-08-08"
@@ -442,164 +190,10 @@
           "time": "2026-08-07"
         },
         {
-          "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-          "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
-          "source": "Lauren Forristal",
-          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-          "time": "2026-08-06"
-        },
-        {
-          "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-          "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and ",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-          "time": "2026-08-06"
-        },
-        {
           "title": "These AI Barons Are Ready to Give Away Their Fortunes",
           "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
           "source": "Joel Khalili",
           "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "The Argument Against AI Writing Is at Least 2,400 Years Old",
-          "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://feld.com/archives/2026/08/ai-writing-2400-years-old/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Employees Do Not Want Your AI",
-          "summary": "暂无摘要",
-          "source": "Airealist",
-          "url": "https://substack.com/sign-in",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "The tragedy of the commons, AI edition",
-          "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "The AI safety test is becoming a safety risk",
-          "summary": "暂无摘要",
-          "source": "ashurandi",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Ask HN: Are functional programmers more upset about how good AI is at coding?",
-          "summary": "暂无摘要",
-          "source": "amichail",
-          "url": "https://news.ycombinator.com/item?id=49234658",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Anti-AI Populism Is Reshaping American Politics",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "As AI guzzles water and energy, we are facing a choice: datacentres or homes?",
-          "summary": "暂无摘要",
-          "source": "tomwphillips",
-          "url": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Is on Its Last Legs [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=zdsoe_OsnHw",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Large-Scale Code Refactoring with AI",
-          "summary": "暂无摘要",
-          "source": "aakashns",
-          "url": "https://swiftace.org/posts/large-scale-code-refactoring-with-ai",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Workers Ask U.S. Government for Tools to Slow AI Before a Crisis",
-          "summary": "暂无摘要",
-          "source": "ashurandi",
-          "url": "https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "A Philosophy for AI Agents",
-          "summary": "暂无摘要",
-          "source": "iroha1203",
-          "url": "https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Browser's new page that shows quotes inspired by your AI chats history",
-          "summary": "暂无摘要",
-          "source": "pghqdev",
-          "url": "https://musing.wiki",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Show HN: Open-source playground to red-team AI agents against public prompts",
-          "summary": "暂无摘要",
-          "source": "zachdotai",
-          "url": "https://playground.fabraix.com/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
-          "summary": "暂无摘要",
-          "source": "kjhughes",
-          "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Show HN: RunOnMine – local policy and approvals for AI access to your machine",
-          "summary": "暂无摘要",
-          "source": "ademisler",
-          "url": "https://github.com/ademisler/RunOnMine",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Barons Are Ready to Give Away Their Fortunes",
-          "summary": "暂无摘要",
-          "source": "joozio",
-          "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Show HN: GlyPho – Generate editable SVGs from simple AI prompts",
-          "summary": "暂无摘要",
-          "source": "shenyi",
-          "url": "https://www.glypho.app/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "DeepMind AI gives an extra day of warning ahead of deadly cyclones",
-          "summary": "暂无摘要",
-          "source": "doener",
-          "url": "https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Settles a 25 Year-Old Problem We Left Behind",
-          "summary": "暂无摘要",
-          "source": "famouswaffles",
-          "url": "https://xcancel.com/i/article/2086158118354887060",
           "time": "2026-08-09"
         }
       ]
@@ -609,6 +203,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "AI professors are negotiating the new realities of academic research",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+          "time": "2026-08-10"
+        },
         {
           "title": "Trump’s AI protectionism has come for robotics",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They",
@@ -621,13 +222,6 @@
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its mod",
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-          "time": "2026-07-27"
-        },
-        {
-          "title": "Building the enterprise environment for agentic AI",
-          "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems",
-          "source": "Keegan Sheedy, Lucas Melo",
-          "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
           "time": "2026-07-27"
         }
       ]
@@ -799,144 +393,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "The Argument Against AI Writing Is at Least 2,400 Years Old",
-          "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://feld.com/archives/2026/08/ai-writing-2400-years-old/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Employees Do Not Want Your AI",
-          "summary": "暂无摘要",
-          "source": "Airealist",
-          "url": "https://substack.com/sign-in",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "The tragedy of the commons, AI edition",
-          "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "The AI safety test is becoming a safety risk",
-          "summary": "暂无摘要",
-          "source": "ashurandi",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Ask HN: Are functional programmers more upset about how good AI is at coding?",
-          "summary": "暂无摘要",
-          "source": "amichail",
-          "url": "https://news.ycombinator.com/item?id=49234658",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Anti-AI Populism Is Reshaping American Politics",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.motherjones.com/politics/2026/08/anti-ai-populism-is-reshaping-american-politics/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "As AI guzzles water and energy, we are facing a choice: datacentres or homes?",
-          "summary": "暂无摘要",
-          "source": "tomwphillips",
-          "url": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Is on Its Last Legs [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=zdsoe_OsnHw",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Large-Scale Code Refactoring with AI",
-          "summary": "暂无摘要",
-          "source": "aakashns",
-          "url": "https://swiftace.org/posts/large-scale-code-refactoring-with-ai",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Workers Ask U.S. Government for Tools to Slow AI Before a Crisis",
-          "summary": "暂无摘要",
-          "source": "ashurandi",
-          "url": "https://www.ainews.com/p/ai-workers-us-government-tools-slow-ai-before-crisis",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "A Philosophy for AI Agents",
-          "summary": "暂无摘要",
-          "source": "iroha1203",
-          "url": "https://ideal.iroha1203.dev/a-philosophy-for-ai-agents-1d743e970853",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Browser's new page that shows quotes inspired by your AI chats history",
-          "summary": "暂无摘要",
-          "source": "pghqdev",
-          "url": "https://musing.wiki",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Show HN: Open-source playground to red-team AI agents against public prompts",
-          "summary": "暂无摘要",
-          "source": "zachdotai",
-          "url": "https://playground.fabraix.com/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Google Caught AI Faking Creativity in Every Office in America [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
-          "summary": "暂无摘要",
-          "source": "kjhughes",
-          "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Show HN: RunOnMine – local policy and approvals for AI access to your machine",
-          "summary": "暂无摘要",
-          "source": "ademisler",
-          "url": "https://github.com/ademisler/RunOnMine",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Barons Are Ready to Give Away Their Fortunes",
-          "summary": "暂无摘要",
-          "source": "joozio",
-          "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "Show HN: GlyPho – Generate editable SVGs from simple AI prompts",
-          "summary": "暂无摘要",
-          "source": "shenyi",
-          "url": "https://www.glypho.app/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "DeepMind AI gives an extra day of warning ahead of deadly cyclones",
-          "summary": "暂无摘要",
-          "source": "doener",
-          "url": "https://www.newscientist.com/article/2583547-deepmind-ai-gives-an-extra-day-of-warning-ahead-of-deadly-cyclones/",
-          "time": "2026-08-09"
-        },
-        {
-          "title": "AI Settles a 25 Year-Old Problem We Left Behind",
-          "summary": "暂无摘要",
-          "source": "famouswaffles",
-          "url": "https://xcancel.com/i/article/2086158118354887060",
-          "time": "2026-08-09"
+          "title": "The AI Slop Backlash Is Actually Having an Impact",
+          "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+          "source": "Reece Rogers",
+          "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+          "time": "2026-08-10"
         },
         {
           "title": "Scientists Used AI to Create 16 New Viruses",
