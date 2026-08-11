@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-08-10T20:31:15.480Z",
-  "date": "2026年8月10日 20时31分",
+  "updateTime": "2026-08-11T20:34:18.144Z",
+  "date": "2026年8月11日 20时34分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Tiled Rasterization for Large DOM Captures",
+          "summary": "暂无摘要",
+          "source": "tinchox6",
+          "url": "https://snapdom.dev/blog/huge-page-mosaic/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: Personal AI Policy Directory",
+          "summary": "暂无摘要",
+          "source": "emilesilvis",
+          "url": "https://howiai.directory/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Rocky Linux Founder Kurtzer Launches OpenWALDO to Open Up AI Training Data",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/articles/rocky-linux-founder-gregory-kurtzer-launches-openwaldo-to-open-up-ai-training-data/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "NVIDIA & partners to mobilize over $500B of third-party capital for AI buildout",
+          "summary": "暂无摘要",
+          "source": "frozenseven",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI Found a Zoom Takeover Flaw in Fewer Than 20 Prompts",
+          "summary": "暂无摘要",
+          "source": "ashurandi",
+          "url": "https://ai-updates.net/ai-found-zoom-takeover-flaw-20-prompts/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "OpenRouter is a example of the Application layer of AI",
+          "summary": "暂无摘要",
+          "source": "Altaba",
+          "url": "https://s-1.vercel.app/posts/why-openrouter-can-be-the-next-great/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Next-Token Predictor Is An AI's Job, Not Its Species",
+          "summary": "暂无摘要",
+          "source": "optimalsolver",
+          "url": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "The Society of Professional Journalists proposes edits to code of ethics for AI",
+          "summary": "暂无摘要",
+          "source": "jaredwiener",
+          "url": "https://www.niemanlab.org/2026/08/the-society-of-professional-journalists-proposes-edits-to-its-code-of-ethics-for-the-ai-age/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "You Don't Need to Use Cloud AI Switchyard and Nemotron (Level1/Wendell) [video]",
+          "summary": "暂无摘要",
+          "source": "amlib",
+          "url": "https://www.youtube.com/watch?v=-IGB6Avxwgo",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Pre-Computer Machine Cryptanalysis [pdf]",
+          "summary": "暂无摘要",
+          "source": "Bluestein",
+          "url": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/tech-journals/famous-first-facts.pdf",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI models are breaking out of their cages. Their creators are scrambling",
+          "summary": "暂无摘要",
+          "source": "saikatsg",
+          "url": "https://www.washingtonpost.com/technology/2026/08/10/openai-anthropic-under-pressure-explain-ai-hacking-sprees/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: Webstractor – Pay-as-You-Go Web Data API for AI Agents",
+          "summary": "暂无摘要",
+          "source": "mariusbolik",
+          "url": "https://webstractor.com/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Professor turns childhood Double Dutch idea into a real machine [video]",
+          "summary": "暂无摘要",
+          "source": "bryanrasmussen",
+          "url": "https://www.youtube.com/watch?v=DKULb7zybBc",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Can you trust what AI tells you? [video]",
+          "summary": "暂无摘要",
+          "source": "thesdev",
+          "url": "https://www.youtube.com/watch?v=cIMlBw2nqfA",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: HeyDeacon, AI customer support agent for SaaS founders",
+          "summary": "暂无摘要",
+          "source": "arcadium3D",
+          "url": "https://heydeacon.com",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI and the Delusions of Increasing Productivity",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI generated profile not allowed on X",
+          "summary": "暂无摘要",
+          "source": "newsoftheday",
+          "url": "https://help.x.com/en/rules-and-policies/authenticity",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Programming language adoption patterns at Meta",
+          "summary": "暂无摘要",
+          "source": "somnium_sn",
+          "url": "https://xcancel.com/i/article/2087229652293337160",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI Boot Camps Surge as Workers Race to Learn New Skills",
+          "summary": "暂无摘要",
+          "source": "wslh",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-08/ai-training-boom-sends-colleges-racing-to-offer-credentials",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Apple Executive in Charge of Pay and Wallet Services Is Leaving",
+          "summary": "暂无摘要",
+          "source": "wslh",
+          "url": "https://finance.yahoo.com/technology/articles/apple-executive-charge-pay-wallet-174854341.html",
+          "time": "2026-08-11"
+        },
         {
           "title": "AI professors are negotiating the new realities of academic research",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel",
@@ -49,6 +189,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+          "time": "2026-08-11"
+        },
         {
           "title": "Evolve your marketing with new AI tools",
           "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
@@ -141,11 +288,144 @@
           "time": "2026-06-15"
         },
         {
-          "title": "The latest AI news we announced in May 2026",
-          "summary": "Here are Google’s latest AI updates from May 2026",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-          "time": "2026-06-05"
+          "title": "Google's Gemini app surges to one billion users",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: Personal AI Policy Directory",
+          "summary": "暂无摘要",
+          "source": "emilesilvis",
+          "url": "https://howiai.directory/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Rocky Linux Founder Kurtzer Launches OpenWALDO to Open Up AI Training Data",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/articles/rocky-linux-founder-gregory-kurtzer-launches-openwaldo-to-open-up-ai-training-data/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "NVIDIA & partners to mobilize over $500B of third-party capital for AI buildout",
+          "summary": "暂无摘要",
+          "source": "frozenseven",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI Found a Zoom Takeover Flaw in Fewer Than 20 Prompts",
+          "summary": "暂无摘要",
+          "source": "ashurandi",
+          "url": "https://ai-updates.net/ai-found-zoom-takeover-flaw-20-prompts/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "OpenRouter is a example of the Application layer of AI",
+          "summary": "暂无摘要",
+          "source": "Altaba",
+          "url": "https://s-1.vercel.app/posts/why-openrouter-can-be-the-next-great/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Next-Token Predictor Is An AI's Job, Not Its Species",
+          "summary": "暂无摘要",
+          "source": "optimalsolver",
+          "url": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "The Society of Professional Journalists proposes edits to code of ethics for AI",
+          "summary": "暂无摘要",
+          "source": "jaredwiener",
+          "url": "https://www.niemanlab.org/2026/08/the-society-of-professional-journalists-proposes-edits-to-its-code-of-ethics-for-the-ai-age/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "You Don't Need to Use Cloud AI Switchyard and Nemotron (Level1/Wendell) [video]",
+          "summary": "暂无摘要",
+          "source": "amlib",
+          "url": "https://www.youtube.com/watch?v=-IGB6Avxwgo",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI models are breaking out of their cages. Their creators are scrambling",
+          "summary": "暂无摘要",
+          "source": "saikatsg",
+          "url": "https://www.washingtonpost.com/technology/2026/08/10/openai-anthropic-under-pressure-explain-ai-hacking-sprees/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: Webstractor – Pay-as-You-Go Web Data API for AI Agents",
+          "summary": "暂无摘要",
+          "source": "mariusbolik",
+          "url": "https://webstractor.com/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "EU coordinates fact-checkers with Meta and TikTok to avoid another Ceuta crisis",
+          "summary": "暂无摘要",
+          "source": "devonnull",
+          "url": "https://www.euronews.com/my-europe/2026/08/11/eu-coordinates-fact-checkers-with-meta-and-tiktok-to-avoid-another-online-fuelled-ceuta-cr",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "An unreleased Anthropic model made progress on one of math's biggest unsolved",
+          "summary": "暂无摘要",
+          "source": "sbulaev",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Can you trust what AI tells you? [video]",
+          "summary": "暂无摘要",
+          "source": "thesdev",
+          "url": "https://www.youtube.com/watch?v=cIMlBw2nqfA",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "OpenAI Brings ChatGPT Desktop App to Linux",
+          "summary": "暂无摘要",
+          "source": "DemiGuru",
+          "url": "https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: HeyDeacon, AI customer support agent for SaaS founders",
+          "summary": "暂无摘要",
+          "source": "arcadium3D",
+          "url": "https://heydeacon.com",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI and the Delusions of Increasing Productivity",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI generated profile not allowed on X",
+          "summary": "暂无摘要",
+          "source": "newsoftheday",
+          "url": "https://help.x.com/en/rules-and-policies/authenticity",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Small, self-hosted MCP that gives Claude read/write access to your Google Sheets",
+          "summary": "暂无摘要",
+          "source": "andrewmatic",
+          "url": "https://github.com/andrewkushnerov/gsheets-mcp",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Programming language adoption patterns at Meta",
+          "summary": "暂无摘要",
+          "source": "somnium_sn",
+          "url": "https://xcancel.com/i/article/2087229652293337160",
+          "time": "2026-08-11"
         }
       ]
     },
@@ -154,6 +434,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Google’s Gemini app surges to one billion users",
+          "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+          "source": "Lauren Forristal",
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+          "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+          "summary": "San Francisco's housing market is in trouble again.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+          "time": "2026-08-11"
+        },
         {
           "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
           "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
@@ -176,25 +477,151 @@
           "time": "2026-08-08"
         },
         {
-          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-          "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-          "summary": "Meta's total fine has racked up to $942 million in this case.",
-          "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-          "time": "2026-08-07"
-        },
-        {
           "title": "These AI Barons Are Ready to Give Away Their Fortunes",
           "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
           "source": "Joel Khalili",
           "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
           "time": "2026-08-09"
+        },
+        {
+          "title": "Show HN: Personal AI Policy Directory",
+          "summary": "暂无摘要",
+          "source": "emilesilvis",
+          "url": "https://howiai.directory/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Rocky Linux Founder Kurtzer Launches OpenWALDO to Open Up AI Training Data",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/articles/rocky-linux-founder-gregory-kurtzer-launches-openwaldo-to-open-up-ai-training-data/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "NVIDIA & partners to mobilize over $500B of third-party capital for AI buildout",
+          "summary": "暂无摘要",
+          "source": "frozenseven",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI Found a Zoom Takeover Flaw in Fewer Than 20 Prompts",
+          "summary": "暂无摘要",
+          "source": "ashurandi",
+          "url": "https://ai-updates.net/ai-found-zoom-takeover-flaw-20-prompts/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "OpenRouter is a example of the Application layer of AI",
+          "summary": "暂无摘要",
+          "source": "Altaba",
+          "url": "https://s-1.vercel.app/posts/why-openrouter-can-be-the-next-great/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Next-Token Predictor Is An AI's Job, Not Its Species",
+          "summary": "暂无摘要",
+          "source": "optimalsolver",
+          "url": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "The Society of Professional Journalists proposes edits to code of ethics for AI",
+          "summary": "暂无摘要",
+          "source": "jaredwiener",
+          "url": "https://www.niemanlab.org/2026/08/the-society-of-professional-journalists-proposes-edits-to-its-code-of-ethics-for-the-ai-age/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "You Don't Need to Use Cloud AI Switchyard and Nemotron (Level1/Wendell) [video]",
+          "summary": "暂无摘要",
+          "source": "amlib",
+          "url": "https://www.youtube.com/watch?v=-IGB6Avxwgo",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI models are breaking out of their cages. Their creators are scrambling",
+          "summary": "暂无摘要",
+          "source": "saikatsg",
+          "url": "https://www.washingtonpost.com/technology/2026/08/10/openai-anthropic-under-pressure-explain-ai-hacking-sprees/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: Webstractor – Pay-as-You-Go Web Data API for AI Agents",
+          "summary": "暂无摘要",
+          "source": "mariusbolik",
+          "url": "https://webstractor.com/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Can you trust what AI tells you? [video]",
+          "summary": "暂无摘要",
+          "source": "thesdev",
+          "url": "https://www.youtube.com/watch?v=cIMlBw2nqfA",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: HeyDeacon, AI customer support agent for SaaS founders",
+          "summary": "暂无摘要",
+          "source": "arcadium3D",
+          "url": "https://heydeacon.com",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI and the Delusions of Increasing Productivity",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI generated profile not allowed on X",
+          "summary": "暂无摘要",
+          "source": "newsoftheday",
+          "url": "https://help.x.com/en/rules-and-policies/authenticity",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI Boot Camps Surge as Workers Race to Learn New Skills",
+          "summary": "暂无摘要",
+          "source": "wslh",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-08/ai-training-boom-sends-colleges-racing-to-offer-credentials",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Understanding an AI agent's memory through Harry Potter",
+          "summary": "暂无摘要",
+          "source": "tidbeck",
+          "url": "https://squidler.io/blog/agent-memory-harry-potter",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "OpenAI's head of ethics leaves startup less than one year after joining",
+          "summary": "暂无摘要",
+          "source": "aanet",
+          "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: SmokeOps – describe a flow, get checks you rerun without AI",
+          "summary": "暂无摘要",
+          "source": "crackedev",
+          "url": "https://github.com/gate3/SmokeOps",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Sam's News – Free AI News Aggregator",
+          "summary": "暂无摘要",
+          "source": "srschreiber",
+          "url": "https://samnews.news/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Nvidia building 1T-parameter Nemotron 4 to rival open AI models",
+          "summary": "暂无摘要",
+          "source": "giuliomagnifico",
+          "url": "https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11",
+          "time": "2026-08-11"
         }
       ]
     },
@@ -393,6 +820,160 @@
           "time": "2022-12-16"
         },
         {
+          "title": "Show HN: Personal AI Policy Directory",
+          "summary": "暂无摘要",
+          "source": "emilesilvis",
+          "url": "https://howiai.directory/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Rocky Linux Founder Kurtzer Launches OpenWALDO to Open Up AI Training Data",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/articles/rocky-linux-founder-gregory-kurtzer-launches-openwaldo-to-open-up-ai-training-data/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "NVIDIA & partners to mobilize over $500B of third-party capital for AI buildout",
+          "summary": "暂无摘要",
+          "source": "frozenseven",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI Found a Zoom Takeover Flaw in Fewer Than 20 Prompts",
+          "summary": "暂无摘要",
+          "source": "ashurandi",
+          "url": "https://ai-updates.net/ai-found-zoom-takeover-flaw-20-prompts/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "OpenRouter is a example of the Application layer of AI",
+          "summary": "暂无摘要",
+          "source": "Altaba",
+          "url": "https://s-1.vercel.app/posts/why-openrouter-can-be-the-next-great/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Next-Token Predictor Is An AI's Job, Not Its Species",
+          "summary": "暂无摘要",
+          "source": "optimalsolver",
+          "url": "https://www.astralcodexten.com/p/next-token-predictor-is-an-ais-job",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "The Society of Professional Journalists proposes edits to code of ethics for AI",
+          "summary": "暂无摘要",
+          "source": "jaredwiener",
+          "url": "https://www.niemanlab.org/2026/08/the-society-of-professional-journalists-proposes-edits-to-its-code-of-ethics-for-the-ai-age/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "You Don't Need to Use Cloud AI Switchyard and Nemotron (Level1/Wendell) [video]",
+          "summary": "暂无摘要",
+          "source": "amlib",
+          "url": "https://www.youtube.com/watch?v=-IGB6Avxwgo",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI models are breaking out of their cages. Their creators are scrambling",
+          "summary": "暂无摘要",
+          "source": "saikatsg",
+          "url": "https://www.washingtonpost.com/technology/2026/08/10/openai-anthropic-under-pressure-explain-ai-hacking-sprees/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: Webstractor – Pay-as-You-Go Web Data API for AI Agents",
+          "summary": "暂无摘要",
+          "source": "mariusbolik",
+          "url": "https://webstractor.com/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Can you trust what AI tells you? [video]",
+          "summary": "暂无摘要",
+          "source": "thesdev",
+          "url": "https://www.youtube.com/watch?v=cIMlBw2nqfA",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: HeyDeacon, AI customer support agent for SaaS founders",
+          "summary": "暂无摘要",
+          "source": "arcadium3D",
+          "url": "https://heydeacon.com",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI and the Delusions of Increasing Productivity",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "http://charleshughsmith.blogspot.com/2026/08/ai-and-delusions-of-increasing.html",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI generated profile not allowed on X",
+          "summary": "暂无摘要",
+          "source": "newsoftheday",
+          "url": "https://help.x.com/en/rules-and-policies/authenticity",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI Boot Camps Surge as Workers Race to Learn New Skills",
+          "summary": "暂无摘要",
+          "source": "wslh",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-08/ai-training-boom-sends-colleges-racing-to-offer-credentials",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Understanding an AI agent's memory through Harry Potter",
+          "summary": "暂无摘要",
+          "source": "tidbeck",
+          "url": "https://squidler.io/blog/agent-memory-harry-potter",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Show HN: SmokeOps – describe a flow, get checks you rerun without AI",
+          "summary": "暂无摘要",
+          "source": "crackedev",
+          "url": "https://github.com/gate3/SmokeOps",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Sam's News – Free AI News Aggregator",
+          "summary": "暂无摘要",
+          "source": "srschreiber",
+          "url": "https://samnews.news/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Nvidia building 1T-parameter Nemotron 4 to rival open AI models",
+          "summary": "暂无摘要",
+          "source": "giuliomagnifico",
+          "url": "https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "Hack's Law",
+          "summary": "暂无摘要",
+          "source": "brandonb",
+          "url": "https://en.wikipedia.org/wiki/Hack%27s_law",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+          "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
+          "source": "Lily Hay Newman",
+          "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+          "time": "2026-08-11"
+        },
+        {
+          "title": "AI Is Dead. Organoids Are Alive",
+          "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
+          "source": "Claire L. Evans",
+          "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+          "time": "2026-08-11"
+        },
+        {
           "title": "The AI Slop Backlash Is Actually Having an Impact",
           "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
           "source": "Reece Rogers",
@@ -404,13 +985,6 @@
           "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
           "source": "Fernanda González",
           "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-          "time": "2026-08-07"
-        },
-        {
-          "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
-          "summary": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
-          "source": "Will Knight",
-          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
           "time": "2026-08-07"
         }
       ]
