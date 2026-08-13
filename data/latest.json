@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-12T20:32:58.037Z",
-  "date": "2026年8月12日 20时32分",
+  "updateTime": "2026-08-13T20:31:05.561Z",
+  "date": "2026年8月13日 20时31分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "The AI Era Arcs Toward Openness",
+          "title": "The AI slop doctors, and the prompts instructing them to lie",
           "summary": "暂无摘要",
-          "source": "pentagrama",
-          "url": "https://opensource.org/blog/the-ai-era-arcs-toward-openness",
-          "time": "2026-08-12"
+          "source": "Camth",
+          "url": "https://codysumter.substack.com/p/this-is-medical-advice",
+          "time": "2026-08-13"
         },
         {
-          "title": "AI Agent Sandboxes Stop Escapes. They Don't Tell You What Happened Inside",
+          "title": "AI's $1.65T Hidden Debt Problem",
           "summary": "暂无摘要",
-          "source": "wakahiu",
-          "url": "https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/",
-          "time": "2026-08-12"
+          "source": "Mr_Kobayashi",
+          "url": "https://rubbishtalk.com/finance/ais-1-65-trillion-hidden-debt-problem/",
+          "time": "2026-08-13"
         },
         {
-          "title": "Mathematician Jacob Tsimerman on Getting to the Fun Faster with AI",
+          "title": "Arca Sophia Open-Core–Edge AI and Scada Telemetry Filter in Docker (AGPLv3)",
           "summary": "暂无摘要",
-          "source": "mathgenius",
-          "url": "https://www.ams.org/journals/notices/202607/noti3372/noti3372.html",
-          "time": "2026-08-12"
+          "source": "Nodo9",
+          "url": "https://github.com/Nodo9/arca-sophia-open-core",
+          "time": "2026-08-13"
         },
         {
-          "title": "The Production AI Stack: A Reference Architecture for Real-Time AI Systems",
+          "title": "AutoProver: AI agents and formal methods for intent, specs, bugs analysis",
           "summary": "暂无摘要",
-          "source": "srimalireddi",
-          "url": "https://www.moss.dev/blog/the-production-ai-stack",
-          "time": "2026-08-12"
+          "source": "wslh",
+          "url": "https://app.certora.com/",
+          "time": "2026-08-13"
         },
         {
-          "title": "The Google executive moves that led to its big AI reshuffle",
+          "title": "Forklane AI – Public Beta Launch",
           "summary": "暂无摘要",
-          "source": "TechTechTech",
-          "url": "https://www.reuters.com/world/inside-google-executive-moves-that-led-its-big-ai-reshuffle-2026-08-12/",
-          "time": "2026-08-12"
+          "source": "akshayl284",
+          "url": "https://forklane.ai",
+          "time": "2026-08-13"
         },
         {
-          "title": "Full red-teaming test ling 3.0 tiny AI. 123-class battery (391 completed records",
+          "title": "Show HN: Clixad – Free AI coding agent in the terminal, funded by an offerwall",
           "summary": "暂无摘要",
-          "source": "leochong",
-          "url": "https://lateos.ai/ling-3.0-tiny-research/",
-          "time": "2026-08-12"
+          "source": "flo_r",
+          "url": "https://clixad.io/",
+          "time": "2026-08-13"
         },
         {
-          "title": "Drift – Intent-driven versioning for AI coding agents",
+          "title": "Leveraging Requirements Engineering for AI Coding Tool Success",
           "summary": "暂无摘要",
-          "source": "lilcipherx",
-          "url": "https://github.com/lilcipherx/drift",
-          "time": "2026-08-12"
+          "source": "adunk",
+          "url": "https://cacm.acm.org/news/leveraging-requirements-engineering-for-ai-coding-tool-success/",
+          "time": "2026-08-13"
         },
         {
-          "title": "Show HN: NuFlow, visual, AI powered, low code, dev and deploy platform",
+          "title": "I built a lint for AI-generated evidence",
           "summary": "暂无摘要",
-          "source": "ikessler",
-          "url": "https://deepcortex.com/get-started-1",
-          "time": "2026-08-12"
+          "source": "fmajchrzak",
+          "url": "https://apify.com/filipmajchrzak/ai-claim-checkpoint",
+          "time": "2026-08-13"
         },
         {
-          "title": "AI agents aren't legally responsible for harm they cause. So who is?",
+          "title": "Yaak.ai Physical AI OS: copper-rs",
           "summary": "暂无摘要",
-          "source": "devonnull",
-          "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
-          "time": "2026-08-12"
+          "source": "gbin",
+          "url": "https://www.yaak.ai/blog/yaak-x-copper",
+          "time": "2026-08-13"
         },
         {
-          "title": "How many AI tools die?",
+          "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
           "summary": "暂无摘要",
-          "source": "StriverGuy",
-          "url": "https://tooldirectory.ai/research/ai-tool-mortality",
-          "time": "2026-08-12"
+          "source": "malshe",
+          "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+          "time": "2026-08-13"
         },
         {
-          "title": "Reasons Engineers Hate Their Managers in the Age of AI",
+          "title": "Ask HN: How much money do you spend monthly on subscriptions for AI models?",
           "summary": "暂无摘要",
-          "source": "beardless_sysad",
-          "url": "https://hollyafrench.com/2026/08/12/Seven-Reasons-Engineers-Hate-Their-Managers",
-          "time": "2026-08-12"
+          "source": "marko-djuric",
+          "url": "https://news.ycombinator.com/item?id=49290713",
+          "time": "2026-08-13"
         },
         {
-          "title": "Learning 10000 pictures (1973) [pdf]",
-          "summary": "暂无摘要",
-          "source": "Tomte",
-          "url": "https://gwern.net/doc/psychology/spaced-repetition/1973-standing.pdf",
-          "time": "2026-08-12"
-        },
-        {
-          "title": "Theses on AI",
-          "summary": "暂无摘要",
-          "source": "rgbimbochamp",
-          "url": "https://smunshi.net/posts/ai-theses.html",
-          "time": "2026-08-12"
-        },
-        {
-          "title": "We started tracking which AI model wrote every line, and you should too",
-          "summary": "暂无摘要",
-          "source": "jeremyccrane",
-          "url": "https://twitter.com/lifeofjer/status/2087608101293916466",
-          "time": "2026-08-12"
-        },
-        {
-          "title": "Jonas Salk developed the polio vaccine and refused to profit from it",
-          "summary": "暂无摘要",
-          "source": "tchalla",
-          "url": "https://www.bbc.com/culture/article/20260401-the-scientist-who-developed-the-polio-vaccine",
-          "time": "2026-08-12"
-        },
-        {
-          "title": "Zitron on CNBC talking Nvidia, unprofitable AI labs, and the Greater AI Bubble [video]",
-          "summary": "暂无摘要",
-          "source": "SLHamlet",
-          "url": "https://www.youtube.com/watch?v=8GWPjTDPVIM",
-          "time": "2026-08-12"
-        },
-        {
-          "title": "Natural Language Processing Almost from Scratch",
+          "title": "Jeff Dean: The 1% Rule for Building in AI [video]",
           "summary": "暂无摘要",
           "source": "Anon84",
-          "url": "https://arxiv.org/abs/1103.0398",
-          "time": "2026-08-12"
+          "url": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
+          "time": "2026-08-13"
         },
         {
-          "title": "AI coding startup Cognition in talks to raise at $40B valuation",
+          "title": "The Buzzword-Driven Development Manifesto (AI Edition)",
           "summary": "暂无摘要",
-          "source": "ashurandi",
-          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-          "time": "2026-08-12"
+          "source": "gabert",
+          "url": "https://github.com/gabert/buzzword-driven-development",
+          "time": "2026-08-13"
         },
         {
-          "title": "Adults have struggled to set rules for AI in school. These teens figured it out",
+          "title": "Intelligence CIOs Warn AI Agents Could Accelerate Cyberattacks",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://text.npr.org/nx-s1-5853571",
-          "time": "2026-08-12"
+          "source": "jethronethro",
+          "url": "https://govciomedia.com/intelligence-cios-warn-ai-agents-could-accelerate-cyberattacks/",
+          "time": "2026-08-13"
         },
         {
-          "title": "Open-sourcing Metals v2: Databricks' Java and Scala language server",
+          "title": "TTT-Discover: Learning to Discover at Test Time",
           "summary": "暂无摘要",
-          "source": "hocuspocus",
-          "url": "https://www.databricks.com/blog/open-sourcing-metals-v2-databricks-java-and-scala-language-server-multi-million-line-codebases",
-          "time": "2026-08-12"
+          "source": "matt_d",
+          "url": "https://ucbskyadrs.github.io/blog/ttt/",
+          "time": "2026-08-13"
+        },
+        {
+          "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+          "summary": "暂无摘要",
+          "source": "hampelm",
+          "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+          "time": "2026-08-13"
+        },
+        {
+          "title": "Show HN: MLTraining Free AI/ML training resources for everyone",
+          "summary": "暂无摘要",
+          "source": "Cagritemel",
+          "url": "https://mltraining.org/",
+          "time": "2026-08-13"
+        },
+        {
+          "title": "Nine AI demo-agent landing pages: a 30-point conversion benchmark",
+          "summary": "暂无摘要",
+          "source": "AuditForgeHQ",
+          "url": "https://w24bd0kvaqatl5q4d67cvoiga5ccskw9.pastehtml.dev/",
+          "time": "2026-08-13"
+        },
+        {
+          "title": "I wrote an AI textbook – how long until AI can do it better?",
+          "summary": "暂无摘要",
+          "source": "sebg",
+          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+          "time": "2026-08-13"
+        },
+        {
+          "title": "Scale Your AI Revenue – Not Your Cloud Bill",
+          "summary": "暂无摘要",
+          "source": "flyingfishisme",
+          "url": "https://acefleet.dev/",
+          "time": "2026-08-13"
         },
         {
           "title": "AI professors are negotiating the new realities of academic research",
@@ -174,13 +174,6 @@
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
           "time": "2026-07-30"
-        },
-        {
-          "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its mod",
-          "source": "Will Douglas Heaven",
-          "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-          "time": "2026-07-27"
         }
       ]
     },
@@ -295,6 +288,13 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+          "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+          "time": "2026-08-13"
+        },
+        {
           "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
           "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
           "source": "Julie Bort",
@@ -330,32 +330,11 @@
           "time": "2026-08-12"
         },
         {
-          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-          "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-          "time": "2026-08-11"
-        },
-        {
-          "title": "Google’s Gemini app surges to 1 billion users",
-          "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi",
-          "source": "Lauren Forristal",
-          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-          "time": "2026-08-11"
-        },
-        {
-          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-          "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-          "time": "2026-08-11"
-        },
-        {
-          "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-          "summary": "San Francisco's housing market is in trouble again.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-          "time": "2026-08-11"
+          "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+          "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives",
+          "source": "David Cox",
+          "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+          "time": "2026-08-13"
         },
         {
           "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
@@ -371,6 +350,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+          "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+          "time": "2026-08-13"
+        },
         {
           "title": "Scaling AI agents with trustworthy data",
           "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work",
@@ -391,13 +377,6 @@
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
           "time": "2026-08-03"
-        },
-        {
-          "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its mod",
-          "source": "Will Douglas Heaven",
-          "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-          "time": "2026-07-27"
         }
       ]
     },
@@ -568,6 +547,13 @@
           "time": "2022-12-16"
         },
         {
+          "title": "The White House Is Going to Expand Its AI Policy",
+          "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+          "source": "Hugo Lowell",
+          "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+          "time": "2026-08-12"
+        },
+        {
           "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
           "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
           "source": "Lily Hay Newman",
@@ -580,13 +566,6 @@
           "source": "Claire L. Evans",
           "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
           "time": "2026-08-11"
-        },
-        {
-          "title": "The AI Slop Backlash Is Actually Having an Impact",
-          "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
-          "source": "Reece Rogers",
-          "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-          "time": "2026-08-10"
         }
       ]
     }
