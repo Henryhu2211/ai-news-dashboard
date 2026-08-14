@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-13T20:31:05.561Z",
-  "date": "2026年8月13日 20时31分",
+  "updateTime": "2026-08-14T20:21:41.874Z",
+  "date": "2026年8月14日 20时21分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "The AI slop doctors, and the prompts instructing them to lie",
+          "title": "BAML is Basically A Made-up Language",
           "summary": "暂无摘要",
-          "source": "Camth",
-          "url": "https://codysumter.substack.com/p/this-is-medical-advice",
-          "time": "2026-08-13"
+          "source": "gregsadetsky",
+          "url": "https://boundaryml.com/",
+          "time": "2026-08-14"
         },
         {
-          "title": "AI's $1.65T Hidden Debt Problem",
+          "title": "Young people increasingly don't trust AI",
           "summary": "暂无摘要",
-          "source": "Mr_Kobayashi",
-          "url": "https://rubbishtalk.com/finance/ais-1-65-trillion-hidden-debt-problem/",
-          "time": "2026-08-13"
+          "source": "01-_-",
+          "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
+          "time": "2026-08-14"
         },
         {
-          "title": "Arca Sophia Open-Core–Edge AI and Scada Telemetry Filter in Docker (AGPLv3)",
+          "title": "Jane Street has paid up large to avoid its numbers leaking out",
           "summary": "暂无摘要",
-          "source": "Nodo9",
-          "url": "https://github.com/Nodo9/arca-sophia-open-core",
-          "time": "2026-08-13"
+          "source": "JumpCrisscross",
+          "url": "https://www.ft.com/content/28a51284-98cc-4767-a306-0540d265687f",
+          "time": "2026-08-14"
         },
         {
-          "title": "AutoProver: AI agents and formal methods for intent, specs, bugs analysis",
+          "title": "Water Kettle Warning: Danger of Burns",
           "summary": "暂无摘要",
-          "source": "wslh",
-          "url": "https://app.certora.com/",
-          "time": "2026-08-13"
+          "source": "paulpauper",
+          "url": "https://www.exfatloss.com/p/water-kettle-warning-danger-of-severe",
+          "time": "2026-08-14"
         },
         {
-          "title": "Forklane AI – Public Beta Launch",
+          "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
           "summary": "暂无摘要",
-          "source": "akshayl284",
-          "url": "https://forklane.ai",
-          "time": "2026-08-13"
+          "source": "felipemayamuniz",
+          "url": "https://www.aletheionagi.com",
+          "time": "2026-08-14"
         },
         {
-          "title": "Show HN: Clixad – Free AI coding agent in the terminal, funded by an offerwall",
+          "title": "Show HN: Biasly.ai – Bias detection with historical context",
           "summary": "暂无摘要",
-          "source": "flo_r",
-          "url": "https://clixad.io/",
-          "time": "2026-08-13"
+          "source": "jayubba1",
+          "url": "https://biasly.ai/",
+          "time": "2026-08-14"
         },
         {
-          "title": "Leveraging Requirements Engineering for AI Coding Tool Success",
+          "title": "Z.ai Security Disclosure",
           "summary": "暂无摘要",
-          "source": "adunk",
-          "url": "https://cacm.acm.org/news/leveraging-requirements-engineering-for-ai-coding-tool-success/",
-          "time": "2026-08-13"
+          "source": "Alifatisk",
+          "url": "https://cvd.z.ai",
+          "time": "2026-08-14"
         },
         {
-          "title": "I built a lint for AI-generated evidence",
+          "title": "How AI is changing how I build software with Simon Willison, on Talking Postgres",
           "summary": "暂无摘要",
-          "source": "fmajchrzak",
-          "url": "https://apify.com/filipmajchrzak/ai-claim-checkpoint",
-          "time": "2026-08-13"
+          "source": "clairegiordano",
+          "url": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison",
+          "time": "2026-08-14"
         },
         {
-          "title": "Yaak.ai Physical AI OS: copper-rs",
+          "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
           "summary": "暂无摘要",
-          "source": "gbin",
-          "url": "https://www.yaak.ai/blog/yaak-x-copper",
-          "time": "2026-08-13"
+          "source": "gmays",
+          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
+          "time": "2026-08-14"
         },
         {
-          "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+          "title": "Google DeepMind Releases SL2T (Sign Language to Text)",
           "summary": "暂无摘要",
-          "source": "malshe",
-          "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-          "time": "2026-08-13"
+          "source": "neelbuilds",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "time": "2026-08-14"
         },
         {
-          "title": "Ask HN: How much money do you spend monthly on subscriptions for AI models?",
+          "title": "BananaMind 2 Pro: Language Model Trained on a Consumer GPU in 20 days",
           "summary": "暂无摘要",
-          "source": "marko-djuric",
-          "url": "https://news.ycombinator.com/item?id=49290713",
-          "time": "2026-08-13"
+          "source": "banaxii",
+          "url": "https://huggingface.co/BananaMind/BananaMind-2-Pro",
+          "time": "2026-08-14"
         },
         {
-          "title": "Jeff Dean: The 1% Rule for Building in AI [video]",
+          "title": "Show HN: Captain, AI Travel Agent",
           "summary": "暂无摘要",
-          "source": "Anon84",
-          "url": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
-          "time": "2026-08-13"
+          "source": "fathermerry",
+          "url": "https://www.moonlight.ng/captain/",
+          "time": "2026-08-14"
         },
         {
-          "title": "The Buzzword-Driven Development Manifesto (AI Edition)",
+          "title": "Show HN: Open-source and AI native web analytics",
           "summary": "暂无摘要",
-          "source": "gabert",
-          "url": "https://github.com/gabert/buzzword-driven-development",
-          "time": "2026-08-13"
+          "source": "rahulbridge",
+          "url": "https://github.com/OpenLabs-so/openanalytics",
+          "time": "2026-08-14"
         },
         {
-          "title": "Intelligence CIOs Warn AI Agents Could Accelerate Cyberattacks",
+          "title": "We urgently need a coherent national AI cybersecurity policy",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://govciomedia.com/intelligence-cios-warn-ai-agents-could-accelerate-cyberattacks/",
-          "time": "2026-08-13"
+          "source": "paulpauper",
+          "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
+          "time": "2026-08-14"
         },
         {
-          "title": "TTT-Discover: Learning to Discover at Test Time",
+          "title": "Tokens per second visualized as the programming language balls",
           "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://ucbskyadrs.github.io/blog/ttt/",
-          "time": "2026-08-13"
+          "source": "Kylejeong21",
+          "url": "https://kylejeong.com/inference-balls",
+          "time": "2026-08-14"
         },
         {
-          "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+          "title": "Need Help Learning Assembly",
           "summary": "暂无摘要",
-          "source": "hampelm",
-          "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
-          "time": "2026-08-13"
+          "source": "kilyo",
+          "url": "https://news.ycombinator.com/item?id=49302479",
+          "time": "2026-08-14"
         },
         {
-          "title": "Show HN: MLTraining Free AI/ML training resources for everyone",
+          "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
           "summary": "暂无摘要",
-          "source": "Cagritemel",
-          "url": "https://mltraining.org/",
-          "time": "2026-08-13"
+          "source": "supportm",
+          "url": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
+          "time": "2026-08-14"
         },
         {
-          "title": "Nine AI demo-agent landing pages: a 30-point conversion benchmark",
+          "title": "When facts change, should AI memory change?",
           "summary": "暂无摘要",
-          "source": "AuditForgeHQ",
-          "url": "https://w24bd0kvaqatl5q4d67cvoiga5ccskw9.pastehtml.dev/",
-          "time": "2026-08-13"
+          "source": "Zongming",
+          "url": "https://github.com/Anchorstate-Lab/GMR",
+          "time": "2026-08-14"
         },
         {
-          "title": "I wrote an AI textbook – how long until AI can do it better?",
+          "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
           "summary": "暂无摘要",
-          "source": "sebg",
-          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
-          "time": "2026-08-13"
+          "source": "newusertoday",
+          "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+          "time": "2026-08-14"
         },
         {
-          "title": "Scale Your AI Revenue – Not Your Cloud Bill",
+          "title": "Multi-hop reasoning collapses by 1M tokens; with a learning system it doesn't",
           "summary": "暂无摘要",
-          "source": "flyingfishisme",
-          "url": "https://acefleet.dev/",
-          "time": "2026-08-13"
+          "source": "lvrzhn",
+          "url": "https://zenodo.org/records/21937795",
+          "time": "2026-08-14"
         },
         {
           "title": "AI professors are negotiating the new realities of academic research",
@@ -279,6 +279,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
           "time": "2026-06-15"
+        },
+        {
+          "title": "Young people increasingly don't trust AI",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Anthropic Risk August 2026 [pdf]",
+          "summary": "暂无摘要",
+          "source": "artninja1988",
+          "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+          "summary": "暂无摘要",
+          "source": "felipemayamuniz",
+          "url": "https://www.aletheionagi.com",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Show HN: Biasly.ai – Bias detection with historical context",
+          "summary": "暂无摘要",
+          "source": "jayubba1",
+          "url": "https://biasly.ai/",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Z.ai Security Disclosure",
+          "summary": "暂无摘要",
+          "source": "Alifatisk",
+          "url": "https://cvd.z.ai",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+          "summary": "暂无摘要",
+          "source": "DGAP",
+          "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "How AI is changing how I build software with Simon Willison, on Talking Postgres",
+          "summary": "暂无摘要",
+          "source": "clairegiordano",
+          "url": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Google DeepMind Releases SL2T (Sign Language to Text)",
+          "summary": "暂无摘要",
+          "source": "neelbuilds",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Credentio: Open-Source C++ Library for C2PA Content Credentials from Google",
+          "summary": "暂无摘要",
+          "source": "andrewstetsenko",
+          "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Show HN: Captain, AI Travel Agent",
+          "summary": "暂无摘要",
+          "source": "fathermerry",
+          "url": "https://www.moonlight.ng/captain/",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "You can now turn off Google Gemini's visible watermarks",
+          "summary": "暂无摘要",
+          "source": "thm",
+          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Show HN: Open-source and AI native web analytics",
+          "summary": "暂无摘要",
+          "source": "rahulbridge",
+          "url": "https://github.com/OpenLabs-so/openanalytics",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "We urgently need a coherent national AI cybersecurity policy",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
+          "summary": "暂无摘要",
+          "source": "supportm",
+          "url": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "When facts change, should AI memory change?",
+          "summary": "暂无摘要",
+          "source": "Zongming",
+          "url": "https://github.com/Anchorstate-Lab/GMR",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
+          "summary": "暂无摘要",
+          "source": "newusertoday",
+          "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
+          "summary": "暂无摘要",
+          "source": "Growtika",
+          "url": "https://growtika.com/blog/reddit-ai-visibility-research",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "1,1 mld USD dla River AI: Co oznacza rewolucja spersonalizowanego AI?",
+          "summary": "暂无摘要",
+          "source": "mbarczynski",
+          "url": "https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+          "summary": "暂无摘要",
+          "source": "parvaamin",
+          "url": "https://github.com/insightitsGit/PrismManifest",
+          "time": "2026-08-14"
         }
       ]
     },
@@ -287,6 +427,13 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Kog is going deeper to squeeze more inference out of GPUs",
+          "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+          "source": "Anna Heim",
+          "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+          "time": "2026-08-14"
+        },
         {
           "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
           "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
@@ -309,27 +456,6 @@
           "time": "2026-08-12"
         },
         {
-          "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-          "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-          "time": "2026-08-12"
-        },
-        {
-          "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-          "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-          "source": "Russell Brandom",
-          "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-          "time": "2026-08-12"
-        },
-        {
-          "title": "AI code-testing startup Blacksmith&#8217;s valuation jumps almost 10x in less than a year",
-          "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-          "time": "2026-08-12"
-        },
-        {
           "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
           "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives",
           "source": "David Cox",
@@ -342,6 +468,146 @@
           "source": "Kate Taylor",
           "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
           "time": "2026-08-12"
+        },
+        {
+          "title": "Young people increasingly don't trust AI",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+          "summary": "暂无摘要",
+          "source": "felipemayamuniz",
+          "url": "https://www.aletheionagi.com",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Show HN: Biasly.ai – Bias detection with historical context",
+          "summary": "暂无摘要",
+          "source": "jayubba1",
+          "url": "https://biasly.ai/",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Z.ai Security Disclosure",
+          "summary": "暂无摘要",
+          "source": "Alifatisk",
+          "url": "https://cvd.z.ai",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "How AI is changing how I build software with Simon Willison, on Talking Postgres",
+          "summary": "暂无摘要",
+          "source": "clairegiordano",
+          "url": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Show HN: Captain, AI Travel Agent",
+          "summary": "暂无摘要",
+          "source": "fathermerry",
+          "url": "https://www.moonlight.ng/captain/",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Show HN: Open-source and AI native web analytics",
+          "summary": "暂无摘要",
+          "source": "rahulbridge",
+          "url": "https://github.com/OpenLabs-so/openanalytics",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "We urgently need a coherent national AI cybersecurity policy",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
+          "summary": "暂无摘要",
+          "source": "supportm",
+          "url": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "When facts change, should AI memory change?",
+          "summary": "暂无摘要",
+          "source": "Zongming",
+          "url": "https://github.com/Anchorstate-Lab/GMR",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
+          "summary": "暂无摘要",
+          "source": "newusertoday",
+          "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
+          "summary": "暂无摘要",
+          "source": "Growtika",
+          "url": "https://growtika.com/blog/reddit-ai-visibility-research",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "1,1 mld USD dla River AI: Co oznacza rewolucja spersonalizowanego AI?",
+          "summary": "暂无摘要",
+          "source": "mbarczynski",
+          "url": "https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+          "summary": "暂无摘要",
+          "source": "parvaamin",
+          "url": "https://github.com/insightitsGit/PrismManifest",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Nvidia's $500B Plan Envelops Wall Sreett in Its AI Frenzy",
+          "summary": "暂无摘要",
+          "source": "petethomas",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Ask HN: Has anyone been fired because of an AI-driven DDoS attack?",
+          "summary": "暂无摘要",
+          "source": "novateg",
+          "url": "https://news.ycombinator.com/item?id=49301819",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Training AI Scientists to Replicate Research",
+          "summary": "暂无摘要",
+          "source": "pixelmoth",
+          "url": "https://inherentlabs.ai/research/training-to-replicate",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Fortunes from AI revive effective altruism after Sam Bankman-Fried turmoil",
+          "summary": "暂无摘要",
+          "source": "aanet",
+          "url": "https://www.ft.com/content/938b4b82-06d2-4b92-a807-38d935d7d5c5",
+          "time": "2026-08-14"
+        },
+        {
+          "title": "Why Open Source Matters for AI",
+          "summary": "暂无摘要",
+          "source": "BerislavLopac",
+          "url": "https://www.oreilly.com/radar/why-open-source-matters-for-ai/",
+          "time": "2026-08-14"
         }
       ]
     },
@@ -547,25 +813,18 @@
           "time": "2022-12-16"
         },
         {
+          "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+          "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+          "source": "Jason Parham",
+          "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+          "time": "2026-08-14"
+        },
+        {
           "title": "The White House Is Going to Expand Its AI Policy",
           "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
           "source": "Hugo Lowell",
           "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
           "time": "2026-08-12"
-        },
-        {
-          "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-          "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
-          "source": "Lily Hay Newman",
-          "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-          "time": "2026-08-11"
-        },
-        {
-          "title": "AI Is Dead. Organoids Are Alive",
-          "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
-          "source": "Claire L. Evans",
-          "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-          "time": "2026-08-11"
         }
       ]
     }
