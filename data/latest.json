@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-14T20:21:41.874Z",
-  "date": "2026年8月14日 20时21分",
+  "updateTime": "2026-08-15T20:11:26.546Z",
+  "date": "2026年8月15日 20时11分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "BAML is Basically A Made-up Language",
+          "title": "Meta will train its AI on Newsmax, a far-right media outlet",
           "summary": "暂无摘要",
-          "source": "gregsadetsky",
-          "url": "https://boundaryml.com/",
-          "time": "2026-08-14"
+          "source": "Fellw",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "time": "2026-08-15"
         },
         {
-          "title": "Young people increasingly don't trust AI",
+          "title": "Secondhand booksellers in UK and Ireland suspect AI firms 'strange' bulk orders",
           "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
-          "time": "2026-08-14"
+          "source": "heisenbit",
+          "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+          "time": "2026-08-15"
         },
         {
-          "title": "Jane Street has paid up large to avoid its numbers leaking out",
+          "title": "Why tech bosses keep sharing their manifestos about AI",
           "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.ft.com/content/28a51284-98cc-4767-a306-0540d265687f",
-          "time": "2026-08-14"
+          "source": "tcp_handshaker",
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "time": "2026-08-15"
         },
         {
-          "title": "Water Kettle Warning: Danger of Burns",
+          "title": "Austin Scholar #222: The three things that make a kid love learning",
           "summary": "暂无摘要",
           "source": "paulpauper",
-          "url": "https://www.exfatloss.com/p/water-kettle-warning-danger-of-severe",
-          "time": "2026-08-14"
+          "url": "https://austinscholar.substack.com/p/austin-scholar-222-the-three-things",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+          "title": "So How Is AI Drug Discovery Doing, Really?",
           "summary": "暂无摘要",
-          "source": "felipemayamuniz",
-          "url": "https://www.aletheionagi.com",
-          "time": "2026-08-14"
+          "source": "AnodicElegy",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: Biasly.ai – Bias detection with historical context",
+          "title": "Understanding reinforcement learning for model training from scratch",
           "summary": "暂无摘要",
-          "source": "jayubba1",
-          "url": "https://biasly.ai/",
-          "time": "2026-08-14"
+          "source": "teleforce",
+          "url": "https://medium.com/data-science-collective/understanding-reinforcement-learning-for-model-training-from-scratch-8bffe8d87a07",
+          "time": "2026-08-15"
         },
         {
-          "title": "Z.ai Security Disclosure",
+          "title": "Deep Learning Overview",
           "summary": "暂无摘要",
-          "source": "Alifatisk",
-          "url": "https://cvd.z.ai",
-          "time": "2026-08-14"
+          "source": "andrewtbham",
+          "url": "https://github.com/andrewt3000/machinelearning",
+          "time": "2026-08-15"
         },
         {
-          "title": "How AI is changing how I build software with Simon Willison, on Talking Postgres",
+          "title": "The Output Style, It Does Nothing – Learning to Live with Claude",
           "summary": "暂无摘要",
-          "source": "clairegiordano",
-          "url": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison",
-          "time": "2026-08-14"
+          "source": "iamflimflam1",
+          "url": "https://www.atomic14.com/2026/08/15/output-style-does-nothing",
+          "time": "2026-08-15"
         },
         {
-          "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
+          "title": "The Three AI Pills",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
-          "time": "2026-08-14"
+          "source": "stuartmemo",
+          "url": "https://thezvi.substack.com/p/the-three-ai-pills",
+          "time": "2026-08-15"
         },
         {
-          "title": "Google DeepMind Releases SL2T (Sign Language to Text)",
+          "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
           "summary": "暂无摘要",
-          "source": "neelbuilds",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-          "time": "2026-08-14"
+          "source": "pluc",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+          "time": "2026-08-15"
         },
         {
-          "title": "BananaMind 2 Pro: Language Model Trained on a Consumer GPU in 20 days",
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
           "summary": "暂无摘要",
-          "source": "banaxii",
-          "url": "https://huggingface.co/BananaMind/BananaMind-2-Pro",
-          "time": "2026-08-14"
+          "source": "rzk",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: Captain, AI Travel Agent",
+          "title": "AI detectors are creating a new era of distrust",
           "summary": "暂无摘要",
-          "source": "fathermerry",
-          "url": "https://www.moonlight.ng/captain/",
-          "time": "2026-08-14"
+          "source": "saikatsg",
+          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: Open-source and AI native web analytics",
+          "title": "Ask HN: Will AI lead to complete human irrelevance?",
           "summary": "暂无摘要",
-          "source": "rahulbridge",
-          "url": "https://github.com/OpenLabs-so/openanalytics",
-          "time": "2026-08-14"
+          "source": "atleastoptimal",
+          "url": "https://news.ycombinator.com/item?id=49312559",
+          "time": "2026-08-15"
         },
         {
-          "title": "We urgently need a coherent national AI cybersecurity policy",
+          "title": "How to fix security warning in Firefox",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
-          "time": "2026-08-14"
+          "source": "tlsradar",
+          "url": "https://tlsradar.com/blog/fix-security-warning-firefox",
+          "time": "2026-08-15"
         },
         {
-          "title": "Tokens per second visualized as the programming language balls",
+          "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
           "summary": "暂无摘要",
-          "source": "Kylejeong21",
-          "url": "https://kylejeong.com/inference-balls",
-          "time": "2026-08-14"
+          "source": "mathewpregasen",
+          "url": "https://lettertrace.com",
+          "time": "2026-08-15"
         },
         {
-          "title": "Need Help Learning Assembly",
+          "title": "Don't let AI rob you [video]",
           "summary": "暂无摘要",
-          "source": "kilyo",
-          "url": "https://news.ycombinator.com/item?id=49302479",
-          "time": "2026-08-14"
+          "source": "aupra",
+          "url": "https://www.youtube.com/watch?v=-T39cM3LPk0",
+          "time": "2026-08-15"
         },
         {
-          "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
+          "title": "5G, full bars, nothing loads: Or how I learned to start learning with LLMs",
           "summary": "暂无摘要",
-          "source": "supportm",
-          "url": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
-          "time": "2026-08-14"
+          "source": "dmkii",
+          "url": "https://www.dumky.net/posts/5g-full-bars-nothing-loads-learning-with-llms/",
+          "time": "2026-08-15"
         },
         {
-          "title": "When facts change, should AI memory change?",
+          "title": "Open Sourcing the Atuin AI Server",
           "summary": "暂无摘要",
-          "source": "Zongming",
-          "url": "https://github.com/Anchorstate-Lab/GMR",
-          "time": "2026-08-14"
+          "source": "linsomniac",
+          "url": "https://blog.atuin.sh/atuin-ai-oss/",
+          "time": "2026-08-15"
         },
         {
-          "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
+          "title": "Briefing on Extinction-Level AI Threats",
           "summary": "暂无摘要",
-          "source": "newusertoday",
-          "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
-          "time": "2026-08-14"
+          "source": "yurivish",
+          "url": "https://intelligence.org/briefing/",
+          "time": "2026-08-15"
         },
         {
-          "title": "Multi-hop reasoning collapses by 1M tokens; with a learning system it doesn't",
+          "title": "US to tell partners they must pick sides in AI race with China",
           "summary": "暂无摘要",
-          "source": "lvrzhn",
-          "url": "https://zenodo.org/records/21937795",
-          "time": "2026-08-14"
+          "source": "jonbaer",
+          "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+          "time": "2026-08-15"
         },
         {
           "title": "AI professors are negotiating the new realities of academic research",
@@ -281,144 +281,144 @@
           "time": "2026-06-15"
         },
         {
-          "title": "Young people increasingly don't trust AI",
+          "title": "Meta will train its AI on Newsmax, a far-right media outlet",
           "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
-          "time": "2026-08-14"
+          "source": "Fellw",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "time": "2026-08-15"
         },
         {
-          "title": "Anthropic Risk August 2026 [pdf]",
+          "title": "Secondhand booksellers in UK and Ireland suspect AI firms 'strange' bulk orders",
           "summary": "暂无摘要",
-          "source": "artninja1988",
-          "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-          "time": "2026-08-14"
+          "source": "heisenbit",
+          "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+          "title": "Remembering the pre-Google web, when search was an experiment",
           "summary": "暂无摘要",
-          "source": "felipemayamuniz",
-          "url": "https://www.aletheionagi.com",
-          "time": "2026-08-14"
+          "source": "ohjeez",
+          "url": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: Biasly.ai – Bias detection with historical context",
+          "title": "What on Earth is Google doing?",
           "summary": "暂无摘要",
-          "source": "jayubba1",
-          "url": "https://biasly.ai/",
-          "time": "2026-08-14"
+          "source": "strogonoff",
+          "url": "https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran",
+          "time": "2026-08-15"
         },
         {
-          "title": "Z.ai Security Disclosure",
+          "title": "Why tech bosses keep sharing their manifestos about AI",
           "summary": "暂无摘要",
-          "source": "Alifatisk",
-          "url": "https://cvd.z.ai",
-          "time": "2026-08-14"
+          "source": "tcp_handshaker",
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "time": "2026-08-15"
         },
         {
-          "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+          "title": "So How Is AI Drug Discovery Doing, Really?",
           "summary": "暂无摘要",
-          "source": "DGAP",
-          "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-          "time": "2026-08-14"
+          "source": "AnodicElegy",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "time": "2026-08-15"
         },
         {
-          "title": "How AI is changing how I build software with Simon Willison, on Talking Postgres",
+          "title": "The Three AI Pills",
           "summary": "暂无摘要",
-          "source": "clairegiordano",
-          "url": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison",
-          "time": "2026-08-14"
+          "source": "stuartmemo",
+          "url": "https://thezvi.substack.com/p/the-three-ai-pills",
+          "time": "2026-08-15"
         },
         {
-          "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
+          "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
-          "time": "2026-08-14"
+          "source": "pluc",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+          "time": "2026-08-15"
         },
         {
-          "title": "Google DeepMind Releases SL2T (Sign Language to Text)",
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
           "summary": "暂无摘要",
-          "source": "neelbuilds",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-          "time": "2026-08-14"
+          "source": "rzk",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "time": "2026-08-15"
         },
         {
-          "title": "Credentio: Open-Source C++ Library for C2PA Content Credentials from Google",
+          "title": "AI detectors are creating a new era of distrust",
           "summary": "暂无摘要",
-          "source": "andrewstetsenko",
-          "url": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
-          "time": "2026-08-14"
+          "source": "saikatsg",
+          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: Captain, AI Travel Agent",
+          "title": "Show HN: Jovethra – prepaid OpenAI-compatible API with hard usage limits",
           "summary": "暂无摘要",
-          "source": "fathermerry",
-          "url": "https://www.moonlight.ng/captain/",
-          "time": "2026-08-14"
+          "source": "Belius",
+          "url": "https://jovethra.xyz/playground",
+          "time": "2026-08-15"
         },
         {
-          "title": "You can now turn off Google Gemini's visible watermarks",
+          "title": "Google joins the OpenROAD Initiative as principal member",
           "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "time": "2026-08-14"
+          "source": "rbanffy",
+          "url": "https://opensource.googleblog.com/2026/08/%20google-joins-the-openroad-initiative-as-principal-member-to-accelerate-open-source-silicon-innovation.html",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: Open-source and AI native web analytics",
+          "title": "Ask HN: Will AI lead to complete human irrelevance?",
           "summary": "暂无摘要",
-          "source": "rahulbridge",
-          "url": "https://github.com/OpenLabs-so/openanalytics",
-          "time": "2026-08-14"
+          "source": "atleastoptimal",
+          "url": "https://news.ycombinator.com/item?id=49312559",
+          "time": "2026-08-15"
         },
         {
-          "title": "We urgently need a coherent national AI cybersecurity policy",
+          "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
-          "time": "2026-08-14"
+          "source": "mathewpregasen",
+          "url": "https://lettertrace.com",
+          "time": "2026-08-15"
         },
         {
-          "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
+          "title": "Don't let AI rob you [video]",
           "summary": "暂无摘要",
-          "source": "supportm",
-          "url": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
-          "time": "2026-08-14"
+          "source": "aupra",
+          "url": "https://www.youtube.com/watch?v=-T39cM3LPk0",
+          "time": "2026-08-15"
         },
         {
-          "title": "When facts change, should AI memory change?",
+          "title": "Open Sourcing the Atuin AI Server",
           "summary": "暂无摘要",
-          "source": "Zongming",
-          "url": "https://github.com/Anchorstate-Lab/GMR",
-          "time": "2026-08-14"
+          "source": "linsomniac",
+          "url": "https://blog.atuin.sh/atuin-ai-oss/",
+          "time": "2026-08-15"
         },
         {
-          "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
+          "title": "Briefing on Extinction-Level AI Threats",
           "summary": "暂无摘要",
-          "source": "newusertoday",
-          "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
-          "time": "2026-08-14"
+          "source": "yurivish",
+          "url": "https://intelligence.org/briefing/",
+          "time": "2026-08-15"
         },
         {
-          "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
+          "title": "US to tell partners they must pick sides in AI race with China",
           "summary": "暂无摘要",
-          "source": "Growtika",
-          "url": "https://growtika.com/blog/reddit-ai-visibility-research",
-          "time": "2026-08-14"
+          "source": "jonbaer",
+          "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+          "time": "2026-08-15"
         },
         {
-          "title": "1,1 mld USD dla River AI: Co oznacza rewolucja spersonalizowanego AI?",
+          "title": "Godfather of AI: \"If you sleep well tonight...\" [video]",
           "summary": "暂无摘要",
-          "source": "mbarczynski",
-          "url": "https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html",
-          "time": "2026-08-14"
+          "source": "Izmaki",
+          "url": "https://www.youtube.com/watch?v=iVXerna_D4A",
+          "time": "2026-08-15"
         },
         {
-          "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+          "title": "Is AI Coding Effecting Our Mental Health? [video]",
           "summary": "暂无摘要",
-          "source": "parvaamin",
-          "url": "https://github.com/insightitsGit/PrismManifest",
-          "time": "2026-08-14"
+          "source": "tosh",
+          "url": "https://www.youtube.com/watch?v=iPUn1Fnfn0k",
+          "time": "2026-08-15"
         }
       ]
     },
@@ -427,6 +427,13 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "SpaceX officially closes its Cursor acquisition",
+          "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+          "source": "Anthony Ha",
+          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+          "time": "2026-08-15"
+        },
         {
           "title": "Kog is going deeper to squeeze more inference out of GPUs",
           "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
@@ -449,13 +456,6 @@
           "time": "2026-08-12"
         },
         {
-          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-          "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-          "time": "2026-08-12"
-        },
-        {
           "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
           "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives",
           "source": "David Cox",
@@ -463,151 +463,144 @@
           "time": "2026-08-13"
         },
         {
-          "title": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-          "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
-          "source": "Kate Taylor",
-          "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
-          "time": "2026-08-12"
+          "title": "Can an LLM price a World Cup match better than the market (and make money)?",
+          "summary": "暂无摘要",
+          "source": "cbock90",
+          "url": "https://christian.bock.bio/posts/frontier_xg_worldcup/",
+          "time": "2026-08-15"
         },
         {
-          "title": "Young people increasingly don't trust AI",
+          "title": "Meta will train its AI on Newsmax, a far-right media outlet",
           "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
-          "time": "2026-08-14"
+          "source": "Fellw",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+          "title": "Secondhand booksellers in UK and Ireland suspect AI firms 'strange' bulk orders",
           "summary": "暂无摘要",
-          "source": "felipemayamuniz",
-          "url": "https://www.aletheionagi.com",
-          "time": "2026-08-14"
+          "source": "heisenbit",
+          "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: Biasly.ai – Bias detection with historical context",
+          "title": "Why tech bosses keep sharing their manifestos about AI",
           "summary": "暂无摘要",
-          "source": "jayubba1",
-          "url": "https://biasly.ai/",
-          "time": "2026-08-14"
+          "source": "tcp_handshaker",
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "time": "2026-08-15"
         },
         {
-          "title": "Z.ai Security Disclosure",
+          "title": "So How Is AI Drug Discovery Doing, Really?",
           "summary": "暂无摘要",
-          "source": "Alifatisk",
-          "url": "https://cvd.z.ai",
-          "time": "2026-08-14"
+          "source": "AnodicElegy",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "time": "2026-08-15"
         },
         {
-          "title": "How AI is changing how I build software with Simon Willison, on Talking Postgres",
+          "title": "MTV Cribs: SF Startup (Parody) – Programmers are also human [video]",
           "summary": "暂无摘要",
-          "source": "clairegiordano",
-          "url": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison",
-          "time": "2026-08-14"
+          "source": "Gecko4072",
+          "url": "https://www.youtube.com/watch?v=x0Cr-UhKhZI",
+          "time": "2026-08-15"
         },
         {
-          "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
+          "title": "The Three AI Pills",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
-          "time": "2026-08-14"
+          "source": "stuartmemo",
+          "url": "https://thezvi.substack.com/p/the-three-ai-pills",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: Captain, AI Travel Agent",
+          "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
           "summary": "暂无摘要",
-          "source": "fathermerry",
-          "url": "https://www.moonlight.ng/captain/",
-          "time": "2026-08-14"
+          "source": "pluc",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+          "time": "2026-08-15"
         },
         {
-          "title": "Show HN: Open-source and AI native web analytics",
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
           "summary": "暂无摘要",
-          "source": "rahulbridge",
-          "url": "https://github.com/OpenLabs-so/openanalytics",
-          "time": "2026-08-14"
+          "source": "rzk",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "time": "2026-08-15"
         },
         {
-          "title": "We urgently need a coherent national AI cybersecurity policy",
+          "title": "AI detectors are creating a new era of distrust",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
-          "time": "2026-08-14"
+          "source": "saikatsg",
+          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "time": "2026-08-15"
         },
         {
-          "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
+          "title": "Ask HN: Will AI lead to complete human irrelevance?",
           "summary": "暂无摘要",
-          "source": "supportm",
-          "url": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
-          "time": "2026-08-14"
+          "source": "atleastoptimal",
+          "url": "https://news.ycombinator.com/item?id=49312559",
+          "time": "2026-08-15"
         },
         {
-          "title": "When facts change, should AI memory change?",
+          "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
           "summary": "暂无摘要",
-          "source": "Zongming",
-          "url": "https://github.com/Anchorstate-Lab/GMR",
-          "time": "2026-08-14"
+          "source": "mathewpregasen",
+          "url": "https://lettertrace.com",
+          "time": "2026-08-15"
         },
         {
-          "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
+          "title": "Don't let AI rob you [video]",
           "summary": "暂无摘要",
-          "source": "newusertoday",
-          "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
-          "time": "2026-08-14"
+          "source": "aupra",
+          "url": "https://www.youtube.com/watch?v=-T39cM3LPk0",
+          "time": "2026-08-15"
         },
         {
-          "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
+          "title": "Open Sourcing the Atuin AI Server",
           "summary": "暂无摘要",
-          "source": "Growtika",
-          "url": "https://growtika.com/blog/reddit-ai-visibility-research",
-          "time": "2026-08-14"
+          "source": "linsomniac",
+          "url": "https://blog.atuin.sh/atuin-ai-oss/",
+          "time": "2026-08-15"
         },
         {
-          "title": "1,1 mld USD dla River AI: Co oznacza rewolucja spersonalizowanego AI?",
+          "title": "Briefing on Extinction-Level AI Threats",
           "summary": "暂无摘要",
-          "source": "mbarczynski",
-          "url": "https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html",
-          "time": "2026-08-14"
+          "source": "yurivish",
+          "url": "https://intelligence.org/briefing/",
+          "time": "2026-08-15"
         },
         {
-          "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+          "title": "US to tell partners they must pick sides in AI race with China",
           "summary": "暂无摘要",
-          "source": "parvaamin",
-          "url": "https://github.com/insightitsGit/PrismManifest",
-          "time": "2026-08-14"
+          "source": "jonbaer",
+          "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+          "time": "2026-08-15"
         },
         {
-          "title": "Nvidia's $500B Plan Envelops Wall Sreett in Its AI Frenzy",
+          "title": "Godfather of AI: \"If you sleep well tonight...\" [video]",
           "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy",
-          "time": "2026-08-14"
+          "source": "Izmaki",
+          "url": "https://www.youtube.com/watch?v=iVXerna_D4A",
+          "time": "2026-08-15"
         },
         {
-          "title": "Ask HN: Has anyone been fired because of an AI-driven DDoS attack?",
+          "title": "Is AI Coding Effecting Our Mental Health? [video]",
           "summary": "暂无摘要",
-          "source": "novateg",
-          "url": "https://news.ycombinator.com/item?id=49301819",
-          "time": "2026-08-14"
+          "source": "tosh",
+          "url": "https://www.youtube.com/watch?v=iPUn1Fnfn0k",
+          "time": "2026-08-15"
         },
         {
-          "title": "Training AI Scientists to Replicate Research",
+          "title": "Show HN: MyFirst.News – AI-generated podcast for curious kids",
           "summary": "暂无摘要",
-          "source": "pixelmoth",
-          "url": "https://inherentlabs.ai/research/training-to-replicate",
-          "time": "2026-08-14"
+          "source": "hakunin",
+          "url": "https://myfirst.news/",
+          "time": "2026-08-15"
         },
         {
-          "title": "Fortunes from AI revive effective altruism after Sam Bankman-Fried turmoil",
+          "title": "Ask HN: How to Stay Marketable in the AI Era?",
           "summary": "暂无摘要",
-          "source": "aanet",
-          "url": "https://www.ft.com/content/938b4b82-06d2-4b92-a807-38d935d7d5c5",
-          "time": "2026-08-14"
-        },
-        {
-          "title": "Why Open Source Matters for AI",
-          "summary": "暂无摘要",
-          "source": "BerislavLopac",
-          "url": "https://www.oreilly.com/radar/why-open-source-matters-for-ai/",
-          "time": "2026-08-14"
+          "source": "OulaX",
+          "url": "https://news.ycombinator.com/item?id=49311655",
+          "time": "2026-08-15"
         }
       ]
     },
@@ -811,6 +804,153 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+          "summary": "暂无摘要",
+          "source": "Fellw",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Secondhand booksellers in UK and Ireland suspect AI firms 'strange' bulk orders",
+          "summary": "暂无摘要",
+          "source": "heisenbit",
+          "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Why tech bosses keep sharing their manifestos about AI",
+          "summary": "暂无摘要",
+          "source": "tcp_handshaker",
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": "暂无摘要",
+          "source": "AnodicElegy",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "The Three AI Pills",
+          "summary": "暂无摘要",
+          "source": "stuartmemo",
+          "url": "https://thezvi.substack.com/p/the-three-ai-pills",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+          "summary": "暂无摘要",
+          "source": "pluc",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": "暂无摘要",
+          "source": "rzk",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "AI detectors are creating a new era of distrust",
+          "summary": "暂无摘要",
+          "source": "saikatsg",
+          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Ask HN: Will AI lead to complete human irrelevance?",
+          "summary": "暂无摘要",
+          "source": "atleastoptimal",
+          "url": "https://news.ycombinator.com/item?id=49312559",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
+          "summary": "暂无摘要",
+          "source": "mathewpregasen",
+          "url": "https://lettertrace.com",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Don't let AI rob you [video]",
+          "summary": "暂无摘要",
+          "source": "aupra",
+          "url": "https://www.youtube.com/watch?v=-T39cM3LPk0",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Open Sourcing the Atuin AI Server",
+          "summary": "暂无摘要",
+          "source": "linsomniac",
+          "url": "https://blog.atuin.sh/atuin-ai-oss/",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Briefing on Extinction-Level AI Threats",
+          "summary": "暂无摘要",
+          "source": "yurivish",
+          "url": "https://intelligence.org/briefing/",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "US to tell partners they must pick sides in AI race with China",
+          "summary": "暂无摘要",
+          "source": "jonbaer",
+          "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Godfather of AI: \"If you sleep well tonight...\" [video]",
+          "summary": "暂无摘要",
+          "source": "Izmaki",
+          "url": "https://www.youtube.com/watch?v=iVXerna_D4A",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Is AI Coding Effecting Our Mental Health? [video]",
+          "summary": "暂无摘要",
+          "source": "tosh",
+          "url": "https://www.youtube.com/watch?v=iPUn1Fnfn0k",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Show HN: MyFirst.News – AI-generated podcast for curious kids",
+          "summary": "暂无摘要",
+          "source": "hakunin",
+          "url": "https://myfirst.news/",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Ask HN: How to Stay Marketable in the AI Era?",
+          "summary": "暂无摘要",
+          "source": "OulaX",
+          "url": "https://news.ycombinator.com/item?id=49311655",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "SpaceX has acquired coding AI startup Cursor",
+          "summary": "暂无摘要",
+          "source": "NordStreamYacht",
+          "url": "https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "Mee Manga Translator: AI manga translation that preserves original artwork",
+          "summary": "暂无摘要",
+          "source": "jacobmillerv",
+          "url": "https://mangatranslator.me/",
+          "time": "2026-08-15"
+        },
+        {
+          "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+          "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+          "source": "Zeyi Yang",
+          "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+          "time": "2026-08-14"
         },
         {
           "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
