@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-16T20:10:40.426Z",
-  "date": "2026年8月16日 20时10分",
+  "updateTime": "2026-08-17T20:15:36.174Z",
+  "date": "2026年8月17日 20时15分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Show HN: AI activity discovery that brings all activities to one platform",
+          "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
           "summary": "暂无摘要",
-          "source": "behaulas",
-          "url": "https://hyp-e.com/",
-          "time": "2026-08-16"
+          "source": "Bender",
+          "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
+          "time": "2026-08-17"
         },
         {
-          "title": "Red queen hypothesis – a new way forward for self-improving AI",
+          "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
           "summary": "暂无摘要",
-          "source": "hardlianotion",
-          "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-          "time": "2026-08-16"
+          "source": "alanfuNZ",
+          "url": "https://github.com/fu351/Doberman-Core",
+          "time": "2026-08-17"
         },
         {
-          "title": "Fearing violence, some Metro bus drivers are bucking order to announce fare",
+          "title": "Is reviewing AI even possible?",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.washingtonpost.com/dc-md-va/2026/08/10/fearing-violence-some-metro-bus-drivers-are-bucking-order-announce-fare/",
-          "time": "2026-08-16"
+          "source": "ibobev",
+          "url": "https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/",
+          "time": "2026-08-17"
         },
         {
-          "title": "Stripe Nears Deal to Buy AI Firm OpenRouter for over $7B",
+          "title": "AI;DR (AI; Didn't Read)",
           "summary": "暂无摘要",
-          "source": "kgwgk",
-          "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "time": "2026-08-16"
+          "source": "mooreds",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "time": "2026-08-17"
         },
         {
-          "title": "Double-double: 31 digits of precision without leaving the FPU",
+          "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
           "summary": "暂无摘要",
-          "source": "iliketrains",
-          "url": "https://marekfiser.com/blog/double-double-arithmetic/",
-          "time": "2026-08-16"
+          "source": "Teever",
+          "url": "https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/",
+          "time": "2026-08-17"
         },
         {
-          "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
+          "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
           "summary": "暂无摘要",
-          "source": "apparent",
-          "url": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
-          "time": "2026-08-16"
+          "source": "billybuckwheat",
+          "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+          "time": "2026-08-17"
         },
         {
-          "title": "Mathematics in the Age of AI – Terence Tao",
+          "title": "The People Building a Way to Slow Down the AI Race",
           "summary": "暂无摘要",
-          "source": "tcp_handshaker",
-          "url": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
-          "time": "2026-08-16"
+          "source": "reasonableklout",
+          "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/",
+          "time": "2026-08-17"
         },
         {
-          "title": "AI Stock Research Assistant · Streamlit",
+          "title": "A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators",
           "summary": "暂无摘要",
-          "source": "KiaanKothari",
-          "url": "https://ai-stock-research-kiaan.streamlit.app",
-          "time": "2026-08-16"
+          "source": "matt_d",
+          "url": "https://arxiv.org/abs/2608.13757",
+          "time": "2026-08-17"
         },
         {
-          "title": "Low-regret recommendations for AI policy",
+          "title": "The AI Reset",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
-          "time": "2026-08-16"
+          "source": "encinas88",
+          "url": "https://medium.com/@alanscottencinas/ai-as-a-crutch-what-the-watermark-era-is-about-to-expose-3bdf6031d546",
+          "time": "2026-08-17"
         },
         {
-          "title": "More large employers are turning to ICHRA as group costs climb",
+          "title": "AI is transforming politics–-and how we understand it",
           "summary": "暂无摘要",
-          "source": "andy99",
-          "url": "https://www.insurancebusinessmag.com/us/news/benefits/more-large-employers-are-turning-to-ichra-as-group-costs-climb-585997.aspx",
-          "time": "2026-08-16"
+          "source": "speckx",
+          "url": "https://freesystems.substack.com/p/ai-is-transforming-politics-and-how",
+          "time": "2026-08-17"
         },
         {
-          "title": "Show HN: Agent6 – coding agent with jailed commands and editable state machines",
+          "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
           "summary": "暂无摘要",
-          "source": "elesiuta",
-          "url": "https://github.com/agent6-dev/agent6",
-          "time": "2026-08-16"
+          "source": "leonnatus",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
+          "time": "2026-08-17"
         },
         {
-          "title": "Ask HN: How do you prove two machines computed the same float32 result?",
+          "title": "AirTag reveals Amazon is trashing rare books to train AI",
           "summary": "暂无摘要",
-          "source": "Swapnopam",
-          "url": "https://news.ycombinator.com/item?id=49322548",
-          "time": "2026-08-16"
+          "source": "jefurii",
+          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+          "time": "2026-08-17"
         },
         {
-          "title": "Has somebody found a way to reduce AI idiomatics tics?",
+          "title": "Morte.ai – code and deploy post mortem",
           "summary": "暂无摘要",
-          "source": "abeauvois",
-          "url": "https://news.ycombinator.com/item?id=49322520",
-          "time": "2026-08-16"
+          "source": "arionhardison",
+          "url": "https://morte.ai/",
+          "time": "2026-08-17"
         },
         {
-          "title": "U.S. to tell partners they must pick sides in AI race with China",
+          "title": "Jane Street has paid up large to avoid its numbers leaking out",
           "summary": "暂无摘要",
-          "source": "johnbarron",
-          "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-          "time": "2026-08-16"
+          "source": "petethomas",
+          "url": "https://www.ft.com/content/28a51284-98cc-4767-a306-0540d265687f",
+          "time": "2026-08-17"
         },
         {
-          "title": "Xaidr – In-process runtime security and governance for AI agents",
-          "summary": "暂无摘要",
-          "source": "delphiaisec",
-          "url": "https://github.com/delphisecurity/xaidr",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "The AI store manager fired its first human",
+          "title": "'Godfather of AI' Geoffrey Hinton Warns of Mass Unemployment",
           "summary": "暂无摘要",
           "source": "datakan",
-          "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
-          "time": "2026-08-16"
+          "url": "https://in.mashable.com/tech/112942/will-ai-take-your-job-godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment",
+          "time": "2026-08-17"
         },
         {
-          "title": "Ask HN: Is classical AI still relevant because modern AI uses it as tools?",
+          "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
           "summary": "暂无摘要",
-          "source": "amichail",
-          "url": "https://news.ycombinator.com/item?id=49322324",
-          "time": "2026-08-16"
+          "source": "mrjaxon",
+          "url": "https://saor.io",
+          "time": "2026-08-17"
         },
         {
-          "title": "HEP-TH and AI",
+          "title": "AI-enriched Linux 7.2 delivers cache-aware scheduling – here's everything new",
           "summary": "暂无摘要",
-          "source": "jjgreen",
-          "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15818",
-          "time": "2026-08-16"
+          "source": "CrankyBear",
+          "url": "https://www.zdnet.com/article/ai-linux-7-2-release-cache-aware-scheduling/",
+          "time": "2026-08-17"
         },
         {
-          "title": "Evaluating AI Agents as Products",
+          "title": "Best code editor without AI?",
           "summary": "暂无摘要",
-          "source": "amarble",
-          "url": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
-          "time": "2026-08-16"
+          "source": "nerdyguy90",
+          "url": "https://news.ycombinator.com/item?id=49335601",
+          "time": "2026-08-17"
         },
         {
-          "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
+          "title": "AI alignment as continuation control: 31,430 frozen trials",
           "summary": "暂无摘要",
-          "source": "pessimizer",
-          "url": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
-          "time": "2026-08-16"
+          "source": "rayanpal_",
+          "url": "https://zenodo.org/records/21696066",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "Tim O'Reilly – Why Open Source Matters for AI",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+          "time": "2026-08-17"
         },
         {
           "title": "AI professors are negotiating the new realities of academic research",
@@ -167,13 +167,6 @@
           "source": "Grace Huckins",
           "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
           "time": "2026-08-03"
-        },
-        {
-          "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-          "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conferen",
-          "source": "Will Douglas Heaven",
-          "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-          "time": "2026-07-30"
         }
       ]
     },
@@ -182,6 +175,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Get closer to the game with Gemini and Pixel",
+          "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+          "time": "2026-08-17"
+        },
         {
           "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
           "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
@@ -274,151 +274,144 @@
           "time": "2026-06-25"
         },
         {
-          "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-          "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-          "time": "2026-06-15"
-        },
-        {
-          "title": "Show HN: AI activity discovery that brings all activities to one platform",
+          "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
           "summary": "暂无摘要",
-          "source": "behaulas",
-          "url": "https://hyp-e.com/",
-          "time": "2026-08-16"
+          "source": "bookofjoe",
+          "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+          "time": "2026-08-17"
         },
         {
-          "title": "Red queen hypothesis – a new way forward for self-improving AI",
+          "title": "OpenAI Locks in Lease for Data Center in Ohio with Backing from Nvidia",
           "summary": "暂无摘要",
-          "source": "hardlianotion",
-          "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-          "time": "2026-08-16"
+          "source": "jaredwiener",
+          "url": "https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c",
+          "time": "2026-08-17"
         },
         {
-          "title": "Stripe Nears Deal to Buy AI Firm OpenRouter for over $7B",
+          "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
           "summary": "暂无摘要",
-          "source": "kgwgk",
-          "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "time": "2026-08-16"
+          "source": "Bender",
+          "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
+          "time": "2026-08-17"
         },
         {
-          "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
+          "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
           "summary": "暂无摘要",
-          "source": "apparent",
-          "url": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
-          "time": "2026-08-16"
+          "source": "alanfuNZ",
+          "url": "https://github.com/fu351/Doberman-Core",
+          "time": "2026-08-17"
         },
         {
-          "title": "Mathematics in the Age of AI – Terence Tao",
+          "title": "Is reviewing AI even possible?",
           "summary": "暂无摘要",
-          "source": "tcp_handshaker",
-          "url": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
-          "time": "2026-08-16"
+          "source": "ibobev",
+          "url": "https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/",
+          "time": "2026-08-17"
         },
         {
-          "title": "AI Stock Research Assistant · Streamlit",
+          "title": "Anthropic Revenue Run Rate Surpasses $65B Ahead of IPO",
           "summary": "暂无摘要",
-          "source": "KiaanKothari",
-          "url": "https://ai-stock-research-kiaan.streamlit.app",
-          "time": "2026-08-16"
+          "source": "jbredeche",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
+          "time": "2026-08-17"
         },
         {
-          "title": "Low-regret recommendations for AI policy",
+          "title": "AI;DR (AI; Didn't Read)",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
-          "time": "2026-08-16"
+          "source": "mooreds",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "time": "2026-08-17"
         },
         {
-          "title": "Has somebody found a way to reduce AI idiomatics tics?",
+          "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
           "summary": "暂无摘要",
-          "source": "abeauvois",
-          "url": "https://news.ycombinator.com/item?id=49322520",
-          "time": "2026-08-16"
+          "source": "Teever",
+          "url": "https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/",
+          "time": "2026-08-17"
         },
         {
-          "title": "U.S. to tell partners they must pick sides in AI race with China",
+          "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
           "summary": "暂无摘要",
-          "source": "johnbarron",
-          "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-          "time": "2026-08-16"
+          "source": "billybuckwheat",
+          "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+          "time": "2026-08-17"
         },
         {
-          "title": "Xaidr – In-process runtime security and governance for AI agents",
+          "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
           "summary": "暂无摘要",
-          "source": "delphiaisec",
-          "url": "https://github.com/delphisecurity/xaidr",
-          "time": "2026-08-16"
+          "source": "matt_d",
+          "url": "https://arxiv.org/abs/2608.13560",
+          "time": "2026-08-17"
         },
         {
-          "title": "The AI store manager fired its first human",
+          "title": "The People Building a Way to Slow Down the AI Race",
+          "summary": "暂无摘要",
+          "source": "reasonableklout",
+          "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://arxiv.org/abs/2608.13757",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "The AI Reset",
+          "summary": "暂无摘要",
+          "source": "encinas88",
+          "url": "https://medium.com/@alanscottencinas/ai-as-a-crutch-what-the-watermark-era-is-about-to-expose-3bdf6031d546",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "AI is transforming politics–-and how we understand it",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://freesystems.substack.com/p/ai-is-transforming-politics-and-how",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
+          "summary": "暂无摘要",
+          "source": "leonnatus",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "AirTag reveals Amazon is trashing rare books to train AI",
+          "summary": "暂无摘要",
+          "source": "jefurii",
+          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "Morte.ai – code and deploy post mortem",
+          "summary": "暂无摘要",
+          "source": "arionhardison",
+          "url": "https://morte.ai/",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "OpenAI President Greg Brockman: \"You Need to Believe\"",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.youtube.com/watch?v=eXBFnfrt2gU",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "'Godfather of AI' Geoffrey Hinton Warns of Mass Unemployment",
           "summary": "暂无摘要",
           "source": "datakan",
-          "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
-          "time": "2026-08-16"
+          "url": "https://in.mashable.com/tech/112942/will-ai-take-your-job-godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment",
+          "time": "2026-08-17"
         },
         {
-          "title": "Ask HN: Is classical AI still relevant because modern AI uses it as tools?",
+          "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
           "summary": "暂无摘要",
-          "source": "amichail",
-          "url": "https://news.ycombinator.com/item?id=49322324",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "HEP-TH and AI",
-          "summary": "暂无摘要",
-          "source": "jjgreen",
-          "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15818",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Evaluating AI Agents as Products",
-          "summary": "暂无摘要",
-          "source": "amarble",
-          "url": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
-          "summary": "暂无摘要",
-          "source": "pessimizer",
-          "url": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Why all AI content sounds the same (and how to fix it)",
-          "summary": "暂无摘要",
-          "source": "dundalk03",
-          "url": "https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Google's new watch tracks insulin resistance to flag diabetes risk",
-          "summary": "暂无摘要",
-          "source": "brandonb",
-          "url": "https://www.latimes.com/business/story/2026-08-13/googles-wearables-will-track-insulin-resistance-in-category-first",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
-          "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "AgentShield – Offline Rust security scanner for AI agent tools and MCP (<50ms)",
-          "summary": "暂无摘要",
-          "source": "aiconnai",
-          "url": "https://github.com/aiconnai/agentshield",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "AI won't solve the work-theater problem",
-          "summary": "暂无摘要",
-          "source": "zug_zug",
-          "url": "https://think-twice.me/?p=102",
-          "time": "2026-08-16"
+          "source": "mrjaxon",
+          "url": "https://saor.io",
+          "time": "2026-08-17"
         }
       ]
     },
@@ -427,6 +420,34 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+          "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+          "source": "Tim De Chant",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+          "summary": "Wispr’s total funding is now over $361 million.",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "source": "Anthony Ha",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "time": "2026-08-16"
+        },
         {
           "title": "SpaceX officially closes its Cursor acquisition",
           "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
@@ -454,146 +475,6 @@
           "source": "David Cox",
           "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
           "time": "2026-08-13"
-        },
-        {
-          "title": "Show HN: AI activity discovery that brings all activities to one platform",
-          "summary": "暂无摘要",
-          "source": "behaulas",
-          "url": "https://hyp-e.com/",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Red queen hypothesis – a new way forward for self-improving AI",
-          "summary": "暂无摘要",
-          "source": "hardlianotion",
-          "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Stripe Nears Deal to Buy AI Firm OpenRouter for over $7B",
-          "summary": "暂无摘要",
-          "source": "kgwgk",
-          "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Concise Stock Market Research – Instant Revenue Forecasting",
-          "summary": "暂无摘要",
-          "source": "mfh423",
-          "url": "https://alphaedge.web.app/",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Every fusion startup that has raised over $100M",
-          "summary": "暂无摘要",
-          "source": "bushwart",
-          "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
-          "summary": "暂无摘要",
-          "source": "apparent",
-          "url": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Mathematics in the Age of AI – Terence Tao",
-          "summary": "暂无摘要",
-          "source": "tcp_handshaker",
-          "url": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "AI Stock Research Assistant · Streamlit",
-          "summary": "暂无摘要",
-          "source": "KiaanKothari",
-          "url": "https://ai-stock-research-kiaan.streamlit.app",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Low-regret recommendations for AI policy",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Show HN: WireDoctor – Spring Boot startup and bean cycle analyzer",
-          "summary": "暂无摘要",
-          "source": "ddsha441981",
-          "url": "https://github.com/ddsha441981/wiredoctor",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Has somebody found a way to reduce AI idiomatics tics?",
-          "summary": "暂无摘要",
-          "source": "abeauvois",
-          "url": "https://news.ycombinator.com/item?id=49322520",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "U.S. to tell partners they must pick sides in AI race with China",
-          "summary": "暂无摘要",
-          "source": "johnbarron",
-          "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Xaidr – In-process runtime security and governance for AI agents",
-          "summary": "暂无摘要",
-          "source": "delphiaisec",
-          "url": "https://github.com/delphisecurity/xaidr",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "The AI store manager fired its first human",
-          "summary": "暂无摘要",
-          "source": "datakan",
-          "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Ask HN: Is classical AI still relevant because modern AI uses it as tools?",
-          "summary": "暂无摘要",
-          "source": "amichail",
-          "url": "https://news.ycombinator.com/item?id=49322324",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "HEP-TH and AI",
-          "summary": "暂无摘要",
-          "source": "jjgreen",
-          "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15818",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Evaluating AI Agents as Products",
-          "summary": "暂无摘要",
-          "source": "amarble",
-          "url": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
-          "summary": "暂无摘要",
-          "source": "pessimizer",
-          "url": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Why all AI content sounds the same (and how to fix it)",
-          "summary": "暂无摘要",
-          "source": "dundalk03",
-          "url": "https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
-          "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/",
-          "time": "2026-08-16"
         }
       ]
     },
@@ -602,6 +483,20 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "What Flock’s defenders are missing",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "What happens when a kid’s robot best friend dies?",
+          "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel",
+          "source": "Sara Harrison",
+          "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+          "time": "2026-08-17"
+        },
         {
           "title": "Flock is tightening its rules in response to a growing surveillance backlash",
           "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ",
@@ -799,144 +694,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Show HN: AI activity discovery that brings all activities to one platform",
+          "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
           "summary": "暂无摘要",
-          "source": "behaulas",
-          "url": "https://hyp-e.com/",
-          "time": "2026-08-16"
+          "source": "bookofjoe",
+          "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+          "time": "2026-08-17"
         },
         {
-          "title": "Red queen hypothesis – a new way forward for self-improving AI",
+          "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
           "summary": "暂无摘要",
-          "source": "hardlianotion",
-          "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-          "time": "2026-08-16"
+          "source": "Bender",
+          "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
+          "time": "2026-08-17"
         },
         {
-          "title": "Stripe Nears Deal to Buy AI Firm OpenRouter for over $7B",
+          "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
           "summary": "暂无摘要",
-          "source": "kgwgk",
-          "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-          "time": "2026-08-16"
+          "source": "alanfuNZ",
+          "url": "https://github.com/fu351/Doberman-Core",
+          "time": "2026-08-17"
         },
         {
-          "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
+          "title": "Is reviewing AI even possible?",
           "summary": "暂无摘要",
-          "source": "apparent",
-          "url": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
-          "time": "2026-08-16"
+          "source": "ibobev",
+          "url": "https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/",
+          "time": "2026-08-17"
         },
         {
-          "title": "Mathematics in the Age of AI – Terence Tao",
+          "title": "AI;DR (AI; Didn't Read)",
           "summary": "暂无摘要",
-          "source": "tcp_handshaker",
-          "url": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
-          "time": "2026-08-16"
+          "source": "mooreds",
+          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "time": "2026-08-17"
         },
         {
-          "title": "AI Stock Research Assistant · Streamlit",
+          "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
           "summary": "暂无摘要",
-          "source": "KiaanKothari",
-          "url": "https://ai-stock-research-kiaan.streamlit.app",
-          "time": "2026-08-16"
+          "source": "Teever",
+          "url": "https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/",
+          "time": "2026-08-17"
         },
         {
-          "title": "Low-regret recommendations for AI policy",
+          "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
-          "time": "2026-08-16"
+          "source": "billybuckwheat",
+          "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+          "time": "2026-08-17"
         },
         {
-          "title": "Has somebody found a way to reduce AI idiomatics tics?",
+          "title": "The People Building a Way to Slow Down the AI Race",
           "summary": "暂无摘要",
-          "source": "abeauvois",
-          "url": "https://news.ycombinator.com/item?id=49322520",
-          "time": "2026-08-16"
+          "source": "reasonableklout",
+          "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/",
+          "time": "2026-08-17"
         },
         {
-          "title": "U.S. to tell partners they must pick sides in AI race with China",
+          "title": "A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators",
           "summary": "暂无摘要",
-          "source": "johnbarron",
-          "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
-          "time": "2026-08-16"
+          "source": "matt_d",
+          "url": "https://arxiv.org/abs/2608.13757",
+          "time": "2026-08-17"
         },
         {
-          "title": "Xaidr – In-process runtime security and governance for AI agents",
+          "title": "The AI Reset",
           "summary": "暂无摘要",
-          "source": "delphiaisec",
-          "url": "https://github.com/delphisecurity/xaidr",
-          "time": "2026-08-16"
+          "source": "encinas88",
+          "url": "https://medium.com/@alanscottencinas/ai-as-a-crutch-what-the-watermark-era-is-about-to-expose-3bdf6031d546",
+          "time": "2026-08-17"
         },
         {
-          "title": "The AI store manager fired its first human",
+          "title": "AI is transforming politics–-and how we understand it",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://freesystems.substack.com/p/ai-is-transforming-politics-and-how",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
+          "summary": "暂无摘要",
+          "source": "leonnatus",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "AirTag reveals Amazon is trashing rare books to train AI",
+          "summary": "暂无摘要",
+          "source": "jefurii",
+          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "Morte.ai – code and deploy post mortem",
+          "summary": "暂无摘要",
+          "source": "arionhardison",
+          "url": "https://morte.ai/",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "'Godfather of AI' Geoffrey Hinton Warns of Mass Unemployment",
           "summary": "暂无摘要",
           "source": "datakan",
-          "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
-          "time": "2026-08-16"
+          "url": "https://in.mashable.com/tech/112942/will-ai-take-your-job-godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment",
+          "time": "2026-08-17"
         },
         {
-          "title": "Ask HN: Is classical AI still relevant because modern AI uses it as tools?",
+          "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
           "summary": "暂无摘要",
-          "source": "amichail",
-          "url": "https://news.ycombinator.com/item?id=49322324",
-          "time": "2026-08-16"
+          "source": "mrjaxon",
+          "url": "https://saor.io",
+          "time": "2026-08-17"
         },
         {
-          "title": "HEP-TH and AI",
+          "title": "AI-enriched Linux 7.2 delivers cache-aware scheduling – here's everything new",
           "summary": "暂无摘要",
-          "source": "jjgreen",
-          "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15818",
-          "time": "2026-08-16"
+          "source": "CrankyBear",
+          "url": "https://www.zdnet.com/article/ai-linux-7-2-release-cache-aware-scheduling/",
+          "time": "2026-08-17"
         },
         {
-          "title": "Evaluating AI Agents as Products",
+          "title": "Best code editor without AI?",
           "summary": "暂无摘要",
-          "source": "amarble",
-          "url": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
-          "time": "2026-08-16"
+          "source": "nerdyguy90",
+          "url": "https://news.ycombinator.com/item?id=49335601",
+          "time": "2026-08-17"
         },
         {
-          "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
+          "title": "AI alignment as continuation control: 31,430 frozen trials",
           "summary": "暂无摘要",
-          "source": "pessimizer",
-          "url": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
-          "time": "2026-08-16"
+          "source": "rayanpal_",
+          "url": "https://zenodo.org/records/21696066",
+          "time": "2026-08-17"
         },
         {
-          "title": "Why all AI content sounds the same (and how to fix it)",
+          "title": "Tim O'Reilly – Why Open Source Matters for AI",
           "summary": "暂无摘要",
-          "source": "dundalk03",
-          "url": "https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
-          "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "AgentShield – Offline Rust security scanner for AI agent tools and MCP (<50ms)",
-          "summary": "暂无摘要",
-          "source": "aiconnai",
-          "url": "https://github.com/aiconnai/agentshield",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "AI won't solve the work-theater problem",
-          "summary": "暂无摘要",
-          "source": "zug_zug",
-          "url": "https://think-twice.me/?p=102",
-          "time": "2026-08-16"
-        },
-        {
-          "title": "Publishing: What's Worse Than AI Slop? Trad Slop",
-          "summary": "暂无摘要",
-          "source": "richardatlarge",
-          "url": "https://novelarcade.substack.com/p/whats-worse-than-ai-slop-trad-slop",
-          "time": "2026-08-16"
+          "source": "rmason",
+          "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+          "time": "2026-08-17"
         },
         {
           "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
