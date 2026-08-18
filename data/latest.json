@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-17T20:15:36.174Z",
-  "date": "2026年8月17日 20时15分",
+  "updateTime": "2026-08-18T20:12:33.834Z",
+  "date": "2026年8月18日 20时12分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,158 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+          "title": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
           "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
-          "time": "2026-08-17"
+          "source": "tartoran",
+          "url": "https://www.reuters.com/world/middle-east/blind-egyptian-entrepreneurs-ai-app-helps-others-see-world-2026-08-18/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
+          "title": "OpenAI Is Slowing Down Its AI Training",
           "summary": "暂无摘要",
-          "source": "alanfuNZ",
-          "url": "https://github.com/fu351/Doberman-Core",
-          "time": "2026-08-17"
+          "source": "wertyk",
+          "url": "https://time.com/article/2026/08/18/openai-slowing-training/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Is reviewing AI even possible?",
+          "title": "Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
           "summary": "暂无摘要",
-          "source": "ibobev",
-          "url": "https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/",
-          "time": "2026-08-17"
+          "source": "throw0101d",
+          "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+          "time": "2026-08-18"
         },
         {
-          "title": "AI;DR (AI; Didn't Read)",
+          "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "time": "2026-08-17"
+          "source": "Philpax",
+          "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
+          "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
           "summary": "暂无摘要",
-          "source": "Teever",
-          "url": "https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/",
-          "time": "2026-08-17"
+          "source": "jon-lbm",
+          "url": "https://geojacker.com/llms-txt",
+          "time": "2026-08-18"
         },
         {
-          "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
+          "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-          "time": "2026-08-17"
+          "source": "eth0up",
+          "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
+          "time": "2026-08-18"
         },
         {
-          "title": "The People Building a Way to Slow Down the AI Race",
+          "title": "Pace Layers and AI Integration",
           "summary": "暂无摘要",
-          "source": "reasonableklout",
-          "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/",
-          "time": "2026-08-17"
+          "source": "fkozlowski",
+          "url": "https://aicoding.leaflet.pub/3maob46kbz22v",
+          "time": "2026-08-18"
         },
         {
-          "title": "A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators",
+          "title": "VCs Pour Billions into Physical AI as the Next Wave of AI Investing Takes Shape",
           "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://arxiv.org/abs/2608.13757",
-          "time": "2026-08-17"
+          "source": "thm",
+          "url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+          "time": "2026-08-18"
         },
         {
-          "title": "The AI Reset",
+          "title": "AI;dr – AI wrote it, you shouldn't have to read it",
           "summary": "暂无摘要",
-          "source": "encinas88",
-          "url": "https://medium.com/@alanscottencinas/ai-as-a-crutch-what-the-watermark-era-is-about-to-expose-3bdf6031d546",
-          "time": "2026-08-17"
+          "source": "ronreiter",
+          "url": "https://ronreiter.github.io/aidr/",
+          "time": "2026-08-18"
         },
         {
-          "title": "AI is transforming politics–-and how we understand it",
+          "title": "Security checks for apps built with AI coding tools",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://freesystems.substack.com/p/ai-is-transforming-politics-and-how",
-          "time": "2026-08-17"
+          "source": "LukataSolutions",
+          "url": "https://lukatasolutions.com",
+          "time": "2026-08-18"
         },
         {
-          "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
+          "title": "U.S. to tell partners they must pick sides in AI race with China",
           "summary": "暂无摘要",
-          "source": "leonnatus",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
-          "time": "2026-08-17"
+          "source": "devonnull",
+          "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+          "time": "2026-08-18"
         },
         {
-          "title": "AirTag reveals Amazon is trashing rare books to train AI",
+          "title": "Africa Is Not Waiting for AI. We're Building the Infrastructure to Use It",
           "summary": "暂无摘要",
-          "source": "jefurii",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-          "time": "2026-08-17"
+          "source": "T756-T",
+          "url": "https://medium.com/@SamuelMbugua254/africa-is-not-waiting-for-ai-were-building-the-infrastructure-to-use-it-dc5e92e3ca1c",
+          "time": "2026-08-18"
         },
         {
-          "title": "Morte.ai – code and deploy post mortem",
+          "title": "Show HN: Sealed evidence record of an AI agent run – broken twice, credited",
           "summary": "暂无摘要",
-          "source": "arionhardison",
-          "url": "https://morte.ai/",
-          "time": "2026-08-17"
+          "source": "cjarchivist",
+          "url": "https://github.com/cjchanh/aaap-challenge",
+          "time": "2026-08-18"
         },
         {
-          "title": "Jane Street has paid up large to avoid its numbers leaking out",
+          "title": "I Turned AI to the Dark Side",
           "summary": "暂无摘要",
-          "source": "petethomas",
-          "url": "https://www.ft.com/content/28a51284-98cc-4767-a306-0540d265687f",
-          "time": "2026-08-17"
+          "source": "njrc",
+          "url": "https://spectrum.ieee.org/jailbreaking-llms",
+          "time": "2026-08-18"
         },
         {
-          "title": "'Godfather of AI' Geoffrey Hinton Warns of Mass Unemployment",
+          "title": "AI Is Upending One of Finance's Cushiest Jobs",
           "summary": "暂无摘要",
-          "source": "datakan",
-          "url": "https://in.mashable.com/tech/112942/will-ai-take-your-job-godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment",
-          "time": "2026-08-17"
+          "source": "theriddlr",
+          "url": "https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs",
+          "time": "2026-08-18"
         },
         {
-          "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
+          "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
           "summary": "暂无摘要",
-          "source": "mrjaxon",
-          "url": "https://saor.io",
-          "time": "2026-08-17"
+          "source": "saqibkhan1992",
+          "url": "https://pantheongpu.com/",
+          "time": "2026-08-18"
         },
         {
-          "title": "AI-enriched Linux 7.2 delivers cache-aware scheduling – here's everything new",
+          "title": "Google Workspace will enable AI note-taking by default for some customers",
           "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://www.zdnet.com/article/ai-linux-7-2-release-cache-aware-scheduling/",
-          "time": "2026-08-17"
+          "source": "m-hodges",
+          "url": "https://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
+          "time": "2026-08-18"
         },
         {
-          "title": "Best code editor without AI?",
+          "title": "Show HN: Deft Writing, an AI lab for non-slop LLMs",
           "summary": "暂无摘要",
-          "source": "nerdyguy90",
-          "url": "https://news.ycombinator.com/item?id=49335601",
-          "time": "2026-08-17"
+          "source": "rosmine",
+          "url": "https://deftwriting.com",
+          "time": "2026-08-18"
         },
         {
-          "title": "AI alignment as continuation control: 31,430 frozen trials",
+          "title": "Show HN: Clad9 – AI wardrobe app that dresses you from your own closet",
           "summary": "暂无摘要",
-          "source": "rayanpal_",
-          "url": "https://zenodo.org/records/21696066",
-          "time": "2026-08-17"
+          "source": "Fh_",
+          "url": "https://clad9.com/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Tim O'Reilly – Why Open Source Matters for AI",
+          "title": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
           "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
-          "time": "2026-08-17"
+          "source": "01-_-",
+          "url": "https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "We still don’t know how people are really using AI",
+          "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160;",
+          "source": "Eileen Guo",
+          "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "AI’s recursive self-improvement might not come so quickly after all",
+          "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz",
+          "source": "Michelle Kim",
+          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+          "time": "2026-08-18"
         },
         {
           "title": "AI professors are negotiating the new realities of academic research",
@@ -160,13 +174,6 @@
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
           "time": "2026-08-10"
-        },
-        {
-          "title": "Here’s why AI agents lie and cheat to reach their goals",
-          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model",
-          "source": "Grace Huckins",
-          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-          "time": "2026-08-03"
         }
       ]
     },
@@ -274,144 +281,144 @@
           "time": "2026-06-25"
         },
         {
-          "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+          "title": "OpenAI built a safer ChatGPT, just not for you",
           "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
-          "time": "2026-08-17"
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/openai-built-a-safer-chatgpt-but",
+          "time": "2026-08-18"
         },
         {
-          "title": "OpenAI Locks in Lease for Data Center in Ohio with Backing from Nvidia",
+          "title": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
           "summary": "暂无摘要",
-          "source": "jaredwiener",
-          "url": "https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c",
-          "time": "2026-08-17"
+          "source": "tartoran",
+          "url": "https://www.reuters.com/world/middle-east/blind-egyptian-entrepreneurs-ai-app-helps-others-see-world-2026-08-18/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+          "title": "What Parents Need to Know About OpenAI's New ChatGPT for Teens",
           "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
-          "time": "2026-08-17"
+          "source": "fortran77",
+          "url": "https://www.wsj.com/tech/personal-tech/openai-chatgpt-for-teens-bc0e9d39",
+          "time": "2026-08-18"
         },
         {
-          "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
+          "title": "OpenAI Is Slowing Down Its AI Training",
           "summary": "暂无摘要",
-          "source": "alanfuNZ",
-          "url": "https://github.com/fu351/Doberman-Core",
-          "time": "2026-08-17"
+          "source": "wertyk",
+          "url": "https://time.com/article/2026/08/18/openai-slowing-training/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Is reviewing AI even possible?",
+          "title": "Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
           "summary": "暂无摘要",
-          "source": "ibobev",
-          "url": "https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/",
-          "time": "2026-08-17"
+          "source": "throw0101d",
+          "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Anthropic Revenue Run Rate Surpasses $65B Ahead of IPO",
-          "summary": "暂无摘要",
-          "source": "jbredeche",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
-          "time": "2026-08-17"
-        },
-        {
-          "title": "AI;DR (AI; Didn't Read)",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "time": "2026-08-17"
-        },
-        {
-          "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
-          "summary": "暂无摘要",
-          "source": "Teever",
-          "url": "https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/",
-          "time": "2026-08-17"
-        },
-        {
-          "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
+          "title": "Meta lawsuits: Is social media facing a global legal reckoning?",
           "summary": "暂无摘要",
           "source": "billybuckwheat",
-          "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-          "time": "2026-08-17"
+          "url": "https://www.aljazeera.com/news/2026/8/18/meta-lawsuits-is-social-media-facing-a-global-legal-reckoning",
+          "time": "2026-08-18"
         },
         {
-          "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+          "title": "US states accuse Meta of covering up research on teen social media addiction",
           "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://arxiv.org/abs/2608.13560",
-          "time": "2026-08-17"
+          "source": "jethronethro",
+          "url": "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states",
+          "time": "2026-08-18"
         },
         {
-          "title": "The People Building a Way to Slow Down the AI Race",
+          "title": "Norway Should Buy OpenAI",
           "summary": "暂无摘要",
-          "source": "reasonableklout",
-          "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/",
-          "time": "2026-08-17"
+          "source": "alexeigannon",
+          "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+          "time": "2026-08-18"
         },
         {
-          "title": "A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators",
+          "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
           "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://arxiv.org/abs/2608.13757",
-          "time": "2026-08-17"
+          "source": "Philpax",
+          "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+          "time": "2026-08-18"
         },
         {
-          "title": "The AI Reset",
+          "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
           "summary": "暂无摘要",
-          "source": "encinas88",
-          "url": "https://medium.com/@alanscottencinas/ai-as-a-crutch-what-the-watermark-era-is-about-to-expose-3bdf6031d546",
-          "time": "2026-08-17"
+          "source": "jon-lbm",
+          "url": "https://geojacker.com/llms-txt",
+          "time": "2026-08-18"
         },
         {
-          "title": "AI is transforming politics–-and how we understand it",
+          "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://freesystems.substack.com/p/ai-is-transforming-politics-and-how",
-          "time": "2026-08-17"
+          "source": "eth0up",
+          "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
+          "title": "Pace Layers and AI Integration",
           "summary": "暂无摘要",
-          "source": "leonnatus",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
-          "time": "2026-08-17"
+          "source": "fkozlowski",
+          "url": "https://aicoding.leaflet.pub/3maob46kbz22v",
+          "time": "2026-08-18"
         },
         {
-          "title": "AirTag reveals Amazon is trashing rare books to train AI",
+          "title": "VCs Pour Billions into Physical AI as the Next Wave of AI Investing Takes Shape",
           "summary": "暂无摘要",
-          "source": "jefurii",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-          "time": "2026-08-17"
+          "source": "thm",
+          "url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Morte.ai – code and deploy post mortem",
+          "title": "AI;dr – AI wrote it, you shouldn't have to read it",
           "summary": "暂无摘要",
-          "source": "arionhardison",
-          "url": "https://morte.ai/",
-          "time": "2026-08-17"
+          "source": "ronreiter",
+          "url": "https://ronreiter.github.io/aidr/",
+          "time": "2026-08-18"
         },
         {
-          "title": "OpenAI President Greg Brockman: \"You Need to Believe\"",
+          "title": "Anthropic revenue run rate tops $65B, source says",
           "summary": "暂无摘要",
-          "source": "root-parent",
-          "url": "https://www.youtube.com/watch?v=eXBFnfrt2gU",
-          "time": "2026-08-17"
+          "source": "smugma",
+          "url": "https://www.reuters.com/technology/anthropic-revenue-run-rate-tops-65-billion-source-says-2026-08-17/",
+          "time": "2026-08-18"
         },
         {
-          "title": "'Godfather of AI' Geoffrey Hinton Warns of Mass Unemployment",
+          "title": "Security checks for apps built with AI coding tools",
           "summary": "暂无摘要",
-          "source": "datakan",
-          "url": "https://in.mashable.com/tech/112942/will-ai-take-your-job-godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment",
-          "time": "2026-08-17"
+          "source": "LukataSolutions",
+          "url": "https://lukatasolutions.com",
+          "time": "2026-08-18"
         },
         {
-          "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
+          "title": "U.S. to tell partners they must pick sides in AI race with China",
           "summary": "暂无摘要",
-          "source": "mrjaxon",
-          "url": "https://saor.io",
-          "time": "2026-08-17"
+          "source": "devonnull",
+          "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Africa Is Not Waiting for AI. We're Building the Infrastructure to Use It",
+          "summary": "暂无摘要",
+          "source": "T756-T",
+          "url": "https://medium.com/@SamuelMbugua254/africa-is-not-waiting-for-ai-were-building-the-infrastructure-to-use-it-dc5e92e3ca1c",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Show HN: Sealed evidence record of an AI agent run – broken twice, credited",
+          "summary": "暂无摘要",
+          "source": "cjarchivist",
+          "url": "https://github.com/cjchanh/aaap-challenge",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "I Turned AI to the Dark Side",
+          "summary": "暂无摘要",
+          "source": "njrc",
+          "url": "https://spectrum.ieee.org/jailbreaking-llms",
+          "time": "2026-08-18"
         }
       ]
     },
@@ -420,6 +427,34 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Etched&#8217;s valuation doubles to $21B in a month",
+          "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Perplexity’s free AI offer left it with millions more users in India",
+          "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Anthropic&#8217;s annualized revenue surges to $65B",
+          "summary": "The model maker added $18 billion in annualized revenue in two months.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+          "time": "2026-08-17"
+        },
+        {
+          "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
+          "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+          "source": "Lucas Ropek",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+          "time": "2026-08-17"
+        },
         {
           "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
           "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
@@ -436,7 +471,7 @@
         },
         {
           "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-          "summary": "Wispr’s total funding is now over $361 million.",
+          "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
           "source": "Ivan Mehta",
           "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
           "time": "2026-08-17"
@@ -456,25 +491,151 @@
           "time": "2026-08-15"
         },
         {
-          "title": "Kog is going deeper to squeeze more inference out of GPUs",
-          "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-          "source": "Anna Heim",
-          "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-          "time": "2026-08-14"
-        },
-        {
-          "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-          "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-          "time": "2026-08-13"
-        },
-        {
           "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
           "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives",
           "source": "David Cox",
           "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
           "time": "2026-08-13"
+        },
+        {
+          "title": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
+          "summary": "暂无摘要",
+          "source": "tartoran",
+          "url": "https://www.reuters.com/world/middle-east/blind-egyptian-entrepreneurs-ai-app-helps-others-see-world-2026-08-18/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "OpenAI Is Slowing Down Its AI Training",
+          "summary": "暂无摘要",
+          "source": "wertyk",
+          "url": "https://time.com/article/2026/08/18/openai-slowing-training/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+          "summary": "暂无摘要",
+          "source": "throw0101d",
+          "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+          "summary": "暂无摘要",
+          "source": "Philpax",
+          "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
+          "summary": "暂无摘要",
+          "source": "jon-lbm",
+          "url": "https://geojacker.com/llms-txt",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
+          "summary": "暂无摘要",
+          "source": "eth0up",
+          "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Pace Layers and AI Integration",
+          "summary": "暂无摘要",
+          "source": "fkozlowski",
+          "url": "https://aicoding.leaflet.pub/3maob46kbz22v",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "VCs Pour Billions into Physical AI as the Next Wave of AI Investing Takes Shape",
+          "summary": "暂无摘要",
+          "source": "thm",
+          "url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "AI;dr – AI wrote it, you shouldn't have to read it",
+          "summary": "暂无摘要",
+          "source": "ronreiter",
+          "url": "https://ronreiter.github.io/aidr/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Security checks for apps built with AI coding tools",
+          "summary": "暂无摘要",
+          "source": "LukataSolutions",
+          "url": "https://lukatasolutions.com",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "U.S. to tell partners they must pick sides in AI race with China",
+          "summary": "暂无摘要",
+          "source": "devonnull",
+          "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Africa Is Not Waiting for AI. We're Building the Infrastructure to Use It",
+          "summary": "暂无摘要",
+          "source": "T756-T",
+          "url": "https://medium.com/@SamuelMbugua254/africa-is-not-waiting-for-ai-were-building-the-infrastructure-to-use-it-dc5e92e3ca1c",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Show HN: Sealed evidence record of an AI agent run – broken twice, credited",
+          "summary": "暂无摘要",
+          "source": "cjarchivist",
+          "url": "https://github.com/cjchanh/aaap-challenge",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "I Turned AI to the Dark Side",
+          "summary": "暂无摘要",
+          "source": "njrc",
+          "url": "https://spectrum.ieee.org/jailbreaking-llms",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "AI Is Upending One of Finance's Cushiest Jobs",
+          "summary": "暂无摘要",
+          "source": "theriddlr",
+          "url": "https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+          "summary": "暂无摘要",
+          "source": "saqibkhan1992",
+          "url": "https://pantheongpu.com/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Google Workspace will enable AI note-taking by default for some customers",
+          "summary": "暂无摘要",
+          "source": "m-hodges",
+          "url": "https://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Show HN: Deft Writing, an AI lab for non-slop LLMs",
+          "summary": "暂无摘要",
+          "source": "rosmine",
+          "url": "https://deftwriting.com",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "Show HN: Clad9 – AI wardrobe app that dresses you from your own closet",
+          "summary": "暂无摘要",
+          "source": "Fh_",
+          "url": "https://clad9.com/",
+          "time": "2026-08-18"
+        },
+        {
+          "title": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount",
+          "time": "2026-08-18"
         }
       ]
     },
@@ -484,8 +645,15 @@
       "icon": "💡",
       "news": [
         {
+          "title": "We still don’t know how people are really using AI",
+          "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160;",
+          "source": "Eileen Guo",
+          "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+          "time": "2026-08-18"
+        },
+        {
           "title": "What Flock’s defenders are missing",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of som",
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
           "time": "2026-08-17"
@@ -517,13 +685,6 @@
           "source": "Grace Huckins",
           "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
           "time": "2026-08-10"
-        },
-        {
-          "title": "Trump’s AI protectionism has come for robotics",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They",
-          "source": "James O'Donnell",
-          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-          "time": "2026-08-03"
         }
       ]
     },
@@ -694,144 +855,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+          "title": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
           "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
-          "time": "2026-08-17"
+          "source": "tartoran",
+          "url": "https://www.reuters.com/world/middle-east/blind-egyptian-entrepreneurs-ai-app-helps-others-see-world-2026-08-18/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+          "title": "OpenAI Is Slowing Down Its AI Training",
           "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
-          "time": "2026-08-17"
+          "source": "wertyk",
+          "url": "https://time.com/article/2026/08/18/openai-slowing-training/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
+          "title": "Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
           "summary": "暂无摘要",
-          "source": "alanfuNZ",
-          "url": "https://github.com/fu351/Doberman-Core",
-          "time": "2026-08-17"
+          "source": "throw0101d",
+          "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Is reviewing AI even possible?",
+          "title": "A Government of Multimillionaires",
           "summary": "暂无摘要",
-          "source": "ibobev",
-          "url": "https://www.colino.net/wordpress/archives/2026/08/16/is-reviewing-ai-even-possible/",
-          "time": "2026-08-17"
+          "source": "root-parent",
+          "url": "https://english.elpais.com/usa/2026-08-18/a-government-of-multimillionaires-trump-appointed-57-officials-worth-as-much-as-100-million.html",
+          "time": "2026-08-18"
         },
         {
-          "title": "AI;DR (AI; Didn't Read)",
+          "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-          "time": "2026-08-17"
+          "source": "Philpax",
+          "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+          "time": "2026-08-18"
         },
         {
-          "title": "Canadian Columnist Boosting Data Centres Has Ties to AI Industry",
+          "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
           "summary": "暂无摘要",
-          "source": "Teever",
-          "url": "https://www.desmog.com/2026/08/17/canadian-columnist-boosting-data-centres-has-ties-to-ai-industry/",
-          "time": "2026-08-17"
+          "source": "jon-lbm",
+          "url": "https://geojacker.com/llms-txt",
+          "time": "2026-08-18"
         },
         {
-          "title": "Are Microsoft's AI plans being held back by a shortage of chips?",
+          "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-          "time": "2026-08-17"
+          "source": "eth0up",
+          "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
+          "time": "2026-08-18"
         },
         {
-          "title": "The People Building a Way to Slow Down the AI Race",
+          "title": "Pace Layers and AI Integration",
           "summary": "暂无摘要",
-          "source": "reasonableklout",
-          "url": "https://time.com/article/2026/08/16/ai-race-slowdown-data-center-verification/",
-          "time": "2026-08-17"
+          "source": "fkozlowski",
+          "url": "https://aicoding.leaflet.pub/3maob46kbz22v",
+          "time": "2026-08-18"
         },
         {
-          "title": "A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators",
+          "title": "VCs Pour Billions into Physical AI as the Next Wave of AI Investing Takes Shape",
           "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://arxiv.org/abs/2608.13757",
-          "time": "2026-08-17"
+          "source": "thm",
+          "url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+          "time": "2026-08-18"
         },
         {
-          "title": "The AI Reset",
+          "title": "AI;dr – AI wrote it, you shouldn't have to read it",
           "summary": "暂无摘要",
-          "source": "encinas88",
-          "url": "https://medium.com/@alanscottencinas/ai-as-a-crutch-what-the-watermark-era-is-about-to-expose-3bdf6031d546",
-          "time": "2026-08-17"
+          "source": "ronreiter",
+          "url": "https://ronreiter.github.io/aidr/",
+          "time": "2026-08-18"
         },
         {
-          "title": "AI is transforming politics–-and how we understand it",
+          "title": "Security checks for apps built with AI coding tools",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://freesystems.substack.com/p/ai-is-transforming-politics-and-how",
-          "time": "2026-08-17"
+          "source": "LukataSolutions",
+          "url": "https://lukatasolutions.com",
+          "time": "2026-08-18"
         },
         {
-          "title": "Alibaba Launches AI Music Generation Model HappyShrimp in Beta",
+          "title": "U.S. to tell partners they must pick sides in AI race with China",
           "summary": "暂无摘要",
-          "source": "leonnatus",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-launches-ai-music-generation-model-happyshrimp-in-beta",
-          "time": "2026-08-17"
+          "source": "devonnull",
+          "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+          "time": "2026-08-18"
         },
         {
-          "title": "AirTag reveals Amazon is trashing rare books to train AI",
+          "title": "SEC Proposes New Regulation Crypto Assets",
           "summary": "暂无摘要",
-          "source": "jefurii",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-          "time": "2026-08-17"
+          "source": "petethomas",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets",
+          "time": "2026-08-18"
         },
         {
-          "title": "Morte.ai – code and deploy post mortem",
+          "title": "Africa Is Not Waiting for AI. We're Building the Infrastructure to Use It",
           "summary": "暂无摘要",
-          "source": "arionhardison",
-          "url": "https://morte.ai/",
-          "time": "2026-08-17"
+          "source": "T756-T",
+          "url": "https://medium.com/@SamuelMbugua254/africa-is-not-waiting-for-ai-were-building-the-infrastructure-to-use-it-dc5e92e3ca1c",
+          "time": "2026-08-18"
         },
         {
-          "title": "'Godfather of AI' Geoffrey Hinton Warns of Mass Unemployment",
+          "title": "Show HN: Sealed evidence record of an AI agent run – broken twice, credited",
           "summary": "暂无摘要",
-          "source": "datakan",
-          "url": "https://in.mashable.com/tech/112942/will-ai-take-your-job-godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment",
-          "time": "2026-08-17"
+          "source": "cjarchivist",
+          "url": "https://github.com/cjchanh/aaap-challenge",
+          "time": "2026-08-18"
         },
         {
-          "title": "Saor.io – Persistent memory for AI agents, free, connects via MCP",
+          "title": "I Turned AI to the Dark Side",
           "summary": "暂无摘要",
-          "source": "mrjaxon",
-          "url": "https://saor.io",
-          "time": "2026-08-17"
+          "source": "njrc",
+          "url": "https://spectrum.ieee.org/jailbreaking-llms",
+          "time": "2026-08-18"
         },
         {
-          "title": "AI-enriched Linux 7.2 delivers cache-aware scheduling – here's everything new",
+          "title": "AI Is Upending One of Finance's Cushiest Jobs",
           "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://www.zdnet.com/article/ai-linux-7-2-release-cache-aware-scheduling/",
-          "time": "2026-08-17"
+          "source": "theriddlr",
+          "url": "https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs",
+          "time": "2026-08-18"
         },
         {
-          "title": "Best code editor without AI?",
+          "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
           "summary": "暂无摘要",
-          "source": "nerdyguy90",
-          "url": "https://news.ycombinator.com/item?id=49335601",
-          "time": "2026-08-17"
+          "source": "saqibkhan1992",
+          "url": "https://pantheongpu.com/",
+          "time": "2026-08-18"
         },
         {
-          "title": "AI alignment as continuation control: 31,430 frozen trials",
+          "title": "Google Workspace will enable AI note-taking by default for some customers",
           "summary": "暂无摘要",
-          "source": "rayanpal_",
-          "url": "https://zenodo.org/records/21696066",
-          "time": "2026-08-17"
+          "source": "m-hodges",
+          "url": "https://workspaceupdates.googleblog.com/2026/07/new-google-meet-take-notes-for-me-settings-for-admins-and-end-users.html",
+          "time": "2026-08-18"
         },
         {
-          "title": "Tim O'Reilly – Why Open Source Matters for AI",
+          "title": "Show HN: Deft Writing, an AI lab for non-slop LLMs",
           "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
-          "time": "2026-08-17"
+          "source": "rosmine",
+          "url": "https://deftwriting.com",
+          "time": "2026-08-18"
         },
         {
           "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
@@ -846,13 +1007,6 @@
           "source": "Jason Parham",
           "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
           "time": "2026-08-14"
-        },
-        {
-          "title": "The White House Is Going to Expand Its AI Policy",
-          "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
-          "source": "Hugo Lowell",
-          "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-          "time": "2026-08-12"
         }
       ]
     }
