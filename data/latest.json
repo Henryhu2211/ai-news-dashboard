@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-20T20:17:38.866Z",
-  "date": "2026年8月20日 20时17分",
+  "updateTime": "2026-08-21T20:14:41.854Z",
+  "date": "2026年8月21日 20时14分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "AI-Driven Development Means Test-Driven Development",
+          "title": "AI Stock Research Assistant · Streamlit",
+          "summary": "暂无摘要",
+          "source": "KiaanKothari",
+          "url": "https://ai-stock-research-kiaan.streamlit.app",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The Wage Effects of Generative AI",
+          "summary": "暂无摘要",
+          "source": "exceptione",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The Mark of the Machine",
+          "summary": "暂无摘要",
+          "source": "saikatsg",
+          "url": "https://www.newyorker.com/culture/infinite-scroll/the-mark-of-the-machine",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Readers can't identify watermarked AI text",
+          "summary": "暂无摘要",
+          "source": "dmarto",
+          "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "YC co is organizing an event in SF on AI in regulated industries",
+          "summary": "暂无摘要",
+          "source": "gonsanchezs",
+          "url": "https://groundtruth.getsphere.com/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "War is not god, neither is AI",
+          "summary": "暂无摘要",
+          "source": "middayc",
+          "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "A limit order book and matching engine in Go",
+          "summary": "暂无摘要",
+          "source": "intrepidkarthi",
+          "url": "https://intrepidkarthi.github.io/orderbook/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "I'm Sick of Reading AI-Written Posts",
+          "summary": "暂无摘要",
+          "source": "gurjeet",
+          "url": "https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "AI is about to uncover a hidden world of animal communication",
+          "summary": "暂无摘要",
+          "source": "bilsbie",
+          "url": "https://twitter.com/itsolelehmann/status/2090831992200020253",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The Better You Are at Programming, the Worse AI Looks",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.youtube.com/watch?v=_590TxMwvWM",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The Death of the Job: How AI and Robots Will Rewrite Work in the Next 10 Years",
           "summary": "暂无摘要",
           "source": "speckx",
-          "url": "https://meiert.com/blog/ai-and-tdd/",
-          "time": "2026-08-20"
+          "url": "https://simonroses.com/2026/08/the-death-of-the-job-how-ai-and-robots-will-rewrite-work-in-the-next-10-years/",
+          "time": "2026-08-21"
         },
         {
-          "title": "Why.com: A $17K domain held for 27 years becomes an AI curiosity engine",
+          "title": "America's capital crunch: Soaring debt collides with AI spending spree",
           "summary": "暂无摘要",
-          "source": "rasheed106",
-          "url": "https://www.inc.com/sam-blum/the-17000-domain-that-could-be-worth-70-million-just-became-an-ai-chatbot-instead-people-are-asking-why/91393038",
-          "time": "2026-08-20"
+          "source": "toomuchtodo",
+          "url": "https://www.axios.com/2026/08/21/national-debt-deficit-ai-spending",
+          "time": "2026-08-21"
         },
         {
-          "title": "System prompts are an archive of how we use AI",
+          "title": "Show HN: Poorleton – AI Generated Cycling Workouts",
           "summary": "暂无摘要",
-          "source": "themeta",
-          "url": "https://salable.substack.com/p/system-prompts-are-an-archive-of",
-          "time": "2026-08-20"
+          "source": "amclennon",
+          "url": "https://poorleton.fit",
+          "time": "2026-08-21"
         },
         {
-          "title": "Staggering 90% of biomedical papers now show signs of AI help",
+          "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
           "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.nature.com/articles/d41586-026-02551-z",
-          "time": "2026-08-20"
+          "source": "binyu",
+          "url": "https://twitter.com/ananayarora/status/2090742255284031537",
+          "time": "2026-08-21"
         },
         {
-          "title": "Use the OSS, Commit Back – OAVL – The Open Source AI Viability License",
+          "title": "How Much of the Internet Is Written with AI?",
           "summary": "暂无摘要",
-          "source": "hank2000",
-          "url": "https://github.com/kenm47/oavl",
-          "time": "2026-08-20"
+          "source": "karakoram",
+          "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+          "time": "2026-08-21"
         },
         {
-          "title": "Introducing AI Futures",
+          "title": "Talk. It types. Anywhere on your phone. $9.www.airtxt.ai",
           "summary": "暂无摘要",
-          "source": "logickkk1",
-          "url": "https://openai.com/index/introducing-ai-futures/",
-          "time": "2026-08-20"
+          "source": "jeevkola",
+          "url": "https://news.ycombinator.com/item?id=49391762",
+          "time": "2026-08-21"
         },
         {
-          "title": "AI-Native Services: The Definitive Guide",
+          "title": "The Chaos Machine – Prediction markets and the triumph of crypto-anarchy",
           "summary": "暂无摘要",
-          "source": "isubkhankulov",
-          "url": "https://www.emcap.com/ai-native-services",
-          "time": "2026-08-20"
+          "source": "pseudolus",
+          "url": "https://harpers.org/archive/2026/09/the-chaos-machine-finn-brunton-crypto-anarchism/",
+          "time": "2026-08-21"
         },
         {
-          "title": "WooblaDub: AI dubbing that preserves the original picture, music and ambience",
+          "title": "Openly Synthetic: Building an accountable AI newsroom in the age of covert ones",
           "summary": "暂无摘要",
-          "source": "xgharibyan",
-          "url": "https://woobladub.com/",
-          "time": "2026-08-20"
+          "source": "rendonroman",
+          "url": "https://areyto.media/openly-synthetic",
+          "time": "2026-08-21"
         },
         {
-          "title": "With Val Kilmer's AI Twin, Is Gen AI Forcing Hollywood to the Edge?",
+          "title": "Git Might Be the Best Message Forum for AI Agents",
           "summary": "暂无摘要",
-          "source": "skoomer235",
-          "url": "https://www.akamai.com/blog/cloud/val-kilmer-ai-twin-gen-ai-forcing-hollywood-edge",
-          "time": "2026-08-20"
+          "source": "syumei",
+          "url": "https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents/",
+          "time": "2026-08-21"
         },
         {
-          "title": "Is AI Entering Its NFT Era?",
+          "title": "The puzzling case of Britain's young people and what they think of AI",
           "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://aboard.com/is-ai-entering-its-nft-era/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Show HN: Meridian(PH #1) – Automatic AI Workjournal for Devs",
-          "summary": "暂无摘要",
-          "source": "adithyaharish",
-          "url": "https://github.com/Meridiona/meridian",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "The poets trying to give AI taste",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.newstatesman.com/the-weekend-report/2026/08/the-poets-trying-to-give-ai-taste",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Study reveals that almost 40% of music released globally in July 2026 used AI",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/culture/2026/08/20/alarming-study-reveals-that-almost-40-per-cent-of-music-released-globally-in-july-2026-use",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Show HN: Huzzah – a novel approach to coding with AI",
-          "summary": "暂无摘要",
-          "source": "danielvaughn",
-          "url": "https://www.danielvaughn.dev/posts/huzzah/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "G#: A Go-like language for .NET",
-          "summary": "暂无摘要",
-          "source": "theanonymousone",
-          "url": "https://www.infoworld.com/article/4210637/introducing-g-sharp-a-go-like-language-for-dot-net.html",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "AI Alignment as a Thought-Terminating Cliche",
-          "summary": "暂无摘要",
-          "source": "ibobev",
-          "url": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Fieldmade – RPG crafting by drawing pixel art and AI",
-          "summary": "暂无摘要",
-          "source": "ChromaGolem",
-          "url": "https://chromagolem.itch.io/fieldmade",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Spirit Flight Attendants Fight Google's Data Bid for AI",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.wsj.com/pro/bankruptcy/spirit-flight-attendants-fight-googles-data-bid-for-ai-e939e049",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Ask HN: Did I do the right thing using AI?",
-          "summary": "暂无摘要",
-          "source": "simondukr",
-          "url": "https://news.ycombinator.com/item?id=49378454",
-          "time": "2026-08-20"
+          "source": "giuliomagnifico",
+          "url": "https://publicfirsttech.substack.com/p/gen-ai-the-puzzling-case-of-britains",
+          "time": "2026-08-21"
         },
         {
           "title": "Unlocking hidden revenue streams with market models",
@@ -288,144 +288,144 @@
           "time": "2026-06-25"
         },
         {
-          "title": "AI-Driven Development Means Test-Driven Development",
+          "title": "Walmart finally says yes to Apple Pay and Google Pay",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://meiert.com/blog/ai-and-tdd/",
-          "time": "2026-08-20"
+          "source": "bundie",
+          "url": "https://www.neowin.net/news/walmart-finally-says-yes-to-apple-pay-and-google-pay/",
+          "time": "2026-08-21"
         },
         {
-          "title": "Why.com: A $17K domain held for 27 years becomes an AI curiosity engine",
+          "title": "AI Stock Research Assistant · Streamlit",
           "summary": "暂无摘要",
-          "source": "rasheed106",
-          "url": "https://www.inc.com/sam-blum/the-17000-domain-that-could-be-worth-70-million-just-became-an-ai-chatbot-instead-people-are-asking-why/91393038",
-          "time": "2026-08-20"
+          "source": "KiaanKothari",
+          "url": "https://ai-stock-research-kiaan.streamlit.app",
+          "time": "2026-08-21"
         },
         {
-          "title": "System prompts are an archive of how we use AI",
+          "title": "The Wage Effects of Generative AI",
           "summary": "暂无摘要",
-          "source": "themeta",
-          "url": "https://salable.substack.com/p/system-prompts-are-an-archive-of",
-          "time": "2026-08-20"
+          "source": "exceptione",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084",
+          "time": "2026-08-21"
         },
         {
-          "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+          "title": "OpenAI: We're dropping API and credit pricing of GPT-5.6 Sol by over 20%",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-          "time": "2026-08-20"
+          "source": "modeless",
+          "url": "https://twitter.com/OpenAI/status/2090885187634905500",
+          "time": "2026-08-21"
         },
         {
-          "title": "Staggering 90% of biomedical papers now show signs of AI help",
+          "title": "Readers can't identify watermarked AI text",
           "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.nature.com/articles/d41586-026-02551-z",
-          "time": "2026-08-20"
+          "source": "dmarto",
+          "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
+          "time": "2026-08-21"
         },
         {
-          "title": "Use the OSS, Commit Back – OAVL – The Open Source AI Viability License",
+          "title": "YC co is organizing an event in SF on AI in regulated industries",
           "summary": "暂无摘要",
-          "source": "hank2000",
-          "url": "https://github.com/kenm47/oavl",
-          "time": "2026-08-20"
+          "source": "gonsanchezs",
+          "url": "https://groundtruth.getsphere.com/",
+          "time": "2026-08-21"
         },
         {
-          "title": "Introducing AI Futures",
+          "title": "War is not god, neither is AI",
           "summary": "暂无摘要",
-          "source": "logickkk1",
-          "url": "https://openai.com/index/introducing-ai-futures/",
-          "time": "2026-08-20"
+          "source": "middayc",
+          "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/",
+          "time": "2026-08-21"
         },
         {
-          "title": "AI-Native Services: The Definitive Guide",
-          "summary": "暂无摘要",
-          "source": "isubkhankulov",
-          "url": "https://www.emcap.com/ai-native-services",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "A proxy to translate OpenCode OpenAI calls to native Ollama, allows ctx >4096",
-          "summary": "暂无摘要",
-          "source": "MK2k",
-          "url": "https://github.com/yasuoiwakura/openai-ollama-api-bridge",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "WooblaDub: AI dubbing that preserves the original picture, music and ambience",
-          "summary": "暂无摘要",
-          "source": "xgharibyan",
-          "url": "https://woobladub.com/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "With Val Kilmer's AI Twin, Is Gen AI Forcing Hollywood to the Edge?",
-          "summary": "暂无摘要",
-          "source": "skoomer235",
-          "url": "https://www.akamai.com/blog/cloud/val-kilmer-ai-twin-gen-ai-forcing-hollywood-edge",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Is AI Entering Its NFT Era?",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://aboard.com/is-ai-entering-its-nft-era/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Show HN: Meridian(PH #1) – Automatic AI Workjournal for Devs",
-          "summary": "暂无摘要",
-          "source": "adithyaharish",
-          "url": "https://github.com/Meridiona/meridian",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "The poets trying to give AI taste",
+          "title": "Google Buys Spirit Airlines' Emails, Files and Flight Records for $10M",
           "summary": "暂无摘要",
           "source": "paulpauper",
-          "url": "https://www.newstatesman.com/the-weekend-report/2026/08/the-poets-trying-to-give-ai-taste",
-          "time": "2026-08-20"
+          "url": "https://viewfromthewing.com/google-buys-spirit-airlines-emails-files-and-flight-records-for-10-million-so-gemini-can-learn-from-bankruptcy/",
+          "time": "2026-08-21"
         },
         {
-          "title": "Study reveals that almost 40% of music released globally in July 2026 used AI",
+          "title": "What Happened: OpenAI and HuggingFace",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/culture/2026/08/20/alarming-study-reveals-that-almost-40-per-cent-of-music-released-globally-in-july-2026-use",
-          "time": "2026-08-20"
+          "source": "gmays",
+          "url": "https://thezvi.wordpress.com/2026/08/08/what-happened-openai-and-huggingface/",
+          "time": "2026-08-21"
         },
         {
-          "title": "Show HN: Huzzah – a novel approach to coding with AI",
+          "title": "I'm Sick of Reading AI-Written Posts",
           "summary": "暂无摘要",
-          "source": "danielvaughn",
-          "url": "https://www.danielvaughn.dev/posts/huzzah/",
-          "time": "2026-08-20"
+          "source": "gurjeet",
+          "url": "https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf",
+          "time": "2026-08-21"
         },
         {
-          "title": "OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face",
+          "title": "AI is about to uncover a hidden world of animal communication",
           "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-          "time": "2026-08-20"
+          "source": "bilsbie",
+          "url": "https://twitter.com/itsolelehmann/status/2090831992200020253",
+          "time": "2026-08-21"
         },
         {
-          "title": "AI Alignment as a Thought-Terminating Cliche",
+          "title": "The Meta Chalkboard",
           "summary": "暂无摘要",
-          "source": "ibobev",
-          "url": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
-          "time": "2026-08-20"
+          "source": "cabalos",
+          "url": "https://christopherabalos.substack.com/p/the-meta-chalkboard",
+          "time": "2026-08-21"
         },
         {
-          "title": "Fieldmade – RPG crafting by drawing pixel art and AI",
+          "title": "The Better You Are at Programming, the Worse AI Looks",
           "summary": "暂无摘要",
-          "source": "ChromaGolem",
-          "url": "https://chromagolem.itch.io/fieldmade",
-          "time": "2026-08-20"
+          "source": "root-parent",
+          "url": "https://www.youtube.com/watch?v=_590TxMwvWM",
+          "time": "2026-08-21"
         },
         {
-          "title": "Meta glasses are a workplace menace",
+          "title": "The Death of the Job: How AI and Robots Will Rewrite Work in the Next 10 Years",
           "summary": "暂无摘要",
-          "source": "hberg",
-          "url": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
-          "time": "2026-08-20"
+          "source": "speckx",
+          "url": "https://simonroses.com/2026/08/the-death-of-the-job-how-ai-and-robots-will-rewrite-work-in-the-next-10-years/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "America's capital crunch: Soaring debt collides with AI spending spree",
+          "summary": "暂无摘要",
+          "source": "toomuchtodo",
+          "url": "https://www.axios.com/2026/08/21/national-debt-deficit-ai-spending",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "I Worked at OpenAI. Here Are the Guardrails We Need Now",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Show HN: Poorleton – AI Generated Cycling Workouts",
+          "summary": "暂无摘要",
+          "source": "amclennon",
+          "url": "https://poorleton.fit",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
+          "summary": "暂无摘要",
+          "source": "binyu",
+          "url": "https://twitter.com/ananayarora/status/2090742255284031537",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "How Much of the Internet Is Written with AI?",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "OpenAI Codex Security Quoted in iOS 26.6.1 en iPadOS 26.6.1",
+          "summary": "暂无摘要",
+          "source": "janandonly",
+          "url": "https://support.apple.com/en-us/148282",
+          "time": "2026-08-21"
         }
       ]
     },
@@ -434,6 +434,20 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+          "summary": "There's about to be a big fight to secure access to space.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "time": "2026-08-21"
+        },
         {
           "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
           "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
@@ -456,151 +470,144 @@
           "time": "2026-08-19"
         },
         {
-          "title": "Meet the startup helping Wall Street put a price on AI compute",
-          "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for any",
-          "source": "Theresa Loconsolo",
-          "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-          "time": "2026-08-19"
+          "title": "AI Stock Research Assistant · Streamlit",
+          "summary": "暂无摘要",
+          "source": "KiaanKothari",
+          "url": "https://ai-stock-research-kiaan.streamlit.app",
+          "time": "2026-08-21"
         },
         {
-          "title": "AI-Driven Development Means Test-Driven Development",
+          "title": "The Wage Effects of Generative AI",
+          "summary": "暂无摘要",
+          "source": "exceptione",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Readers can't identify watermarked AI text",
+          "summary": "暂无摘要",
+          "source": "dmarto",
+          "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "YC co is organizing an event in SF on AI in regulated industries",
+          "summary": "暂无摘要",
+          "source": "gonsanchezs",
+          "url": "https://groundtruth.getsphere.com/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "War is not god, neither is AI",
+          "summary": "暂无摘要",
+          "source": "middayc",
+          "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "I'm Sick of Reading AI-Written Posts",
+          "summary": "暂无摘要",
+          "source": "gurjeet",
+          "url": "https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "AI is about to uncover a hidden world of animal communication",
+          "summary": "暂无摘要",
+          "source": "bilsbie",
+          "url": "https://twitter.com/itsolelehmann/status/2090831992200020253",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The Better You Are at Programming, the Worse AI Looks",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.youtube.com/watch?v=_590TxMwvWM",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The Death of the Job: How AI and Robots Will Rewrite Work in the Next 10 Years",
           "summary": "暂无摘要",
           "source": "speckx",
-          "url": "https://meiert.com/blog/ai-and-tdd/",
-          "time": "2026-08-20"
+          "url": "https://simonroses.com/2026/08/the-death-of-the-job-how-ai-and-robots-will-rewrite-work-in-the-next-10-years/",
+          "time": "2026-08-21"
         },
         {
-          "title": "Why.com: A $17K domain held for 27 years becomes an AI curiosity engine",
+          "title": "America's capital crunch: Soaring debt collides with AI spending spree",
           "summary": "暂无摘要",
-          "source": "rasheed106",
-          "url": "https://www.inc.com/sam-blum/the-17000-domain-that-could-be-worth-70-million-just-became-an-ai-chatbot-instead-people-are-asking-why/91393038",
-          "time": "2026-08-20"
+          "source": "toomuchtodo",
+          "url": "https://www.axios.com/2026/08/21/national-debt-deficit-ai-spending",
+          "time": "2026-08-21"
         },
         {
-          "title": "System prompts are an archive of how we use AI",
+          "title": "Show HN: Poorleton – AI Generated Cycling Workouts",
           "summary": "暂无摘要",
-          "source": "themeta",
-          "url": "https://salable.substack.com/p/system-prompts-are-an-archive-of",
-          "time": "2026-08-20"
+          "source": "amclennon",
+          "url": "https://poorleton.fit",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
+          "summary": "暂无摘要",
+          "source": "binyu",
+          "url": "https://twitter.com/ananayarora/status/2090742255284031537",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "How Much of the Internet Is Written with AI?",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Talk. It types. Anywhere on your phone. $9.www.airtxt.ai",
+          "summary": "暂无摘要",
+          "source": "jeevkola",
+          "url": "https://news.ycombinator.com/item?id=49391762",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Openly Synthetic: Building an accountable AI newsroom in the age of covert ones",
+          "summary": "暂无摘要",
+          "source": "rendonroman",
+          "url": "https://areyto.media/openly-synthetic",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Git Might Be the Best Message Forum for AI Agents",
+          "summary": "暂无摘要",
+          "source": "syumei",
+          "url": "https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The puzzling case of Britain's young people and what they think of AI",
+          "summary": "暂无摘要",
+          "source": "giuliomagnifico",
+          "url": "https://publicfirsttech.substack.com/p/gen-ai-the-puzzling-case-of-britains",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+          "summary": "暂无摘要",
+          "source": "theanonymousone",
+          "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "IO Factory: Simulating AI-Enabled Influence Campaigns at Scale",
+          "summary": "暂无摘要",
+          "source": "lknik",
+          "url": "https://arxiv.org/abs/2608.10920",
+          "time": "2026-08-21"
         },
         {
           "title": "Staggering 90% of biomedical papers now show signs of AI help",
           "summary": "暂无摘要",
-          "source": "sbulaev",
+          "source": "frasermarlow",
           "url": "https://www.nature.com/articles/d41586-026-02551-z",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Use the OSS, Commit Back – OAVL – The Open Source AI Viability License",
-          "summary": "暂无摘要",
-          "source": "hank2000",
-          "url": "https://github.com/kenm47/oavl",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Introducing AI Futures",
-          "summary": "暂无摘要",
-          "source": "logickkk1",
-          "url": "https://openai.com/index/introducing-ai-futures/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "AI-Native Services: The Definitive Guide",
-          "summary": "暂无摘要",
-          "source": "isubkhankulov",
-          "url": "https://www.emcap.com/ai-native-services",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "WooblaDub: AI dubbing that preserves the original picture, music and ambience",
-          "summary": "暂无摘要",
-          "source": "xgharibyan",
-          "url": "https://woobladub.com/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "With Val Kilmer's AI Twin, Is Gen AI Forcing Hollywood to the Edge?",
-          "summary": "暂无摘要",
-          "source": "skoomer235",
-          "url": "https://www.akamai.com/blog/cloud/val-kilmer-ai-twin-gen-ai-forcing-hollywood-edge",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Is AI Entering Its NFT Era?",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://aboard.com/is-ai-entering-its-nft-era/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Show HN: Meridian(PH #1) – Automatic AI Workjournal for Devs",
-          "summary": "暂无摘要",
-          "source": "adithyaharish",
-          "url": "https://github.com/Meridiona/meridian",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "The poets trying to give AI taste",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.newstatesman.com/the-weekend-report/2026/08/the-poets-trying-to-give-ai-taste",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Study reveals that almost 40% of music released globally in July 2026 used AI",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/culture/2026/08/20/alarming-study-reveals-that-almost-40-per-cent-of-music-released-globally-in-july-2026-use",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Show HN: Huzzah – a novel approach to coding with AI",
-          "summary": "暂无摘要",
-          "source": "danielvaughn",
-          "url": "https://www.danielvaughn.dev/posts/huzzah/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "AI Alignment as a Thought-Terminating Cliche",
-          "summary": "暂无摘要",
-          "source": "ibobev",
-          "url": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Fieldmade – RPG crafting by drawing pixel art and AI",
-          "summary": "暂无摘要",
-          "source": "ChromaGolem",
-          "url": "https://chromagolem.itch.io/fieldmade",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Spirit Flight Attendants Fight Google's Data Bid for AI",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.wsj.com/pro/bankruptcy/spirit-flight-attendants-fight-googles-data-bid-for-ai-e939e049",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Ask HN: Did I do the right thing using AI?",
-          "summary": "暂无摘要",
-          "source": "simondukr",
-          "url": "https://news.ycombinator.com/item?id=49378454",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "What I learned building an AI applic",
-          "summary": "暂无摘要",
-          "source": "simondukr",
-          "url": "https://news.ycombinator.com/item?id=49378449",
-          "time": "2026-08-20"
+          "time": "2026-08-21"
         }
       ]
     },
@@ -820,144 +827,151 @@
           "time": "2022-12-16"
         },
         {
-          "title": "AI-Driven Development Means Test-Driven Development",
+          "title": "AI Stock Research Assistant · Streamlit",
+          "summary": "暂无摘要",
+          "source": "KiaanKothari",
+          "url": "https://ai-stock-research-kiaan.streamlit.app",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The Wage Effects of Generative AI",
+          "summary": "暂无摘要",
+          "source": "exceptione",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Readers can't identify watermarked AI text",
+          "summary": "暂无摘要",
+          "source": "dmarto",
+          "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "YC co is organizing an event in SF on AI in regulated industries",
+          "summary": "暂无摘要",
+          "source": "gonsanchezs",
+          "url": "https://groundtruth.getsphere.com/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "War is not god, neither is AI",
+          "summary": "暂无摘要",
+          "source": "middayc",
+          "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "I'm Sick of Reading AI-Written Posts",
+          "summary": "暂无摘要",
+          "source": "gurjeet",
+          "url": "https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "AI is about to uncover a hidden world of animal communication",
+          "summary": "暂无摘要",
+          "source": "bilsbie",
+          "url": "https://twitter.com/itsolelehmann/status/2090831992200020253",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The Better You Are at Programming, the Worse AI Looks",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.youtube.com/watch?v=_590TxMwvWM",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The Death of the Job: How AI and Robots Will Rewrite Work in the Next 10 Years",
           "summary": "暂无摘要",
           "source": "speckx",
-          "url": "https://meiert.com/blog/ai-and-tdd/",
-          "time": "2026-08-20"
+          "url": "https://simonroses.com/2026/08/the-death-of-the-job-how-ai-and-robots-will-rewrite-work-in-the-next-10-years/",
+          "time": "2026-08-21"
         },
         {
-          "title": "Why.com: A $17K domain held for 27 years becomes an AI curiosity engine",
+          "title": "America's capital crunch: Soaring debt collides with AI spending spree",
           "summary": "暂无摘要",
-          "source": "rasheed106",
-          "url": "https://www.inc.com/sam-blum/the-17000-domain-that-could-be-worth-70-million-just-became-an-ai-chatbot-instead-people-are-asking-why/91393038",
-          "time": "2026-08-20"
+          "source": "toomuchtodo",
+          "url": "https://www.axios.com/2026/08/21/national-debt-deficit-ai-spending",
+          "time": "2026-08-21"
         },
         {
-          "title": "System prompts are an archive of how we use AI",
+          "title": "Show HN: Poorleton – AI Generated Cycling Workouts",
           "summary": "暂无摘要",
-          "source": "themeta",
-          "url": "https://salable.substack.com/p/system-prompts-are-an-archive-of",
-          "time": "2026-08-20"
+          "source": "amclennon",
+          "url": "https://poorleton.fit",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
+          "summary": "暂无摘要",
+          "source": "binyu",
+          "url": "https://twitter.com/ananayarora/status/2090742255284031537",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "How Much of the Internet Is Written with AI?",
+          "summary": "暂无摘要",
+          "source": "karakoram",
+          "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Talk. It types. Anywhere on your phone. $9.www.airtxt.ai",
+          "summary": "暂无摘要",
+          "source": "jeevkola",
+          "url": "https://news.ycombinator.com/item?id=49391762",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Openly Synthetic: Building an accountable AI newsroom in the age of covert ones",
+          "summary": "暂无摘要",
+          "source": "rendonroman",
+          "url": "https://areyto.media/openly-synthetic",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Git Might Be the Best Message Forum for AI Agents",
+          "summary": "暂无摘要",
+          "source": "syumei",
+          "url": "https://www.reddit.com/r/git/comments/1vunb1e/git_might_be_the_best_message_forum_for_ai_agents/",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "The puzzling case of Britain's young people and what they think of AI",
+          "summary": "暂无摘要",
+          "source": "giuliomagnifico",
+          "url": "https://publicfirsttech.substack.com/p/gen-ai-the-puzzling-case-of-britains",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+          "summary": "暂无摘要",
+          "source": "theanonymousone",
+          "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+          "time": "2026-08-21"
+        },
+        {
+          "title": "IO Factory: Simulating AI-Enabled Influence Campaigns at Scale",
+          "summary": "暂无摘要",
+          "source": "lknik",
+          "url": "https://arxiv.org/abs/2608.10920",
+          "time": "2026-08-21"
         },
         {
           "title": "Staggering 90% of biomedical papers now show signs of AI help",
           "summary": "暂无摘要",
-          "source": "sbulaev",
+          "source": "frasermarlow",
           "url": "https://www.nature.com/articles/d41586-026-02551-z",
-          "time": "2026-08-20"
+          "time": "2026-08-21"
         },
         {
-          "title": "Use the OSS, Commit Back – OAVL – The Open Source AI Viability License",
-          "summary": "暂无摘要",
-          "source": "hank2000",
-          "url": "https://github.com/kenm47/oavl",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Introducing AI Futures",
-          "summary": "暂无摘要",
-          "source": "logickkk1",
-          "url": "https://openai.com/index/introducing-ai-futures/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "AI-Native Services: The Definitive Guide",
-          "summary": "暂无摘要",
-          "source": "isubkhankulov",
-          "url": "https://www.emcap.com/ai-native-services",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "WooblaDub: AI dubbing that preserves the original picture, music and ambience",
-          "summary": "暂无摘要",
-          "source": "xgharibyan",
-          "url": "https://woobladub.com/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "With Val Kilmer's AI Twin, Is Gen AI Forcing Hollywood to the Edge?",
-          "summary": "暂无摘要",
-          "source": "skoomer235",
-          "url": "https://www.akamai.com/blog/cloud/val-kilmer-ai-twin-gen-ai-forcing-hollywood-edge",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Is AI Entering Its NFT Era?",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://aboard.com/is-ai-entering-its-nft-era/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Show HN: Meridian(PH #1) – Automatic AI Workjournal for Devs",
-          "summary": "暂无摘要",
-          "source": "adithyaharish",
-          "url": "https://github.com/Meridiona/meridian",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "The poets trying to give AI taste",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.newstatesman.com/the-weekend-report/2026/08/the-poets-trying-to-give-ai-taste",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Study reveals that almost 40% of music released globally in July 2026 used AI",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/culture/2026/08/20/alarming-study-reveals-that-almost-40-per-cent-of-music-released-globally-in-july-2026-use",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Show HN: Huzzah – a novel approach to coding with AI",
-          "summary": "暂无摘要",
-          "source": "danielvaughn",
-          "url": "https://www.danielvaughn.dev/posts/huzzah/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "OpenAI's Rogue AI Agent Hacked More Than Just Hugging Face",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "AI Alignment as a Thought-Terminating Cliche",
-          "summary": "暂无摘要",
-          "source": "ibobev",
-          "url": "https://borretti.me/article/ai-alignment-as-thought-terminating-cliche",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Fieldmade – RPG crafting by drawing pixel art and AI",
-          "summary": "暂无摘要",
-          "source": "ChromaGolem",
-          "url": "https://chromagolem.itch.io/fieldmade",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Spirit Flight Attendants Fight Google's Data Bid for AI",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.wsj.com/pro/bankruptcy/spirit-flight-attendants-fight-googles-data-bid-for-ai-e939e049",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "Ask HN: Did I do the right thing using AI?",
-          "summary": "暂无摘要",
-          "source": "simondukr",
-          "url": "https://news.ycombinator.com/item?id=49378454",
-          "time": "2026-08-20"
-        },
-        {
-          "title": "What I learned building an AI applic",
-          "summary": "暂无摘要",
-          "source": "simondukr",
-          "url": "https://news.ycombinator.com/item?id=49378449",
-          "time": "2026-08-20"
+          "title": "The Single English County Saying No to Palantir",
+          "summary": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
+          "source": "Joel Khalili, Matt Burgess",
+          "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+          "time": "2026-08-21"
         },
         {
           "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
