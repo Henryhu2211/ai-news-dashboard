@@ -1,12 +1,159 @@
 {
-  "updateTime": "2026-08-23T20:11:30.303Z",
-  "date": "2026年8月23日 20时11分",
+  "updateTime": "2026-08-24T20:18:48.896Z",
+  "date": "2026年8月24日 20时18分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Cognitive Surrender with AI",
+          "summary": "暂无摘要",
+          "source": "herbertl",
+          "url": "https://icepanel.io/blog/2026-08-17-cognitive-surrender-with-ai",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Carnegie Mellon University Coke Machine, the First \"IoT\" Device",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.cs.cmu.edu/~coke/coke.history.txt",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Show HN: AI for people that still browse the web",
+          "summary": "暂无摘要",
+          "source": "nikolas1814",
+          "url": "https://thisisrobin.ai/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "The Teaser Period: Why the AI Boom Is Built to Break",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Porsche Inks $1.5B AI Deal with India's Tata Consultancy",
+          "summary": "暂无摘要",
+          "source": "johnbarron",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "I can't prove it, but I think AI is causing me brain damage",
+          "summary": "暂无摘要",
+          "source": "nyxtom",
+          "url": "https://news.ycombinator.com/item?id=49424762",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Mistral and Humain Announce Colab to Advance AI in Saudi Arabia and Regionally",
+          "summary": "暂无摘要",
+          "source": "leumon",
+          "url": "https://mistral.ai/news/mistral-x-humain/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "I built 270 AI agents in an Obsidian vault – zero API costs, all open source",
+          "summary": "暂无摘要",
+          "source": "ai-ultron",
+          "url": "https://gist.github.com/NenadConnor/b9bb71d56c9e70a9072c55e262885b8b",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Autonomous Computer: 2-GPU AI Workstation",
+          "summary": "暂无摘要",
+          "source": "tortilla",
+          "url": "https://www.autonomous.ai/computer-2",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "AI billing tool is fast. Is it accurate enough to pass an audit?",
+          "summary": "暂无摘要",
+          "source": "parvaamin",
+          "url": "https://www.insightits.com/products/prismclaim.html",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Nvidia customers notified about AI-related price hikes above 15%",
+          "summary": "暂无摘要",
+          "source": "dgellow",
+          "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "LLMs could control their host machines by exploiting inference engines",
+          "summary": "暂无摘要",
+          "source": "zdw",
+          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
+          "summary": "暂无摘要",
+          "source": "fedupofslop",
+          "url": "https://news.ycombinator.com/item?id=49424263",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "InvoiceFlow AI – Smarter invoicing for freelancers and businesses",
+          "summary": "暂无摘要",
+          "source": "jitukedir",
+          "url": "https://invoiceflowdesign.app",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "SpaceXAI Adopts Nvidia Vera CPU to Accelerate Agentic AI at Scale",
+          "summary": "暂无摘要",
+          "source": "ryzvonusef",
+          "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "The unprompted.au (Australian AI and Cyber) schedule is live",
+          "summary": "暂无摘要",
+          "source": "caseyjohnellis",
+          "url": "https://unprompted.au/schedule",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "New York AI data center fight comes to Geneva",
+          "summary": "暂无摘要",
+          "source": "ninjahawk1",
+          "url": "https://www.democratandchronicle.com/story/news/2026/08/24/geneva-ai-data-center-greenidge-kristen-gonzalez/91437888007/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "It's OK. Do Your Thing. Some (reluctant) thought on our AI moment",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Concentrate AI: an LLM gateway that charges 0%",
+          "summary": "暂无摘要",
+          "source": "zacharymoskow",
+          "url": "https://concentrate.ai",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Ask HN: What AI companies provide human support?",
+          "summary": "暂无摘要",
+          "source": "kbrannigan",
+          "url": "https://news.ycombinator.com/item?id=49423377",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "How to encourage smarter AI use in the classroom",
+          "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools",
+          "source": "Peter Hall",
+          "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+          "time": "2026-08-24"
+        },
         {
           "title": "Unlocking hidden revenue streams with market models",
           "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a",
@@ -27,13 +174,6 @@
           "source": "Michelle Kim",
           "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
           "time": "2026-08-18"
-        },
-        {
-          "title": "AI professors are negotiating the new realities of academic research",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel",
-          "source": "Grace Huckins",
-          "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-          "time": "2026-08-10"
         }
       ]
     },
@@ -146,6 +286,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
           "time": "2026-06-25"
+        },
+        {
+          "title": "Cognitive Surrender with AI",
+          "summary": "暂无摘要",
+          "source": "herbertl",
+          "url": "https://icepanel.io/blog/2026-08-17-cognitive-surrender-with-ai",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Show HN: AI for people that still browse the web",
+          "summary": "暂无摘要",
+          "source": "nikolas1814",
+          "url": "https://thisisrobin.ai/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "The Teaser Period: Why the AI Boom Is Built to Break",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Porsche Inks $1.5B AI Deal with India's Tata Consultancy",
+          "summary": "暂无摘要",
+          "source": "johnbarron",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "I can't prove it, but I think AI is causing me brain damage",
+          "summary": "暂无摘要",
+          "source": "nyxtom",
+          "url": "https://news.ycombinator.com/item?id=49424762",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Mistral and Humain Announce Colab to Advance AI in Saudi Arabia and Regionally",
+          "summary": "暂无摘要",
+          "source": "leumon",
+          "url": "https://mistral.ai/news/mistral-x-humain/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "I built 270 AI agents in an Obsidian vault – zero API costs, all open source",
+          "summary": "暂无摘要",
+          "source": "ai-ultron",
+          "url": "https://gist.github.com/NenadConnor/b9bb71d56c9e70a9072c55e262885b8b",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Autonomous Computer: 2-GPU AI Workstation",
+          "summary": "暂无摘要",
+          "source": "tortilla",
+          "url": "https://www.autonomous.ai/computer-2",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "AI billing tool is fast. Is it accurate enough to pass an audit?",
+          "summary": "暂无摘要",
+          "source": "parvaamin",
+          "url": "https://www.insightits.com/products/prismclaim.html",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Nvidia customers notified about AI-related price hikes above 15%",
+          "summary": "暂无摘要",
+          "source": "dgellow",
+          "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
+          "summary": "暂无摘要",
+          "source": "fedupofslop",
+          "url": "https://news.ycombinator.com/item?id=49424263",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "InvoiceFlow AI – Smarter invoicing for freelancers and businesses",
+          "summary": "暂无摘要",
+          "source": "jitukedir",
+          "url": "https://invoiceflowdesign.app",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "SpaceXAI Adopts Nvidia Vera CPU to Accelerate Agentic AI at Scale",
+          "summary": "暂无摘要",
+          "source": "ryzvonusef",
+          "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "The unprompted.au (Australian AI and Cyber) schedule is live",
+          "summary": "暂无摘要",
+          "source": "caseyjohnellis",
+          "url": "https://unprompted.au/schedule",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "New York AI data center fight comes to Geneva",
+          "summary": "暂无摘要",
+          "source": "ninjahawk1",
+          "url": "https://www.democratandchronicle.com/story/news/2026/08/24/geneva-ai-data-center-greenidge-kristen-gonzalez/91437888007/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "It's OK. Do Your Thing. Some (reluctant) thought on our AI moment",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Concentrate AI: an LLM gateway that charges 0%",
+          "summary": "暂无摘要",
+          "source": "zacharymoskow",
+          "url": "https://concentrate.ai",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Ask HN: What AI companies provide human support?",
+          "summary": "暂无摘要",
+          "source": "kbrannigan",
+          "url": "https://news.ycombinator.com/item?id=49423377",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Show HN: See how much your AI knows about you",
+          "summary": "暂无摘要",
+          "source": "cgnry",
+          "url": "https://www.withcorpus.com/knows",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Show HN: Fake Zoom, hang out with AI coworkers and feel the synergy",
+          "summary": "暂无摘要",
+          "source": "stets",
+          "url": "https://fake-zoom.pages.dev/",
+          "time": "2026-08-24"
         }
       ]
     },
@@ -155,10 +435,38 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+          "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "summary": "暂无摘要",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Hugging Face reportedly in talks to be acquired for $13B",
+          "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+          "time": "2026-08-24"
+        },
+        {
           "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
           "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
           "source": "Anthony Ha",
           "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+          "time": "2026-08-22"
+        },
+        {
+          "title": "Michael Polansky is training an AI model on skin that’s still alive",
+          "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
           "time": "2026-08-22"
         },
         {
@@ -174,6 +482,146 @@
           "source": "Marina Temkin",
           "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
           "time": "2026-08-21"
+        },
+        {
+          "title": "Cognitive Surrender with AI",
+          "summary": "暂无摘要",
+          "source": "herbertl",
+          "url": "https://icepanel.io/blog/2026-08-17-cognitive-surrender-with-ai",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Show HN: AI for people that still browse the web",
+          "summary": "暂无摘要",
+          "source": "nikolas1814",
+          "url": "https://thisisrobin.ai/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "The Teaser Period: Why the AI Boom Is Built to Break",
+          "summary": "暂无摘要",
+          "source": "root-parent",
+          "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Porsche Inks $1.5B AI Deal with India's Tata Consultancy",
+          "summary": "暂无摘要",
+          "source": "johnbarron",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "I can't prove it, but I think AI is causing me brain damage",
+          "summary": "暂无摘要",
+          "source": "nyxtom",
+          "url": "https://news.ycombinator.com/item?id=49424762",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Mistral and Humain Announce Colab to Advance AI in Saudi Arabia and Regionally",
+          "summary": "暂无摘要",
+          "source": "leumon",
+          "url": "https://mistral.ai/news/mistral-x-humain/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "I built 270 AI agents in an Obsidian vault – zero API costs, all open source",
+          "summary": "暂无摘要",
+          "source": "ai-ultron",
+          "url": "https://gist.github.com/NenadConnor/b9bb71d56c9e70a9072c55e262885b8b",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Autonomous Computer: 2-GPU AI Workstation",
+          "summary": "暂无摘要",
+          "source": "tortilla",
+          "url": "https://www.autonomous.ai/computer-2",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "AI billing tool is fast. Is it accurate enough to pass an audit?",
+          "summary": "暂无摘要",
+          "source": "parvaamin",
+          "url": "https://www.insightits.com/products/prismclaim.html",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Nvidia customers notified about AI-related price hikes above 15%",
+          "summary": "暂无摘要",
+          "source": "dgellow",
+          "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
+          "summary": "暂无摘要",
+          "source": "fedupofslop",
+          "url": "https://news.ycombinator.com/item?id=49424263",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "InvoiceFlow AI – Smarter invoicing for freelancers and businesses",
+          "summary": "暂无摘要",
+          "source": "jitukedir",
+          "url": "https://invoiceflowdesign.app",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "SpaceXAI Adopts Nvidia Vera CPU to Accelerate Agentic AI at Scale",
+          "summary": "暂无摘要",
+          "source": "ryzvonusef",
+          "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "The unprompted.au (Australian AI and Cyber) schedule is live",
+          "summary": "暂无摘要",
+          "source": "caseyjohnellis",
+          "url": "https://unprompted.au/schedule",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "New York AI data center fight comes to Geneva",
+          "summary": "暂无摘要",
+          "source": "ninjahawk1",
+          "url": "https://www.democratandchronicle.com/story/news/2026/08/24/geneva-ai-data-center-greenidge-kristen-gonzalez/91437888007/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "It's OK. Do Your Thing. Some (reluctant) thought on our AI moment",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Concentrate AI: an LLM gateway that charges 0%",
+          "summary": "暂无摘要",
+          "source": "zacharymoskow",
+          "url": "https://concentrate.ai",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Ask HN: What AI companies provide human support?",
+          "summary": "暂无摘要",
+          "source": "kbrannigan",
+          "url": "https://news.ycombinator.com/item?id=49423377",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Show HN: See how much your AI knows about you",
+          "summary": "暂无摘要",
+          "source": "cgnry",
+          "url": "https://www.withcorpus.com/knows",
+          "time": "2026-08-24"
+        },
+        {
+          "title": "Show HN: Fake Zoom, hang out with AI coworkers and feel the synergy",
+          "summary": "暂无摘要",
+          "source": "stets",
+          "url": "https://fake-zoom.pages.dev/",
+          "time": "2026-08-24"
         }
       ]
     },
@@ -182,6 +630,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "How to encourage smarter AI use in the classroom",
+          "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools",
+          "source": "Peter Hall",
+          "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+          "time": "2026-08-24"
+        },
         {
           "title": "We still don’t know how people are really using AI",
           "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160;",
@@ -209,20 +664,6 @@
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
           "time": "2026-08-13"
-        },
-        {
-          "title": "Scaling AI agents with trustworthy data",
-          "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-          "time": "2026-08-12"
-        },
-        {
-          "title": "AI professors are negotiating the new realities of academic research",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel",
-          "source": "Grace Huckins",
-          "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-          "time": "2026-08-10"
         }
       ]
     },
@@ -419,13 +860,6 @@
           "source": "Isabella Ward",
           "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
           "time": "2026-08-19"
-        },
-        {
-          "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-          "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
-          "source": "Zeyi Yang",
-          "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-          "time": "2026-08-14"
         }
       ]
     }
