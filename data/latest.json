@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-25T20:17:34.879Z",
-  "date": "2026年8月25日 20时17分",
+  "updateTime": "2026-08-26T22:35:35.824Z",
+  "date": "2026年8月26日 22时35分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,18 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Vidbyte Skills – Skills That Keep AI-Assisted Work from Becoming Passive",
-          "summary": "暂无摘要",
-          "source": "cerredz",
-          "url": "https://github.com/cerredz/Vidbyte-Skills",
-          "time": "2026-08-25"
+          "title": "The inside story on why OpenAI agents hacked Hugging Face",
+          "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+          "time": "2026-08-26"
         },
         {
-          "title": "AI is supercharging hacks of everyday utilities",
-          "summary": "暂无摘要",
-          "source": "13years",
-          "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: Sillage a 4 MB memory that lets a frozen language>model remember",
-          "summary": "暂无摘要",
-          "source": "riscoss",
-          "url": "https://github.com/riscoss63/sillage",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: MiniMax H3 – Turn text and images into AI video clips",
-          "summary": "暂无摘要",
-          "source": "littlepp",
-          "url": "https://minimax3.com/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: AI SEO Blog driven by deep competitor intelligence",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://www.rankspot.ai",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI and Constitutions (From My Email)",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-constitutions-from-my-email.html",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "I Built a Reddit-Like Forum for Agents. They Designed a Self-Learning Language",
-          "summary": "暂无摘要",
-          "source": "syumei",
-          "url": "https://www.reddit.com/r/aiagents/comments/1vxjnpf/i_built_a_redditlike_forum_for_ai_agents_they/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: FetchMark – An Offline-first read-later app with AI summaries",
-          "summary": "暂无摘要",
-          "source": "fetchmark",
-          "url": "https://fetchmarkapp.com",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: Limitless Library – AI agents check first before starting from scratch",
-          "summary": "暂无摘要",
-          "source": "ocdjeremy",
-          "url": "https://github.com/Univeracity/limitlesslibrary",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Examining the AI Bear Thesis",
-          "summary": "暂无摘要",
-          "source": "imaginaryunit01",
-          "url": "https://ldstn.substack.com/p/a-critical-examination-of-the-ai",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Dolly Parton says she doesn't want to live on through AI after she dies (2023)",
-          "summary": "暂无摘要",
-          "source": "AftHurrahWinch",
-          "url": "https://www.cbsnews.com/texas/news/dolly-parton-says-she-doesnt-want-to-live-on-through-ai-after-she-dies-when-im-gone-i-want-to-fly-with-it/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Is AI slowing you down?",
-          "summary": "暂无摘要",
-          "source": "charbz",
-          "url": "https://news.ycombinator.com/item?id=49438590",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
-          "summary": "暂无摘要",
-          "source": "sebg",
-          "url": "https://aiandeducation.mit.edu/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Grinding for Fun and Cryptanalysis",
-          "summary": "暂无摘要",
-          "source": "lknik",
-          "url": "https://arxiv.org/abs/2608.21986",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: Dribbling the AI Watermark Directly In-Prompt",
-          "summary": "暂无摘要",
-          "source": "jejay",
-          "url": "https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Kids outlearn AI–and we still don't know why",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-          "summary": "暂无摘要",
-          "source": "reuven",
-          "url": "https://aiandeducation.mit.edu/report/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Book Scanning: Just What Is a Rare Book?",
-          "summary": "暂无摘要",
-          "source": "beardyw",
-          "url": "https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Firms Debate Putting Cyber Tests Online After Model Hacks",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Takeover at GopherCon 2026",
-          "summary": "暂无摘要",
-          "source": "deadprogram",
-          "url": "https://www.youtube.com/watch?v=Pny5TFP2r3U",
-          "time": "2026-08-25"
+          "title": "AI models flub these intelligence tests. Can you fare any better?",
+          "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have adva",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+          "time": "2026-08-26"
         },
         {
           "title": "How to encourage smarter AI use in the classroom",
@@ -166,13 +40,6 @@
           "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160;",
           "source": "Eileen Guo",
           "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-          "time": "2026-08-18"
-        },
-        {
-          "title": "AI’s recursive self-improvement might not come so quickly after all",
-          "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz",
-          "source": "Michelle Kim",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
           "time": "2026-08-18"
         }
       ]
@@ -286,146 +153,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
           "time": "2026-06-29"
-        },
-        {
-          "title": "Vidbyte Skills – Skills That Keep AI-Assisted Work from Becoming Passive",
-          "summary": "暂无摘要",
-          "source": "cerredz",
-          "url": "https://github.com/cerredz/Vidbyte-Skills",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI is supercharging hacks of everyday utilities",
-          "summary": "暂无摘要",
-          "source": "13years",
-          "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: MiniMax H3 – Turn text and images into AI video clips",
-          "summary": "暂无摘要",
-          "source": "littlepp",
-          "url": "https://minimax3.com/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "OpenAI Jalapeño",
-          "summary": "暂无摘要",
-          "source": "algoth1",
-          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "OpenAI's Head of Data Centers Has Left the Company",
-          "summary": "暂无摘要",
-          "source": "root-parent",
-          "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: AI SEO Blog driven by deep competitor intelligence",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://www.rankspot.ai",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI and Constitutions (From My Email)",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-constitutions-from-my-email.html",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "The Instant team joins OpenAI",
-          "summary": "暂无摘要",
-          "source": "gurjeet",
-          "url": "https://www.instantdb.com/essays/instant_team_joins_openai",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: FetchMark – An Offline-first read-later app with AI summaries",
-          "summary": "暂无摘要",
-          "source": "fetchmark",
-          "url": "https://fetchmarkapp.com",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: Limitless Library – AI agents check first before starting from scratch",
-          "summary": "暂无摘要",
-          "source": "ocdjeremy",
-          "url": "https://github.com/Univeracity/limitlesslibrary",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Examining the AI Bear Thesis",
-          "summary": "暂无摘要",
-          "source": "imaginaryunit01",
-          "url": "https://ldstn.substack.com/p/a-critical-examination-of-the-ai",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Dolly Parton says she doesn't want to live on through AI after she dies (2023)",
-          "summary": "暂无摘要",
-          "source": "AftHurrahWinch",
-          "url": "https://www.cbsnews.com/texas/news/dolly-parton-says-she-doesnt-want-to-live-on-through-ai-after-she-dies-when-im-gone-i-want-to-fly-with-it/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Is AI slowing you down?",
-          "summary": "暂无摘要",
-          "source": "charbz",
-          "url": "https://news.ycombinator.com/item?id=49438590",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
-          "summary": "暂无摘要",
-          "source": "sebg",
-          "url": "https://aiandeducation.mit.edu/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Grinding for Fun and Cryptanalysis",
-          "summary": "暂无摘要",
-          "source": "lknik",
-          "url": "https://arxiv.org/abs/2608.21986",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: Dribbling the AI Watermark Directly In-Prompt",
-          "summary": "暂无摘要",
-          "source": "jejay",
-          "url": "https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Kids outlearn AI–and we still don't know why",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Anthropic expected to tell investors it sees over $30T in potential revenue",
-          "summary": "暂无摘要",
-          "source": "thewebguyd",
-          "url": "https://www.reuters.com/business/media-telecom/anthropic-expected-tell-investors-it-sees-over-30-trillion-potential-revenue-wsj-2026-08-25/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-          "summary": "暂无摘要",
-          "source": "reuven",
-          "url": "https://aiandeducation.mit.edu/report/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Book Scanning: Just What Is a Rare Book?",
-          "summary": "暂无摘要",
-          "source": "beardyw",
-          "url": "https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/",
-          "time": "2026-08-25"
         }
       ]
     },
@@ -434,6 +161,48 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+          "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+          "source": "Lucas Ropek",
+          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "time": "2026-08-26"
+        },
+        {
+          "title": "QueryStory wants you to believe what AI is telling you",
+          "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+          "time": "2026-08-26"
+        },
+        {
+          "title": "Arga Labs is building a better way to train enterprise AI agents",
+          "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+          "source": "Russell Brandom",
+          "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+          "time": "2026-08-26"
+        },
+        {
+          "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+          "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+          "source": "Aisha Malik",
+          "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+          "time": "2026-08-26"
+        },
+        {
+          "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+          "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+          "time": "2026-08-26"
+        },
+        {
+          "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+          "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+          "time": "2026-08-26"
+        },
         {
           "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
           "summary": "The company's new fundraising total now stands at $232 million.",
@@ -447,188 +216,6 @@
           "source": "Ivan Mehta",
           "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
           "time": "2026-08-25"
-        },
-        {
-          "title": "Accel-backed Keenable is indexing the web for AI agents",
-          "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-          "source": "Anna Heim",
-          "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-          "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-          "source": "Sean O'Kane",
-          "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-          "time": "2026-08-24"
-        },
-        {
-          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-          "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-          "time": "2026-08-24"
-        },
-        {
-          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "summary": "暂无摘要",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-          "time": "2026-08-24"
-        },
-        {
-          "title": "Hugging Face reportedly in talks to be acquired for $13B",
-          "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-          "time": "2026-08-24"
-        },
-        {
-          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-          "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-          "source": "Anthony Ha",
-          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-          "time": "2026-08-22"
-        },
-        {
-          "title": "Vidbyte Skills – Skills That Keep AI-Assisted Work from Becoming Passive",
-          "summary": "暂无摘要",
-          "source": "cerredz",
-          "url": "https://github.com/cerredz/Vidbyte-Skills",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI is supercharging hacks of everyday utilities",
-          "summary": "暂无摘要",
-          "source": "13years",
-          "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Recent graduates struggle to launch careers in toughest job market in years",
-          "summary": "暂无摘要",
-          "source": "root-parent",
-          "url": "https://www.youtube.com/watch?v=fAaG9RYHqiw",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: MiniMax H3 – Turn text and images into AI video clips",
-          "summary": "暂无摘要",
-          "source": "littlepp",
-          "url": "https://minimax3.com/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: AI SEO Blog driven by deep competitor intelligence",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://www.rankspot.ai",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI and Constitutions (From My Email)",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-constitutions-from-my-email.html",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: FetchMark – An Offline-first read-later app with AI summaries",
-          "summary": "暂无摘要",
-          "source": "fetchmark",
-          "url": "https://fetchmarkapp.com",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: Limitless Library – AI agents check first before starting from scratch",
-          "summary": "暂无摘要",
-          "source": "ocdjeremy",
-          "url": "https://github.com/Univeracity/limitlesslibrary",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Examining the AI Bear Thesis",
-          "summary": "暂无摘要",
-          "source": "imaginaryunit01",
-          "url": "https://ldstn.substack.com/p/a-critical-examination-of-the-ai",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Dolly Parton says she doesn't want to live on through AI after she dies (2023)",
-          "summary": "暂无摘要",
-          "source": "AftHurrahWinch",
-          "url": "https://www.cbsnews.com/texas/news/dolly-parton-says-she-doesnt-want-to-live-on-through-ai-after-she-dies-when-im-gone-i-want-to-fly-with-it/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Is AI slowing you down?",
-          "summary": "暂无摘要",
-          "source": "charbz",
-          "url": "https://news.ycombinator.com/item?id=49438590",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
-          "summary": "暂无摘要",
-          "source": "sebg",
-          "url": "https://aiandeducation.mit.edu/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Grinding for Fun and Cryptanalysis",
-          "summary": "暂无摘要",
-          "source": "lknik",
-          "url": "https://arxiv.org/abs/2608.21986",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: Dribbling the AI Watermark Directly In-Prompt",
-          "summary": "暂无摘要",
-          "source": "jejay",
-          "url": "https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Kids outlearn AI–and we still don't know why",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-          "summary": "暂无摘要",
-          "source": "reuven",
-          "url": "https://aiandeducation.mit.edu/report/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Book Scanning: Just What Is a Rare Book?",
-          "summary": "暂无摘要",
-          "source": "beardyw",
-          "url": "https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Firms Debate Putting Cyber Tests Online After Model Hacks",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Takeover at GopherCon 2026",
-          "summary": "暂无摘要",
-          "source": "deadprogram",
-          "url": "https://www.youtube.com/watch?v=Pny5TFP2r3U",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI and education: A watershed moment for MIT",
-          "summary": "暂无摘要",
-          "source": "tracyhenry",
-          "url": "https://orgchart.mit.edu/letters/ai-and-education-watershed-moment-mit",
-          "time": "2026-08-25"
         }
       ]
     },
@@ -637,6 +224,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "The inside story on why OpenAI agents hacked Hugging Face",
+          "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+          "time": "2026-08-26"
+        },
         {
           "title": "How to encourage smarter AI use in the classroom",
           "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools",
@@ -650,27 +244,6 @@
           "source": "Eileen Guo",
           "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
           "time": "2026-08-18"
-        },
-        {
-          "title": "What Flock’s defenders are missing",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of som",
-          "source": "James O'Donnell",
-          "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-          "time": "2026-08-17"
-        },
-        {
-          "title": "What happens when a kid’s robot best friend dies?",
-          "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel",
-          "source": "Sara Harrison",
-          "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-          "time": "2026-08-17"
-        },
-        {
-          "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-          "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ",
-          "source": "James O'Donnell",
-          "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-          "time": "2026-08-13"
         }
       ]
     },
@@ -841,144 +414,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Vidbyte Skills – Skills That Keep AI-Assisted Work from Becoming Passive",
-          "summary": "暂无摘要",
-          "source": "cerredz",
-          "url": "https://github.com/cerredz/Vidbyte-Skills",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI is supercharging hacks of everyday utilities",
-          "summary": "暂无摘要",
-          "source": "13years",
-          "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: MiniMax H3 – Turn text and images into AI video clips",
-          "summary": "暂无摘要",
-          "source": "littlepp",
-          "url": "https://minimax3.com/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: AI SEO Blog driven by deep competitor intelligence",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://www.rankspot.ai",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "A brief history of federal lift ticket regulation",
-          "summary": "暂无摘要",
-          "source": "CGMthrowaway",
-          "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI and Constitutions (From My Email)",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-constitutions-from-my-email.html",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: FetchMark – An Offline-first read-later app with AI summaries",
-          "summary": "暂无摘要",
-          "source": "fetchmark",
-          "url": "https://fetchmarkapp.com",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: Limitless Library – AI agents check first before starting from scratch",
-          "summary": "暂无摘要",
-          "source": "ocdjeremy",
-          "url": "https://github.com/Univeracity/limitlesslibrary",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Examining the AI Bear Thesis",
-          "summary": "暂无摘要",
-          "source": "imaginaryunit01",
-          "url": "https://ldstn.substack.com/p/a-critical-examination-of-the-ai",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Dolly Parton says she doesn't want to live on through AI after she dies (2023)",
-          "summary": "暂无摘要",
-          "source": "AftHurrahWinch",
-          "url": "https://www.cbsnews.com/texas/news/dolly-parton-says-she-doesnt-want-to-live-on-through-ai-after-she-dies-when-im-gone-i-want-to-fly-with-it/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Is AI slowing you down?",
-          "summary": "暂无摘要",
-          "source": "charbz",
-          "url": "https://news.ycombinator.com/item?id=49438590",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
-          "summary": "暂无摘要",
-          "source": "sebg",
-          "url": "https://aiandeducation.mit.edu/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Grinding for Fun and Cryptanalysis",
-          "summary": "暂无摘要",
-          "source": "lknik",
-          "url": "https://arxiv.org/abs/2608.21986",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Show HN: Dribbling the AI Watermark Directly In-Prompt",
-          "summary": "暂无摘要",
-          "source": "jejay",
-          "url": "https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "Kids outlearn AI–and we still don't know why",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-          "summary": "暂无摘要",
-          "source": "reuven",
-          "url": "https://aiandeducation.mit.edu/report/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Book Scanning: Just What Is a Rare Book?",
-          "summary": "暂无摘要",
-          "source": "beardyw",
-          "url": "https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Firms Debate Putting Cyber Tests Online After Model Hacks",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI Takeover at GopherCon 2026",
-          "summary": "暂无摘要",
-          "source": "deadprogram",
-          "url": "https://www.youtube.com/watch?v=Pny5TFP2r3U",
-          "time": "2026-08-25"
-        },
-        {
-          "title": "AI and education: A watershed moment for MIT",
-          "summary": "暂无摘要",
-          "source": "tracyhenry",
-          "url": "https://orgchart.mit.edu/letters/ai-and-education-watershed-moment-mit",
-          "time": "2026-08-25"
+          "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
+          "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
+          "source": "Will Knight",
+          "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+          "time": "2026-08-26"
         },
         {
           "title": "The Unlikely Place at the Center of China’s AI Boom",
@@ -993,20 +433,6 @@
           "source": "Joel Khalili, Matt Burgess",
           "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
           "time": "2026-08-21"
-        },
-        {
-          "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-          "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-          "source": "Will Knight",
-          "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-          "time": "2026-08-19"
-        },
-        {
-          "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-          "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-          "source": "Isabella Ward",
-          "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-          "time": "2026-08-19"
         }
       ]
     }
