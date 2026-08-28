@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-26T22:35:35.824Z",
-  "date": "2026年8月26日 22时35分",
+  "updateTime": "2026-08-28T03:55:08.812Z",
+  "date": "2026年8月28日 3时55分",
   "categories": [
     {
       "id": "tech",
@@ -49,6 +49,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "3 new ways to plan and book travel in Search",
+          "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+          "time": "2026-08-27"
+        },
         {
           "title": "5 ways to upgrade your home decor with Google Search",
           "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
@@ -146,13 +153,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
           "time": "2026-06-30"
-        },
-        {
-          "title": "Ask an AI expert: What exactly is the full stack?",
-          "summary": "A Google expert explains what it means to take a full-stack approach to AI and why it’s been the foundation of our AI work for so long.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-          "time": "2026-06-29"
         }
       ]
     },
@@ -162,60 +162,53 @@
       "icon": "💼",
       "news": [
         {
-          "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
-          "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "time": "2026-08-27"
+        },
+        {
+          "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+          "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
           "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-          "time": "2026-08-26"
+          "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+          "time": "2026-08-27"
         },
         {
-          "title": "QueryStory wants you to believe what AI is telling you",
-          "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-          "time": "2026-08-26"
-        },
-        {
-          "title": "Arga Labs is building a better way to train enterprise AI agents",
-          "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-          "source": "Russell Brandom",
-          "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-          "time": "2026-08-26"
-        },
-        {
-          "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-          "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-          "source": "Aisha Malik",
-          "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-          "time": "2026-08-26"
-        },
-        {
-          "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-          "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
-          "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-          "time": "2026-08-26"
-        },
-        {
-          "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-          "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-          "time": "2026-08-26"
-        },
-        {
-          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-          "summary": "The company's new fundraising total now stands at $232 million.",
+          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of",
           "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-          "time": "2026-08-25"
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "time": "2026-08-27"
         },
         {
-          "title": "Gamma acquires Accel-backed design startup Lica",
-          "summary": "Lica co-founders are going to work on Gamma's new research team.",
+          "title": "OpenAI to start showing ads on ChatGPT&#8217;s free and Go tiers in India",
+          "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
           "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-          "time": "2026-08-25"
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "time": "2026-08-27"
+        },
+        {
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "time": "2026-08-27"
+        },
+        {
+          "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+          "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+          "source": "Lucas Ropek",
+          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "time": "2026-08-27"
+        },
+        {
+          "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
+          "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+          "source": "Rebecca Bellan, Kirsten Korosec",
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+          "time": "2026-08-26"
         }
       ]
     },
@@ -414,25 +407,18 @@
           "time": "2022-12-16"
         },
         {
+          "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+          "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+          "source": "Zoë Schiffer, Will Knight",
+          "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+          "time": "2026-08-27"
+        },
+        {
           "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
           "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
           "source": "Will Knight",
           "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
           "time": "2026-08-26"
-        },
-        {
-          "title": "The Unlikely Place at the Center of China’s AI Boom",
-          "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
-          "source": "Zeyi Yang",
-          "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-          "time": "2026-08-21"
-        },
-        {
-          "title": "The Single English County Saying No to Palantir",
-          "summary": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
-          "source": "Joel Khalili, Matt Burgess",
-          "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
-          "time": "2026-08-21"
         }
       ]
     }
