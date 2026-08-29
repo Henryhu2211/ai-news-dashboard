@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-08-29T02:36:55.922Z",
-  "date": "2026年8月29日 2时36分",
+  "updateTime": "2026-08-29T22:07:47.516Z",
+  "date": "2026年8月29日 22时7分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Simurg – free web search for your AI agents that aborts hallucinations",
+          "summary": "暂无摘要",
+          "source": "lebagetdefrance",
+          "url": "https://pypi.org/project/simurg/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Will financing bottleneck AI compute? An Anthropic case study",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: AI Agents for Osint/Sigint",
+          "summary": "暂无摘要",
+          "source": "ritsource",
+          "url": "https://www.makralabs.org/about",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms",
+          "summary": "暂无摘要",
+          "source": "alfotesr",
+          "url": "https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Learning to Draw Again with AI",
+          "summary": "暂无摘要",
+          "source": "_doctor_love",
+          "url": "https://surya.website/a-blog/learning-to-draw-again-with-ai",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
+          "summary": "暂无摘要",
+          "source": "potatobox",
+          "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
+          "summary": "暂无摘要",
+          "source": "iwasoft",
+          "url": "https://github.com/iwasoftcom/ai-docs-standard",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: AI images and videos from text, free, no signup",
+          "summary": "暂无摘要",
+          "source": "wowinter15",
+          "url": "https://seiseiai.io/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Slop.speak – translate human speak to AI slop",
+          "summary": "暂无摘要",
+          "source": "daavidhauser",
+          "url": "https://slop-speak.pages.dev/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "AI and the Commons",
+          "summary": "暂无摘要",
+          "source": "arto",
+          "url": "https://creativecommons.org/ai-and-the-commons/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Should the press \"run toward\" AI?",
+          "summary": "暂无摘要",
+          "source": "thm",
+          "url": "https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "All-in-one AI job search platform, resume to offer",
+          "summary": "暂无摘要",
+          "source": "mynameisgoodi",
+          "url": "https://rezoom.io/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Eight Things to Know about Large Language Models(2023)",
+          "summary": "暂无摘要",
+          "source": "turingbook",
+          "url": "https://arxiv.org/abs/2304.00612",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: Moe-Direct – MoE Models far larger than your RAM, on a consumer desktop",
+          "summary": "暂无摘要",
+          "source": "tmxkzm1925-max",
+          "url": "https://github.com/tmxkzm1925-max/MoE-Direct",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "An infinite and interactive AI generated live stream of slop",
+          "summary": "暂无摘要",
+          "source": "smusamashah",
+          "url": "https://skunkworks.levels.io/infinite-slop/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+          "summary": "暂无摘要",
+          "source": "halilagin",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Nike, Inc. Announces Fourth Quarter Fiscal 2026 Earnings and Conference Call",
+          "summary": "暂无摘要",
+          "source": "vhtyaaz",
+          "url": "https://www.businesswire.com/news/home/20260528240663/en/NIKE-Inc.-Announces-Fourth-Quarter-Fiscal-2026-Earnings-and-Conference-Call",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "AI Revives a Dead Sleep Company",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "AI Models – Political Compass",
+          "summary": "暂无摘要",
+          "source": "voisin",
+          "url": "https://aipolcom.net/",
+          "time": "2026-08-29"
+        },
         {
           "title": "The inside story on why OpenAI agents hacked Hugging Face",
           "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
@@ -153,6 +293,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
           "time": "2026-06-30"
+        },
+        {
+          "title": "Simurg – free web search for your AI agents that aborts hallucinations",
+          "summary": "暂无摘要",
+          "source": "lebagetdefrance",
+          "url": "https://pypi.org/project/simurg/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Will financing bottleneck AI compute? An Anthropic case study",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: AI Agents for Osint/Sigint",
+          "summary": "暂无摘要",
+          "source": "ritsource",
+          "url": "https://www.makralabs.org/about",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms",
+          "summary": "暂无摘要",
+          "source": "alfotesr",
+          "url": "https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Learning to Draw Again with AI",
+          "summary": "暂无摘要",
+          "source": "_doctor_love",
+          "url": "https://surya.website/a-blog/learning-to-draw-again-with-ai",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
+          "summary": "暂无摘要",
+          "source": "potatobox",
+          "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "First outputs from GPT-6 \"Astra\" model from OpenAI",
+          "summary": "暂无摘要",
+          "source": "rom16384",
+          "url": "https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
+          "summary": "暂无摘要",
+          "source": "iwasoft",
+          "url": "https://github.com/iwasoftcom/ai-docs-standard",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: AI images and videos from text, free, no signup",
+          "summary": "暂无摘要",
+          "source": "wowinter15",
+          "url": "https://seiseiai.io/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
+          "summary": "暂无摘要",
+          "source": "hasheddan",
+          "url": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Slop.speak – translate human speak to AI slop",
+          "summary": "暂无摘要",
+          "source": "daavidhauser",
+          "url": "https://slop-speak.pages.dev/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "AI and the Commons",
+          "summary": "暂无摘要",
+          "source": "arto",
+          "url": "https://creativecommons.org/ai-and-the-commons/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Should the press \"run toward\" AI?",
+          "summary": "暂无摘要",
+          "source": "thm",
+          "url": "https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "All-in-one AI job search platform, resume to offer",
+          "summary": "暂无摘要",
+          "source": "mynameisgoodi",
+          "url": "https://rezoom.io/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "An infinite and interactive AI generated live stream of slop",
+          "summary": "暂无摘要",
+          "source": "smusamashah",
+          "url": "https://skunkworks.levels.io/infinite-slop/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+          "summary": "暂无摘要",
+          "source": "halilagin",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Sony Music and Warner Chappell Are Suing Anthropic",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Judge blocks Pentagon blacklist of Anthropic as a supply-chain risk",
+          "summary": "暂无摘要",
+          "source": "r_singh",
+          "url": "https://fedscoop.com/anthropic-government-ban-court-ruling/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "AI Revives a Dead Sleep Company",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "AI Models – Political Compass",
+          "summary": "暂无摘要",
+          "source": "voisin",
+          "url": "https://aipolcom.net/",
+          "time": "2026-08-29"
         }
       ]
     },
@@ -161,6 +441,13 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+          "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+          "time": "2026-08-29"
+        },
         {
           "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
           "summary": "There's a lot of capital pouring into the business of giving models away.",
@@ -209,13 +496,6 @@
           "source": "Lucas Ropek",
           "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
           "time": "2026-08-27"
-        },
-        {
-          "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
-          "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
-          "source": "Rebecca Bellan, Kirsten Korosec",
-          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-          "time": "2026-08-26"
         }
       ]
     },
@@ -412,6 +692,153 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Simurg – free web search for your AI agents that aborts hallucinations",
+          "summary": "暂无摘要",
+          "source": "lebagetdefrance",
+          "url": "https://pypi.org/project/simurg/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Will financing bottleneck AI compute? An Anthropic case study",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: AI Agents for Osint/Sigint",
+          "summary": "暂无摘要",
+          "source": "ritsource",
+          "url": "https://www.makralabs.org/about",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms",
+          "summary": "暂无摘要",
+          "source": "alfotesr",
+          "url": "https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Learning to Draw Again with AI",
+          "summary": "暂无摘要",
+          "source": "_doctor_love",
+          "url": "https://surya.website/a-blog/learning-to-draw-again-with-ai",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
+          "summary": "暂无摘要",
+          "source": "potatobox",
+          "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
+          "summary": "暂无摘要",
+          "source": "iwasoft",
+          "url": "https://github.com/iwasoftcom/ai-docs-standard",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: AI images and videos from text, free, no signup",
+          "summary": "暂无摘要",
+          "source": "wowinter15",
+          "url": "https://seiseiai.io/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Slop.speak – translate human speak to AI slop",
+          "summary": "暂无摘要",
+          "source": "daavidhauser",
+          "url": "https://slop-speak.pages.dev/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "AI and the Commons",
+          "summary": "暂无摘要",
+          "source": "arto",
+          "url": "https://creativecommons.org/ai-and-the-commons/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Should the press \"run toward\" AI?",
+          "summary": "暂无摘要",
+          "source": "thm",
+          "url": "https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "All-in-one AI job search platform, resume to offer",
+          "summary": "暂无摘要",
+          "source": "mynameisgoodi",
+          "url": "https://rezoom.io/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "An infinite and interactive AI generated live stream of slop",
+          "summary": "暂无摘要",
+          "source": "smusamashah",
+          "url": "https://skunkworks.levels.io/infinite-slop/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+          "summary": "暂无摘要",
+          "source": "firefax",
+          "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
+          "summary": "暂无摘要",
+          "source": "halilagin",
+          "url": "https://github.com/rysh-ai/rysh-cli-code",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "AI Revives a Dead Sleep Company",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "AI Models – Political Compass",
+          "summary": "暂无摘要",
+          "source": "voisin",
+          "url": "https://aipolcom.net/",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": "暂无摘要",
+          "source": "gpi",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "AI reconstructs first Bundesliga goal from 1963",
+          "summary": "暂无摘要",
+          "source": "zirkuswurstikus",
+          "url": "https://www.heise.de/en/news/AI-reconstructs-first-Bundesliga-goal-from-1963-11434229.html",
+          "time": "2026-08-29"
+        },
+        {
+          "title": "How to Run a Chatbot on Your Own Computer",
+          "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+          "source": "David Nield",
+          "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+          "time": "2026-08-29"
         },
         {
           "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
