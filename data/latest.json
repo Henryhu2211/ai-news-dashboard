@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-28T03:55:08.812Z",
-  "date": "2026年8月28日 3时55分",
+  "updateTime": "2026-08-29T02:36:55.922Z",
+  "date": "2026年8月29日 2时36分",
   "categories": [
     {
       "id": "tech",
@@ -161,6 +161,13 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
+          "summary": "There's a lot of capital pouring into the business of giving models away.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+          "time": "2026-08-28"
+        },
         {
           "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
           "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
@@ -412,13 +419,6 @@
           "source": "Zoë Schiffer, Will Knight",
           "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
           "time": "2026-08-27"
-        },
-        {
-          "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
-          "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
-          "source": "Will Knight",
-          "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
-          "time": "2026-08-26"
         }
       ]
     }
