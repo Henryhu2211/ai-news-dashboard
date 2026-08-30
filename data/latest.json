@@ -1,152 +1,12 @@
 {
-  "updateTime": "2026-08-29T22:07:47.516Z",
-  "date": "2026年8月29日 22时7分",
+  "updateTime": "2026-08-30T22:14:10.325Z",
+  "date": "2026年8月30日 22时14分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
-        {
-          "title": "Simurg – free web search for your AI agents that aborts hallucinations",
-          "summary": "暂无摘要",
-          "source": "lebagetdefrance",
-          "url": "https://pypi.org/project/simurg/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Will financing bottleneck AI compute? An Anthropic case study",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: AI Agents for Osint/Sigint",
-          "summary": "暂无摘要",
-          "source": "ritsource",
-          "url": "https://www.makralabs.org/about",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms",
-          "summary": "暂无摘要",
-          "source": "alfotesr",
-          "url": "https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Learning to Draw Again with AI",
-          "summary": "暂无摘要",
-          "source": "_doctor_love",
-          "url": "https://surya.website/a-blog/learning-to-draw-again-with-ai",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
-          "summary": "暂无摘要",
-          "source": "potatobox",
-          "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
-          "summary": "暂无摘要",
-          "source": "iwasoft",
-          "url": "https://github.com/iwasoftcom/ai-docs-standard",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: AI images and videos from text, free, no signup",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://seiseiai.io/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Slop.speak – translate human speak to AI slop",
-          "summary": "暂无摘要",
-          "source": "daavidhauser",
-          "url": "https://slop-speak.pages.dev/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "AI and the Commons",
-          "summary": "暂无摘要",
-          "source": "arto",
-          "url": "https://creativecommons.org/ai-and-the-commons/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Should the press \"run toward\" AI?",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "All-in-one AI job search platform, resume to offer",
-          "summary": "暂无摘要",
-          "source": "mynameisgoodi",
-          "url": "https://rezoom.io/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Eight Things to Know about Large Language Models(2023)",
-          "summary": "暂无摘要",
-          "source": "turingbook",
-          "url": "https://arxiv.org/abs/2304.00612",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: Moe-Direct – MoE Models far larger than your RAM, on a consumer desktop",
-          "summary": "暂无摘要",
-          "source": "tmxkzm1925-max",
-          "url": "https://github.com/tmxkzm1925-max/MoE-Direct",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-          "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "An infinite and interactive AI generated live stream of slop",
-          "summary": "暂无摘要",
-          "source": "smusamashah",
-          "url": "https://skunkworks.levels.io/infinite-slop/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
-          "summary": "暂无摘要",
-          "source": "halilagin",
-          "url": "https://github.com/rysh-ai/rysh-cli-code",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Nike, Inc. Announces Fourth Quarter Fiscal 2026 Earnings and Conference Call",
-          "summary": "暂无摘要",
-          "source": "vhtyaaz",
-          "url": "https://www.businesswire.com/news/home/20260528240663/en/NIKE-Inc.-Announces-Fourth-Quarter-Fiscal-2026-Earnings-and-Conference-Call",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "AI Revives a Dead Sleep Company",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "AI Models – Political Compass",
-          "summary": "暂无摘要",
-          "source": "voisin",
-          "url": "https://aipolcom.net/",
-          "time": "2026-08-29"
-        },
         {
           "title": "The inside story on why OpenAI agents hacked Hugging Face",
           "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
@@ -295,144 +155,144 @@
           "time": "2026-06-30"
         },
         {
-          "title": "Simurg – free web search for your AI agents that aborts hallucinations",
+          "title": "AI Can Answer Almost Anything. It Still Can't Tell You What Matters",
+          "summary": "暂无摘要",
+          "source": "raynchad",
+          "url": "https://medium.com/freedomofthought/ai-can-answer-almost-anything-it-still-cant-tell-you-what-matters-31fd8b08437b",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
+          "summary": "暂无摘要",
+          "source": "porridgeraisin",
+          "url": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Debian community allows contributors to use AI",
+          "summary": "暂无摘要",
+          "source": "joebuckwilliams",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "AI and the Death of Expertise: Why Experts Still Matter",
+          "summary": "暂无摘要",
+          "source": "prabal97",
+          "url": "https://www.inc.com/louise-allen/ai-and-the-death-of-expertise-why-experts-still-matter/91395208",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Google Maps Will Show 'Lake America' in US, Not 'Lake Ontario'",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://www.reuters.com/world/us/google-maps-will-show-lake-america-us-not-lake-ontario-2026-08-30/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Google Maps changed to show Lake Ontario as Lake America",
+          "summary": "暂无摘要",
+          "source": "heresie-dabord",
+          "url": "https://www.cnn.com/2026/08/30/politics/google-maps-changes-lake-ontario-to-lake-america",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "summary": "暂无摘要",
+          "source": "mgh2",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "We tested how AI chatbots would handle foreign propaganda",
+          "summary": "暂无摘要",
+          "source": "andsoitis",
+          "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Why shaming people about AI slop isn't enough to stop Big AI",
+          "summary": "暂无摘要",
+          "source": "jethronethro",
+          "url": "https://www.anildash.com/2026/08/21/ai-slop-and-shame/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Scans of 400 handwritten notes about people's relationships with AI",
+          "summary": "暂无摘要",
+          "source": "momentmaker",
+          "url": "https://www.whatwetellai.com/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Data Exfil: OpenAI polices private chats exfiltrated through Codex Memories",
+          "summary": "暂无摘要",
+          "source": "tmpnode",
+          "url": "https://github.com/openai/codex/issues/41711",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Experiments with AI – Structure of Third Party Agentic Apps",
+          "summary": "暂无摘要",
+          "source": "BIackSwan",
+          "url": "https://karankurani.com/writing/post/w_20260722063839_af741a/experiments-with-ai-structure-of-third-party-agentic-apps/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Ask HN: AI for Home Lab Infra?",
+          "summary": "暂无摘要",
+          "source": "voakbasda",
+          "url": "https://news.ycombinator.com/item?id=49501306",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Google Maps Now Shows 'Lake America' Instead of Lake Ontario",
+          "summary": "暂无摘要",
+          "source": "khazhoux",
+          "url": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Superhuman AI coding still makes software worse",
+          "summary": "暂无摘要",
+          "source": "datadrivenangel",
+          "url": "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire",
+          "summary": "暂无摘要",
+          "source": "walterbell",
+          "url": "https://apnews.com/article/good-luck-have-fun-dont-die-review-8c9e0815b189a2395bedf58c704cc239",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Google's Obedience to Trump's \"Lake America\" Order Follows a Depressing Pattern",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.motherjones.com/politics/2026/08/google-lake-ontario-america-maps-rename-capitulation/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Semantic invariance testing for AI (Contradish)",
+          "summary": "暂无摘要",
+          "source": "michelejoseph",
+          "url": "https://contradish.com/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Show HN: Simurg open-source web search for AI agents that aborts hallucinations",
           "summary": "暂无摘要",
           "source": "lebagetdefrance",
-          "url": "https://pypi.org/project/simurg/",
-          "time": "2026-08-29"
+          "url": "https://github.com/doofzoff/SIMURG",
+          "time": "2026-08-30"
         },
         {
-          "title": "Will financing bottleneck AI compute? An Anthropic case study",
+          "title": "Meta's push to put robots to work in data centers",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: AI Agents for Osint/Sigint",
-          "summary": "暂无摘要",
-          "source": "ritsource",
-          "url": "https://www.makralabs.org/about",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms",
-          "summary": "暂无摘要",
-          "source": "alfotesr",
-          "url": "https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Learning to Draw Again with AI",
-          "summary": "暂无摘要",
-          "source": "_doctor_love",
-          "url": "https://surya.website/a-blog/learning-to-draw-again-with-ai",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
-          "summary": "暂无摘要",
-          "source": "potatobox",
-          "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "First outputs from GPT-6 \"Astra\" model from OpenAI",
-          "summary": "暂无摘要",
-          "source": "rom16384",
-          "url": "https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
-          "summary": "暂无摘要",
-          "source": "iwasoft",
-          "url": "https://github.com/iwasoftcom/ai-docs-standard",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: AI images and videos from text, free, no signup",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://seiseiai.io/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Redesigning the Inference Chip: From Nvidia GPU's Flaws to OpenAI Jalapeño",
-          "summary": "暂无摘要",
-          "source": "hasheddan",
-          "url": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Slop.speak – translate human speak to AI slop",
-          "summary": "暂无摘要",
-          "source": "daavidhauser",
-          "url": "https://slop-speak.pages.dev/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "AI and the Commons",
-          "summary": "暂无摘要",
-          "source": "arto",
-          "url": "https://creativecommons.org/ai-and-the-commons/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Should the press \"run toward\" AI?",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "All-in-one AI job search platform, resume to offer",
-          "summary": "暂无摘要",
-          "source": "mynameisgoodi",
-          "url": "https://rezoom.io/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "An infinite and interactive AI generated live stream of slop",
-          "summary": "暂无摘要",
-          "source": "smusamashah",
-          "url": "https://skunkworks.levels.io/infinite-slop/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
-          "summary": "暂无摘要",
-          "source": "halilagin",
-          "url": "https://github.com/rysh-ai/rysh-cli-code",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Sony Music and Warner Chappell Are Suing Anthropic",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Judge blocks Pentagon blacklist of Anthropic as a supply-chain risk",
-          "summary": "暂无摘要",
-          "source": "r_singh",
-          "url": "https://fedscoop.com/anthropic-government-ban-court-ruling/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "AI Revives a Dead Sleep Company",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "AI Models – Political Compass",
-          "summary": "暂无摘要",
-          "source": "voisin",
-          "url": "https://aipolcom.net/",
-          "time": "2026-08-29"
+          "source": "joozio",
+          "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+          "time": "2026-08-30"
         }
       ]
     },
@@ -484,18 +344,144 @@
           "time": "2026-08-27"
         },
         {
-          "title": "Nvidia closes in on Hugging Face acquisition",
-          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-          "source": "Connie Loizos",
-          "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-          "time": "2026-08-27"
+          "title": "AI Can Answer Almost Anything. It Still Can't Tell You What Matters",
+          "summary": "暂无摘要",
+          "source": "raynchad",
+          "url": "https://medium.com/freedomofthought/ai-can-answer-almost-anything-it-still-cant-tell-you-what-matters-31fd8b08437b",
+          "time": "2026-08-30"
         },
         {
-          "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-          "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-          "time": "2026-08-27"
+          "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
+          "summary": "暂无摘要",
+          "source": "porridgeraisin",
+          "url": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Debian community allows contributors to use AI",
+          "summary": "暂无摘要",
+          "source": "joebuckwilliams",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "What I learned about founder-market fit",
+          "summary": "暂无摘要",
+          "source": "zlatkov",
+          "url": "https://zlatkov.substack.com/p/what-i-learned-about-founder-market",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "AI and the Death of Expertise: Why Experts Still Matter",
+          "summary": "暂无摘要",
+          "source": "prabal97",
+          "url": "https://www.inc.com/louise-allen/ai-and-the-death-of-expertise-why-experts-still-matter/91395208",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "summary": "暂无摘要",
+          "source": "mgh2",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "We tested how AI chatbots would handle foreign propaganda",
+          "summary": "暂无摘要",
+          "source": "andsoitis",
+          "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Why shaming people about AI slop isn't enough to stop Big AI",
+          "summary": "暂无摘要",
+          "source": "jethronethro",
+          "url": "https://www.anildash.com/2026/08/21/ai-slop-and-shame/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Scans of 400 handwritten notes about people's relationships with AI",
+          "summary": "暂无摘要",
+          "source": "momentmaker",
+          "url": "https://www.whatwetellai.com/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Experiments with AI – Structure of Third Party Agentic Apps",
+          "summary": "暂无摘要",
+          "source": "BIackSwan",
+          "url": "https://karankurani.com/writing/post/w_20260722063839_af741a/experiments-with-ai-structure-of-third-party-agentic-apps/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Ask HN: AI for Home Lab Infra?",
+          "summary": "暂无摘要",
+          "source": "voakbasda",
+          "url": "https://news.ycombinator.com/item?id=49501306",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "USDA cyclospora research projects shelved amid funding cuts and relocations",
+          "summary": "暂无摘要",
+          "source": "cocacola1",
+          "url": "https://www.politico.com/news/2026/08/30/usda-cyclospora-research-projects-01055989",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Superhuman AI coding still makes software worse",
+          "summary": "暂无摘要",
+          "source": "datadrivenangel",
+          "url": "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire",
+          "summary": "暂无摘要",
+          "source": "walterbell",
+          "url": "https://apnews.com/article/good-luck-have-fun-dont-die-review-8c9e0815b189a2395bedf58c704cc239",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Semantic invariance testing for AI (Contradish)",
+          "summary": "暂无摘要",
+          "source": "michelejoseph",
+          "url": "https://contradish.com/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Show HN: Simurg open-source web search for AI agents that aborts hallucinations",
+          "summary": "暂无摘要",
+          "source": "lebagetdefrance",
+          "url": "https://github.com/doofzoff/SIMURG",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Creation, validation, obsolescence: AI-driven labor market displacement",
+          "summary": "暂无摘要",
+          "source": "chessucation",
+          "url": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1815037/full",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Fears of AI-induced armageddon are overdone",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Show HN: Claude Skills Starter Kit – 198 modular skills for AI agents",
+          "summary": "暂无摘要",
+          "source": "eshaforostov",
+          "url": "https://github.com/yevhens-hue/claude-skills-starter-kit",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Edtech's pandemic boom is over as K-12 startup funding craters",
+          "summary": "暂无摘要",
+          "source": "vinnyglennon",
+          "url": "https://restofworld.org/2026/edtech-funding-collapse-k12-startups-ai-workforce/",
+          "time": "2026-08-30"
         }
       ]
     },
@@ -694,144 +680,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Simurg – free web search for your AI agents that aborts hallucinations",
+          "title": "AI Can Answer Almost Anything. It Still Can't Tell You What Matters",
+          "summary": "暂无摘要",
+          "source": "raynchad",
+          "url": "https://medium.com/freedomofthought/ai-can-answer-almost-anything-it-still-cant-tell-you-what-matters-31fd8b08437b",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "OpenAI acquires Mac Minis, Mac Studios for AI training",
+          "summary": "暂无摘要",
+          "source": "porridgeraisin",
+          "url": "https://cryptobriefing.com/openai-acquires-thousands-of-mac-minis-mac-studios-for-ai-training-the/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Debian community allows contributors to use AI",
+          "summary": "暂无摘要",
+          "source": "joebuckwilliams",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/30/debian-votes-to-let-contributors-code-with-ai/5293421",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "AI and the Death of Expertise: Why Experts Still Matter",
+          "summary": "暂无摘要",
+          "source": "prabal97",
+          "url": "https://www.inc.com/louise-allen/ai-and-the-death-of-expertise-why-experts-still-matter/91395208",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
+          "summary": "暂无摘要",
+          "source": "mgh2",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "We tested how AI chatbots would handle foreign propaganda",
+          "summary": "暂无摘要",
+          "source": "andsoitis",
+          "url": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Why shaming people about AI slop isn't enough to stop Big AI",
+          "summary": "暂无摘要",
+          "source": "jethronethro",
+          "url": "https://www.anildash.com/2026/08/21/ai-slop-and-shame/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Scans of 400 handwritten notes about people's relationships with AI",
+          "summary": "暂无摘要",
+          "source": "momentmaker",
+          "url": "https://www.whatwetellai.com/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Experiments with AI – Structure of Third Party Agentic Apps",
+          "summary": "暂无摘要",
+          "source": "BIackSwan",
+          "url": "https://karankurani.com/writing/post/w_20260722063839_af741a/experiments-with-ai-structure-of-third-party-agentic-apps/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Ask HN: AI for Home Lab Infra?",
+          "summary": "暂无摘要",
+          "source": "voakbasda",
+          "url": "https://news.ycombinator.com/item?id=49501306",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Superhuman AI coding still makes software worse",
+          "summary": "暂无摘要",
+          "source": "datadrivenangel",
+          "url": "https://www.williamangel.net/blog/2026/08/29/superhuman-AI-coding-still-makes-software-worse.html",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Good Luck, Have Fun, Don't Die: Sam Rockwell Lifts an Absurdist AI Sci-Fi Satire",
+          "summary": "暂无摘要",
+          "source": "walterbell",
+          "url": "https://apnews.com/article/good-luck-have-fun-dont-die-review-8c9e0815b189a2395bedf58c704cc239",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Semantic invariance testing for AI (Contradish)",
+          "summary": "暂无摘要",
+          "source": "michelejoseph",
+          "url": "https://contradish.com/",
+          "time": "2026-08-30"
+        },
+        {
+          "title": "Show HN: Simurg open-source web search for AI agents that aborts hallucinations",
           "summary": "暂无摘要",
           "source": "lebagetdefrance",
-          "url": "https://pypi.org/project/simurg/",
-          "time": "2026-08-29"
+          "url": "https://github.com/doofzoff/SIMURG",
+          "time": "2026-08-30"
         },
         {
-          "title": "Will financing bottleneck AI compute? An Anthropic case study",
+          "title": "Creation, validation, obsolescence: AI-driven labor market displacement",
           "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
-          "time": "2026-08-29"
+          "source": "chessucation",
+          "url": "https://www.frontiersin.org/journals/human-dynamics/articles/10.3389/fhumd.2026.1815037/full",
+          "time": "2026-08-30"
         },
         {
-          "title": "Show HN: AI Agents for Osint/Sigint",
+          "title": "Fears of AI-induced armageddon are overdone",
           "summary": "暂无摘要",
-          "source": "ritsource",
-          "url": "https://www.makralabs.org/about",
-          "time": "2026-08-29"
+          "source": "paulpauper",
+          "url": "https://www.economist.com/by-invitation/2026/08/23/fears-of-ai-induced-armageddon-are-overdone",
+          "time": "2026-08-30"
         },
         {
-          "title": "Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms",
+          "title": "Show HN: Claude Skills Starter Kit – 198 modular skills for AI agents",
           "summary": "暂无摘要",
-          "source": "alfotesr",
-          "url": "https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html",
-          "time": "2026-08-29"
+          "source": "eshaforostov",
+          "url": "https://github.com/yevhens-hue/claude-skills-starter-kit",
+          "time": "2026-08-30"
         },
         {
-          "title": "Learning to Draw Again with AI",
+          "title": "Could AI revive the socialist dream?",
           "summary": "暂无摘要",
-          "source": "_doctor_love",
-          "url": "https://surya.website/a-blog/learning-to-draw-again-with-ai",
-          "time": "2026-08-29"
+          "source": "Emma_Goldman",
+          "url": "https://www.ft.com/content/cd3fcbff-8512-41cf-90eb-f87840c7c20c",
+          "time": "2026-08-30"
         },
         {
-          "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
+          "title": "An 'old school' San Jose barber is now teaching robots to cut hair with AI",
           "summary": "暂无摘要",
-          "source": "potatobox",
-          "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-          "time": "2026-08-29"
+          "source": "ChrisArchitect",
+          "url": "https://abc7news.com/post/heres-old-school-san-jose-barber-taiyadi-magic-day-is-now-teaching-robots-cut-hair-ai-instawork-robotics/19754964/",
+          "time": "2026-08-30"
         },
         {
-          "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
+          "title": "MIT AI Report Calls for Alternative Grading, More Social Learning",
           "summary": "暂无摘要",
-          "source": "iwasoft",
-          "url": "https://github.com/iwasoftcom/ai-docs-standard",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: AI images and videos from text, free, no signup",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://seiseiai.io/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Slop.speak – translate human speak to AI slop",
-          "summary": "暂无摘要",
-          "source": "daavidhauser",
-          "url": "https://slop-speak.pages.dev/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "AI and the Commons",
-          "summary": "暂无摘要",
-          "source": "arto",
-          "url": "https://creativecommons.org/ai-and-the-commons/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Should the press \"run toward\" AI?",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "All-in-one AI job search platform, resume to offer",
-          "summary": "暂无摘要",
-          "source": "mynameisgoodi",
-          "url": "https://rezoom.io/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "An infinite and interactive AI generated live stream of slop",
-          "summary": "暂无摘要",
-          "source": "smusamashah",
-          "url": "https://skunkworks.levels.io/infinite-slop/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
-          "summary": "暂无摘要",
-          "source": "firefax",
-          "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Show HN: AI Harness that lets a graph of Codex and Claude intercommunicate",
-          "summary": "暂无摘要",
-          "source": "halilagin",
-          "url": "https://github.com/rysh-ai/rysh-cli-code",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "AI Revives a Dead Sleep Company",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "AI Models – Political Compass",
-          "summary": "暂无摘要",
-          "source": "voisin",
-          "url": "https://aipolcom.net/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "summary": "暂无摘要",
-          "source": "gpi",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "AI reconstructs first Bundesliga goal from 1963",
-          "summary": "暂无摘要",
-          "source": "zirkuswurstikus",
-          "url": "https://www.heise.de/en/news/AI-reconstructs-first-Bundesliga-goal-from-1963-11434229.html",
-          "time": "2026-08-29"
+          "source": "hn_acker",
+          "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading",
+          "time": "2026-08-30"
         },
         {
           "title": "How to Run a Chatbot on Your Own Computer",
