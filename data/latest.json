@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-08-31T23:29:48.352Z",
-  "date": "2026年8月31日 23时29分",
+  "updateTime": "2026-09-01T22:11:26.646Z",
+  "date": "2026年9月1日 22时11分",
   "categories": [
     {
       "id": "tech",
@@ -8,7 +8,147 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+          "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+          "summary": "暂无摘要",
+          "source": "masteranza",
+          "url": "https://masteranza.github.io/weedout/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "AI is making back-office work extinct",
+          "summary": "暂无摘要",
+          "source": "edest28build",
+          "url": "https://www.whitecollardream.com/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "AI trolley users rack up higher basket values and spend longer in store",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://www.citystgeorges.ac.uk/news-and-events/news/2026/june/smart-supermarket-trolleys-linked-to-higher-spending-and-longer-shopping-study-finds",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "In-memory security gate for autonomous AI agent tools",
+          "summary": "暂无摘要",
+          "source": "itsub_sa",
+          "url": "https://bartholomew.info",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "One job ad, 1000 applicants: How do you stand out in a world of AI job hunters?",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]",
+          "summary": "暂无摘要",
+          "source": "emk_709",
+          "url": "https://www.youtube.com/watch?v=dLTNVM1mhiU",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Show HN: Compilr.dev Studio – A project brain AI agents write to and people read",
+          "summary": "暂无摘要",
+          "source": "scozzola",
+          "url": "https://studio.compilr.dev/welcome/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "A docs page is a long and complex search query to find AI agents",
+          "summary": "暂无摘要",
+          "source": "stevekrouse",
+          "url": "https://blog.val.town/aeo",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+          "summary": "暂无摘要",
+          "source": "all2",
+          "url": "https://hnmatchmaker.com/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "10 AI Lessons from Driving 200M+ Fully Autonomous Miles",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://waymo.com/blog/2026/08/10ailessons/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Cutting an AI agent's network access mid-run, measured at 127 ms",
+          "summary": "暂无摘要",
+          "source": "sebuzdugan",
+          "url": "https://medium.com/data-science-collective/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-b4f3f7dfc15f",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Sosc Core to Institute AI Ban, Technology-Free Classrooms – UofChicago",
+          "summary": "暂无摘要",
+          "source": "pbui",
+          "url": "https://chicagomaroon.com/53262/news/sosc-core-to-institute-ai-ban-technology-free-classrooms-this-fall/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Crab: A serverless Git remote for large files, backed by your object store",
+          "summary": "暂无摘要",
+          "source": "forhappy",
+          "url": "https://github.com/crabbuild/crab",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://news.ycombinator.com/item?id=49527773",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Explore real AI risks through the lens of pop culture",
+          "summary": "暂无摘要",
+          "source": "transitivebs",
+          "url": "https://cultural-alignment.com",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
+          "summary": "暂无摘要",
+          "source": "lellow",
+          "url": "https://indextkn.com",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Dev-sandbox – One bash script to isolate AI coding agents with Podman",
+          "summary": "暂无摘要",
+          "source": "tomazko",
+          "url": "https://github.com/kosmrljt/dev-sandbox",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Ask HN: AI Architecture Systems Design",
+          "summary": "暂无摘要",
+          "source": "danebalia",
+          "url": "https://news.ycombinator.com/item?id=49527397",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "How AI Detection Works",
+          "summary": "暂无摘要",
+          "source": "akurilin",
+          "url": "https://www.complexsystemspodcast.com/episodes/how-ai-detection-actually-works-with-pangrams-max-spero/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "PrismCAD – A zero-trust, local AI assistant for AutoCAD",
+          "summary": "暂无摘要",
+          "source": "parvaamin",
+          "url": "https://www.insightits.com/products/prismcad.html",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur",
           "source": "Grace Huckins",
           "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -49,6 +189,20 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "The latest AI news we announced in August 2026",
+          "summary": "Here are Google’s latest AI updates from August 2026",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+          "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+          "time": "2026-09-01"
+        },
         {
           "title": "3 new ways to plan and book travel in Search",
           "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
@@ -141,158 +295,144 @@
           "time": "2026-07-01"
         },
         {
-          "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-          "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-          "time": "2026-07-01"
-        },
-        {
-          "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "summary": "Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-          "time": "2026-06-30"
-        },
-        {
-          "title": "Rogue AI attacks deserve more scrutiny than airplane crashes",
+          "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
           "summary": "暂无摘要",
-          "source": "reasonableklout",
-          "url": "https://blog.peterwildeford.com/p/rogue-ai-attacks-deserve-more-scrutiny",
-          "time": "2026-08-31"
+          "source": "masteranza",
+          "url": "https://masteranza.github.io/weedout/",
+          "time": "2026-09-01"
         },
         {
-          "title": "AI giants lean into health care to stall public backlash",
+          "title": "Every Reward Bends: Security Incentives and the OpenAI Hugging Face Incident",
           "summary": "暂无摘要",
-          "source": "brandonb",
-          "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
-          "time": "2026-08-31"
+          "source": "nedruod",
+          "url": "https://substack.norabble.com/p/every-reward-bends",
+          "time": "2026-09-01"
         },
         {
-          "title": "ChatGPT becomes first AI chatbot to face tougher EU rules",
+          "title": "AI is making back-office work extinct",
           "summary": "暂无摘要",
-          "source": "mavdol04",
-          "url": "https://www.lemonde.fr/en/pixels/article/2026/08/31/chatgpt-becomes-first-ai-chatbot-to-face-tougher-eu-rules_6757011_13.html",
-          "time": "2026-08-31"
+          "source": "edest28build",
+          "url": "https://www.whitecollardream.com/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "AI trolley users rack up higher basket values and spend longer in store",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://www.citystgeorges.ac.uk/news-and-events/news/2026/june/smart-supermarket-trolleys-linked-to-higher-spending-and-longer-shopping-study-finds",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "In-memory security gate for autonomous AI agent tools",
+          "summary": "暂无摘要",
+          "source": "itsub_sa",
+          "url": "https://bartholomew.info",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "One job ad, 1000 applicants: How do you stand out in a world of AI job hunters?",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]",
+          "summary": "暂无摘要",
+          "source": "emk_709",
+          "url": "https://www.youtube.com/watch?v=dLTNVM1mhiU",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "OpenAI to Restrict Astra Model After Rating It 'Critical' Cyber Risk",
+          "summary": "暂无摘要",
+          "source": "bmau5",
+          "url": "https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Show HN: Compilr.dev Studio – A project brain AI agents write to and people read",
+          "summary": "暂无摘要",
+          "source": "scozzola",
+          "url": "https://studio.compilr.dev/welcome/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Meta's $17B Settlement Is a Bad Deal for Teens and All Social Media Users",
+          "summary": "暂无摘要",
+          "source": "panarky",
+          "url": "https://www.eff.org/deeplinks/2026/09/metas-17-billion-settlement-bad-deal-teens-and-all-social-media-users",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "A docs page is a long and complex search query to find AI agents",
+          "summary": "暂无摘要",
+          "source": "stevekrouse",
+          "url": "https://blog.val.town/aeo",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Meta's Addictive Design",
+          "summary": "暂无摘要",
+          "source": "jruohonen",
+          "url": "https://www.bitsoffreedom.nl/en/2026/07/22/metas-addictive-design/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "10 AI Lessons from Driving 200M+ Fully Autonomous Miles",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://waymo.com/blog/2026/08/10ailessons/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Cutting an AI agent's network access mid-run, measured at 127 ms",
+          "summary": "暂无摘要",
+          "source": "sebuzdugan",
+          "url": "https://medium.com/data-science-collective/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-b4f3f7dfc15f",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Sosc Core to Institute AI Ban, Technology-Free Classrooms – UofChicago",
+          "summary": "暂无摘要",
+          "source": "pbui",
+          "url": "https://chicagomaroon.com/53262/news/sosc-core-to-institute-ai-ban-technology-free-classrooms-this-fall/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
+          "summary": "暂无摘要",
+          "source": "01-_-",
+          "url": "https://news.ycombinator.com/item?id=49527773",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Explore real AI risks through the lens of pop culture",
+          "summary": "暂无摘要",
+          "source": "transitivebs",
+          "url": "https://cultural-alignment.com",
+          "time": "2026-09-01"
         },
         {
           "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
           "summary": "暂无摘要",
-          "source": "spenvo",
+          "source": "colinprince",
           "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-          "time": "2026-08-31"
+          "time": "2026-09-01"
         },
         {
-          "title": "Google Analytics MCP Server",
+          "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
           "summary": "暂无摘要",
-          "source": "__vivek",
-          "url": "https://developers.google.com/analytics/devguides/MCP",
-          "time": "2026-08-31"
+          "source": "lellow",
+          "url": "https://indextkn.com",
+          "time": "2026-09-01"
         },
         {
-          "title": "1,664 cases where the AI went out of control",
+          "title": "Dev-sandbox – One bash script to isolate AI coding agents with Podman",
           "summary": "暂无摘要",
-          "source": "kinti",
-          "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "AI Job Scout and Rate Matcher",
-          "summary": "暂无摘要",
-          "source": "Deviad",
-          "url": "https://github.com/Deviad/job-hunter",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Run local embedder for 0.24% of the OpenAI price",
-          "summary": "暂无摘要",
-          "source": "xenator",
-          "url": "https://dzen.dev/blog/local-dzen-embedding-for-rag/",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Tell HN: On AI, Quality, and Accountability",
-          "summary": "暂无摘要",
-          "source": "qwrfglkjk",
-          "url": "https://news.ycombinator.com/item?id=49515051",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Google Maps Now Shows 'Lake America' in US, Not 'Lake Ontario'",
-          "summary": "暂无摘要",
-          "source": "tartoran",
-          "url": "https://www.reuters.com/world/us/google-maps-will-show-lake-america-us-not-lake-ontario-2026-08-30/",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
-          "summary": "暂无摘要",
-          "source": "penguinsnetwork",
-          "url": "https://www.fenty.dev/intelligence/the-next-ai-moat-advanced-packaging",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "The Movies That Make You Feel the Strangeness of AI",
-          "summary": "暂无摘要",
-          "source": "jmugan",
-          "url": "https://twitter.com/jmugan/status/2094533961896931562",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-          "summary": "暂无摘要",
-          "source": "twapi",
-          "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "The Shape and Feel of the Post-AI Data Stack",
-          "summary": "暂无摘要",
-          "source": "_peregrine_",
-          "url": "https://www.iandmacomber.com/blog/post-ai-data-stack/",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
-          "summary": "暂无摘要",
-          "source": "wslh",
-          "url": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "I attended a conference recently and AI use by academics was absurd",
-          "summary": "暂无摘要",
-          "source": "htk",
-          "url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Show HN: cdai – the AI-enhanced cd command",
-          "summary": "暂无摘要",
-          "source": "franze",
-          "url": "https://github.com/franzenzenhofer/cdai",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Show HN: Transform text and images into cinematic AI videos",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://h3max.app/",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "The law won't save us from Meta's 'pervert glasses' The only solution is mockery",
-          "summary": "暂无摘要",
-          "source": "6LLvveMx2koXfwn",
-          "url": "https://www.theguardian.com/commentisfree/2026/aug/31/law-meta-pervert-glasses-mockery",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "South Korea opened bidding for a free, unlimited AI chatbot for all citizens",
-          "summary": "暂无摘要",
-          "source": "quantisan",
-          "url": "https://thenextweb.com/news/south-korea-free-ai-chatbot-all-citizens-domestic-models",
-          "time": "2026-08-31"
+          "source": "tomazko",
+          "url": "https://github.com/kosmrljt/dev-sandbox",
+          "time": "2026-09-01"
         }
       ]
     },
@@ -301,6 +441,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
+          "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Google&#8217;s answer to Canva is an AI tool where you prompt instead of design",
+          "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+          "source": "Sarah Perez",
+          "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+          "time": "2026-09-01"
+        },
+        {
+          "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+          "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+          "time": "2026-09-01"
+        },
         {
           "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
           "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
@@ -316,165 +477,144 @@
           "time": "2026-08-31"
         },
         {
-          "title": "&#8216;We&#8217;re not doing 30 bets a year&#8217;: Vijay Pande on betting small after running $4B at a16z",
-          "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
-          "source": "Connie Loizos",
-          "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-          "time": "2026-08-29"
-        },
-        {
-          "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-          "summary": "There's a lot of capital pouring into the business of giving models away.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-          "time": "2026-08-28"
-        },
-        {
-          "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-          "time": "2026-08-27"
-        },
-        {
-          "title": "Rogue AI attacks deserve more scrutiny than airplane crashes",
+          "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
           "summary": "暂无摘要",
-          "source": "reasonableklout",
-          "url": "https://blog.peterwildeford.com/p/rogue-ai-attacks-deserve-more-scrutiny",
-          "time": "2026-08-31"
+          "source": "masteranza",
+          "url": "https://masteranza.github.io/weedout/",
+          "time": "2026-09-01"
         },
         {
-          "title": "AI giants lean into health care to stall public backlash",
+          "title": "AI is making back-office work extinct",
           "summary": "暂无摘要",
-          "source": "brandonb",
-          "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
-          "time": "2026-08-31"
+          "source": "edest28build",
+          "url": "https://www.whitecollardream.com/",
+          "time": "2026-09-01"
         },
         {
-          "title": "ChatGPT becomes first AI chatbot to face tougher EU rules",
+          "title": "AI trolley users rack up higher basket values and spend longer in store",
           "summary": "暂无摘要",
-          "source": "mavdol04",
-          "url": "https://www.lemonde.fr/en/pixels/article/2026/08/31/chatgpt-becomes-first-ai-chatbot-to-face-tougher-eu-rules_6757011_13.html",
-          "time": "2026-08-31"
+          "source": "geox",
+          "url": "https://www.citystgeorges.ac.uk/news-and-events/news/2026/june/smart-supermarket-trolleys-linked-to-higher-spending-and-longer-shopping-study-finds",
+          "time": "2026-09-01"
         },
         {
-          "title": "Congress to vote on denying federal funding to universities that boycott Israel",
+          "title": "In-memory security gate for autonomous AI agent tools",
           "summary": "暂无摘要",
-          "source": "slowin",
-          "url": "https://twitter.com/dylanotes/status/2094229210889965634",
-          "time": "2026-08-31"
+          "source": "itsub_sa",
+          "url": "https://bartholomew.info",
+          "time": "2026-09-01"
         },
         {
-          "title": "1,664 cases where the AI went out of control",
+          "title": "One job ad, 1000 applicants: How do you stand out in a world of AI job hunters?",
           "summary": "暂无摘要",
-          "source": "kinti",
-          "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
-          "time": "2026-08-31"
+          "source": "billybuckwheat",
+          "url": "https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters",
+          "time": "2026-09-01"
         },
         {
-          "title": "AI Job Scout and Rate Matcher",
+          "title": "The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]",
           "summary": "暂无摘要",
-          "source": "Deviad",
-          "url": "https://github.com/Deviad/job-hunter",
-          "time": "2026-08-31"
+          "source": "emk_709",
+          "url": "https://www.youtube.com/watch?v=dLTNVM1mhiU",
+          "time": "2026-09-01"
         },
         {
-          "title": "Tell HN: On AI, Quality, and Accountability",
+          "title": "Show HN: Compilr.dev Studio – A project brain AI agents write to and people read",
           "summary": "暂无摘要",
-          "source": "qwrfglkjk",
-          "url": "https://news.ycombinator.com/item?id=49515051",
-          "time": "2026-08-31"
+          "source": "scozzola",
+          "url": "https://studio.compilr.dev/welcome/",
+          "time": "2026-09-01"
         },
         {
-          "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
+          "title": "A docs page is a long and complex search query to find AI agents",
           "summary": "暂无摘要",
-          "source": "penguinsnetwork",
-          "url": "https://www.fenty.dev/intelligence/the-next-ai-moat-advanced-packaging",
-          "time": "2026-08-31"
+          "source": "stevekrouse",
+          "url": "https://blog.val.town/aeo",
+          "time": "2026-09-01"
         },
         {
-          "title": "The Movies That Make You Feel the Strangeness of AI",
+          "title": "10 AI Lessons from Driving 200M+ Fully Autonomous Miles",
           "summary": "暂无摘要",
-          "source": "jmugan",
-          "url": "https://twitter.com/jmugan/status/2094533961896931562",
-          "time": "2026-08-31"
+          "source": "bookofjoe",
+          "url": "https://waymo.com/blog/2026/08/10ailessons/",
+          "time": "2026-09-01"
         },
         {
-          "title": "The Shape and Feel of the Post-AI Data Stack",
+          "title": "Cutting an AI agent's network access mid-run, measured at 127 ms",
           "summary": "暂无摘要",
-          "source": "_peregrine_",
-          "url": "https://www.iandmacomber.com/blog/post-ai-data-stack/",
-          "time": "2026-08-31"
+          "source": "sebuzdugan",
+          "url": "https://medium.com/data-science-collective/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-b4f3f7dfc15f",
+          "time": "2026-09-01"
         },
         {
-          "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+          "title": "Sosc Core to Institute AI Ban, Technology-Free Classrooms – UofChicago",
           "summary": "暂无摘要",
-          "source": "wslh",
-          "url": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review",
-          "time": "2026-08-31"
+          "source": "pbui",
+          "url": "https://chicagomaroon.com/53262/news/sosc-core-to-institute-ai-ban-technology-free-classrooms-this-fall/",
+          "time": "2026-09-01"
         },
         {
-          "title": "I attended a conference recently and AI use by academics was absurd",
+          "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
           "summary": "暂无摘要",
-          "source": "htk",
-          "url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
-          "time": "2026-08-31"
+          "source": "01-_-",
+          "url": "https://news.ycombinator.com/item?id=49527773",
+          "time": "2026-09-01"
         },
         {
-          "title": "Show HN: cdai – the AI-enhanced cd command",
+          "title": "Explore real AI risks through the lens of pop culture",
           "summary": "暂无摘要",
-          "source": "franze",
-          "url": "https://github.com/franzenzenhofer/cdai",
-          "time": "2026-08-31"
+          "source": "transitivebs",
+          "url": "https://cultural-alignment.com",
+          "time": "2026-09-01"
         },
         {
-          "title": "Show HN: Transform text and images into cinematic AI videos",
+          "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
           "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://h3max.app/",
-          "time": "2026-08-31"
+          "source": "lellow",
+          "url": "https://indextkn.com",
+          "time": "2026-09-01"
         },
         {
-          "title": "South Korea opened bidding for a free, unlimited AI chatbot for all citizens",
+          "title": "Dev-sandbox – One bash script to isolate AI coding agents with Podman",
           "summary": "暂无摘要",
-          "source": "quantisan",
-          "url": "https://thenextweb.com/news/south-korea-free-ai-chatbot-all-citizens-domestic-models",
-          "time": "2026-08-31"
+          "source": "tomazko",
+          "url": "https://github.com/kosmrljt/dev-sandbox",
+          "time": "2026-09-01"
         },
         {
-          "title": "AI hallucinations are infiltrating Australia's parliament",
+          "title": "Ask HN: AI Architecture Systems Design",
           "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
-          "time": "2026-08-31"
+          "source": "danebalia",
+          "url": "https://news.ycombinator.com/item?id=49527397",
+          "time": "2026-09-01"
         },
         {
-          "title": "Canaries in the Gold Mine: Early Productivity Gains from AI",
+          "title": "Ask HN: What's the job market like for Sales Engineers",
           "summary": "暂无摘要",
-          "source": "nilen",
-          "url": "https://www.nber.org/papers/w35684",
-          "time": "2026-08-31"
+          "source": "anoojb",
+          "url": "https://news.ycombinator.com/item?id=49527390",
+          "time": "2026-09-01"
         },
         {
-          "title": "Show HN: Guess the AI model from its web design",
+          "title": "How AI Detection Works",
           "summary": "暂无摘要",
-          "source": "hawke",
-          "url": "https://raq.com/blog/can-you-spot-ai-web-design/quiz",
-          "time": "2026-08-31"
+          "source": "akurilin",
+          "url": "https://www.complexsystemspodcast.com/episodes/how-ai-detection-actually-works-with-pangrams-max-spero/",
+          "time": "2026-09-01"
         },
         {
-          "title": "Bank of England chief warns new AI models threaten global financial stability",
+          "title": "PrismCAD – A zero-trust, local AI assistant for AutoCAD",
           "summary": "暂无摘要",
-          "source": "TMWNN",
-          "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
-          "time": "2026-08-31"
+          "source": "parvaamin",
+          "url": "https://www.insightits.com/products/prismcad.html",
+          "time": "2026-09-01"
         },
         {
-          "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
+          "title": "Murphi: AI-native healthcare workflows, embedded or ready to use",
           "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://arxiv.org/abs/2606.05608",
-          "time": "2026-08-31"
+          "source": "welsenesbros",
+          "url": "https://murphi.ai/",
+          "time": "2026-09-01"
         }
       ]
     },
@@ -484,7 +624,7 @@
       "icon": "💡",
       "news": [
         {
-          "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+          "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur",
           "source": "Grace Huckins",
           "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
@@ -673,158 +813,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Rogue AI attacks deserve more scrutiny than airplane crashes",
-          "summary": "暂无摘要",
-          "source": "reasonableklout",
-          "url": "https://blog.peterwildeford.com/p/rogue-ai-attacks-deserve-more-scrutiny",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "AI giants lean into health care to stall public backlash",
-          "summary": "暂无摘要",
-          "source": "brandonb",
-          "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "ChatGPT becomes first AI chatbot to face tougher EU rules",
-          "summary": "暂无摘要",
-          "source": "mavdol04",
-          "url": "https://www.lemonde.fr/en/pixels/article/2026/08/31/chatgpt-becomes-first-ai-chatbot-to-face-tougher-eu-rules_6757011_13.html",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "1,664 cases where the AI went out of control",
-          "summary": "暂无摘要",
-          "source": "kinti",
-          "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "AI Job Scout and Rate Matcher",
-          "summary": "暂无摘要",
-          "source": "Deviad",
-          "url": "https://github.com/Deviad/job-hunter",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Tell HN: On AI, Quality, and Accountability",
-          "summary": "暂无摘要",
-          "source": "qwrfglkjk",
-          "url": "https://news.ycombinator.com/item?id=49515051",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
-          "summary": "暂无摘要",
-          "source": "penguinsnetwork",
-          "url": "https://www.fenty.dev/intelligence/the-next-ai-moat-advanced-packaging",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "The Movies That Make You Feel the Strangeness of AI",
-          "summary": "暂无摘要",
-          "source": "jmugan",
-          "url": "https://twitter.com/jmugan/status/2094533961896931562",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "The Shape and Feel of the Post-AI Data Stack",
-          "summary": "暂无摘要",
-          "source": "_peregrine_",
-          "url": "https://www.iandmacomber.com/blog/post-ai-data-stack/",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
-          "summary": "暂无摘要",
-          "source": "wslh",
-          "url": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "I attended a conference recently and AI use by academics was absurd",
-          "summary": "暂无摘要",
-          "source": "htk",
-          "url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Show HN: cdai – the AI-enhanced cd command",
-          "summary": "暂无摘要",
-          "source": "franze",
-          "url": "https://github.com/franzenzenhofer/cdai",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Show HN: Transform text and images into cinematic AI videos",
-          "summary": "暂无摘要",
-          "source": "wowinter15",
-          "url": "https://h3max.app/",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "The law won't save us from Meta's 'pervert glasses' The only solution is mockery",
-          "summary": "暂无摘要",
-          "source": "6LLvveMx2koXfwn",
-          "url": "https://www.theguardian.com/commentisfree/2026/aug/31/law-meta-pervert-glasses-mockery",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "South Korea opened bidding for a free, unlimited AI chatbot for all citizens",
-          "summary": "暂无摘要",
-          "source": "quantisan",
-          "url": "https://thenextweb.com/news/south-korea-free-ai-chatbot-all-citizens-domestic-models",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "AI hallucinations are infiltrating Australia's parliament",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Canaries in the Gold Mine: Early Productivity Gains from AI",
-          "summary": "暂无摘要",
-          "source": "nilen",
-          "url": "https://www.nber.org/papers/w35684",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Show HN: Guess the AI model from its web design",
-          "summary": "暂无摘要",
-          "source": "hawke",
-          "url": "https://raq.com/blog/can-you-spot-ai-web-design/quiz",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Bank of England chief warns new AI models threaten global financial stability",
-          "summary": "暂无摘要",
-          "source": "TMWNN",
-          "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "AI Agents Are Fundamentally Restructuring the Software Paradigm",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://arxiv.org/abs/2606.05608",
-          "time": "2026-08-31"
-        },
-        {
           "title": "How to Run a Chatbot on Your Own Computer",
           "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
           "source": "David Nield",
           "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
           "time": "2026-08-29"
-        },
-        {
-          "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-          "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
-          "source": "Zoë Schiffer, Will Knight",
-          "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-          "time": "2026-08-27"
         }
       ]
     }
