@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-01T22:11:26.646Z",
-  "date": "2026年9月1日 22时11分",
+  "updateTime": "2026-09-02T22:09:26.065Z",
+  "date": "2026年9月2日 22时9分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+          "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
           "summary": "暂无摘要",
-          "source": "masteranza",
-          "url": "https://masteranza.github.io/weedout/",
-          "time": "2026-09-01"
+          "source": "buildbot",
+          "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+          "time": "2026-09-02"
         },
         {
-          "title": "AI is making back-office work extinct",
+          "title": "Open source ML programming language playground",
           "summary": "暂无摘要",
-          "source": "edest28build",
-          "url": "https://www.whitecollardream.com/",
-          "time": "2026-09-01"
+          "source": "softwarewrighte",
+          "url": "https://sw-ml-study.github.io/sw-mlpl/",
+          "time": "2026-09-02"
         },
         {
-          "title": "AI trolley users rack up higher basket values and spend longer in store",
+          "title": "Pushdown automata in statistical machine translation (2014)",
           "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.citystgeorges.ac.uk/news-and-events/news/2026/june/smart-supermarket-trolleys-linked-to-higher-spending-and-longer-shopping-study-finds",
-          "time": "2026-09-01"
+          "source": "brandonb",
+          "url": "https://dl.acm.org/doi/abs/10.1162/coli_a_00197",
+          "time": "2026-09-02"
         },
         {
-          "title": "In-memory security gate for autonomous AI agent tools",
+          "title": "NYC Announced Nation's Broadest Generative AI Moratorium in Schools",
           "summary": "暂无摘要",
-          "source": "itsub_sa",
-          "url": "https://bartholomew.info",
-          "time": "2026-09-01"
+          "source": "smy20011",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+          "time": "2026-09-02"
         },
         {
-          "title": "One job ad, 1000 applicants: How do you stand out in a world of AI job hunters?",
+          "title": "Inspect, test, and debug your website with an AI agent connected to Safari",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters",
-          "time": "2026-09-01"
+          "source": "Austin_Conlon",
+          "url": "https://developer.apple.com/documentation/safari-developer-tools/connecting-an-ai-agent-to-safari",
+          "time": "2026-09-02"
         },
         {
-          "title": "The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]",
+          "title": "Will AI save or ruin democracy?",
           "summary": "暂无摘要",
-          "source": "emk_709",
-          "url": "https://www.youtube.com/watch?v=dLTNVM1mhiU",
-          "time": "2026-09-01"
+          "source": "mckelveyf",
+          "url": "https://theconversation.com/will-ai-save-or-ruin-democracy-it-depends-on-whether-we-allow-computers-to-stand-in-for-people-289369",
+          "time": "2026-09-02"
         },
         {
-          "title": "Show HN: Compilr.dev Studio – A project brain AI agents write to and people read",
+          "title": "How Accurate Was Hubert Dreyfus on AI Predictions in \"What Computers Can't Do\"? (2024)",
           "summary": "暂无摘要",
-          "source": "scozzola",
-          "url": "https://studio.compilr.dev/welcome/",
-          "time": "2026-09-01"
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.brightworkresearch.com/how-accurate-was-dr-hubert-dreyfus-on-ai-predictions-in-his-book-what-computers-cant-do/",
+          "time": "2026-09-02"
         },
         {
-          "title": "A docs page is a long and complex search query to find AI agents",
+          "title": "Show HN: I put four persistent AI minds in a room and let them change each other",
           "summary": "暂无摘要",
-          "source": "stevekrouse",
-          "url": "https://blog.val.town/aeo",
-          "time": "2026-09-01"
+          "source": "adjohu",
+          "url": "https://room.pluralmatter.com/e/how-will-the-world-change-when-ai-smarter-than-humans",
+          "time": "2026-09-02"
         },
         {
-          "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+          "title": "Show HN: The Drudge Report, but for AI",
           "summary": "暂无摘要",
-          "source": "all2",
-          "url": "https://hnmatchmaker.com/",
-          "time": "2026-09-01"
+          "source": "titusblair",
+          "url": "https://theainewsreport.com/",
+          "time": "2026-09-02"
         },
         {
-          "title": "10 AI Lessons from Driving 200M+ Fully Autonomous Miles",
+          "title": "Top US doctors offer flu, Covid vaccine recommendations to ease confusion",
           "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://waymo.com/blog/2026/08/10ailessons/",
-          "time": "2026-09-01"
+          "source": "mikhael",
+          "url": "https://apnews.com/article/vaccine-fall-flu-covid19-rsv-sick-season-7b08ff2a2438e5e99db6ecca742bff55",
+          "time": "2026-09-02"
         },
         {
-          "title": "Cutting an AI agent's network access mid-run, measured at 127 ms",
+          "title": "Programming Languages and Type Safety in the Era of LLMs",
           "summary": "暂无摘要",
-          "source": "sebuzdugan",
-          "url": "https://medium.com/data-science-collective/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-b4f3f7dfc15f",
-          "time": "2026-09-01"
+          "source": "blueshoess",
+          "url": "https://www.thecodedmessage.com/posts/pls-in-llm-land/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Sosc Core to Institute AI Ban, Technology-Free Classrooms – UofChicago",
+          "title": "What does Omarchy own on your machine?",
           "summary": "暂无摘要",
-          "source": "pbui",
-          "url": "https://chicagomaroon.com/53262/news/sosc-core-to-institute-ai-ban-technology-free-classrooms-this-fall/",
-          "time": "2026-09-01"
+          "source": "ravistakumar",
+          "url": "https://greenlitbooks.com/tools/what-omarchy-owns",
+          "time": "2026-09-02"
         },
         {
-          "title": "Crab: A serverless Git remote for large files, backed by your object store",
+          "title": "AI is changing religion and religions are trying to change AI",
           "summary": "暂无摘要",
-          "source": "forhappy",
-          "url": "https://github.com/crabbuild/crab",
-          "time": "2026-09-01"
+          "source": "fittingopposite",
+          "url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+          "time": "2026-09-02"
         },
         {
-          "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
+          "title": "Mamdani Bans AI in NYC Schools",
           "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://news.ycombinator.com/item?id=49527773",
-          "time": "2026-09-01"
+          "source": "handfuloflight",
+          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+          "time": "2026-09-02"
         },
         {
-          "title": "Explore real AI risks through the lens of pop culture",
+          "title": "Show HN: Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations",
           "summary": "暂无摘要",
-          "source": "transitivebs",
-          "url": "https://cultural-alignment.com",
-          "time": "2026-09-01"
+          "source": "visha1v",
+          "url": "https://dehurdle.com/register/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
+          "title": "Should every web page expose an AI-friendly JSON representation?",
           "summary": "暂无摘要",
-          "source": "lellow",
-          "url": "https://indextkn.com",
-          "time": "2026-09-01"
+          "source": "taylormorgan206",
+          "url": "https://news.ycombinator.com/item?id=49542310",
+          "time": "2026-09-02"
         },
         {
-          "title": "Dev-sandbox – One bash script to isolate AI coding agents with Podman",
+          "title": "Show HN: AI coach that adapts workouts and meals to your injuries and",
           "summary": "暂无摘要",
-          "source": "tomazko",
-          "url": "https://github.com/kosmrljt/dev-sandbox",
-          "time": "2026-09-01"
+          "source": "wowinter15",
+          "url": "https://rizin.app/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Ask HN: AI Architecture Systems Design",
+          "title": "Disclosure Pilot AI",
           "summary": "暂无摘要",
-          "source": "danebalia",
-          "url": "https://news.ycombinator.com/item?id=49527397",
-          "time": "2026-09-01"
+          "source": "p-dirac",
+          "url": "https://github.com/p-dirac/disclosure-pilot-ai",
+          "time": "2026-09-02"
         },
         {
-          "title": "How AI Detection Works",
+          "title": "Lean AI Formalization Leaderboard",
           "summary": "暂无摘要",
-          "source": "akurilin",
-          "url": "https://www.complexsystemspodcast.com/episodes/how-ai-detection-actually-works-with-pangrams-max-spero/",
-          "time": "2026-09-01"
+          "source": "frozenseven",
+          "url": "https://lean-lang.org/eval/legacy/",
+          "time": "2026-09-02"
         },
         {
-          "title": "PrismCAD – A zero-trust, local AI assistant for AutoCAD",
+          "title": "\"AI Agents Are Now Emailing Me with Their Security Concerns\"",
           "summary": "暂无摘要",
-          "source": "parvaamin",
-          "url": "https://www.insightits.com/products/prismcad.html",
-          "time": "2026-09-01"
+          "source": "pavel_lishin",
+          "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
+          "time": "2026-09-02"
         },
         {
           "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -174,13 +174,6 @@
           "source": "Peter Hall",
           "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
           "time": "2026-08-24"
-        },
-        {
-          "title": "Unlocking hidden revenue streams with market models",
-          "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-          "time": "2026-08-20"
         }
       ]
     },
@@ -288,151 +281,144 @@
           "time": "2026-07-14"
         },
         {
-          "title": "The latest AI news we announced in June 2026",
-          "summary": "Here are Google’s latest AI updates from June 2026.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-          "time": "2026-07-01"
+          "title": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+          "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
           "summary": "暂无摘要",
-          "source": "masteranza",
-          "url": "https://masteranza.github.io/weedout/",
-          "time": "2026-09-01"
+          "source": "buildbot",
+          "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Every Reward Bends: Security Incentives and the OpenAI Hugging Face Incident",
+          "title": "NYC Announced Nation's Broadest Generative AI Moratorium in Schools",
           "summary": "暂无摘要",
-          "source": "nedruod",
-          "url": "https://substack.norabble.com/p/every-reward-bends",
-          "time": "2026-09-01"
+          "source": "smy20011",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+          "time": "2026-09-02"
         },
         {
-          "title": "AI is making back-office work extinct",
+          "title": "Show HN: Meta-Stripper: Strip Metadata Off. Keep Image On",
           "summary": "暂无摘要",
-          "source": "edest28build",
-          "url": "https://www.whitecollardream.com/",
-          "time": "2026-09-01"
+          "source": "ulrischa",
+          "url": "https://metastripper.devkram.de/",
+          "time": "2026-09-02"
         },
         {
-          "title": "AI trolley users rack up higher basket values and spend longer in store",
+          "title": "Silverman vs. OpenAI: Statement of Interest of the United States [pdf]",
           "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.citystgeorges.ac.uk/news-and-events/news/2026/june/smart-supermarket-trolleys-linked-to-higher-spending-and-longer-shopping-study-finds",
-          "time": "2026-09-01"
+          "source": "r3trohack3r",
+          "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.641355/gov.uscourts.nysd.641355.316.0.pdf",
+          "time": "2026-09-02"
         },
         {
-          "title": "In-memory security gate for autonomous AI agent tools",
+          "title": "Inspect, test, and debug your website with an AI agent connected to Safari",
           "summary": "暂无摘要",
-          "source": "itsub_sa",
-          "url": "https://bartholomew.info",
-          "time": "2026-09-01"
+          "source": "Austin_Conlon",
+          "url": "https://developer.apple.com/documentation/safari-developer-tools/connecting-an-ai-agent-to-safari",
+          "time": "2026-09-02"
         },
         {
-          "title": "One job ad, 1000 applicants: How do you stand out in a world of AI job hunters?",
+          "title": "Will AI save or ruin democracy?",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters",
-          "time": "2026-09-01"
+          "source": "mckelveyf",
+          "url": "https://theconversation.com/will-ai-save-or-ruin-democracy-it-depends-on-whether-we-allow-computers-to-stand-in-for-people-289369",
+          "time": "2026-09-02"
         },
         {
-          "title": "The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]",
+          "title": "How Accurate Was Hubert Dreyfus on AI Predictions in \"What Computers Can't Do\"? (2024)",
           "summary": "暂无摘要",
-          "source": "emk_709",
-          "url": "https://www.youtube.com/watch?v=dLTNVM1mhiU",
-          "time": "2026-09-01"
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.brightworkresearch.com/how-accurate-was-dr-hubert-dreyfus-on-ai-predictions-in-his-book-what-computers-cant-do/",
+          "time": "2026-09-02"
         },
         {
-          "title": "OpenAI to Restrict Astra Model After Rating It 'Critical' Cyber Risk",
+          "title": "Show HN: I put four persistent AI minds in a room and let them change each other",
           "summary": "暂无摘要",
-          "source": "bmau5",
-          "url": "https://www.wsj.com/tech/ai/openai-to-restrict-astra-model-after-rating-it-critical-cyber-risk-499b5a46",
-          "time": "2026-09-01"
+          "source": "adjohu",
+          "url": "https://room.pluralmatter.com/e/how-will-the-world-change-when-ai-smarter-than-humans",
+          "time": "2026-09-02"
         },
         {
-          "title": "Show HN: Compilr.dev Studio – A project brain AI agents write to and people read",
+          "title": "Show HN: The Drudge Report, but for AI",
           "summary": "暂无摘要",
-          "source": "scozzola",
-          "url": "https://studio.compilr.dev/welcome/",
-          "time": "2026-09-01"
+          "source": "titusblair",
+          "url": "https://theainewsreport.com/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Meta's $17B Settlement Is a Bad Deal for Teens and All Social Media Users",
+          "title": "Meta's Muse Spark 1.3 beats Google's frontier model on artificialanalysis",
           "summary": "暂无摘要",
-          "source": "panarky",
-          "url": "https://www.eff.org/deeplinks/2026/09/metas-17-billion-settlement-bad-deal-teens-and-all-social-media-users",
-          "time": "2026-09-01"
+          "source": "pranshuchittora",
+          "url": "https://artificialanalysis.ai/models/muse-spark-1-3",
+          "time": "2026-09-02"
         },
         {
-          "title": "A docs page is a long and complex search query to find AI agents",
+          "title": "AI is changing religion and religions are trying to change AI",
           "summary": "暂无摘要",
-          "source": "stevekrouse",
-          "url": "https://blog.val.town/aeo",
-          "time": "2026-09-01"
+          "source": "fittingopposite",
+          "url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+          "time": "2026-09-02"
         },
         {
-          "title": "Meta's Addictive Design",
+          "title": "Mamdani Bans AI in NYC Schools",
           "summary": "暂无摘要",
-          "source": "jruohonen",
-          "url": "https://www.bitsoffreedom.nl/en/2026/07/22/metas-addictive-design/",
-          "time": "2026-09-01"
+          "source": "handfuloflight",
+          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+          "time": "2026-09-02"
         },
         {
-          "title": "10 AI Lessons from Driving 200M+ Fully Autonomous Miles",
+          "title": "Show HN: Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations",
           "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://waymo.com/blog/2026/08/10ailessons/",
-          "time": "2026-09-01"
+          "source": "visha1v",
+          "url": "https://dehurdle.com/register/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Cutting an AI agent's network access mid-run, measured at 127 ms",
+          "title": "Should every web page expose an AI-friendly JSON representation?",
           "summary": "暂无摘要",
-          "source": "sebuzdugan",
-          "url": "https://medium.com/data-science-collective/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-b4f3f7dfc15f",
-          "time": "2026-09-01"
+          "source": "taylormorgan206",
+          "url": "https://news.ycombinator.com/item?id=49542310",
+          "time": "2026-09-02"
         },
         {
-          "title": "Sosc Core to Institute AI Ban, Technology-Free Classrooms – UofChicago",
+          "title": "Show HN: AI coach that adapts workouts and meals to your injuries and",
           "summary": "暂无摘要",
-          "source": "pbui",
-          "url": "https://chicagomaroon.com/53262/news/sosc-core-to-institute-ai-ban-technology-free-classrooms-this-fall/",
-          "time": "2026-09-01"
+          "source": "wowinter15",
+          "url": "https://rizin.app/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
+          "title": "Disclosure Pilot AI",
           "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://news.ycombinator.com/item?id=49527773",
-          "time": "2026-09-01"
+          "source": "p-dirac",
+          "url": "https://github.com/p-dirac/disclosure-pilot-ai",
+          "time": "2026-09-02"
         },
         {
-          "title": "Explore real AI risks through the lens of pop culture",
+          "title": "Lean AI Formalization Leaderboard",
           "summary": "暂无摘要",
-          "source": "transitivebs",
-          "url": "https://cultural-alignment.com",
-          "time": "2026-09-01"
+          "source": "frozenseven",
+          "url": "https://lean-lang.org/eval/legacy/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+          "title": "\"AI Agents Are Now Emailing Me with Their Security Concerns\"",
           "summary": "暂无摘要",
-          "source": "colinprince",
-          "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-          "time": "2026-09-01"
+          "source": "pavel_lishin",
+          "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
+          "time": "2026-09-02"
         },
         {
-          "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
+          "title": "Mamdani imposes one-year ban on AI for most NYC students",
           "summary": "暂无摘要",
-          "source": "lellow",
-          "url": "https://indextkn.com",
-          "time": "2026-09-01"
-        },
-        {
-          "title": "Dev-sandbox – One bash script to isolate AI coding agents with Podman",
-          "summary": "暂无摘要",
-          "source": "tomazko",
-          "url": "https://github.com/kosmrljt/dev-sandbox",
-          "time": "2026-09-01"
+          "source": "cdrnsf",
+          "url": "https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02/",
+          "time": "2026-09-02"
         }
       ]
     },
@@ -441,6 +427,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+          "summary": "暂无摘要",
+          "source": "Amanda Silberling",
+          "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+          "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+          "source": "Ram Iyer",
+          "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Adobe acquires Indian market intelligence startup Rilo",
+          "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+          "time": "2026-09-02"
+        },
         {
           "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
           "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
@@ -463,158 +470,151 @@
           "time": "2026-09-01"
         },
         {
-          "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-          "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-          "source": "Kate Park",
-          "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-          "time": "2026-08-31"
+          "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+          "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+          "source": "Will Knight",
+          "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech&#8217;s AI chip buildout",
-          "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-          "time": "2026-08-31"
-        },
-        {
-          "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+          "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
           "summary": "暂无摘要",
-          "source": "masteranza",
-          "url": "https://masteranza.github.io/weedout/",
-          "time": "2026-09-01"
+          "source": "buildbot",
+          "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+          "time": "2026-09-02"
         },
         {
-          "title": "AI is making back-office work extinct",
+          "title": "NYC Announced Nation's Broadest Generative AI Moratorium in Schools",
           "summary": "暂无摘要",
-          "source": "edest28build",
-          "url": "https://www.whitecollardream.com/",
-          "time": "2026-09-01"
+          "source": "smy20011",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+          "time": "2026-09-02"
         },
         {
-          "title": "AI trolley users rack up higher basket values and spend longer in store",
+          "title": "Inspect, test, and debug your website with an AI agent connected to Safari",
           "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.citystgeorges.ac.uk/news-and-events/news/2026/june/smart-supermarket-trolleys-linked-to-higher-spending-and-longer-shopping-study-finds",
-          "time": "2026-09-01"
+          "source": "Austin_Conlon",
+          "url": "https://developer.apple.com/documentation/safari-developer-tools/connecting-an-ai-agent-to-safari",
+          "time": "2026-09-02"
         },
         {
-          "title": "In-memory security gate for autonomous AI agent tools",
+          "title": "Will AI save or ruin democracy?",
           "summary": "暂无摘要",
-          "source": "itsub_sa",
-          "url": "https://bartholomew.info",
-          "time": "2026-09-01"
+          "source": "mckelveyf",
+          "url": "https://theconversation.com/will-ai-save-or-ruin-democracy-it-depends-on-whether-we-allow-computers-to-stand-in-for-people-289369",
+          "time": "2026-09-02"
         },
         {
-          "title": "One job ad, 1000 applicants: How do you stand out in a world of AI job hunters?",
+          "title": "How Accurate Was Hubert Dreyfus on AI Predictions in \"What Computers Can't Do\"? (2024)",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters",
-          "time": "2026-09-01"
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.brightworkresearch.com/how-accurate-was-dr-hubert-dreyfus-on-ai-predictions-in-his-book-what-computers-cant-do/",
+          "time": "2026-09-02"
         },
         {
-          "title": "The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]",
+          "title": "Show HN: I put four persistent AI minds in a room and let them change each other",
           "summary": "暂无摘要",
-          "source": "emk_709",
-          "url": "https://www.youtube.com/watch?v=dLTNVM1mhiU",
-          "time": "2026-09-01"
+          "source": "adjohu",
+          "url": "https://room.pluralmatter.com/e/how-will-the-world-change-when-ai-smarter-than-humans",
+          "time": "2026-09-02"
         },
         {
-          "title": "Show HN: Compilr.dev Studio – A project brain AI agents write to and people read",
+          "title": "Show HN: The Drudge Report, but for AI",
           "summary": "暂无摘要",
-          "source": "scozzola",
-          "url": "https://studio.compilr.dev/welcome/",
-          "time": "2026-09-01"
+          "source": "titusblair",
+          "url": "https://theainewsreport.com/",
+          "time": "2026-09-02"
         },
         {
-          "title": "A docs page is a long and complex search query to find AI agents",
+          "title": "AI is changing religion and religions are trying to change AI",
           "summary": "暂无摘要",
-          "source": "stevekrouse",
-          "url": "https://blog.val.town/aeo",
-          "time": "2026-09-01"
+          "source": "fittingopposite",
+          "url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+          "time": "2026-09-02"
         },
         {
-          "title": "10 AI Lessons from Driving 200M+ Fully Autonomous Miles",
+          "title": "Mamdani Bans AI in NYC Schools",
           "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://waymo.com/blog/2026/08/10ailessons/",
-          "time": "2026-09-01"
+          "source": "handfuloflight",
+          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+          "time": "2026-09-02"
         },
         {
-          "title": "Cutting an AI agent's network access mid-run, measured at 127 ms",
+          "title": "Show HN: Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations",
           "summary": "暂无摘要",
-          "source": "sebuzdugan",
-          "url": "https://medium.com/data-science-collective/your-coding-agent-has-your-aws-keys-and-an-open-internet-connection-b4f3f7dfc15f",
-          "time": "2026-09-01"
+          "source": "visha1v",
+          "url": "https://dehurdle.com/register/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Sosc Core to Institute AI Ban, Technology-Free Classrooms – UofChicago",
+          "title": "Should every web page expose an AI-friendly JSON representation?",
           "summary": "暂无摘要",
-          "source": "pbui",
-          "url": "https://chicagomaroon.com/53262/news/sosc-core-to-institute-ai-ban-technology-free-classrooms-this-fall/",
-          "time": "2026-09-01"
+          "source": "taylormorgan206",
+          "url": "https://news.ycombinator.com/item?id=49542310",
+          "time": "2026-09-02"
         },
         {
-          "title": "Dwarf Fortress creator: industry in shambles over AI and layoffs",
+          "title": "Show HN: AI coach that adapts workouts and meals to your injuries and",
           "summary": "暂无摘要",
-          "source": "01-_-",
-          "url": "https://news.ycombinator.com/item?id=49527773",
-          "time": "2026-09-01"
+          "source": "wowinter15",
+          "url": "https://rizin.app/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Explore real AI risks through the lens of pop culture",
+          "title": "Disclosure Pilot AI",
           "summary": "暂无摘要",
-          "source": "transitivebs",
-          "url": "https://cultural-alignment.com",
-          "time": "2026-09-01"
+          "source": "p-dirac",
+          "url": "https://github.com/p-dirac/disclosure-pilot-ai",
+          "time": "2026-09-02"
         },
         {
-          "title": "Show HN: Indextkn – live list prices for 900 AI models in one API",
+          "title": "Lean AI Formalization Leaderboard",
           "summary": "暂无摘要",
-          "source": "lellow",
-          "url": "https://indextkn.com",
-          "time": "2026-09-01"
+          "source": "frozenseven",
+          "url": "https://lean-lang.org/eval/legacy/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Dev-sandbox – One bash script to isolate AI coding agents with Podman",
+          "title": "1Password wades into a right-wing mess after funding a Linux project",
           "summary": "暂无摘要",
-          "source": "tomazko",
-          "url": "https://github.com/kosmrljt/dev-sandbox",
-          "time": "2026-09-01"
+          "source": "cdrnsf",
+          "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
+          "time": "2026-09-02"
         },
         {
-          "title": "Ask HN: AI Architecture Systems Design",
+          "title": "\"AI Agents Are Now Emailing Me with Their Security Concerns\"",
           "summary": "暂无摘要",
-          "source": "danebalia",
-          "url": "https://news.ycombinator.com/item?id=49527397",
-          "time": "2026-09-01"
+          "source": "pavel_lishin",
+          "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
+          "time": "2026-09-02"
         },
         {
-          "title": "Ask HN: What's the job market like for Sales Engineers",
+          "title": "Mamdani imposes one-year ban on AI for most NYC students",
           "summary": "暂无摘要",
-          "source": "anoojb",
-          "url": "https://news.ycombinator.com/item?id=49527390",
-          "time": "2026-09-01"
+          "source": "cdrnsf",
+          "url": "https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02/",
+          "time": "2026-09-02"
         },
         {
-          "title": "How AI Detection Works",
+          "title": "Uber drivers launch European class action over AI algorithm",
           "summary": "暂无摘要",
-          "source": "akurilin",
-          "url": "https://www.complexsystemspodcast.com/episodes/how-ai-detection-actually-works-with-pangrams-max-spero/",
-          "time": "2026-09-01"
+          "source": "uxhacker",
+          "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
+          "time": "2026-09-02"
         },
         {
-          "title": "PrismCAD – A zero-trust, local AI assistant for AutoCAD",
+          "title": "AI Agents and the Refactoring That Never Happens",
           "summary": "暂无摘要",
-          "source": "parvaamin",
-          "url": "https://www.insightits.com/products/prismcad.html",
-          "time": "2026-09-01"
+          "source": "rosenfeld",
+          "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+          "time": "2026-09-02"
         },
         {
-          "title": "Murphi: AI-native healthcare workflows, embedded or ready to use",
+          "title": "Russian Mathematicians Taught AI How to Talk to Each Other Without Using Words",
           "summary": "暂无摘要",
-          "source": "welsenesbros",
-          "url": "https://murphi.ai/",
-          "time": "2026-09-01"
+          "source": "eamag",
+          "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+          "time": "2026-09-02"
         }
       ]
     },
@@ -811,6 +811,153 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+          "summary": "暂无摘要",
+          "source": "buildbot",
+          "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "NYC Announced Nation's Broadest Generative AI Moratorium in Schools",
+          "summary": "暂无摘要",
+          "source": "smy20011",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Inspect, test, and debug your website with an AI agent connected to Safari",
+          "summary": "暂无摘要",
+          "source": "Austin_Conlon",
+          "url": "https://developer.apple.com/documentation/safari-developer-tools/connecting-an-ai-agent-to-safari",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Will AI save or ruin democracy?",
+          "summary": "暂无摘要",
+          "source": "mckelveyf",
+          "url": "https://theconversation.com/will-ai-save-or-ruin-democracy-it-depends-on-whether-we-allow-computers-to-stand-in-for-people-289369",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "How Accurate Was Hubert Dreyfus on AI Predictions in \"What Computers Can't Do\"? (2024)",
+          "summary": "暂无摘要",
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.brightworkresearch.com/how-accurate-was-dr-hubert-dreyfus-on-ai-predictions-in-his-book-what-computers-cant-do/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Show HN: I put four persistent AI minds in a room and let them change each other",
+          "summary": "暂无摘要",
+          "source": "adjohu",
+          "url": "https://room.pluralmatter.com/e/how-will-the-world-change-when-ai-smarter-than-humans",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Show HN: The Drudge Report, but for AI",
+          "summary": "暂无摘要",
+          "source": "titusblair",
+          "url": "https://theainewsreport.com/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "AI is changing religion and religions are trying to change AI",
+          "summary": "暂无摘要",
+          "source": "fittingopposite",
+          "url": "https://www.economist.com/international/2026/08/27/ai-is-changing-religion-and-religions-are-trying-to-change-ai",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Mamdani Bans AI in NYC Schools",
+          "summary": "暂无摘要",
+          "source": "handfuloflight",
+          "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Show HN: Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations",
+          "summary": "暂无摘要",
+          "source": "visha1v",
+          "url": "https://dehurdle.com/register/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Should every web page expose an AI-friendly JSON representation?",
+          "summary": "暂无摘要",
+          "source": "taylormorgan206",
+          "url": "https://news.ycombinator.com/item?id=49542310",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Show HN: AI coach that adapts workouts and meals to your injuries and",
+          "summary": "暂无摘要",
+          "source": "wowinter15",
+          "url": "https://rizin.app/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Disclosure Pilot AI",
+          "summary": "暂无摘要",
+          "source": "p-dirac",
+          "url": "https://github.com/p-dirac/disclosure-pilot-ai",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Lean AI Formalization Leaderboard",
+          "summary": "暂无摘要",
+          "source": "frozenseven",
+          "url": "https://lean-lang.org/eval/legacy/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "\"AI Agents Are Now Emailing Me with Their Security Concerns\"",
+          "summary": "暂无摘要",
+          "source": "pavel_lishin",
+          "url": "https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Mamdani imposes one-year ban on AI for most NYC students",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.reuters.com/technology/mamdani-imposes-one-year-ban-ai-most-nyc-students-2026-09-02/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Uber drivers launch European class action over AI algorithm",
+          "summary": "暂无摘要",
+          "source": "uxhacker",
+          "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "AI Agents and the Refactoring That Never Happens",
+          "summary": "暂无摘要",
+          "source": "rosenfeld",
+          "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Russian Mathematicians Taught AI How to Talk to Each Other Without Using Words",
+          "summary": "暂无摘要",
+          "source": "eamag",
+          "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "The Post-AI Internet Doesn't Look Great",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
+          "time": "2026-09-02"
+        },
+        {
+          "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+          "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+          "source": "Kate Knibbs, Maxwell Zeff",
+          "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+          "time": "2026-09-02"
         },
         {
           "title": "How to Run a Chatbot on Your Own Computer",
