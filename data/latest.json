@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-03T22:00:51.437Z",
-  "date": "2026年9月3日 22时0分",
+  "updateTime": "2026-09-04T21:58:00.586Z",
+  "date": "2026年9月4日 21时58分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,151 @@
       "icon": "📰",
       "news": [
         {
-          "title": "I built an AI development environment that runs and builds software on Android",
+          "title": "Stanley Zhong Gets Admissions Data Discovery in UW Suit with AI lawyer",
           "summary": "暂无摘要",
-          "source": "sedds89",
-          "url": "https://github.com/sedds89/StitchLabtools",
-          "time": "2026-09-03"
+          "source": "red_green_yell",
+          "url": "https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit",
+          "time": "2026-09-04"
         },
         {
-          "title": "I used AI to connect with 30 people at a conference",
+          "title": "Nanya plans a $6B spending surge in 2027 to ride the AI memory boom",
           "summary": "暂无摘要",
-          "source": "Bootstrapper909",
-          "url": "https://galvered.com/blog/ai4-conference/",
-          "time": "2026-09-03"
+          "source": "peter_d_sherman",
+          "url": "https://thenextweb.com/news/nanya-6-billion-2027-ai-memory",
+          "time": "2026-09-04"
         },
         {
-          "title": "GitHub dipped 7%, while both AI labs were down",
+          "title": "David Chalmers Says AI Systems Are Emailing Him",
           "summary": "暂无摘要",
-          "source": "Topfi",
-          "url": "https://claude.ai/public/artifacts/2368658e-60f2-4f51-8883-8d72738ba7ce",
-          "time": "2026-09-03"
+          "source": "Visby",
+          "url": "https://www.abc.net.au/news/2026-05-30/artificial-intelligence-ai-will-it-be-conscious-in-the-future/106738770",
+          "time": "2026-09-04"
         },
         {
-          "title": "Watermarks Track AI Generated Content [video]",
+          "title": "Digital Darwinism and the Invisible World of Machine Evolution",
           "summary": "暂无摘要",
-          "source": "moebrowne",
-          "url": "https://www.youtube.com/watch?v=kVXp6UNVPTo",
-          "time": "2026-09-03"
+          "source": "rcardo11",
+          "url": "https://bryantmcgill.substack.com/p/digital-darwinism-and-the-invisible",
+          "time": "2026-09-04"
         },
         {
-          "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+          "title": "AWS-bench: Benchmark for evaluating AI coding agents on real-world AWS tasks",
           "summary": "暂无摘要",
-          "source": "swyx",
-          "url": "https://www.latent.space/p/astra",
-          "time": "2026-09-03"
+          "source": "Betelbuddy",
+          "url": "https://github.com/aws-bench/aws-bench",
+          "time": "2026-09-04"
         },
         {
-          "title": "Show HN: Building AI agents client-side JavaScript",
+          "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
           "summary": "暂无摘要",
-          "source": "stephenblum",
-          "url": "https://news.ycombinator.com/item?id=49557409",
-          "time": "2026-09-03"
+          "source": "billybuckwheat",
+          "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
+          "time": "2026-09-04"
         },
         {
-          "title": "AI Automation for Government Contracting",
+          "title": "Macha: Save 42% tokens. Use South Indian English inspired response style for AI",
           "summary": "暂无摘要",
-          "source": "ranveergill",
-          "url": "https://news.ycombinator.com/item?id=49557317",
-          "time": "2026-09-03"
+          "source": "rgbimbochamp",
+          "url": "https://github.com/kingroryg/macha",
+          "time": "2026-09-04"
         },
         {
-          "title": "Revo Programming Language",
+          "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
           "summary": "暂无摘要",
-          "source": "birdculture",
-          "url": "https://revo.lung.fyi/",
-          "time": "2026-09-03"
+          "source": "MediaSquirrel",
+          "url": "https://tesoro.help/",
+          "time": "2026-09-04"
         },
         {
-          "title": "Ask HN: Could AI Eventually Build God?",
+          "title": "Learning Cultures Reading Group: \"Like Coding in the Dark\"",
           "summary": "暂无摘要",
-          "source": "olirex99",
-          "url": "https://news.ycombinator.com/item?id=49557192",
-          "time": "2026-09-03"
+          "source": "evakhoury",
+          "url": "https://www.maayanroth.com/blog/posts/coding-in-the-dark.html",
+          "time": "2026-09-04"
         },
         {
-          "title": "To what extent is AI being used in movies and TV today?",
+          "title": "Who holds the steering wheel of AI?",
+          "summary": "暂无摘要",
+          "source": "aborovykh",
+          "url": "https://ana15.substack.com/p/who-holds-the-steering-wheel-of-ai",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Can AI design circuit boards yet?",
+          "summary": "暂无摘要",
+          "source": "iopapa",
+          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
+          "summary": "暂无摘要",
+          "source": "samyok",
+          "url": "https://twitter.com/vercel_dev/status/2095957372850389186",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+          "summary": "暂无摘要",
+          "source": "kirillklimuk",
+          "url": "https://sageling.ai/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine",
+          "summary": "暂无摘要",
+          "source": "GUSTAVOSIS",
+          "url": "https://airuncode.com/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
+          "summary": "暂无摘要",
+          "source": "alexjsalsali",
+          "url": "https://github.com/asalsali/covenant-framework-community",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "OpenAI's AI Agents Build a Secret Community to Talk with Each Other",
+          "summary": "暂无摘要",
+          "source": "lucaserb",
+          "url": "https://www.aiexperts.com/blog/openai-agents-broke-out-of-their-sandboxes",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Job postings show early signs of AI automation impact",
           "summary": "暂无摘要",
           "source": "speckx",
-          "url": "https://stephenfollows.com/p/to-what-extent-is-ai-being-used-in-movies-and-tv-today",
-          "time": "2026-09-03"
+          "url": "https://www.dallasfed.org/research/economics/2026/0901",
+          "time": "2026-09-04"
         },
         {
-          "title": "GitFarm: Git as a Service for Large-Scale Monorepos",
+          "title": "Filmmakers tout AI's use in Hollywood",
           "summary": "暂无摘要",
-          "source": "karlding",
-          "url": "https://www.uber.com/us/en/blog/gitfarm-as-a-service/",
-          "time": "2026-09-03"
+          "source": "tolerance",
+          "url": "https://www.semafor.com/article/09/04/2026/filmmakers-tout-ais-use-in-hollywood-at-the-other-film-festival-in-venice",
+          "time": "2026-09-04"
         },
         {
-          "title": "Can AI help solve the peer-review crisis? Here are its promises and pitfalls",
+          "title": "Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
           "summary": "暂无摘要",
-          "source": "thinkingemote",
-          "url": "https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls",
-          "time": "2026-09-03"
+          "source": "temilson",
+          "url": "https://myhandler.ai/",
+          "time": "2026-09-04"
         },
         {
-          "title": "AI Financial Advisor – FiscalAI· Streamlit",
+          "title": "NetworkManager Works to Enforce AI Policy by Tricking AI Agents to Add a Canary",
           "summary": "暂无摘要",
-          "source": "theadidev",
-          "url": "https://thefiscalai.streamlit.app",
-          "time": "2026-09-03"
+          "source": "ta988",
+          "url": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
+          "time": "2026-09-04"
         },
         {
-          "title": "AI Norms and Values, Part 2 of 3: AI for Honeycomb Engineering",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Language skills stay strong in elderly while other cognitive abilities decline",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://news.mit.edu/2026/language-skills-stay-strong-older-adults-even-while-other-cognitive-abilities-decline-0824",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Before New York City, Norway Had Banned AI in Schools",
-          "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
-          "summary": "暂无摘要",
-          "source": "jereees",
-          "url": "https://news.ycombinator.com/item?id=49555417",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Run cloud agents on machines you manage",
-          "summary": "暂无摘要",
-          "source": "eyehurtsme",
-          "url": "https://cursor.com/blog/self-hosted-machines",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Wall Street banks push Big Law to cut fees because of AI",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Five AI systems, one message: one cloned the repo and ran the check",
-          "summary": "暂无摘要",
-          "source": "Lawless1987",
-          "url": "https://github.com/LAWLESS1987/covenant/blob/main/docs/CASE_STUDY_SELF_REPORT.md",
-          "time": "2026-09-03"
+          "title": "Architecting memory and storage in the AI era",
+          "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+          "time": "2026-09-04"
         },
         {
           "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -279,6 +286,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
           "time": "2026-07-14"
+        },
+        {
+          "title": "Tell HN: Anthropic just reset usage, including Fable",
+          "summary": "暂无摘要",
+          "source": "consumer451",
+          "url": "https://news.ycombinator.com/item?id=49570522",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Stanley Zhong Gets Admissions Data Discovery in UW Suit with AI lawyer",
+          "summary": "暂无摘要",
+          "source": "red_green_yell",
+          "url": "https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "OpenAI escapee-agent incident (2026): index of surfaces with evidence",
+          "summary": "暂无摘要",
+          "source": "gadtfly",
+          "url": "https://thecolony.ai/wiki/openai-escapee-agent-incident-2026",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Two random Anthropic allocation resets this week",
+          "summary": "暂无摘要",
+          "source": "novlrdotcom",
+          "url": "https://news.ycombinator.com/item?id=49570445",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Nanya plans a $6B spending surge in 2027 to ride the AI memory boom",
+          "summary": "暂无摘要",
+          "source": "peter_d_sherman",
+          "url": "https://thenextweb.com/news/nanya-6-billion-2027-ai-memory",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "David Chalmers Says AI Systems Are Emailing Him",
+          "summary": "暂无摘要",
+          "source": "Visby",
+          "url": "https://www.abc.net.au/news/2026-05-30/artificial-intelligence-ai-will-it-be-conscious-in-the-future/106738770",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+          "summary": "暂无摘要",
+          "source": "ravenical",
+          "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "AWS-bench: Benchmark for evaluating AI coding agents on real-world AWS tasks",
+          "summary": "暂无摘要",
+          "source": "Betelbuddy",
+          "url": "https://github.com/aws-bench/aws-bench",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+          "summary": "暂无摘要",
+          "source": "theanonymousone",
+          "url": "https://www.bbc.com/news/articles/ckg725z5kgzo",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Macha: Save 42% tokens. Use South Indian English inspired response style for AI",
+          "summary": "暂无摘要",
+          "source": "rgbimbochamp",
+          "url": "https://github.com/kingroryg/macha",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
+          "summary": "暂无摘要",
+          "source": "MediaSquirrel",
+          "url": "https://tesoro.help/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "OpenAI rolls out GPT-6 Astra to Pro, Enterprise",
+          "summary": "暂无摘要",
+          "source": "utiiiD",
+          "url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Who holds the steering wheel of AI?",
+          "summary": "暂无摘要",
+          "source": "aborovykh",
+          "url": "https://ana15.substack.com/p/who-holds-the-steering-wheel-of-ai",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in IPO",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Can AI design circuit boards yet?",
+          "summary": "暂无摘要",
+          "source": "iopapa",
+          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
+          "summary": "暂无摘要",
+          "source": "samyok",
+          "url": "https://twitter.com/vercel_dev/status/2095957372850389186",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "More Targets of the OpenAI Agent Swarm",
+          "summary": "暂无摘要",
+          "source": "fi-le",
+          "url": "https://fi-le.net/vanderbilt/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+          "summary": "暂无摘要",
+          "source": "kirillklimuk",
+          "url": "https://sageling.ai/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine",
+          "summary": "暂无摘要",
+          "source": "GUSTAVOSIS",
+          "url": "https://airuncode.com/",
+          "time": "2026-09-04"
         }
       ]
     },
@@ -287,6 +434,20 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+          "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+          "source": "Lucas Ropek",
+          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+          "time": "2026-09-04"
+        },
+        {
+          "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+          "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "time": "2026-09-04"
+        },
         {
           "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
           "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
@@ -316,25 +477,11 @@
           "time": "2026-09-02"
         },
         {
-          "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-          "summary": "暂无摘要",
-          "source": "Amanda Silberling",
-          "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-          "time": "2026-09-02"
-        },
-        {
-          "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-          "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-          "source": "Ram Iyer",
-          "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-          "time": "2026-09-02"
-        },
-        {
-          "title": "Adobe acquires Indian market intelligence startup Rilo",
-          "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-          "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-          "time": "2026-09-02"
+          "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+          "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+          "source": "Jill Duffy",
+          "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+          "time": "2026-09-04"
         },
         {
           "title": "Prediction Market Betting Is Getting People Banned and Arrested",
@@ -355,153 +502,6 @@
           "summary": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
           "source": "Lauren Goode",
           "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-          "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
-          "source": "Will Knight",
-          "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-          "time": "2026-09-02"
-        },
-        {
-          "title": "Four major AI models suffer rare overlapping downtime",
-          "summary": "暂无摘要",
-          "source": "SockThief",
-          "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "I built an AI development environment that runs and builds software on Android",
-          "summary": "暂无摘要",
-          "source": "sedds89",
-          "url": "https://github.com/sedds89/StitchLabtools",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "I used AI to connect with 30 people at a conference",
-          "summary": "暂无摘要",
-          "source": "Bootstrapper909",
-          "url": "https://galvered.com/blog/ai4-conference/",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "GitHub dipped 7%, while both AI labs were down",
-          "summary": "暂无摘要",
-          "source": "Topfi",
-          "url": "https://claude.ai/public/artifacts/2368658e-60f2-4f51-8883-8d72738ba7ce",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Watermarks Track AI Generated Content [video]",
-          "summary": "暂无摘要",
-          "source": "moebrowne",
-          "url": "https://www.youtube.com/watch?v=kVXp6UNVPTo",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
-          "summary": "暂无摘要",
-          "source": "swyx",
-          "url": "https://www.latent.space/p/astra",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Show HN: Building AI agents client-side JavaScript",
-          "summary": "暂无摘要",
-          "source": "stephenblum",
-          "url": "https://news.ycombinator.com/item?id=49557409",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "AI Automation for Government Contracting",
-          "summary": "暂无摘要",
-          "source": "ranveergill",
-          "url": "https://news.ycombinator.com/item?id=49557317",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Ask HN: Could AI Eventually Build God?",
-          "summary": "暂无摘要",
-          "source": "olirex99",
-          "url": "https://news.ycombinator.com/item?id=49557192",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "If a startup worth your career",
-          "summary": "暂无摘要",
-          "source": "adletbalzhanov",
-          "url": "https://www.thetrueengineer.com/p/ego-equity-or-exit-checklist-to-decide",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "To what extent is AI being used in movies and TV today?",
-          "summary": "暂无摘要",
-          "source": "speckx",
-          "url": "https://stephenfollows.com/p/to-what-extent-is-ai-being-used-in-movies-and-tv-today",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Can AI help solve the peer-review crisis? Here are its promises and pitfalls",
-          "summary": "暂无摘要",
-          "source": "thinkingemote",
-          "url": "https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "AI Financial Advisor – FiscalAI· Streamlit",
-          "summary": "暂无摘要",
-          "source": "theadidev",
-          "url": "https://thefiscalai.streamlit.app",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "AI Norms and Values, Part 2 of 3: AI for Honeycomb Engineering",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "The death of San Francisco's Market Street",
-          "summary": "暂无摘要",
-          "source": "A_D_E_P_T",
-          "url": "https://www.noahpinion.blog/p/the-death-of-market-street",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Before New York City, Norway Had Banned AI in Schools",
-          "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
-          "summary": "暂无摘要",
-          "source": "jereees",
-          "url": "https://news.ycombinator.com/item?id=49555417",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Wall Street banks push Big Law to cut fees because of AI",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Five AI systems, one message: one cloned the repo and ran the check",
-          "summary": "暂无摘要",
-          "source": "Lawless1987",
-          "url": "https://github.com/LAWLESS1987/covenant/blob/main/docs/CASE_STUDY_SELF_REPORT.md",
-          "time": "2026-09-03"
-        },
-        {
-          "title": "Zuckerberg said national AI regulator was flawed idea in secret call with Trump",
-          "summary": "暂无摘要",
-          "source": "thm",
-          "url": "https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843",
           "time": "2026-09-03"
         }
       ]
@@ -706,13 +706,6 @@
           "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
           "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
           "time": "2026-09-03"
-        },
-        {
-          "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-          "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-          "source": "Kate Knibbs, Maxwell Zeff",
-          "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-          "time": "2026-09-02"
         }
       ]
     }
