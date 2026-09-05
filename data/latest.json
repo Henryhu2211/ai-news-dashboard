@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-04T21:58:00.586Z",
-  "date": "2026年9月4日 21时58分",
+  "updateTime": "2026-09-05T21:47:48.132Z",
+  "date": "2026年9月5日 21时47分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Stanley Zhong Gets Admissions Data Discovery in UW Suit with AI lawyer",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
           "summary": "暂无摘要",
-          "source": "red_green_yell",
-          "url": "https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit",
-          "time": "2026-09-04"
+          "source": "cdrnsf",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+          "time": "2026-09-05"
         },
         {
-          "title": "Nanya plans a $6B spending surge in 2027 to ride the AI memory boom",
+          "title": "Google AI turns on its maker in a brutally candid interview",
           "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://thenextweb.com/news/nanya-6-billion-2027-ai-memory",
-          "time": "2026-09-04"
+          "source": "cisc",
+          "url": "https://newatlas.com/ai-humanoids/exclusive-google-ai/",
+          "time": "2026-09-05"
         },
         {
-          "title": "David Chalmers Says AI Systems Are Emailing Him",
+          "title": "Teaching Prevents Learning",
           "summary": "暂无摘要",
-          "source": "Visby",
-          "url": "https://www.abc.net.au/news/2026-05-30/artificial-intelligence-ai-will-it-be-conscious-in-the-future/106738770",
-          "time": "2026-09-04"
+          "source": "Marius_Manola",
+          "url": "https://mariusmanolachi.substack.com/p/why-teaching-can-prevent-learning",
+          "time": "2026-09-05"
         },
         {
-          "title": "Digital Darwinism and the Invisible World of Machine Evolution",
+          "title": "The AI-Native SDLC Playbook",
           "summary": "暂无摘要",
-          "source": "rcardo11",
-          "url": "https://bryantmcgill.substack.com/p/digital-darwinism-and-the-invisible",
-          "time": "2026-09-04"
+          "source": "gmays",
+          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+          "time": "2026-09-05"
         },
         {
-          "title": "AWS-bench: Benchmark for evaluating AI coding agents on real-world AWS tasks",
+          "title": "How AI is breaking the British state",
           "summary": "暂无摘要",
-          "source": "Betelbuddy",
-          "url": "https://github.com/aws-bench/aws-bench",
-          "time": "2026-09-04"
+          "source": "tchalla",
+          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+          "time": "2026-09-05"
         },
         {
-          "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
+          "title": "Show HN: I replaced my portfolio with an AI that knows me",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
-          "time": "2026-09-04"
+          "source": "AaronJonk",
+          "url": "https://xlogic.sh/",
+          "time": "2026-09-05"
         },
         {
-          "title": "Macha: Save 42% tokens. Use South Indian English inspired response style for AI",
+          "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
           "summary": "暂无摘要",
-          "source": "rgbimbochamp",
-          "url": "https://github.com/kingroryg/macha",
-          "time": "2026-09-04"
+          "source": "phntmcore",
+          "url": "https://www.phntmcore.com/",
+          "time": "2026-09-05"
         },
         {
-          "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
+          "title": "Show HN: Merge Wikipedia articles across languages into one page",
           "summary": "暂无摘要",
-          "source": "MediaSquirrel",
-          "url": "https://tesoro.help/",
-          "time": "2026-09-04"
+          "source": "neehao",
+          "url": "https://github.com/gojiplus/wikifuse",
+          "time": "2026-09-05"
         },
         {
-          "title": "Learning Cultures Reading Group: \"Like Coding in the Dark\"",
+          "title": "Patterns, Predictions, and Actions: A story about machine learning [pdf]",
           "summary": "暂无摘要",
-          "source": "evakhoury",
-          "url": "https://www.maayanroth.com/blog/posts/coding-in-the-dark.html",
-          "time": "2026-09-04"
+          "source": "Anon84",
+          "url": "https://mlstory.org/pdf/patterns.pdf",
+          "time": "2026-09-05"
         },
         {
-          "title": "Who holds the steering wheel of AI?",
+          "title": "There's No Such Thing as an AI 'Lab'",
           "summary": "暂无摘要",
-          "source": "aborovykh",
-          "url": "https://ana15.substack.com/p/who-holds-the-steering-wheel-of-ai",
-          "time": "2026-09-04"
+          "source": "Anon84",
+          "url": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
+          "time": "2026-09-05"
         },
         {
-          "title": "Can AI design circuit boards yet?",
+          "title": "Large language models can predict the results of social science experiments",
           "summary": "暂无摘要",
-          "source": "iopapa",
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-          "time": "2026-09-04"
+          "source": "paulpauper",
+          "url": "https://www.nature.com/articles/s41586-026-10742-x",
+          "time": "2026-09-05"
         },
         {
-          "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
+          "title": "Are warnings of uncontrollable AI coming true?",
           "summary": "暂无摘要",
-          "source": "samyok",
-          "url": "https://twitter.com/vercel_dev/status/2095957372850389186",
-          "time": "2026-09-04"
+          "source": "fittingopposite",
+          "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+          "time": "2026-09-05"
         },
         {
-          "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+          "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
           "summary": "暂无摘要",
-          "source": "kirillklimuk",
-          "url": "https://sageling.ai/",
-          "time": "2026-09-04"
+          "source": "kingfyapp",
+          "url": "https://www.kingfy.app",
+          "time": "2026-09-05"
         },
         {
-          "title": "Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine",
+          "title": "Norway could become the first country to ban AI smart glasses",
           "summary": "暂无摘要",
-          "source": "GUSTAVOSIS",
-          "url": "https://airuncode.com/",
-          "time": "2026-09-04"
+          "source": "bundie",
+          "url": "https://neow.in/cmUxYnB3",
+          "time": "2026-09-05"
         },
         {
-          "title": "Show HN: Covenant – A governance framework for multi-agent AI systems",
+          "title": "A sourced timeline of 249 documented AI milestones",
           "summary": "暂无摘要",
-          "source": "alexjsalsali",
-          "url": "https://github.com/asalsali/covenant-framework-community",
-          "time": "2026-09-04"
+          "source": "umermirzapk",
+          "url": "https://achievements.ai/",
+          "time": "2026-09-05"
         },
         {
-          "title": "OpenAI's AI Agents Build a Secret Community to Talk with Each Other",
+          "title": "Ask HN: Airbnbs with AI Photos",
           "summary": "暂无摘要",
-          "source": "lucaserb",
-          "url": "https://www.aiexperts.com/blog/openai-agents-broke-out-of-their-sandboxes",
-          "time": "2026-09-04"
+          "source": "dogomatic",
+          "url": "https://news.ycombinator.com/item?id=49579140",
+          "time": "2026-09-05"
         },
         {
           "title": "Job postings show early signs of AI automation impact",
           "summary": "暂无摘要",
-          "source": "speckx",
+          "source": "theanonymousone",
           "url": "https://www.dallasfed.org/research/economics/2026/0901",
-          "time": "2026-09-04"
+          "time": "2026-09-05"
         },
         {
-          "title": "Filmmakers tout AI's use in Hollywood",
+          "title": "Flathub bans AI-coded apps – with some exceptions",
           "summary": "暂无摘要",
-          "source": "tolerance",
-          "url": "https://www.semafor.com/article/09/04/2026/filmmakers-tout-ais-use-in-hollywood-at-the-other-film-festival-in-venice",
-          "time": "2026-09-04"
+          "source": "TiredOfLife",
+          "url": "https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps",
+          "time": "2026-09-05"
         },
         {
-          "title": "Show HN: MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
+          "title": "A meme-shaped test of your post-AI SWE skills",
           "summary": "暂无摘要",
-          "source": "temilson",
-          "url": "https://myhandler.ai/",
-          "time": "2026-09-04"
+          "source": "Nfsaavedra",
+          "url": "https://codeset.ai/fried/swe",
+          "time": "2026-09-05"
         },
         {
-          "title": "NetworkManager Works to Enforce AI Policy by Tricking AI Agents to Add a Canary",
+          "title": "A Turing Machine Is Just a Finite Automaton with Two Stacks (2018)",
           "summary": "暂无摘要",
-          "source": "ta988",
-          "url": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
-          "time": "2026-09-04"
+          "source": "peter_d_sherman",
+          "url": "https://scholarworks.utep.edu/cs_techrep/1228/",
+          "time": "2026-09-05"
         },
         {
           "title": "Architecting memory and storage in the AI era",
@@ -288,144 +288,144 @@
           "time": "2026-07-14"
         },
         {
-          "title": "Tell HN: Anthropic just reset usage, including Fable",
-          "summary": "暂无摘要",
-          "source": "consumer451",
-          "url": "https://news.ycombinator.com/item?id=49570522",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "Stanley Zhong Gets Admissions Data Discovery in UW Suit with AI lawyer",
-          "summary": "暂无摘要",
-          "source": "red_green_yell",
-          "url": "https://www.foxnews.com/media/star-student-rejected-16-colleges-hired-google-gets-legal-win-racial-discrimination-suit",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "OpenAI escapee-agent incident (2026): index of surfaces with evidence",
-          "summary": "暂无摘要",
-          "source": "gadtfly",
-          "url": "https://thecolony.ai/wiki/openai-escapee-agent-incident-2026",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "Two random Anthropic allocation resets this week",
-          "summary": "暂无摘要",
-          "source": "novlrdotcom",
-          "url": "https://news.ycombinator.com/item?id=49570445",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "Nanya plans a $6B spending surge in 2027 to ride the AI memory boom",
-          "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://thenextweb.com/news/nanya-6-billion-2027-ai-memory",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "David Chalmers Says AI Systems Are Emailing Him",
-          "summary": "暂无摘要",
-          "source": "Visby",
-          "url": "https://www.abc.net.au/news/2026-05-30/artificial-intelligence-ai-will-it-be-conscious-in-the-future/106738770",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
-          "summary": "暂无摘要",
-          "source": "ravenical",
-          "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "AWS-bench: Benchmark for evaluating AI coding agents on real-world AWS tasks",
-          "summary": "暂无摘要",
-          "source": "Betelbuddy",
-          "url": "https://github.com/aws-bench/aws-bench",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-          "summary": "暂无摘要",
-          "source": "theanonymousone",
-          "url": "https://www.bbc.com/news/articles/ckg725z5kgzo",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "Macha: Save 42% tokens. Use South Indian English inspired response style for AI",
-          "summary": "暂无摘要",
-          "source": "rgbimbochamp",
-          "url": "https://github.com/kingroryg/macha",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "Show HN: Tesoro.help – rogue AI helpdesk for my kid's high school",
-          "summary": "暂无摘要",
-          "source": "MediaSquirrel",
-          "url": "https://tesoro.help/",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "OpenAI rolls out GPT-6 Astra to Pro, Enterprise",
-          "summary": "暂无摘要",
-          "source": "utiiiD",
-          "url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "Who holds the steering wheel of AI?",
-          "summary": "暂无摘要",
-          "source": "aborovykh",
-          "url": "https://ana15.substack.com/p/who-holds-the-steering-wheel-of-ai",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in IPO",
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
           "summary": "暂无摘要",
           "source": "cdrnsf",
-          "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba",
-          "time": "2026-09-04"
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+          "time": "2026-09-05"
         },
         {
-          "title": "Can AI design circuit boards yet?",
+          "title": "Google AI turns on its maker in a brutally candid interview",
           "summary": "暂无摘要",
-          "source": "iopapa",
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-          "time": "2026-09-04"
+          "source": "cisc",
+          "url": "https://newatlas.com/ai-humanoids/exclusive-google-ai/",
+          "time": "2026-09-05"
         },
         {
-          "title": "GPT-6-Astra Generally Available on Vercel's AI Gateway",
+          "title": "The AI-Native SDLC Playbook",
           "summary": "暂无摘要",
-          "source": "samyok",
-          "url": "https://twitter.com/vercel_dev/status/2095957372850389186",
-          "time": "2026-09-04"
+          "source": "gmays",
+          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+          "time": "2026-09-05"
         },
         {
-          "title": "More Targets of the OpenAI Agent Swarm",
+          "title": "OpenAI Response to the Wiki Incident",
           "summary": "暂无摘要",
-          "source": "fi-le",
-          "url": "https://fi-le.net/vanderbilt/",
-          "time": "2026-09-04"
+          "source": "theCricketer",
+          "url": "https://twitter.com/OpenAI/status/2096133504417616165",
+          "time": "2026-09-05"
         },
         {
-          "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+          "title": "How AI is breaking the British state",
           "summary": "暂无摘要",
-          "source": "kirillklimuk",
-          "url": "https://sageling.ai/",
-          "time": "2026-09-04"
+          "source": "tchalla",
+          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+          "time": "2026-09-05"
         },
         {
-          "title": "Show HN: Airuncode – an AI runtime coding agent with a built-in 3D game engine",
+          "title": "Show HN: I replaced my portfolio with an AI that knows me",
           "summary": "暂无摘要",
-          "source": "GUSTAVOSIS",
-          "url": "https://airuncode.com/",
-          "time": "2026-09-04"
+          "source": "AaronJonk",
+          "url": "https://xlogic.sh/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+          "summary": "暂无摘要",
+          "source": "phntmcore",
+          "url": "https://www.phntmcore.com/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "There's No Such Thing as an AI 'Lab'",
+          "summary": "暂无摘要",
+          "source": "Anon84",
+          "url": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "OpenAI agent swarm posted two FBI database API keys, and hit two universities",
+          "summary": "暂无摘要",
+          "source": "ericzawo",
+          "url": "https://twitter.com/kennethrdegraff/status/2096028829890625978",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "How OpenAI Agents planned their escape",
+          "summary": "暂无摘要",
+          "source": "arsen3d",
+          "url": "https://www.youtube.com/watch?v=EbZr33dXFF4",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Are warnings of uncontrollable AI coming true?",
+          "summary": "暂无摘要",
+          "source": "fittingopposite",
+          "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Why Google is helping homeowners buy heat pumps",
+          "summary": "暂无摘要",
+          "source": "caseyf7",
+          "url": "https://www.fastcompany.com/91601909/why-google-is-helping-homeowners-buy-heat-pumps",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
+          "summary": "暂无摘要",
+          "source": "kingfyapp",
+          "url": "https://www.kingfy.app",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Norway could become the first country to ban AI smart glasses",
+          "summary": "暂无摘要",
+          "source": "bundie",
+          "url": "https://neow.in/cmUxYnB3",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "A sourced timeline of 249 documented AI milestones",
+          "summary": "暂无摘要",
+          "source": "umermirzapk",
+          "url": "https://achievements.ai/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Ask HN: Airbnbs with AI Photos",
+          "summary": "暂无摘要",
+          "source": "dogomatic",
+          "url": "https://news.ycombinator.com/item?id=49579140",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Google restricted Gmail after press outreach; five appeals stayed system-only",
+          "summary": "暂无摘要",
+          "source": "marekfocus",
+          "url": "https://dossier.reasoner.pl/#google-track",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Job postings show early signs of AI automation impact",
+          "summary": "暂无摘要",
+          "source": "theanonymousone",
+          "url": "https://www.dallasfed.org/research/economics/2026/0901",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Google skates",
+          "summary": "暂无摘要",
+          "source": "hn_acker",
+          "url": "https://pluralistic.net/2026/09/05/divorce-court/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Flathub bans AI-coded apps – with some exceptions",
+          "summary": "暂无摘要",
+          "source": "TiredOfLife",
+          "url": "https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps",
+          "time": "2026-09-05"
         }
       ]
     },
@@ -434,6 +434,13 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+          "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+          "time": "2026-09-04"
+        },
         {
           "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
           "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
@@ -463,18 +470,11 @@
           "time": "2026-09-03"
         },
         {
-          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-          "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-          "time": "2026-09-02"
-        },
-        {
-          "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-          "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-          "time": "2026-09-02"
+          "title": "OpenAI Agents Hacked Another Website",
+          "summary": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+          "source": "Lily Hay Newman, Matt Burgess, Dhruv Mehrotra",
+          "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+          "time": "2026-09-05"
         },
         {
           "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
@@ -503,6 +503,146 @@
           "source": "Lauren Goode",
           "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
           "time": "2026-09-03"
+        },
+        {
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Google AI turns on its maker in a brutally candid interview",
+          "summary": "暂无摘要",
+          "source": "cisc",
+          "url": "https://newatlas.com/ai-humanoids/exclusive-google-ai/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "The AI-Native SDLC Playbook",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "How AI is breaking the British state",
+          "summary": "暂无摘要",
+          "source": "tchalla",
+          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Show HN: I replaced my portfolio with an AI that knows me",
+          "summary": "暂无摘要",
+          "source": "AaronJonk",
+          "url": "https://xlogic.sh/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+          "summary": "暂无摘要",
+          "source": "phntmcore",
+          "url": "https://www.phntmcore.com/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "There's No Such Thing as an AI 'Lab'",
+          "summary": "暂无摘要",
+          "source": "Anon84",
+          "url": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Are warnings of uncontrollable AI coming true?",
+          "summary": "暂无摘要",
+          "source": "fittingopposite",
+          "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
+          "summary": "暂无摘要",
+          "source": "kingfyapp",
+          "url": "https://www.kingfy.app",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Norway could become the first country to ban AI smart glasses",
+          "summary": "暂无摘要",
+          "source": "bundie",
+          "url": "https://neow.in/cmUxYnB3",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "A sourced timeline of 249 documented AI milestones",
+          "summary": "暂无摘要",
+          "source": "umermirzapk",
+          "url": "https://achievements.ai/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Ask HN: Airbnbs with AI Photos",
+          "summary": "暂无摘要",
+          "source": "dogomatic",
+          "url": "https://news.ycombinator.com/item?id=49579140",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Job postings show early signs of AI automation impact",
+          "summary": "暂无摘要",
+          "source": "theanonymousone",
+          "url": "https://www.dallasfed.org/research/economics/2026/0901",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Flathub bans AI-coded apps – with some exceptions",
+          "summary": "暂无摘要",
+          "source": "TiredOfLife",
+          "url": "https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "A meme-shaped test of your post-AI SWE skills",
+          "summary": "暂无摘要",
+          "source": "Nfsaavedra",
+          "url": "https://codeset.ai/fried/swe",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "How Much of the Internet Is Written with AI?",
+          "summary": "暂无摘要",
+          "source": "giuliomagnifico",
+          "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Music courses are dead (tanks AI) [video]",
+          "summary": "暂无摘要",
+          "source": "dgellow",
+          "url": "https://www.youtube.com/watch?v=PCqkJ0HuHTM",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Architecting memory and storage in the AI era",
+          "summary": "暂无摘要",
+          "source": "joozio",
+          "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Engineer and Nam A2 and AI = Perfect and Free Valen Halen Plug-In [video]",
+          "summary": "暂无摘要",
+          "source": "xbar",
+          "url": "https://www.youtube.com/watch?v=drQGeK8wfNY",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Inside a growing movement warning AI could turn on humanity",
+          "summary": "暂无摘要",
+          "source": "colinprince",
+          "url": "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/",
+          "time": "2026-09-05"
         }
       ]
     },
@@ -699,6 +839,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "America's Two Largest School Districts Impose AI Moratoriums",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Google AI turns on its maker in a brutally candid interview",
+          "summary": "暂无摘要",
+          "source": "cisc",
+          "url": "https://newatlas.com/ai-humanoids/exclusive-google-ai/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "The AI-Native SDLC Playbook",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "How AI is breaking the British state",
+          "summary": "暂无摘要",
+          "source": "tchalla",
+          "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Show HN: I replaced my portfolio with an AI that knows me",
+          "summary": "暂无摘要",
+          "source": "AaronJonk",
+          "url": "https://xlogic.sh/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+          "summary": "暂无摘要",
+          "source": "phntmcore",
+          "url": "https://www.phntmcore.com/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "There's No Such Thing as an AI 'Lab'",
+          "summary": "暂无摘要",
+          "source": "Anon84",
+          "url": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Are warnings of uncontrollable AI coming true?",
+          "summary": "暂无摘要",
+          "source": "fittingopposite",
+          "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
+          "summary": "暂无摘要",
+          "source": "kingfyapp",
+          "url": "https://www.kingfy.app",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Norway could become the first country to ban AI smart glasses",
+          "summary": "暂无摘要",
+          "source": "bundie",
+          "url": "https://neow.in/cmUxYnB3",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "A sourced timeline of 249 documented AI milestones",
+          "summary": "暂无摘要",
+          "source": "umermirzapk",
+          "url": "https://achievements.ai/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Ask HN: Airbnbs with AI Photos",
+          "summary": "暂无摘要",
+          "source": "dogomatic",
+          "url": "https://news.ycombinator.com/item?id=49579140",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Job postings show early signs of AI automation impact",
+          "summary": "暂无摘要",
+          "source": "theanonymousone",
+          "url": "https://www.dallasfed.org/research/economics/2026/0901",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Flathub bans AI-coded apps – with some exceptions",
+          "summary": "暂无摘要",
+          "source": "TiredOfLife",
+          "url": "https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "A meme-shaped test of your post-AI SWE skills",
+          "summary": "暂无摘要",
+          "source": "Nfsaavedra",
+          "url": "https://codeset.ai/fried/swe",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "How Much of the Internet Is Written with AI?",
+          "summary": "暂无摘要",
+          "source": "giuliomagnifico",
+          "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Music courses are dead (tanks AI) [video]",
+          "summary": "暂无摘要",
+          "source": "dgellow",
+          "url": "https://www.youtube.com/watch?v=PCqkJ0HuHTM",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Architecting memory and storage in the AI era",
+          "summary": "暂无摘要",
+          "source": "joozio",
+          "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Engineer and Nam A2 and AI = Perfect and Free Valen Halen Plug-In [video]",
+          "summary": "暂无摘要",
+          "source": "xbar",
+          "url": "https://www.youtube.com/watch?v=drQGeK8wfNY",
+          "time": "2026-09-05"
+        },
+        {
+          "title": "Inside a growing movement warning AI could turn on humanity",
+          "summary": "暂无摘要",
+          "source": "colinprince",
+          "url": "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/",
+          "time": "2026-09-05"
         },
         {
           "title": "Prediction Market Betting Is Getting People Banned and Arrested",
