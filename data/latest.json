@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-09-06T21:51:04.466Z",
-  "date": "2026年9月6日 21时51分",
+  "updateTime": "2026-09-07T22:23:36.721Z",
+  "date": "2026年9月7日 22时23分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Quire – humans and AI agents editing local Markdown together",
+          "summary": "暂无摘要",
+          "source": "heet_dalsania",
+          "url": "https://github.com/heetdalsania/quire",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Lightpanda Session Bridge – Hand real logins to headless AI agents",
+          "summary": "暂无摘要",
+          "source": "Raknaos",
+          "url": "https://github.com/Raknaos/lightpanda-session-bridge",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "The Better You Are at Programming, the Worse AI Looks [video]",
+          "summary": "暂无摘要",
+          "source": "happy-go-lucky",
+          "url": "https://www.youtube.com/watch?v=_590TxMwvWM",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Australian government to chart course away from 'American war machine'",
+          "summary": "暂无摘要",
+          "source": "Alien1Being",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/08/grassroots-labor-pressure-group-albanese-government-us-military-war-machine",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Actually Real AI",
+          "summary": "暂无摘要",
+          "source": "measurablefunc",
+          "url": "https://actually-real-ai.com/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "DoodleIQ – Rent your idle local-LLM machine to others by the second",
+          "summary": "暂无摘要",
+          "source": "rahulbats",
+          "url": "https://www.doodleiq.com/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Please, take 2 min to tell your representative to regulate AI (US)",
+          "summary": "暂无摘要",
+          "source": "doitLP",
+          "url": "https://actonai.org/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "The smallest edge AI device for local LLMs",
+          "summary": "暂无摘要",
+          "source": "alex-moon",
+          "url": "https://tiiny.ai/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "DeepSeek V4 Flash across 14 providers: cost, speed and caching",
+          "summary": "暂无摘要",
+          "source": "batuhanaktas61",
+          "url": "https://www.inference.academy/benchmarks/serving-tradeoffs",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Leaving VMware Just Got Harder After Broadcom Pulled VDDK Downloads",
+          "summary": "暂无摘要",
+          "source": "josephcsible",
+          "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+          "summary": "暂无摘要",
+          "source": "DeepLogin",
+          "url": "https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Teaching Prevents Learning",
+          "summary": "暂无摘要",
+          "source": "Marius_Manola",
+          "url": "https://twitter.com/marius_manola/status/2095920613768536180",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Code Reviews in the Age of AI",
+          "summary": "暂无摘要",
+          "source": "danielmartins",
+          "url": "https://danielfm.me/posts/code-reviews-in-the-age-of-ai/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "MiniCPM5-2B – new leading ≤4B model",
+          "summary": "暂无摘要",
+          "source": "networked",
+          "url": "https://artificialanalysis.ai/models/minicpm5-2b",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Revise AI, an AI editor for fiction writers",
+          "summary": "暂无摘要",
+          "source": "sansil",
+          "url": "https://www.revise.net",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "An AI agent bought a physical t-shirt over HTTP 402 with USDC, no human involved",
+          "summary": "暂无摘要",
+          "source": "agenticbotbot",
+          "url": "https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Turning Quick Notes into Long-Term AI Memory",
+          "summary": "暂无摘要",
+          "source": "danbarbarito",
+          "url": "https://barbarito.me/notes-workflow/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Tesla killing Solar Roof is leaving installers with six-figure losses",
+          "summary": "暂无摘要",
+          "source": "voxadam",
+          "url": "https://electrek.co/2026/09/01/tesla-solar-roof-exit-installers-losses/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Replaceable but Employed: Automation and the Meaning of Work",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.nber.org/papers/w35559",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "AI Cold Showers",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+          "time": "2026-09-07"
+        },
         {
           "title": "Architecting memory and storage in the AI era",
           "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
@@ -146,6 +286,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
           "time": "2026-07-14"
+        },
+        {
+          "title": "Quire – humans and AI agents editing local Markdown together",
+          "summary": "暂无摘要",
+          "source": "heet_dalsania",
+          "url": "https://github.com/heetdalsania/quire",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Lightpanda Session Bridge – Hand real logins to headless AI agents",
+          "summary": "暂无摘要",
+          "source": "Raknaos",
+          "url": "https://github.com/Raknaos/lightpanda-session-bridge",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "The Better You Are at Programming, the Worse AI Looks [video]",
+          "summary": "暂无摘要",
+          "source": "happy-go-lucky",
+          "url": "https://www.youtube.com/watch?v=_590TxMwvWM",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Why Meta Wanted to Pay $18B [video]",
+          "summary": "暂无摘要",
+          "source": "DyslexicAtheist",
+          "url": "https://www.youtube.com/watch?v=IUMUJgjDvU0",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Actually Real AI",
+          "summary": "暂无摘要",
+          "source": "measurablefunc",
+          "url": "https://actually-real-ai.com/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Please, take 2 min to tell your representative to regulate AI (US)",
+          "summary": "暂无摘要",
+          "source": "doitLP",
+          "url": "https://actonai.org/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "The smallest edge AI device for local LLMs",
+          "summary": "暂无摘要",
+          "source": "alex-moon",
+          "url": "https://tiiny.ai/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+          "summary": "暂无摘要",
+          "source": "DeepLogin",
+          "url": "https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Code Reviews in the Age of AI",
+          "summary": "暂无摘要",
+          "source": "danielmartins",
+          "url": "https://danielfm.me/posts/code-reviews-in-the-age-of-ai/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Revise AI, an AI editor for fiction writers",
+          "summary": "暂无摘要",
+          "source": "sansil",
+          "url": "https://www.revise.net",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "An AI agent bought a physical t-shirt over HTTP 402 with USDC, no human involved",
+          "summary": "暂无摘要",
+          "source": "agenticbotbot",
+          "url": "https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Turning Quick Notes into Long-Term AI Memory",
+          "summary": "暂无摘要",
+          "source": "danbarbarito",
+          "url": "https://barbarito.me/notes-workflow/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "AI Cold Showers",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Botsitting: The Unpaid Labour Behind Every AI Productivity Claim",
+          "summary": "暂无摘要",
+          "source": "dxs",
+          "url": "https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Secret Collusion Among AI Agents",
+          "summary": "暂无摘要",
+          "source": "phaseonebig",
+          "url": "https://arxiv.org/abs/2402.07510",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "The Foundations of Modern AI: Generalization, Data Selection, and Epiplexity",
+          "summary": "暂无摘要",
+          "source": "E-Reverance",
+          "url": "https://www.youtube.com/watch?v=lKoJJxjUfdw",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Ask HN: How do you know a prompt is \"complex\" for an AI model?",
+          "summary": "暂无摘要",
+          "source": "faryadz",
+          "url": "https://news.ycombinator.com/item?id=49601670",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "The AI Shift Turning Everyday Investors into Mini Quant Funds",
+          "summary": "暂无摘要",
+          "source": "7777777phil",
+          "url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+          "summary": "暂无摘要",
+          "source": "Areibman",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "time": "2026-09-07"
         }
       ]
     },
@@ -155,7 +435,7 @@
       "icon": "💼",
       "news": [
         {
-          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+          "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
           "summary": "The round is being raised just months after the robot data startup exited from stealth.",
           "source": "Marina Temkin",
           "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -209,6 +489,146 @@
           "source": "Maxwell Zeff",
           "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
           "time": "2026-09-03"
+        },
+        {
+          "title": "Quire – humans and AI agents editing local Markdown together",
+          "summary": "暂无摘要",
+          "source": "heet_dalsania",
+          "url": "https://github.com/heetdalsania/quire",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Lightpanda Session Bridge – Hand real logins to headless AI agents",
+          "summary": "暂无摘要",
+          "source": "Raknaos",
+          "url": "https://github.com/Raknaos/lightpanda-session-bridge",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "The Better You Are at Programming, the Worse AI Looks [video]",
+          "summary": "暂无摘要",
+          "source": "happy-go-lucky",
+          "url": "https://www.youtube.com/watch?v=_590TxMwvWM",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Actually Real AI",
+          "summary": "暂无摘要",
+          "source": "measurablefunc",
+          "url": "https://actually-real-ai.com/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Please, take 2 min to tell your representative to regulate AI (US)",
+          "summary": "暂无摘要",
+          "source": "doitLP",
+          "url": "https://actonai.org/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "The smallest edge AI device for local LLMs",
+          "summary": "暂无摘要",
+          "source": "alex-moon",
+          "url": "https://tiiny.ai/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+          "summary": "暂无摘要",
+          "source": "DeepLogin",
+          "url": "https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Code Reviews in the Age of AI",
+          "summary": "暂无摘要",
+          "source": "danielmartins",
+          "url": "https://danielfm.me/posts/code-reviews-in-the-age-of-ai/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Revise AI, an AI editor for fiction writers",
+          "summary": "暂无摘要",
+          "source": "sansil",
+          "url": "https://www.revise.net",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "An AI agent bought a physical t-shirt over HTTP 402 with USDC, no human involved",
+          "summary": "暂无摘要",
+          "source": "agenticbotbot",
+          "url": "https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Turning Quick Notes into Long-Term AI Memory",
+          "summary": "暂无摘要",
+          "source": "danbarbarito",
+          "url": "https://barbarito.me/notes-workflow/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "AI Cold Showers",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Botsitting: The Unpaid Labour Behind Every AI Productivity Claim",
+          "summary": "暂无摘要",
+          "source": "dxs",
+          "url": "https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Secret Collusion Among AI Agents",
+          "summary": "暂无摘要",
+          "source": "phaseonebig",
+          "url": "https://arxiv.org/abs/2402.07510",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "The Foundations of Modern AI: Generalization, Data Selection, and Epiplexity",
+          "summary": "暂无摘要",
+          "source": "E-Reverance",
+          "url": "https://www.youtube.com/watch?v=lKoJJxjUfdw",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Ask HN: How do you know a prompt is \"complex\" for an AI model?",
+          "summary": "暂无摘要",
+          "source": "faryadz",
+          "url": "https://news.ycombinator.com/item?id=49601670",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "The AI Shift Turning Everyday Investors into Mini Quant Funds",
+          "summary": "暂无摘要",
+          "source": "7777777phil",
+          "url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+          "summary": "暂无摘要",
+          "source": "Areibman",
+          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Show HN: Can you tell a real tweet of a certain user from an AI one?",
+          "summary": "暂无摘要",
+          "source": "ruggsea",
+          "url": "https://socialsimbench.com/",
+          "time": "2026-09-07"
+        },
+        {
+          "title": "Adobe ends an 18-year era as AI pressure mounts",
+          "summary": "暂无摘要",
+          "source": "healsdata",
+          "url": "https://sg.finance.yahoo.com/news/adobe-ends-18-era-ai-191300355.html",
+          "time": "2026-09-07"
         }
       ]
     },
