@@ -1,12 +1,19 @@
 {
-  "updateTime": "2026-09-08T22:10:07.461Z",
-  "date": "2026年9月8日 22时10分",
+  "updateTime": "2026-09-09T22:06:07.101Z",
+  "date": "2026年9月9日 22时6分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "What OpenAI’s latest controversy tells us about the future of math",
+          "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+          "time": "2026-09-09"
+        },
         {
           "title": "Architecting memory and storage in the AI era",
           "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
@@ -42,6 +49,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Recreating a 70-year love story frame by frame",
+          "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+          "time": "2026-09-09"
+        },
         {
           "title": "The latest AI news we announced in August 2026",
           "summary": "Here are Google’s latest AI updates from August 2026",
@@ -132,13 +146,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
           "time": "2026-07-16"
-        },
-        {
-          "title": "Celebrating 25 years of visual search innovation",
-          "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-          "time": "2026-07-14"
         }
       ]
     },
@@ -148,39 +155,18 @@
       "icon": "💼",
       "news": [
         {
-          "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-          "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-          "time": "2026-09-08"
+          "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+          "summary": "Besxar, a startup founded by former OpenAI staffer Ashley Pilipiszyn, wants to make the key precursors for advanced semiconductors by taking advantage of the vacuum of space.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+          "time": "2026-09-09"
         },
         {
-          "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-          "source": "Russell Brandom",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-          "time": "2026-09-08"
-        },
-        {
-          "title": "Mistral raises €3B as sovereign AI becomes big business",
-          "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-          "source": "Anna Heim",
-          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-          "time": "2026-09-08"
-        },
-        {
-          "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-          "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-          "time": "2026-09-04"
+          "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+          "summary": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+          "source": "Lauren Goode",
+          "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+          "time": "2026-09-09"
         },
         {
           "title": "OpenAI Agents Hacked Another Website",
@@ -188,20 +174,6 @@
           "source": "Lily Hay Newman, Matt Burgess, Dhruv Mehrotra",
           "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
           "time": "2026-09-05"
-        },
-        {
-          "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
-          "summary": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
-          "source": "Jill Duffy",
-          "url": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
-          "time": "2026-09-04"
-        },
-        {
-          "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-          "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-          "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-          "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-          "time": "2026-09-03"
         }
       ]
     },
@@ -400,18 +372,11 @@
           "time": "2026-09-08"
         },
         {
-          "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+          "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can’t Quit",
           "summary": "Polls show that overwhelming majorities of Americans hate data centers. China makes a perfect scapegoat for tech leaders and their allies—the only problem is a lack of evidence.",
           "source": "Molly Taft",
           "url": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
           "time": "2026-09-06"
-        },
-        {
-          "title": "Prediction Market Betting Is Getting People Banned and Arrested",
-          "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-          "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-          "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-          "time": "2026-09-03"
         }
       ]
     }
