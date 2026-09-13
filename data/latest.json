@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-12T21:49:03.232Z",
-  "date": "2026年9月12日 21时49分",
+  "updateTime": "2026-09-13T21:56:00.863Z",
+  "date": "2026年9月13日 21时56分",
   "categories": [
     {
       "id": "tech",
@@ -167,13 +167,6 @@
           "source": "Kirsten Korosec",
           "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
           "time": "2026-09-11"
-        },
-        {
-          "title": "Maven Robotics wants to steal your robot deployment deal",
-          "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-          "time": "2026-09-10"
         },
         {
           "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
