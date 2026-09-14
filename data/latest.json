@@ -1,12 +1,159 @@
 {
-  "updateTime": "2026-09-13T21:56:00.863Z",
-  "date": "2026年9月13日 21时56分",
+  "updateTime": "2026-09-14T22:51:52.092Z",
+  "date": "2026年9月14日 22时51分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Nvidia CEO Jensen Huang tells Trump we're not going to let an AI slowdown happen",
+          "summary": "暂无摘要",
+          "source": "neilfrndes",
+          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "A statement from 1,386 employees of frontier AI companies",
+          "summary": "暂无摘要",
+          "source": "rvz",
+          "url": "https://www.pacingthefrontier.com/#about",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Short-video-generator-AI and 11 more trending open-source AI repos week 38, 2026",
+          "summary": "暂无摘要",
+          "source": "thezakulo",
+          "url": "https://thezakulo.com/weekly/2026-w38/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "LLMs are real, AI is fake",
+          "summary": "暂无摘要",
+          "source": "andy99",
+          "url": "https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "AI safety / ethics are fake fields and merely exist to create more power brokers",
+          "summary": "暂无摘要",
+          "source": "CGMthrowaway",
+          "url": "https://twitter.com/ctjlewis/status/1565787130386857986",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "AI and Existential Dread",
+          "summary": "暂无摘要",
+          "source": "seanbarry",
+          "url": "https://seanbarry.dev/posts/ai-and-existential-dread/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Ask HN: What do you miss in language learning apps?",
+          "summary": "暂无摘要",
+          "source": "zecice",
+          "url": "https://news.ycombinator.com/item?id=49704898",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Show HN: Nowdex – AI agent usage on your iPhone",
+          "summary": "暂无摘要",
+          "source": "djyde",
+          "url": "https://nowdex.app/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Show HN: Learn CRISPR in 3D in any language",
+          "summary": "暂无摘要",
+          "source": "1auralynn",
+          "url": "https://viewer.10k.science/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "A zero-dependency Python loop detector for AI agents",
+          "summary": "暂无摘要",
+          "source": "GSingGras",
+          "url": "https://github.com/data-gras/savi-loop-guard",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "A Letter from a Machine Learning Engineer",
+          "summary": "暂无摘要",
+          "source": "sampsn",
+          "url": "https://nemin.hu/llm-letter/index.html",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "AI Doomer Hypeloop Suspiciously Serves to Support OpenAI and Anthropic's Agenda",
+          "summary": "暂无摘要",
+          "source": "iamnothere",
+          "url": "https://www.nakedcapitalism.com/2026/09/openai-anthropic-ai-freeze-doomers-trump-bannon-sanders.html",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Want to stop AI from destroying the world? Make it Open Source",
+          "summary": "暂无摘要",
+          "source": "foxtrot8672",
+          "url": "https://news.ycombinator.com/item?id=49704558",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Show HN: reqlan – a language for requirement graphs next to the code",
+          "summary": "暂无摘要",
+          "source": "littletuna4",
+          "url": "https://reqlan.com",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)",
+          "summary": "暂无摘要",
+          "source": "yurivish",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Nobody's safe from misaligned AI-not even the people building it",
+          "summary": "暂无摘要",
+          "source": "causal-alignmen",
+          "url": "https://news.ycombinator.com/item?id=49704182",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Personal Statement on AI Risk",
+          "summary": "暂无摘要",
+          "source": "mellosouls",
+          "url": "https://docs.google.com/document/u/0/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub?pli=1",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "California lawmakers urge criminal penalties emergency legislation to rein in AI",
+          "summary": "暂无摘要",
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.latimes.com/california/story/2026-09-13/rogue-ai-concerns-prompt-ca-lawmakers-to-demand-penalties-guardrails",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "SWE-Bench Multimodal: Do AI Systems Generalize to Visual Software Domains?",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://www.swebench.com/multimodal.html",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://arxiv.org/abs/2609.12551",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "The AI industry has taken a doomer turn. What now?",
+          "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for",
+          "source": "Will Douglas Heaven",
+          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+          "time": "2026-09-14"
+        },
         {
           "title": "What OpenAI’s latest controversy tells us about the future of math",
           "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
@@ -27,13 +174,6 @@
           "source": "Grace Huckins",
           "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
           "time": "2026-08-31"
-        },
-        {
-          "title": "The inside story on why OpenAI agents hacked Hugging Face",
-          "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
-          "source": "Grace Huckins",
-          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-          "time": "2026-08-26"
         }
       ]
     },
@@ -42,6 +182,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+          "time": "2026-09-14"
+        },
         {
           "title": "Recreating a 70-year love story frame by frame",
           "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
@@ -127,11 +274,144 @@
           "time": "2026-07-28"
         },
         {
-          "title": "3 Google updates from Galaxy Unpacked 2026",
-          "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-          "time": "2026-07-22"
+          "title": "Nvidia CEO Jensen Huang tells Trump we're not going to let an AI slowdown happen",
+          "summary": "暂无摘要",
+          "source": "neilfrndes",
+          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "A statement from 1,386 employees of frontier AI companies",
+          "summary": "暂无摘要",
+          "source": "rvz",
+          "url": "https://www.pacingthefrontier.com/#about",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Short-video-generator-AI and 11 more trending open-source AI repos week 38, 2026",
+          "summary": "暂无摘要",
+          "source": "thezakulo",
+          "url": "https://thezakulo.com/weekly/2026-w38/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "LLMs are real, AI is fake",
+          "summary": "暂无摘要",
+          "source": "andy99",
+          "url": "https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "AI safety / ethics are fake fields and merely exist to create more power brokers",
+          "summary": "暂无摘要",
+          "source": "CGMthrowaway",
+          "url": "https://twitter.com/ctjlewis/status/1565787130386857986",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "AI and Existential Dread",
+          "summary": "暂无摘要",
+          "source": "seanbarry",
+          "url": "https://seanbarry.dev/posts/ai-and-existential-dread/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Show HN: Nowdex – AI agent usage on your iPhone",
+          "summary": "暂无摘要",
+          "source": "djyde",
+          "url": "https://nowdex.app/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "A zero-dependency Python loop detector for AI agents",
+          "summary": "暂无摘要",
+          "source": "GSingGras",
+          "url": "https://github.com/data-gras/savi-loop-guard",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "AI Doomer Hypeloop Suspiciously Serves to Support OpenAI and Anthropic's Agenda",
+          "summary": "暂无摘要",
+          "source": "iamnothere",
+          "url": "https://www.nakedcapitalism.com/2026/09/openai-anthropic-ai-freeze-doomers-trump-bannon-sanders.html",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Want to stop AI from destroying the world? Make it Open Source",
+          "summary": "暂无摘要",
+          "source": "foxtrot8672",
+          "url": "https://news.ycombinator.com/item?id=49704558",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)",
+          "summary": "暂无摘要",
+          "source": "yurivish",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Nobody's safe from misaligned AI-not even the people building it",
+          "summary": "暂无摘要",
+          "source": "causal-alignmen",
+          "url": "https://news.ycombinator.com/item?id=49704182",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+          "summary": "暂无摘要",
+          "source": "yusufozkan",
+          "url": "https://www.effort.news/irregular",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Personal Statement on AI Risk",
+          "summary": "暂无摘要",
+          "source": "mellosouls",
+          "url": "https://docs.google.com/document/u/0/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub?pli=1",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "California lawmakers urge criminal penalties emergency legislation to rein in AI",
+          "summary": "暂无摘要",
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.latimes.com/california/story/2026-09-13/rogue-ai-concerns-prompt-ca-lawmakers-to-demand-penalties-guardrails",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "SWE-Bench Multimodal: Do AI Systems Generalize to Visual Software Domains?",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://www.swebench.com/multimodal.html",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://arxiv.org/abs/2609.12551",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Add custom AI model providers to Siri in macOS 27",
+          "summary": "暂无摘要",
+          "source": "marcelpociot",
+          "url": "https://twitter.com/marcelpociot/status/2099604010634207678",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "We grew AI usage 52x, then cut our costs 90%",
+          "summary": "暂无摘要",
+          "source": "simonebrunozzi",
+          "url": "https://www.prosus.com/news-insights/2026/we-grew-ai-usage-52x-then-cut-our-costs-90-percent-heres-how",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "The current debate about AI replacing Mathematicians (take 2)",
+          "summary": "暂无摘要",
+          "source": "Tyyps",
+          "url": "https://www.wisdom.weizmann.ac.il/~oded/on-proofs-t2.html",
+          "time": "2026-09-14"
         }
       ]
     },
@@ -140,6 +420,34 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+          "source": "Amanda Silberling",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+          "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+          "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional fo",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+          "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
+          "time": "2026-09-14"
+        },
         {
           "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
           "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
@@ -162,18 +470,151 @@
           "time": "2026-09-11"
         },
         {
-          "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-          "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-          "source": "Kirsten Korosec",
-          "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-          "time": "2026-09-11"
-        },
-        {
           "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
           "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
           "source": "Andy Greenberg, Lily Hay Newman, Dell Cameron",
           "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
           "time": "2026-09-12"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang tells Trump we're not going to let an AI slowdown happen",
+          "summary": "暂无摘要",
+          "source": "neilfrndes",
+          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "A statement from 1,386 employees of frontier AI companies",
+          "summary": "暂无摘要",
+          "source": "rvz",
+          "url": "https://www.pacingthefrontier.com/#about",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Short-video-generator-AI and 11 more trending open-source AI repos week 38, 2026",
+          "summary": "暂无摘要",
+          "source": "thezakulo",
+          "url": "https://thezakulo.com/weekly/2026-w38/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "LLMs are real, AI is fake",
+          "summary": "暂无摘要",
+          "source": "andy99",
+          "url": "https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "AI safety / ethics are fake fields and merely exist to create more power brokers",
+          "summary": "暂无摘要",
+          "source": "CGMthrowaway",
+          "url": "https://twitter.com/ctjlewis/status/1565787130386857986",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "AI and Existential Dread",
+          "summary": "暂无摘要",
+          "source": "seanbarry",
+          "url": "https://seanbarry.dev/posts/ai-and-existential-dread/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Show HN: Nowdex – AI agent usage on your iPhone",
+          "summary": "暂无摘要",
+          "source": "djyde",
+          "url": "https://nowdex.app/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "A zero-dependency Python loop detector for AI agents",
+          "summary": "暂无摘要",
+          "source": "GSingGras",
+          "url": "https://github.com/data-gras/savi-loop-guard",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "AI Doomer Hypeloop Suspiciously Serves to Support OpenAI and Anthropic's Agenda",
+          "summary": "暂无摘要",
+          "source": "iamnothere",
+          "url": "https://www.nakedcapitalism.com/2026/09/openai-anthropic-ai-freeze-doomers-trump-bannon-sanders.html",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Want to stop AI from destroying the world? Make it Open Source",
+          "summary": "暂无摘要",
+          "source": "foxtrot8672",
+          "url": "https://news.ycombinator.com/item?id=49704558",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Personal Statement on AI Risk (Daniel Selsam, OpenAI capabilities)",
+          "summary": "暂无摘要",
+          "source": "yurivish",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Nobody's safe from misaligned AI-not even the people building it",
+          "summary": "暂无摘要",
+          "source": "causal-alignmen",
+          "url": "https://news.ycombinator.com/item?id=49704182",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Personal Statement on AI Risk",
+          "summary": "暂无摘要",
+          "source": "mellosouls",
+          "url": "https://docs.google.com/document/u/0/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub?pli=1",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "California lawmakers urge criminal penalties emergency legislation to rein in AI",
+          "summary": "暂无摘要",
+          "source": "1vuio0pswjnm7",
+          "url": "https://www.latimes.com/california/story/2026-09-13/rogue-ai-concerns-prompt-ca-lawmakers-to-demand-penalties-guardrails",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "SWE-Bench Multimodal: Do AI Systems Generalize to Visual Software Domains?",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://www.swebench.com/multimodal.html",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://arxiv.org/abs/2609.12551",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Add custom AI model providers to Siri in macOS 27",
+          "summary": "暂无摘要",
+          "source": "marcelpociot",
+          "url": "https://twitter.com/marcelpociot/status/2099604010634207678",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "We grew AI usage 52x, then cut our costs 90%",
+          "summary": "暂无摘要",
+          "source": "simonebrunozzi",
+          "url": "https://www.prosus.com/news-insights/2026/we-grew-ai-usage-52x-then-cut-our-costs-90-percent-heres-how",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "The current debate about AI replacing Mathematicians (take 2)",
+          "summary": "暂无摘要",
+          "source": "Tyyps",
+          "url": "https://www.wisdom.weizmann.ac.il/~oded/on-proofs-t2.html",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Anthropic's AI architect argued that discrimination could combat stigmas",
+          "summary": "暂无摘要",
+          "source": "like_any_other",
+          "url": "https://www.europesays.com/people/38239/",
+          "time": "2026-09-14"
         }
       ]
     },
@@ -183,18 +624,18 @@
       "icon": "💡",
       "news": [
         {
+          "title": "The AI industry has taken a doomer turn. What now?",
+          "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for",
+          "source": "Will Douglas Heaven",
+          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+          "time": "2026-09-14"
+        },
+        {
           "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur",
           "source": "Grace Huckins",
           "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
           "time": "2026-08-31"
-        },
-        {
-          "title": "The inside story on why OpenAI agents hacked Hugging Face",
-          "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
-          "source": "Grace Huckins",
-          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-          "time": "2026-08-26"
         }
       ]
     },
@@ -363,6 +804,20 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+          "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
+          "source": "Isabella Ward",
+          "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+          "time": "2026-09-14"
+        },
+        {
+          "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+          "summary": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
+          "source": "Matt Burgess",
+          "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+          "time": "2026-09-14"
         },
         {
           "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
