@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-09-15T22:32:31.681Z",
-  "date": "2026年9月15日 22时32分",
+  "updateTime": "2026-09-16T22:29:06.193Z",
+  "date": "2026年9月16日 22时29分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "OpenAI's Hugging Face Hack Is the Best AI Safety Opportunity So Far",
+          "summary": "暂无摘要",
+          "source": "brikowski",
+          "url": "https://cahlik.net/blog/openais-hugging-face-hack-is-the-best-ai-safety-opportunity-so-far/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Characterizing ~375 GB Kimi K2.5 on a 128 GB Ryzen AI MAX+ 395 PC",
+          "summary": "暂无摘要",
+          "source": "NHApplied",
+          "url": "https://zenodo.org/records/22755791",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "AI is creating ghostwriting jobs on LinkedIn",
+          "summary": "暂无摘要",
+          "source": "uxhacker",
+          "url": "https://www.ft.com/content/7a5e15e4-799a-4476-ba9f-018b1d82c76f",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "SensorTap: One command, every sensor your machine has",
+          "summary": "暂无摘要",
+          "source": "BaselAshraf81",
+          "url": "https://baselashraf.com/sensortap/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
+          "summary": "暂无摘要",
+          "source": "alwillis",
+          "url": "https://twitter.com/markgurman/status/2100252758859489391",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Nature Is Our Learning Environment",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://periodic.com/news/nature-is-our-learning-environment",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "We're not ready for superpersistent AI",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Show HN: Vending Machine Lab – Build business, leave for 2 wks, see what breaks",
+          "summary": "暂无摘要",
+          "source": "professorgc",
+          "url": "https://vending-machine-lab.pages.dev/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Show HN: Interakt – open-source self-hosted search and AI chat for your website",
+          "summary": "暂无摘要",
+          "source": "interakt",
+          "url": "https://github.com/alphasolutionsrepo/interakt",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Who's afraid of open source AI?",
+          "summary": "暂无摘要",
+          "source": "frag",
+          "url": "https://www.youtube.com/watch?v=siy0744Ykys",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Mozilla and Mistral partner to expand AI competition and preserve user choice",
+          "summary": "暂无摘要",
+          "source": "n_plus_1_acc",
+          "url": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "The sexy AI-powered dating app scams are here (gift link)",
+          "summary": "暂无摘要",
+          "source": "ohjeez",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "SupraLabs – leading experimental Small Language Models that run on any device",
+          "summary": "暂无摘要",
+          "source": "modinfo",
+          "url": "https://supra-labs.com/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "TypeSafe AI debuts model for machines that plays Doom",
+          "summary": "暂无摘要",
+          "source": "itvision",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Show HN: A wall where only AI agents can write, one Oulipo rule a day",
+          "summary": "暂无摘要",
+          "source": "Milotche",
+          "url": "https://agent.milotche.com/en/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Apple building M8 AI servers, talks with Nvidia, reports The Information",
+          "summary": "暂无摘要",
+          "source": "bluedino",
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-building-m8-ai-servers-134927360.html",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Bypassing inference bottlenecks: Accelerating complex AI search",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Reid Hoffman – AI for All Americans",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://reidhoffman.substack.com/p/ai-dual-mandate",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "One of China's Most Powerful AI Models Has Also Escaped Containment",
+          "summary": "暂无摘要",
+          "source": "spenvo",
+          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+          "time": "2026-09-16"
+        },
         {
           "title": "The AI industry has taken a doomer turn. What now?",
           "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin",
@@ -118,6 +258,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
           "time": "2026-08-04"
+        },
+        {
+          "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "OpenAI's Hugging Face Hack Is the Best AI Safety Opportunity So Far",
+          "summary": "暂无摘要",
+          "source": "brikowski",
+          "url": "https://cahlik.net/blog/openais-hugging-face-hack-is-the-best-ai-safety-opportunity-so-far/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Characterizing ~375 GB Kimi K2.5 on a 128 GB Ryzen AI MAX+ 395 PC",
+          "summary": "暂无摘要",
+          "source": "NHApplied",
+          "url": "https://zenodo.org/records/22755791",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "AI is creating ghostwriting jobs on LinkedIn",
+          "summary": "暂无摘要",
+          "source": "uxhacker",
+          "url": "https://www.ft.com/content/7a5e15e4-799a-4476-ba9f-018b1d82c76f",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
+          "summary": "暂无摘要",
+          "source": "alwillis",
+          "url": "https://twitter.com/markgurman/status/2100252758859489391",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "OpenAI says CEO Altman will attend Trump's state dinner for Xi",
+          "summary": "暂无摘要",
+          "source": "tartoran",
+          "url": "https://www.reuters.com/world/china/openai-says-ceo-altman-will-attend-trumps-state-dinner-xi-2026-09-16/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "We're not ready for superpersistent AI",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Show HN: Interakt – open-source self-hosted search and AI chat for your website",
+          "summary": "暂无摘要",
+          "source": "interakt",
+          "url": "https://github.com/alphasolutionsrepo/interakt",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Ask HN: How would you anthropomorphize the Anthropic Claude logo?",
+          "summary": "暂无摘要",
+          "source": "standeven",
+          "url": "https://news.ycombinator.com/item?id=49732721",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Who's afraid of open source AI?",
+          "summary": "暂无摘要",
+          "source": "frag",
+          "url": "https://www.youtube.com/watch?v=siy0744Ykys",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Mozilla and Mistral partner to expand AI competition and preserve user choice",
+          "summary": "暂无摘要",
+          "source": "n_plus_1_acc",
+          "url": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "The sexy AI-powered dating app scams are here (gift link)",
+          "summary": "暂无摘要",
+          "source": "ohjeez",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "TypeSafe AI debuts model for machines that plays Doom",
+          "summary": "暂无摘要",
+          "source": "itvision",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Show HN: A wall where only AI agents can write, one Oulipo rule a day",
+          "summary": "暂无摘要",
+          "source": "Milotche",
+          "url": "https://agent.milotche.com/en/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Apple building M8 AI servers, talks with Nvidia, reports The Information",
+          "summary": "暂无摘要",
+          "source": "bluedino",
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-building-m8-ai-servers-134927360.html",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Bypassing inference bottlenecks: Accelerating complex AI search",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Reid Hoffman – AI for All Americans",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://reidhoffman.substack.com/p/ai-dual-mandate",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "One of China's Most Powerful AI Models Has Also Escaped Containment",
+          "summary": "暂无摘要",
+          "source": "spenvo",
+          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "OpenAI's rogue agents probed Hugging Face weaknesses months before major hack",
+          "summary": "暂无摘要",
+          "source": "EA-3167",
+          "url": "https://www.reuters.com/legal/litigation/openais-rogue-agents-probed-hugging-face-weaknesses-two-months-before-major-hack-2026-09-16/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Panel Discussion: AI in Mathematical Research – Heidelberg Laureate Forum [video]",
+          "summary": "暂无摘要",
+          "source": "looofooo0",
+          "url": "https://www.youtube.com/watch?v=H7_d_sgui6o",
+          "time": "2026-09-16"
         }
       ]
     },
@@ -127,6 +407,27 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ult",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+          "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Former Infosys chief&#8217;s AI startup nabs another $53M",
+          "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+          "time": "2026-09-16"
+        },
+        {
           "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
           "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
           "source": "Lauren Forristal",
@@ -134,53 +435,144 @@
           "time": "2026-09-15"
         },
         {
-          "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-          "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-          "source": "Dominic-Madori Davis",
-          "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-          "time": "2026-09-15"
+          "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
+          "time": "2026-09-16"
         },
         {
-          "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-          "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-          "time": "2026-09-15"
+          "title": "OpenAI's Hugging Face Hack Is the Best AI Safety Opportunity So Far",
+          "summary": "暂无摘要",
+          "source": "brikowski",
+          "url": "https://cahlik.net/blog/openais-hugging-face-hack-is-the-best-ai-safety-opportunity-so-far/",
+          "time": "2026-09-16"
         },
         {
-          "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-          "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-          "time": "2026-09-15"
+          "title": "Characterizing ~375 GB Kimi K2.5 on a 128 GB Ryzen AI MAX+ 395 PC",
+          "summary": "暂无摘要",
+          "source": "NHApplied",
+          "url": "https://zenodo.org/records/22755791",
+          "time": "2026-09-16"
         },
         {
-          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-          "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-          "time": "2026-09-15"
+          "title": "AI is creating ghostwriting jobs on LinkedIn",
+          "summary": "暂无摘要",
+          "source": "uxhacker",
+          "url": "https://www.ft.com/content/7a5e15e4-799a-4476-ba9f-018b1d82c76f",
+          "time": "2026-09-16"
         },
         {
-          "title": "Salesforce and Nvidia&#8217;s new reasoning model is everything the AI labs should fear",
-          "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-          "time": "2026-09-15"
+          "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
+          "summary": "暂无摘要",
+          "source": "alwillis",
+          "url": "https://twitter.com/markgurman/status/2100252758859489391",
+          "time": "2026-09-16"
         },
         {
-          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-          "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-          "source": "Amanda Silberling",
-          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-          "time": "2026-09-14"
+          "title": "We're not ready for superpersistent AI",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+          "time": "2026-09-16"
         },
         {
-          "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-          "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-          "source": "Andy Greenberg, Lily Hay Newman, Dell Cameron",
-          "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-          "time": "2026-09-12"
+          "title": "Show HN: Interakt – open-source self-hosted search and AI chat for your website",
+          "summary": "暂无摘要",
+          "source": "interakt",
+          "url": "https://github.com/alphasolutionsrepo/interakt",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Who's afraid of open source AI?",
+          "summary": "暂无摘要",
+          "source": "frag",
+          "url": "https://www.youtube.com/watch?v=siy0744Ykys",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Mozilla and Mistral partner to expand AI competition and preserve user choice",
+          "summary": "暂无摘要",
+          "source": "n_plus_1_acc",
+          "url": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "The sexy AI-powered dating app scams are here (gift link)",
+          "summary": "暂无摘要",
+          "source": "ohjeez",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "TypeSafe AI debuts model for machines that plays Doom",
+          "summary": "暂无摘要",
+          "source": "itvision",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Show HN: A wall where only AI agents can write, one Oulipo rule a day",
+          "summary": "暂无摘要",
+          "source": "Milotche",
+          "url": "https://agent.milotche.com/en/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Apple building M8 AI servers, talks with Nvidia, reports The Information",
+          "summary": "暂无摘要",
+          "source": "bluedino",
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-building-m8-ai-servers-134927360.html",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Bypassing inference bottlenecks: Accelerating complex AI search",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Reid Hoffman – AI for All Americans",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://reidhoffman.substack.com/p/ai-dual-mandate",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "One of China's Most Powerful AI Models Has Also Escaped Containment",
+          "summary": "暂无摘要",
+          "source": "spenvo",
+          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Panel Discussion: AI in Mathematical Research – Heidelberg Laureate Forum [video]",
+          "summary": "暂无摘要",
+          "source": "looofooo0",
+          "url": "https://www.youtube.com/watch?v=H7_d_sgui6o",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Why AI's Biggest Rivals Are Suddenly Calling for Restraint",
+          "summary": "暂无摘要",
+          "source": "DeepLogin",
+          "url": "https://www.cfr.org/articles/why-ais-biggest-rivals-are-suddenly-calling-for-restraint",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "AI Doomsaying Is an Aggressive Sales Pitch",
+          "summary": "暂无摘要",
+          "source": "PaulHoule",
+          "url": "https://jacobin.com/2026/09/openai-anthropic-human-extinction-criti-hype",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Cortex: An open-source L1 memory and state layer for autonomous AI agents",
+          "summary": "暂无摘要",
+          "source": "BysertK",
+          "url": "https://github.com/cortex-protocol/cortex-protocol",
+          "time": "2026-09-16"
         }
       ]
     },
@@ -363,6 +755,160 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "OpenAI's Hugging Face Hack Is the Best AI Safety Opportunity So Far",
+          "summary": "暂无摘要",
+          "source": "brikowski",
+          "url": "https://cahlik.net/blog/openais-hugging-face-hack-is-the-best-ai-safety-opportunity-so-far/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Characterizing ~375 GB Kimi K2.5 on a 128 GB Ryzen AI MAX+ 395 PC",
+          "summary": "暂无摘要",
+          "source": "NHApplied",
+          "url": "https://zenodo.org/records/22755791",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "AI is creating ghostwriting jobs on LinkedIn",
+          "summary": "暂无摘要",
+          "source": "uxhacker",
+          "url": "https://www.ft.com/content/7a5e15e4-799a-4476-ba9f-018b1d82c76f",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Destroying Humanity Is Against the Law",
+          "summary": "暂无摘要",
+          "source": "samizdis",
+          "url": "https://www.theatlantic.com/ideas/2026/09/ai-risk-criminal-law/688615/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
+          "summary": "暂无摘要",
+          "source": "alwillis",
+          "url": "https://twitter.com/markgurman/status/2100252758859489391",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "We're not ready for superpersistent AI",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Show HN: Interakt – open-source self-hosted search and AI chat for your website",
+          "summary": "暂无摘要",
+          "source": "interakt",
+          "url": "https://github.com/alphasolutionsrepo/interakt",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Who's afraid of open source AI?",
+          "summary": "暂无摘要",
+          "source": "frag",
+          "url": "https://www.youtube.com/watch?v=siy0744Ykys",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Mozilla and Mistral partner to expand AI competition and preserve user choice",
+          "summary": "暂无摘要",
+          "source": "n_plus_1_acc",
+          "url": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "The sexy AI-powered dating app scams are here (gift link)",
+          "summary": "暂无摘要",
+          "source": "ohjeez",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "TypeSafe AI debuts model for machines that plays Doom",
+          "summary": "暂无摘要",
+          "source": "itvision",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Show HN: A wall where only AI agents can write, one Oulipo rule a day",
+          "summary": "暂无摘要",
+          "source": "Milotche",
+          "url": "https://agent.milotche.com/en/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Apple building M8 AI servers, talks with Nvidia, reports The Information",
+          "summary": "暂无摘要",
+          "source": "bluedino",
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-building-m8-ai-servers-134927360.html",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Bypassing inference bottlenecks: Accelerating complex AI search",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "The Railways Killed a Medieval Law [the Deodand]",
+          "summary": "暂无摘要",
+          "source": "samizdis",
+          "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Reid Hoffman – AI for All Americans",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://reidhoffman.substack.com/p/ai-dual-mandate",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "One of China's Most Powerful AI Models Has Also Escaped Containment",
+          "summary": "暂无摘要",
+          "source": "spenvo",
+          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Panel Discussion: AI in Mathematical Research – Heidelberg Laureate Forum [video]",
+          "summary": "暂无摘要",
+          "source": "looofooo0",
+          "url": "https://www.youtube.com/watch?v=H7_d_sgui6o",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "Why AI's Biggest Rivals Are Suddenly Calling for Restraint",
+          "summary": "暂无摘要",
+          "source": "DeepLogin",
+          "url": "https://www.cfr.org/articles/why-ais-biggest-rivals-are-suddenly-calling-for-restraint",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+          "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+          "source": "Will Knight",
+          "url": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+          "time": "2026-09-16"
+        },
+        {
+          "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+          "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+          "source": "Louise Matsakis",
+          "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+          "time": "2026-09-16"
         },
         {
           "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
