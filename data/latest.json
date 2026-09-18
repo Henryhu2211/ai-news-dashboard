@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-17T22:31:56.427Z",
-  "date": "2026年9月17日 22时31分",
+  "updateTime": "2026-09-18T22:03:59.173Z",
+  "date": "2026年9月18日 22时3分",
   "categories": [
     {
       "id": "tech",
@@ -35,6 +35,20 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "New experts join Google’s AI & Economy team",
+          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+          "time": "2026-09-18"
+        },
+        {
+          "title": "Co-creating the future of fashion with Google",
+          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+          "time": "2026-09-18"
+        },
         {
           "title": "Making global data easier to explore",
           "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
@@ -104,20 +118,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
           "time": "2026-08-17"
-        },
-        {
-          "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-          "time": "2026-08-11"
-        },
-        {
-          "title": "Evolve your marketing with new AI tools",
-          "summary": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-          "time": "2026-08-10"
         }
       ]
     },
@@ -127,39 +127,53 @@
       "icon": "💼",
       "news": [
         {
-          "title": "The FAA&#8217;s plan to fix air traffic? $875 million worth of AI",
-          "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-          "time": "2026-09-17"
-        },
-        {
-          "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
-          "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-          "time": "2026-09-17"
-        },
-        {
-          "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-          "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-          "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-          "time": "2026-09-17"
-        },
-        {
-          "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-          "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-          "time": "2026-09-17"
-        },
-        {
-          "title": "Al Gore says the real AI risk isn&#8217;t data centers",
+          "title": "World model companies are keeping a lot of secrets",
           "summary": "暂无摘要",
-          "source": "Connie Loizos",
-          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-          "time": "2026-09-16"
+          "source": "Russell Brandom",
+          "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+          "time": "2026-09-18"
+        },
+        {
+          "title": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
+          "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+          "source": "Lucas Ropek",
+          "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+          "time": "2026-09-18"
+        },
+        {
+          "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+          "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+          "source": "Ram Iyer",
+          "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+          "time": "2026-09-18"
+        },
+        {
+          "title": "Open or closed AI? Nvidia&#8217;s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+          "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+          "time": "2026-09-18"
+        },
+        {
+          "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+          "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+          "time": "2026-09-18"
+        },
+        {
+          "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
+          "summary": "The round values the data center giant at $30.9 billion.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+          "time": "2026-09-17"
+        },
+        {
+          "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+          "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+          "source": "Hugo Lowell",
+          "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+          "time": "2026-09-18"
         }
       ]
     },
@@ -344,25 +358,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-          "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
-          "source": "Will Knight",
-          "url": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-          "time": "2026-09-16"
-        },
-        {
-          "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-          "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
-          "source": "Louise Matsakis",
-          "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-          "time": "2026-09-16"
-        },
-        {
-          "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-          "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-          "source": "Isabella Ward",
-          "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-          "time": "2026-09-14"
+          "title": "The Leftist Split Over AI Doom",
+          "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+          "source": "Vittoria Elliott, Molly Taft",
+          "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+          "time": "2026-09-18"
         }
       ]
     }
