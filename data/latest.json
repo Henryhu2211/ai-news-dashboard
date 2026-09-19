@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-18T22:03:59.173Z",
-  "date": "2026年9月18日 22时3分",
+  "updateTime": "2026-09-19T21:56:17.216Z",
+  "date": "2026年9月19日 21时56分",
   "categories": [
     {
       "id": "tech",
@@ -118,6 +118,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
           "time": "2026-08-17"
+        },
+        {
+          "title": "A Call for Open Science in AI Safety",
+          "summary": "暂无摘要",
+          "source": "lllllm",
+          "url": "https://make-safety-open.github.io/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
+          "summary": "暂无摘要",
+          "source": "berkeleyjunk",
+          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "AI-Generated Movie Star Has a Total Meltdown on TV",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "JustBot – a Grok-Bot-style AI assistant at ~1/10th the token cost",
+          "summary": "暂无摘要",
+          "source": "bernardohcr",
+          "url": "https://justbot.co",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "The Weak Foundations of AI Doomsday",
+          "summary": "暂无摘要",
+          "source": "dotcoma",
+          "url": "https://www.aipanic.news/p/the-weak-foundations-of-ai-doomsday",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Show HN: OpenWand – A mission to remove chat interface from working with AI",
+          "summary": "暂无摘要",
+          "source": "OpenWand",
+          "url": "https://github.com/SunnyLich/OpenWand",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "AI Actress interviewed by Piers Morgan [video]",
+          "summary": "暂无摘要",
+          "source": "pier25",
+          "url": "https://www.youtube.com/watch?v=x4yyBWkYSHs",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
+          "summary": "暂无摘要",
+          "source": "complyyio",
+          "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "OpenAI and Anthropic oversold AI security breaches",
+          "summary": "暂无摘要",
+          "source": "hei-lima",
+          "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Founding Engineer, AI and Full-Stack",
+          "summary": "暂无摘要",
+          "source": "jillforBTRL",
+          "url": "https://bettrlife.ai/founding-engineer",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Curated list of hosting (VPS, GPU, infra, AI)",
+          "summary": "暂无摘要",
+          "source": "dalisoft",
+          "url": "https://github.com/dalisoft/awesome-hosting",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "How I see software dev in AI era",
+          "summary": "暂无摘要",
+          "source": "geckones",
+          "url": "https://dhilst.github.io/2026/09/19/sweng-as-opt-prob/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "PC ports of old console games are the new AI vibe coding battleground",
+          "summary": "暂无摘要",
+          "source": "adunk",
+          "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "What do you think is the prevalence of this phenomenon in current AI discourse?",
+          "summary": "暂无摘要",
+          "source": "symbolicai",
+          "url": "https://en.wikipedia.org/wiki/Preference_falsification",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Warning Signs [Economics of AI]",
+          "summary": "暂无摘要",
+          "source": "ckmate-king-2",
+          "url": "https://newleftreview.org/sidecar/posts/warning-signs",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Frustrated at state of commentary of economic impact of AI",
+          "summary": "暂无摘要",
+          "source": "erads",
+          "url": "https://news.ycombinator.com/item?id=49769252",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+          "summary": "暂无摘要",
+          "source": "andsoitis",
+          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "The lucrative business of reactionary AI-generated posts on Facebook",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "How A Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
+          "summary": "暂无摘要",
+          "source": "harry_nutsachs",
+          "url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Trump Announces an 'AI Force'",
+          "summary": "暂无摘要",
+          "source": "david_shaw",
+          "url": "https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f",
+          "time": "2026-09-19"
         }
       ]
     },
@@ -126,6 +266,20 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+          "summary": "暂无摘要",
+          "source": "Lauren Forristal",
+          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+          "source": "Kirsten Korosec",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+          "time": "2026-09-18"
+        },
         {
           "title": "World model companies are keeping a lot of secrets",
           "summary": "暂无摘要",
@@ -148,32 +302,151 @@
           "time": "2026-09-18"
         },
         {
-          "title": "Open or closed AI? Nvidia&#8217;s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-          "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-          "time": "2026-09-18"
-        },
-        {
-          "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-          "summary": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
-          "time": "2026-09-18"
-        },
-        {
-          "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
-          "summary": "The round values the data center giant at $30.9 billion.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-          "time": "2026-09-17"
-        },
-        {
           "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
           "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
           "source": "Hugo Lowell",
           "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
           "time": "2026-09-18"
+        },
+        {
+          "title": "A Call for Open Science in AI Safety",
+          "summary": "暂无摘要",
+          "source": "lllllm",
+          "url": "https://make-safety-open.github.io/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
+          "summary": "暂无摘要",
+          "source": "berkeleyjunk",
+          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "AI-Generated Movie Star Has a Total Meltdown on TV",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "JustBot – a Grok-Bot-style AI assistant at ~1/10th the token cost",
+          "summary": "暂无摘要",
+          "source": "bernardohcr",
+          "url": "https://justbot.co",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "The Weak Foundations of AI Doomsday",
+          "summary": "暂无摘要",
+          "source": "dotcoma",
+          "url": "https://www.aipanic.news/p/the-weak-foundations-of-ai-doomsday",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Show HN: OpenWand – A mission to remove chat interface from working with AI",
+          "summary": "暂无摘要",
+          "source": "OpenWand",
+          "url": "https://github.com/SunnyLich/OpenWand",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "AI Actress interviewed by Piers Morgan [video]",
+          "summary": "暂无摘要",
+          "source": "pier25",
+          "url": "https://www.youtube.com/watch?v=x4yyBWkYSHs",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
+          "summary": "暂无摘要",
+          "source": "complyyio",
+          "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "OpenAI and Anthropic oversold AI security breaches",
+          "summary": "暂无摘要",
+          "source": "hei-lima",
+          "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Founding Engineer, AI and Full-Stack",
+          "summary": "暂无摘要",
+          "source": "jillforBTRL",
+          "url": "https://bettrlife.ai/founding-engineer",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Curated list of hosting (VPS, GPU, infra, AI)",
+          "summary": "暂无摘要",
+          "source": "dalisoft",
+          "url": "https://github.com/dalisoft/awesome-hosting",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "How I see software dev in AI era",
+          "summary": "暂无摘要",
+          "source": "geckones",
+          "url": "https://dhilst.github.io/2026/09/19/sweng-as-opt-prob/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "PC ports of old console games are the new AI vibe coding battleground",
+          "summary": "暂无摘要",
+          "source": "adunk",
+          "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "What do you think is the prevalence of this phenomenon in current AI discourse?",
+          "summary": "暂无摘要",
+          "source": "symbolicai",
+          "url": "https://en.wikipedia.org/wiki/Preference_falsification",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Warning Signs [Economics of AI]",
+          "summary": "暂无摘要",
+          "source": "ckmate-king-2",
+          "url": "https://newleftreview.org/sidecar/posts/warning-signs",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Frustrated at state of commentary of economic impact of AI",
+          "summary": "暂无摘要",
+          "source": "erads",
+          "url": "https://news.ycombinator.com/item?id=49769252",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+          "summary": "暂无摘要",
+          "source": "andsoitis",
+          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "The lucrative business of reactionary AI-generated posts on Facebook",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "How A Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
+          "summary": "暂无摘要",
+          "source": "harry_nutsachs",
+          "url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Trump Announces an 'AI Force'",
+          "summary": "暂无摘要",
+          "source": "david_shaw",
+          "url": "https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f",
+          "time": "2026-09-19"
         }
       ]
     },
@@ -358,8 +631,155 @@
           "time": "2022-12-16"
         },
         {
+          "title": "A Call for Open Science in AI Safety",
+          "summary": "暂无摘要",
+          "source": "lllllm",
+          "url": "https://make-safety-open.github.io/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Trump announces a new 'AI Force,' but says he will not 'stifle' AI",
+          "summary": "暂无摘要",
+          "source": "berkeleyjunk",
+          "url": "https://www.businessinsider.com/trump-ai-regulation-slowdown-anthropic-dario-amodei-9-2026",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "AI-Generated Movie Star Has a Total Meltdown on TV",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "JustBot – a Grok-Bot-style AI assistant at ~1/10th the token cost",
+          "summary": "暂无摘要",
+          "source": "bernardohcr",
+          "url": "https://justbot.co",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "The Weak Foundations of AI Doomsday",
+          "summary": "暂无摘要",
+          "source": "dotcoma",
+          "url": "https://www.aipanic.news/p/the-weak-foundations-of-ai-doomsday",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Show HN: OpenWand – A mission to remove chat interface from working with AI",
+          "summary": "暂无摘要",
+          "source": "OpenWand",
+          "url": "https://github.com/SunnyLich/OpenWand",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "AI Actress interviewed by Piers Morgan [video]",
+          "summary": "暂无摘要",
+          "source": "pier25",
+          "url": "https://www.youtube.com/watch?v=x4yyBWkYSHs",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
+          "summary": "暂无摘要",
+          "source": "complyyio",
+          "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "OpenAI and Anthropic oversold AI security breaches",
+          "summary": "暂无摘要",
+          "source": "hei-lima",
+          "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Founding Engineer, AI and Full-Stack",
+          "summary": "暂无摘要",
+          "source": "jillforBTRL",
+          "url": "https://bettrlife.ai/founding-engineer",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Curated list of hosting (VPS, GPU, infra, AI)",
+          "summary": "暂无摘要",
+          "source": "dalisoft",
+          "url": "https://github.com/dalisoft/awesome-hosting",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "How I see software dev in AI era",
+          "summary": "暂无摘要",
+          "source": "geckones",
+          "url": "https://dhilst.github.io/2026/09/19/sweng-as-opt-prob/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "PC ports of old console games are the new AI vibe coding battleground",
+          "summary": "暂无摘要",
+          "source": "adunk",
+          "url": "https://www.pcgamer.com/gaming-industry/pc-ports-of-old-console-games-are-the-new-ai-vibe-coding-battleground/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "What do you think is the prevalence of this phenomenon in current AI discourse?",
+          "summary": "暂无摘要",
+          "source": "symbolicai",
+          "url": "https://en.wikipedia.org/wiki/Preference_falsification",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Warning Signs [Economics of AI]",
+          "summary": "暂无摘要",
+          "source": "ckmate-king-2",
+          "url": "https://newleftreview.org/sidecar/posts/warning-signs",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Frustrated at state of commentary of economic impact of AI",
+          "summary": "暂无摘要",
+          "source": "erads",
+          "url": "https://news.ycombinator.com/item?id=49769252",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+          "summary": "暂无摘要",
+          "source": "andsoitis",
+          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "The lucrative business of reactionary AI-generated posts on Facebook",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://www.lemonde.fr/en/pixels/article/2026/09/19/the-lucrative-business-of-reactionary-ai-generated-posts-on-facebook_6757721_13.html",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Your robotic vacuum is a witness: evidence, privacy and the law",
+          "summary": "暂无摘要",
+          "source": "hn_acker",
+          "url": "https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "How A Chinese Hacking Firm Tapped AI to Supercharge Cyber-Spying",
+          "summary": "暂无摘要",
+          "source": "harry_nutsachs",
+          "url": "https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846",
+          "time": "2026-09-19"
+        },
+        {
+          "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+          "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+          "source": "Matt Burgess, Lily Hay Newman",
+          "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+          "time": "2026-09-19"
+        },
+        {
           "title": "The Leftist Split Over AI Doom",
-          "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+          "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
           "source": "Vittoria Elliott, Molly Taft",
           "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
           "time": "2026-09-18"
