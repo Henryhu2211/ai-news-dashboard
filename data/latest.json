@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-20T22:03:18.633Z",
-  "date": "2026年9月20日 22时3分",
+  "updateTime": "2026-09-21T22:55:39.943Z",
+  "date": "2026年9月21日 22时55分",
   "categories": [
     {
       "id": "tech",
@@ -8,25 +8,151 @@
       "icon": "📰",
       "news": [
         {
+          "title": "Where do AI norms come from?",
+          "summary": "暂无摘要",
+          "source": "BerislavLopac",
+          "url": "https://charity.wtf/p/where-do-ai-norms-come-from",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Do not fear AI. Fear AI companies",
+          "summary": "暂无摘要",
+          "source": "rDr4g0n",
+          "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "A Call for Control of Frontier AI Models",
+          "summary": "暂无摘要",
+          "source": "gone35",
+          "url": "https://www.presidentti.fi/en/a-call-for-control-of-frontier-ai-models/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Almost started a war: Report reveals dark reality as AI permeates civilisation",
+          "summary": "暂无摘要",
+          "source": "striker44",
+          "url": "https://www.news.com.au/technology/innovation/military/almost-started-a-war-report-reveals-dark-reality-emerging-as-ai-permeates-civilisation/news-story/a185fe05f6973c5c3de25499c69d5d49",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Let AI agents search across workspace with the Universal Search MCP Server",
+          "summary": "暂无摘要",
+          "source": "elpakal",
+          "url": "https://developers.google.com/workspace/guides/universal-search-mcp",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Auditing in the age of (good enough) AI",
+          "summary": "暂无摘要",
+          "source": "aray07",
+          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Show HN: Praxos – Multiplayer AI",
+          "summary": "暂无摘要",
+          "source": "mogusian",
+          "url": "https://www.praxos.ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Why So Much Money on \"AI\"?",
+          "summary": "暂无摘要",
+          "source": "rossdavidh",
+          "url": "https://www.rosshartshorn.net/stuffrossthinksabout/why_so_much_money_on_ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Lasso: AI Watermarks Change How Agents Act",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/features/lasso-ai-watermarks-change-how-agents-act/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Google CC, an AI agent built for families",
+          "summary": "暂无摘要",
+          "source": "hmokiguess",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "EU plans \"digital expropriation\" of Europeans in the interest of AI companies",
+          "summary": "暂无摘要",
+          "source": "latexr",
+          "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "GitHub Actions leaking secrets when Miri output is cached",
+          "summary": "暂无摘要",
+          "source": "andrewstetsenko",
+          "url": "https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Jonathan Swift vs. AI",
+          "summary": "暂无摘要",
+          "source": "cainxinth",
+          "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "New bill to protect American citizens access to AI – Please read and share",
+          "summary": "暂无摘要",
+          "source": "howdoweknowit",
+          "url": "https://righttorun.us",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "What if we regulated AI like cars?",
+          "summary": "暂无摘要",
+          "source": "rkp8000",
+          "url": "https://rkp.science/regulating_ai_like_cars.html",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "\"80% of AI projects fail\" traces to a footnote one line long",
+          "summary": "暂无摘要",
+          "source": "TheWayWithin",
+          "url": "https://jamiewatters.work/journey/80-percent-ai-projects-fail",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "A thing we may be able to learn from AI",
+          "summary": "暂无摘要",
+          "source": "Wilsoniumite",
+          "url": "https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "In the heart of tech country, voters turn on AI",
+          "summary": "暂无摘要",
+          "source": "rurp",
+          "url": "https://www.politico.com/news/2026/09/21/poll-california-voters-turn-on-ai-01084870",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Show HN: Emote – A reaction API for AI agents",
+          "summary": "暂无摘要",
+          "source": "alexanderqchen",
+          "url": "https://useemote.com",
+          "time": "2026-09-21"
+        },
+        {
           "title": "The AI industry has taken a doomer turn. What now?",
           "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin",
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
           "time": "2026-09-14"
-        },
-        {
-          "title": "What OpenAI’s latest controversy tells us about the future of math",
-          "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
-          "source": "Grace Huckins",
-          "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-          "time": "2026-09-09"
-        },
-        {
-          "title": "Architecting memory and storage in the AI era",
-          "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-          "time": "2026-09-04"
         }
       ]
     },
@@ -118,6 +244,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
           "time": "2026-08-17"
+        },
+        {
+          "title": "Where do AI norms come from?",
+          "summary": "暂无摘要",
+          "source": "BerislavLopac",
+          "url": "https://charity.wtf/p/where-do-ai-norms-come-from",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Do not fear AI. Fear AI companies",
+          "summary": "暂无摘要",
+          "source": "rDr4g0n",
+          "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Data Protection Commission fines Google €403M over processing of location data",
+          "summary": "暂无摘要",
+          "source": "DeepLogin",
+          "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "A Call for Control of Frontier AI Models",
+          "summary": "暂无摘要",
+          "source": "gone35",
+          "url": "https://www.presidentti.fi/en/a-call-for-control-of-frontier-ai-models/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Almost started a war: Report reveals dark reality as AI permeates civilisation",
+          "summary": "暂无摘要",
+          "source": "striker44",
+          "url": "https://www.news.com.au/technology/innovation/military/almost-started-a-war-report-reveals-dark-reality-emerging-as-ai-permeates-civilisation/news-story/a185fe05f6973c5c3de25499c69d5d49",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Let AI agents search across workspace with the Universal Search MCP Server",
+          "summary": "暂无摘要",
+          "source": "elpakal",
+          "url": "https://developers.google.com/workspace/guides/universal-search-mcp",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Auditing in the age of (good enough) AI",
+          "summary": "暂无摘要",
+          "source": "aray07",
+          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Show HN: Praxos – Multiplayer AI",
+          "summary": "暂无摘要",
+          "source": "mogusian",
+          "url": "https://www.praxos.ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Why So Much Money on \"AI\"?",
+          "summary": "暂无摘要",
+          "source": "rossdavidh",
+          "url": "https://www.rosshartshorn.net/stuffrossthinksabout/why_so_much_money_on_ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Lasso: AI Watermarks Change How Agents Act",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/features/lasso-ai-watermarks-change-how-agents-act/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Google CC, an AI agent built for families",
+          "summary": "暂无摘要",
+          "source": "hmokiguess",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "EU plans \"digital expropriation\" of Europeans in the interest of AI companies",
+          "summary": "暂无摘要",
+          "source": "latexr",
+          "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Jonathan Swift vs. AI",
+          "summary": "暂无摘要",
+          "source": "cainxinth",
+          "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Unsealed files describe OpenAI \"research mission\" to supplant human authors",
+          "summary": "暂无摘要",
+          "source": "ilamont",
+          "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "New bill to protect American citizens access to AI – Please read and share",
+          "summary": "暂无摘要",
+          "source": "howdoweknowit",
+          "url": "https://righttorun.us",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "What if we regulated AI like cars?",
+          "summary": "暂无摘要",
+          "source": "rkp8000",
+          "url": "https://rkp.science/regulating_ai_like_cars.html",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "\"80% of AI projects fail\" traces to a footnote one line long",
+          "summary": "暂无摘要",
+          "source": "TheWayWithin",
+          "url": "https://jamiewatters.work/journey/80-percent-ai-projects-fail",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "A thing we may be able to learn from AI",
+          "summary": "暂无摘要",
+          "source": "Wilsoniumite",
+          "url": "https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "OpenAI doesn't cryptographically sign its API responses",
+          "summary": "暂无摘要",
+          "source": "teodoro127",
+          "url": "https://community.openai.com/t/feature-request-a-way-to-publicly-verify-responses-api-outputs/1388452",
+          "time": "2026-09-21"
         }
       ]
     },
@@ -126,6 +392,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+          "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+          "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+          "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+          "time": "2026-09-21"
+        },
         {
           "title": "World model companies are keeping a lot of secrets",
           "summary": "暂无摘要",
@@ -148,25 +435,151 @@
           "time": "2026-09-19"
         },
         {
-          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-          "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-          "source": "Kirsten Korosec",
-          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-          "time": "2026-09-18"
-        },
-        {
-          "title": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
-          "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-          "time": "2026-09-18"
-        },
-        {
           "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
           "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
           "source": "Hugo Lowell",
           "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
           "time": "2026-09-18"
+        },
+        {
+          "title": "Where do AI norms come from?",
+          "summary": "暂无摘要",
+          "source": "BerislavLopac",
+          "url": "https://charity.wtf/p/where-do-ai-norms-come-from",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Do not fear AI. Fear AI companies",
+          "summary": "暂无摘要",
+          "source": "rDr4g0n",
+          "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "A Call for Control of Frontier AI Models",
+          "summary": "暂无摘要",
+          "source": "gone35",
+          "url": "https://www.presidentti.fi/en/a-call-for-control-of-frontier-ai-models/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Almost started a war: Report reveals dark reality as AI permeates civilisation",
+          "summary": "暂无摘要",
+          "source": "striker44",
+          "url": "https://www.news.com.au/technology/innovation/military/almost-started-a-war-report-reveals-dark-reality-emerging-as-ai-permeates-civilisation/news-story/a185fe05f6973c5c3de25499c69d5d49",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Let AI agents search across workspace with the Universal Search MCP Server",
+          "summary": "暂无摘要",
+          "source": "elpakal",
+          "url": "https://developers.google.com/workspace/guides/universal-search-mcp",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Auditing in the age of (good enough) AI",
+          "summary": "暂无摘要",
+          "source": "aray07",
+          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Show HN: Praxos – Multiplayer AI",
+          "summary": "暂无摘要",
+          "source": "mogusian",
+          "url": "https://www.praxos.ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Why So Much Money on \"AI\"?",
+          "summary": "暂无摘要",
+          "source": "rossdavidh",
+          "url": "https://www.rosshartshorn.net/stuffrossthinksabout/why_so_much_money_on_ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Lasso: AI Watermarks Change How Agents Act",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/features/lasso-ai-watermarks-change-how-agents-act/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Google CC, an AI agent built for families",
+          "summary": "暂无摘要",
+          "source": "hmokiguess",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "EU plans \"digital expropriation\" of Europeans in the interest of AI companies",
+          "summary": "暂无摘要",
+          "source": "latexr",
+          "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Jonathan Swift vs. AI",
+          "summary": "暂无摘要",
+          "source": "cainxinth",
+          "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "New bill to protect American citizens access to AI – Please read and share",
+          "summary": "暂无摘要",
+          "source": "howdoweknowit",
+          "url": "https://righttorun.us",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "What if we regulated AI like cars?",
+          "summary": "暂无摘要",
+          "source": "rkp8000",
+          "url": "https://rkp.science/regulating_ai_like_cars.html",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "\"80% of AI projects fail\" traces to a footnote one line long",
+          "summary": "暂无摘要",
+          "source": "TheWayWithin",
+          "url": "https://jamiewatters.work/journey/80-percent-ai-projects-fail",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "A thing we may be able to learn from AI",
+          "summary": "暂无摘要",
+          "source": "Wilsoniumite",
+          "url": "https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "In the heart of tech country, voters turn on AI",
+          "summary": "暂无摘要",
+          "source": "rurp",
+          "url": "https://www.politico.com/news/2026/09/21/poll-california-voters-turn-on-ai-01084870",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Show HN: Emote – A reaction API for AI agents",
+          "summary": "暂无摘要",
+          "source": "alexanderqchen",
+          "url": "https://useemote.com",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Self-hosted AI agent that builds internal apps on your own data",
+          "summary": "暂无摘要",
+          "source": "davletdz",
+          "url": "https://www.youtube.com/watch?v=FNgjuvw2BmU",
+          "time": "2026-09-21"
         }
       ]
     },
@@ -351,6 +764,160 @@
           "time": "2022-12-16"
         },
         {
+          "title": "Where do AI norms come from?",
+          "summary": "暂无摘要",
+          "source": "BerislavLopac",
+          "url": "https://charity.wtf/p/where-do-ai-norms-come-from",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Do not fear AI. Fear AI companies",
+          "summary": "暂无摘要",
+          "source": "rDr4g0n",
+          "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "A Call for Control of Frontier AI Models",
+          "summary": "暂无摘要",
+          "source": "gone35",
+          "url": "https://www.presidentti.fi/en/a-call-for-control-of-frontier-ai-models/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Almost started a war: Report reveals dark reality as AI permeates civilisation",
+          "summary": "暂无摘要",
+          "source": "striker44",
+          "url": "https://www.news.com.au/technology/innovation/military/almost-started-a-war-report-reveals-dark-reality-emerging-as-ai-permeates-civilisation/news-story/a185fe05f6973c5c3de25499c69d5d49",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Let AI agents search across workspace with the Universal Search MCP Server",
+          "summary": "暂无摘要",
+          "source": "elpakal",
+          "url": "https://developers.google.com/workspace/guides/universal-search-mcp",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Auditing in the age of (good enough) AI",
+          "summary": "暂无摘要",
+          "source": "aray07",
+          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Show HN: Praxos – Multiplayer AI",
+          "summary": "暂无摘要",
+          "source": "mogusian",
+          "url": "https://www.praxos.ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Why So Much Money on \"AI\"?",
+          "summary": "暂无摘要",
+          "source": "rossdavidh",
+          "url": "https://www.rosshartshorn.net/stuffrossthinksabout/why_so_much_money_on_ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Lasso: AI Watermarks Change How Agents Act",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/features/lasso-ai-watermarks-change-how-agents-act/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Google CC, an AI agent built for families",
+          "summary": "暂无摘要",
+          "source": "hmokiguess",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "EU plans \"digital expropriation\" of Europeans in the interest of AI companies",
+          "summary": "暂无摘要",
+          "source": "latexr",
+          "url": "https://noyb.eu/en/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Jonathan Swift vs. AI",
+          "summary": "暂无摘要",
+          "source": "cainxinth",
+          "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "New bill to protect American citizens access to AI – Please read and share",
+          "summary": "暂无摘要",
+          "source": "howdoweknowit",
+          "url": "https://righttorun.us",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "What if we regulated AI like cars?",
+          "summary": "暂无摘要",
+          "source": "rkp8000",
+          "url": "https://rkp.science/regulating_ai_like_cars.html",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "\"80% of AI projects fail\" traces to a footnote one line long",
+          "summary": "暂无摘要",
+          "source": "TheWayWithin",
+          "url": "https://jamiewatters.work/journey/80-percent-ai-projects-fail",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "A thing we may be able to learn from AI",
+          "summary": "暂无摘要",
+          "source": "Wilsoniumite",
+          "url": "https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "In the heart of tech country, voters turn on AI",
+          "summary": "暂无摘要",
+          "source": "rurp",
+          "url": "https://www.politico.com/news/2026/09/21/poll-california-voters-turn-on-ai-01084870",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Show HN: Emote – A reaction API for AI agents",
+          "summary": "暂无摘要",
+          "source": "alexanderqchen",
+          "url": "https://useemote.com",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "Self-hosted AI agent that builds internal apps on your own data",
+          "summary": "暂无摘要",
+          "source": "davletdz",
+          "url": "https://www.youtube.com/watch?v=FNgjuvw2BmU",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+          "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
+          "source": "Javier Carbajal",
+          "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+          "time": "2026-09-21"
+        },
+        {
+          "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+          "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+          "source": "Isabella Ward",
+          "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+          "time": "2026-09-21"
+        },
+        {
           "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
           "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
           "source": "Reece Rogers",
@@ -363,13 +930,6 @@
           "source": "Matt Burgess, Lily Hay Newman",
           "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
           "time": "2026-09-19"
-        },
-        {
-          "title": "The Leftist Split Over AI Doom",
-          "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
-          "source": "Vittoria Elliott, Molly Taft",
-          "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
-          "time": "2026-09-18"
         }
       ]
     }
