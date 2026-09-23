@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-09-22T22:31:51.399Z",
-  "date": "2026年9月22日 22时31分",
+  "updateTime": "2026-09-23T22:33:41.506Z",
+  "date": "2026年9月23日 22时33分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "The AI Hype Index: AI Loves Cheating",
+          "summary": "暂无摘要",
+          "source": "sbulaev",
+          "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "The last IMO problem AI could not solve [video]",
+          "summary": "暂无摘要",
+          "source": "ColinWright",
+          "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "New England RetroFest and the Maine Vintage Computer Society",
+          "summary": "暂无摘要",
+          "source": "ibobev",
+          "url": "https://www.goto10retro.com/p/new-england-retrofest-and-the-maine",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
+          "summary": "暂无摘要",
+          "source": "randycupertino",
+          "url": "https://www.avclub.com/meta-muse-ai-human-labor",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Claude's Load-Bearing Seams",
+          "summary": "暂无摘要",
+          "source": "rzk",
+          "url": "https://madradavid.com/claudes-load-bearing-seams/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI Agent Goal Hijack: How Attackers Turn an Agent's Own Tools Against It",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "An 'AI freeze' could make big AI companies bigger and hurt smaller firms",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "My Wedding Invitations Became an Experiment in AI Memory",
+          "summary": "暂无摘要",
+          "source": "pureooze",
+          "url": "https://pureooze.com/blog/posts/2026-09-22-my-wedding-invitations-became-an-experiment-in-ai-memory/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI Goes to War: Ukraine AI Autonomous Drone Guidance",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
+          "summary": "暂无摘要",
+          "source": "myth_drannon",
+          "url": "https://www.calcalistech.com/ctechnews/article/13p5khsib",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Agent Etna – Automated staging environment and regression compiler for AI agents",
+          "summary": "暂无摘要",
+          "source": "giuerr",
+          "url": "https://www.agentetna.com/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI can never produce sublime art",
+          "summary": "暂无摘要",
+          "source": "bananaflag",
+          "url": "https://hilariusbookbinder.substack.com/p/ai-can-never-produce-sublime-art",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "The Most Important Market in AI Is the Middle",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Show HN: Free attestation for AI agent decisions – verifying one costs $0.10",
+          "summary": "暂无摘要",
+          "source": "RubricProtocol",
+          "url": "https://github.com/0xsims/rubric-attest",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "KDE and AI, and You, and Me",
+          "summary": "暂无摘要",
+          "source": "TangerineDream",
+          "url": "https://pointieststick.com/2026/09/23/kde-and-ai-and-you-and-me/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Security auditing in the age of (good enough) AI",
+          "summary": "暂无摘要",
+          "source": "wslh",
+          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "How to Build an AI Visibility Tracker from Scratch",
+          "summary": "暂无摘要",
+          "source": "njx",
+          "url": "https://www.crawlspider.com/how-to-build-an-ai-visibility-tracker-from-scratch/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Show HN: Varkos – a local AI pet that can talk, interact, and play small games",
+          "summary": "暂无摘要",
+          "source": "pantelisk",
+          "url": "https://varkos.party/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+          "summary": "暂无摘要",
+          "source": "raahelb",
+          "url": "https://arxiv.org/abs/2607.29516",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "VSArena – The official open browser benchmark for embodied AI",
+          "summary": "暂无摘要",
+          "source": "AranKair",
+          "url": "https://vsarena.vercel.app",
+          "time": "2026-09-23"
+        },
         {
           "title": "Don’t be fooled by this summer of AI hype",
           "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O",
@@ -21,6 +161,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Google Beam expands with new regions, partners, and customers",
+          "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+          "time": "2026-09-23"
+        },
         {
           "title": "New experts join Google’s AI & Economy team",
           "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
@@ -104,6 +251,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
           "time": "2026-08-17"
+        },
+        {
+          "title": "Google's Summer of Love",
+          "summary": "暂无摘要",
+          "source": "rgrieselhuber",
+          "url": "https://www.demandsphere.com/blog/googles-summer-of-love/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "The AI Hype Index: AI Loves Cheating",
+          "summary": "暂无摘要",
+          "source": "sbulaev",
+          "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "OpenAI 'agent' hacked Australia's health service",
+          "summary": "暂无摘要",
+          "source": "little_goat_boy",
+          "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "The last IMO problem AI could not solve [video]",
+          "summary": "暂无摘要",
+          "source": "ColinWright",
+          "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "OpenAI agent hacked Medicare, Albanese expressed 'extreme concern' to Sam Altman",
+          "summary": "暂无摘要",
+          "source": "NervousDendrite",
+          "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "OpenAI Hacked Medicare Portal, Australia Prime Minister Anthony Albanese Says",
+          "summary": "暂无摘要",
+          "source": "richardc323",
+          "url": "https://www.rnz.co.nz/news/world/1551084/openai-hacked-medicare-portal-australia-prime-minister-anthony-albanese-says",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
+          "summary": "暂无摘要",
+          "source": "randycupertino",
+          "url": "https://www.avclub.com/meta-muse-ai-human-labor",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI Agent Goal Hijack: How Attackers Turn an Agent's Own Tools Against It",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "An 'AI freeze' could make big AI companies bigger and hurt smaller firms",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "My Wedding Invitations Became an Experiment in AI Memory",
+          "summary": "暂无摘要",
+          "source": "pureooze",
+          "url": "https://pureooze.com/blog/posts/2026-09-22-my-wedding-invitations-became-an-experiment-in-ai-memory/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "OpenAI agents hacked Australian Medicare system",
+          "summary": "暂无摘要",
+          "source": "jumploops",
+          "url": "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "OpenAI breaches Medicare, Albanese reveals",
+          "summary": "暂无摘要",
+          "source": "jonnonz",
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI Goes to War: Ukraine AI Autonomous Drone Guidance",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "OpenAI hacked Australian Medicare portal",
+          "summary": "暂无摘要",
+          "source": "cgb_",
+          "url": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
+          "summary": "暂无摘要",
+          "source": "myth_drannon",
+          "url": "https://www.calcalistech.com/ctechnews/article/13p5khsib",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Agent Etna – Automated staging environment and regression compiler for AI agents",
+          "summary": "暂无摘要",
+          "source": "giuerr",
+          "url": "https://www.agentetna.com/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI can never produce sublime art",
+          "summary": "暂无摘要",
+          "source": "bananaflag",
+          "url": "https://hilariusbookbinder.substack.com/p/ai-can-never-produce-sublime-art",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "The Most Important Market in AI Is the Middle",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Show HN: Free attestation for AI agent decisions – verifying one costs $0.10",
+          "summary": "暂无摘要",
+          "source": "RubricProtocol",
+          "url": "https://github.com/0xsims/rubric-attest",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Meta Connect 2026: Watch Live Sept 23–24",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://www.meta.com/connect/",
+          "time": "2026-09-23"
         }
       ]
     },
@@ -113,6 +400,27 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+          "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+          "summary": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
+          "summary": "暂无摘要",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+          "time": "2026-09-23"
+        },
+        {
           "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
           "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
           "source": "Marina Temkin",
@@ -120,32 +428,151 @@
           "time": "2026-09-22"
         },
         {
-          "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-          "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at ",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-          "time": "2026-09-22"
-        },
-        {
-          "title": "Nscale’s IPO will test Wall Street&#8217;s appetite for concentrated AI bets once again",
-          "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-          "time": "2026-09-22"
-        },
-        {
-          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-          "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-          "time": "2026-09-21"
-        },
-        {
           "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
           "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
           "source": "Reece Rogers",
           "url": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
           "time": "2026-09-22"
+        },
+        {
+          "title": "CB Rank (Person) 1000 Recommendation Your Startup on LinkedIn",
+          "summary": "暂无摘要",
+          "source": "Kizert",
+          "url": "https://startup-signal-oleh.restylefutu.chatgpt.site",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "The AI Hype Index: AI Loves Cheating",
+          "summary": "暂无摘要",
+          "source": "sbulaev",
+          "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "The last IMO problem AI could not solve [video]",
+          "summary": "暂无摘要",
+          "source": "ColinWright",
+          "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
+          "summary": "暂无摘要",
+          "source": "randycupertino",
+          "url": "https://www.avclub.com/meta-muse-ai-human-labor",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI Agent Goal Hijack: How Attackers Turn an Agent's Own Tools Against It",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "An 'AI freeze' could make big AI companies bigger and hurt smaller firms",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "My Wedding Invitations Became an Experiment in AI Memory",
+          "summary": "暂无摘要",
+          "source": "pureooze",
+          "url": "https://pureooze.com/blog/posts/2026-09-22-my-wedding-invitations-became-an-experiment-in-ai-memory/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI Goes to War: Ukraine AI Autonomous Drone Guidance",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
+          "summary": "暂无摘要",
+          "source": "myth_drannon",
+          "url": "https://www.calcalistech.com/ctechnews/article/13p5khsib",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Agent Etna – Automated staging environment and regression compiler for AI agents",
+          "summary": "暂无摘要",
+          "source": "giuerr",
+          "url": "https://www.agentetna.com/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI can never produce sublime art",
+          "summary": "暂无摘要",
+          "source": "bananaflag",
+          "url": "https://hilariusbookbinder.substack.com/p/ai-can-never-produce-sublime-art",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "The Most Important Market in AI Is the Middle",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Show HN: Free attestation for AI agent decisions – verifying one costs $0.10",
+          "summary": "暂无摘要",
+          "source": "RubricProtocol",
+          "url": "https://github.com/0xsims/rubric-attest",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "KDE and AI, and You, and Me",
+          "summary": "暂无摘要",
+          "source": "TangerineDream",
+          "url": "https://pointieststick.com/2026/09/23/kde-and-ai-and-you-and-me/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Security auditing in the age of (good enough) AI",
+          "summary": "暂无摘要",
+          "source": "wslh",
+          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "How to Build an AI Visibility Tracker from Scratch",
+          "summary": "暂无摘要",
+          "source": "njx",
+          "url": "https://www.crawlspider.com/how-to-build-an-ai-visibility-tracker-from-scratch/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Show HN: Varkos – a local AI pet that can talk, interact, and play small games",
+          "summary": "暂无摘要",
+          "source": "pantelisk",
+          "url": "https://varkos.party/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+          "summary": "暂无摘要",
+          "source": "raahelb",
+          "url": "https://arxiv.org/abs/2607.29516",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "VSArena – The official open browser benchmark for embodied AI",
+          "summary": "暂无摘要",
+          "source": "AranKair",
+          "url": "https://vsarena.vercel.app",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Shopify CEO Who Pushed Staff to Use AI Is Now Horrified by What He's Wrought",
+          "summary": "暂无摘要",
+          "source": "Corrado",
+          "url": "https://futurism.com/artificial-intelligence/shopify-ceo-ai-workplace-staff-horrified-backfire",
+          "time": "2026-09-23"
         }
       ]
     },
@@ -330,18 +757,158 @@
           "time": "2022-12-16"
         },
         {
-          "title": "How to Use AI With Your Privacy Intact",
-          "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
-          "source": "Andy Greenberg",
-          "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
-          "time": "2026-09-22"
+          "title": "The AI Hype Index: AI Loves Cheating",
+          "summary": "暂无摘要",
+          "source": "sbulaev",
+          "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+          "time": "2026-09-23"
         },
         {
-          "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-          "summary": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
-          "source": "Javier Carbajal",
-          "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
-          "time": "2026-09-21"
+          "title": "The last IMO problem AI could not solve [video]",
+          "summary": "暂无摘要",
+          "source": "ColinWright",
+          "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
+          "summary": "暂无摘要",
+          "source": "randycupertino",
+          "url": "https://www.avclub.com/meta-muse-ai-human-labor",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI Agent Goal Hijack: How Attackers Turn an Agent's Own Tools Against It",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "An 'AI freeze' could make big AI companies bigger and hurt smaller firms",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "My Wedding Invitations Became an Experiment in AI Memory",
+          "summary": "暂无摘要",
+          "source": "pureooze",
+          "url": "https://pureooze.com/blog/posts/2026-09-22-my-wedding-invitations-became-an-experiment-in-ai-memory/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI Goes to War: Ukraine AI Autonomous Drone Guidance",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
+          "summary": "暂无摘要",
+          "source": "myth_drannon",
+          "url": "https://www.calcalistech.com/ctechnews/article/13p5khsib",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Agent Etna – Automated staging environment and regression compiler for AI agents",
+          "summary": "暂无摘要",
+          "source": "giuerr",
+          "url": "https://www.agentetna.com/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "AI can never produce sublime art",
+          "summary": "暂无摘要",
+          "source": "bananaflag",
+          "url": "https://hilariusbookbinder.substack.com/p/ai-can-never-produce-sublime-art",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "The Most Important Market in AI Is the Middle",
+          "summary": "暂无摘要",
+          "source": "simonpure",
+          "url": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Show HN: Free attestation for AI agent decisions – verifying one costs $0.10",
+          "summary": "暂无摘要",
+          "source": "RubricProtocol",
+          "url": "https://github.com/0xsims/rubric-attest",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "KDE and AI, and You, and Me",
+          "summary": "暂无摘要",
+          "source": "TangerineDream",
+          "url": "https://pointieststick.com/2026/09/23/kde-and-ai-and-you-and-me/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Security auditing in the age of (good enough) AI",
+          "summary": "暂无摘要",
+          "source": "wslh",
+          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "How to Build an AI Visibility Tracker from Scratch",
+          "summary": "暂无摘要",
+          "source": "njx",
+          "url": "https://www.crawlspider.com/how-to-build-an-ai-visibility-tracker-from-scratch/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Show HN: Varkos – a local AI pet that can talk, interact, and play small games",
+          "summary": "暂无摘要",
+          "source": "pantelisk",
+          "url": "https://varkos.party/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+          "summary": "暂无摘要",
+          "source": "raahelb",
+          "url": "https://arxiv.org/abs/2607.29516",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "VSArena – The official open browser benchmark for embodied AI",
+          "summary": "暂无摘要",
+          "source": "AranKair",
+          "url": "https://vsarena.vercel.app",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Shopify CEO Who Pushed Staff to Use AI Is Now Horrified by What He's Wrought",
+          "summary": "暂无摘要",
+          "source": "Corrado",
+          "url": "https://futurism.com/artificial-intelligence/shopify-ceo-ai-workplace-staff-horrified-backfire",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "\"Good\" AI",
+          "summary": "暂无摘要",
+          "source": "simplegeek",
+          "url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "A US-China AI Hotline Won't Be Ready For a While",
+          "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+          "source": "Hugo Lowell",
+          "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+          "time": "2026-09-23"
+        },
+        {
+          "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+          "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
+          "source": "Dan Goodin, Ars Technica",
+          "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+          "time": "2026-09-23"
         }
       ]
     }
