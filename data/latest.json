@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-25T22:57:33.080Z",
-  "date": "2026年9月25日 22时57分",
+  "updateTime": "2026-09-26T22:15:44.064Z",
+  "date": "2026年9月26日 22时15分",
   "categories": [
     {
       "id": "tech",
@@ -344,146 +344,6 @@
           "time": "2022-12-16"
         },
         {
-          "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-          "summary": "暂无摘要",
-          "source": "usernomdeguerre",
-          "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "The Shift from Models to Compound AI Systems",
-          "summary": "暂无摘要",
-          "source": "nlpnerd",
-          "url": "https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Show HN: Wallstreetclaws.com – Create AI Agents for Trading",
-          "summary": "暂无摘要",
-          "source": "iceman_w",
-          "url": "https://wallstreetclaws.com",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Show HN: MyA11yReport MCP – Build and test accessible websites with AI",
-          "summary": "暂无摘要",
-          "source": "charlesloubao",
-          "url": "https://mya11y.report/mcp/",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "AI Is a Boring Technology",
-          "summary": "暂无摘要",
-          "source": "devonnull",
-          "url": "https://www.chrbutler.com/ai-is-a-boring-technology",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
-          "summary": "暂无摘要",
-          "source": "omarsar",
-          "url": "https://academy.dair.ai/papers/jev-mem-system-one-controlled-agentic-memory-for-efficient-ai-agents-2609.23986",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Show HN: OOMU is a free macOS native desktop AI harness (local and cloud)",
-          "summary": "暂无摘要",
-          "source": "jeff-oomu",
-          "url": "https://oomu.ai/download.html",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Tensor Data Interchange for AI/ML Systems: A Survey and the Hurray Proposal",
-          "summary": "暂无摘要",
-          "source": "pascalgillet",
-          "url": "https://www.pascalgillet.net/hurray/docs/dev/prior-art.html",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Altman-backed Praxis plans a $1B AI-powered town in Uruguay",
-          "summary": "暂无摘要",
-          "source": "aanet",
-          "url": "https://timesofindia.indiatimes.com/technology/tech-news/sam-altman-backed-praxis-plans-1-billion-ai-powered-town-in-uruguay-first-residents-expected-in-mid-2027-with-homes-resorts-and-cultural-spaces-for-the-ai-era/articleshow/134456141.cms",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Anthropic's AI biolab finds 'CRISPR-like' DNA in viruses. What's next?",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.nature.com/articles/d41586-026-03039-6",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "AI Companies Are in a Race Against Time",
-          "summary": "暂无摘要",
-          "source": "cwal37",
-          "url": "https://econjared.substack.com/p/ai-companies-are-in-a-race-against",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "AI Workers' Inquiry 2026",
-          "summary": "暂无摘要",
-          "source": "birdculture",
-          "url": "https://techworkersinquiry.org/ai/",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "AI often makes writing worse. (Even if it makes it better)",
-          "summary": "暂无摘要",
-          "source": "uxhacker",
-          "url": "https://www.economist.com/britain/2026/09/24/ai-often-makes-writing-worse-even-if-it-makes-it-better",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Is z.ai shipping a different ZCode client than the source?",
-          "summary": "暂无摘要",
-          "source": "leftbehind",
-          "url": "https://news.ycombinator.com/item?id=49850328",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "AI and human tutoring yield equivalent GRE learning gains",
-          "summary": "暂无摘要",
-          "source": "Betelbuddy",
-          "url": "https://arxiv.org/abs/2609.28470",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "It's not hypothetical: the dangers of AI are here",
-          "summary": "暂无摘要",
-          "source": "harry_nutsachs",
-          "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Carnegie: China Passes US as Top AI Talent Hub, 40.6% to 34.2%",
-          "summary": "暂无摘要",
-          "source": "yogthos",
-          "url": "https://aiweekly.co/alerts/carnegie-china-passes-us-as-top-ai-talent-hub-406-to-342",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Show HN: NerfWatch() – Track AI degradation with daily tests and community votes",
-          "summary": "暂无摘要",
-          "source": "csergiu",
-          "url": "https://nerfwatch.lol",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "\"Someone just sent me an ad that features an AI version of me. What do I do?\"",
-          "summary": "暂无摘要",
-          "source": "pavel_lishin",
-          "url": "https://bsky.app/profile/lebassett.bsky.social/post/3mwel345jr22s",
-          "time": "2026-09-25"
-        },
-        {
-          "title": "Show HN: Piloxa – an MCP server that sends USPS Certified Mail from your AI",
-          "summary": "暂无摘要",
-          "source": "kameir",
-          "url": "https://piloxa.com/for-ai-agents",
-          "time": "2026-09-25"
-        },
-        {
           "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
           "summary": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
           "source": "Isabella Ward",
@@ -502,13 +362,6 @@
           "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
           "source": "Hugo Lowell",
           "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-          "time": "2026-09-23"
-        },
-        {
-          "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
-          "summary": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers.",
-          "source": "Dan Goodin, Ars Technica",
-          "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
           "time": "2026-09-23"
         }
       ]
