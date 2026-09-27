@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-09-26T22:15:44.064Z",
-  "date": "2026年9月26日 22时15分",
+  "updateTime": "2026-09-27T22:41:58.815Z",
+  "date": "2026年9月27日 22时41分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Machine Learning Systems",
+          "summary": "暂无摘要",
+          "source": "7777777phil",
+          "url": "https://mlsysbook.ai/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "George Hotz’s opinion on AI coding",
+          "summary": "暂无摘要",
+          "source": "sashank_1509",
+          "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
+          "summary": "暂无摘要",
+          "source": "Anon84",
+          "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Latency reduction for consumer facing AI applications",
+          "summary": "暂无摘要",
+          "source": "akiimehta",
+          "url": "https://news.ycombinator.com/item?id=49871083",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Fundamentals still worth learning when AI writes the code",
+          "summary": "暂无摘要",
+          "source": "ibobev",
+          "url": "https://flaviocopes.com/fundamentals-ai-era/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "T3rnel Browser – DevTools you can talk to, and a browser your AI can drive",
+          "summary": "暂无摘要",
+          "source": "tkaviya",
+          "url": "https://t3ratech.github.io/t3rnel-browser-plugin/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "A Programmable Programming Language (2018)",
+          "summary": "暂无摘要",
+          "source": "so-cal-schemer",
+          "url": "https://cacm.acm.org/research/a-programmable-programming-language/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+          "summary": "暂无摘要",
+          "source": "Betelbuddy",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+          "summary": "暂无摘要",
+          "source": "Betelbuddy",
+          "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
+          "summary": "暂无摘要",
+          "source": "Chekka",
+          "url": "https://crypto-sentiment-x402.onrender.com/sentiment/BTC",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: An AI wedding concierge I built and ran at my own 300-person wedding",
+          "summary": "暂无摘要",
+          "source": "aido_wedding",
+          "url": "https://ai-do.io/demo",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Corporate America embraces cheaper 'open' AI models",
+          "summary": "暂无摘要",
+          "source": "macleginn",
+          "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "TuxBot: Semantic-Aware Online OS Tuning with Large Language Models",
+          "summary": "暂无摘要",
+          "source": "matt_d",
+          "url": "https://arxiv.org/abs/2605.15026",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+          "summary": "暂无摘要",
+          "source": "splurf",
+          "url": "https://heysquint.com/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+          "summary": "暂无摘要",
+          "source": "jcfrei",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "AI Companies Say They're Investigating Rogue Bot Incidents",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Heypcb: Figma for Hardware, with AI",
+          "summary": "暂无摘要",
+          "source": "handfuloflight",
+          "url": "https://heypcb.ai",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: Asimov's 4 Laws for AI Contexts",
+          "summary": "暂无摘要",
+          "source": "davidsonff",
+          "url": "https://github.com/davidsonff/asimov4laws",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "He's Terrified of AI–and He's About to Make Billions Off It",
+          "summary": "暂无摘要",
+          "source": "thm",
+          "url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181",
+          "time": "2026-09-27"
+        },
         {
           "title": "The AI Hype Index: AI loves cheating",
           "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
@@ -118,6 +258,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
           "time": "2026-08-17"
+        },
+        {
+          "title": "OpenAI to Halt Training of Some Models",
+          "summary": "暂无摘要",
+          "source": "HiroProtagonist",
+          "url": "https://gizmodo.com/openai-to-halt-training-of-some-models-2000817912",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "George Hotz’s opinion on AI coding",
+          "summary": "暂无摘要",
+          "source": "sashank_1509",
+          "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
+          "summary": "暂无摘要",
+          "source": "Anon84",
+          "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Latency reduction for consumer facing AI applications",
+          "summary": "暂无摘要",
+          "source": "akiimehta",
+          "url": "https://news.ycombinator.com/item?id=49871083",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Fundamentals still worth learning when AI writes the code",
+          "summary": "暂无摘要",
+          "source": "ibobev",
+          "url": "https://flaviocopes.com/fundamentals-ai-era/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "T3rnel Browser – DevTools you can talk to, and a browser your AI can drive",
+          "summary": "暂无摘要",
+          "source": "tkaviya",
+          "url": "https://t3ratech.github.io/t3rnel-browser-plugin/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Did Anthropic's A.I. Really Make a Scientific Discovery on Its Own?",
+          "summary": "暂无摘要",
+          "source": "jbegley",
+          "url": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Anthropic is a supply chain risk for all of us",
+          "summary": "暂无摘要",
+          "source": "usernamed7",
+          "url": "https://building138.com/anthropic-is-a-supply-chain-risk-for-all-of-us",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "App Store review allowed a Meta Muse copycat",
+          "summary": "暂无摘要",
+          "source": "krackers",
+          "url": "https://lapcatsoftware.com/articles/2026/9/8.html",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+          "summary": "暂无摘要",
+          "source": "Betelbuddy",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Trump and Anthropic CEO Dario Amodei Set for White House Dinner",
+          "summary": "暂无摘要",
+          "source": "mudil",
+          "url": "https://www.wsj.com/tech/ai/trump-and-anthropic-ceo-dario-amodei-set-for-white-house-dinner-32c2d0ab",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Anthropic CEO Amodei set to meet with Trump",
+          "summary": "暂无摘要",
+          "source": "Betelbuddy",
+          "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+          "summary": "暂无摘要",
+          "source": "Betelbuddy",
+          "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "When did Google get so weird?",
+          "summary": "暂无摘要",
+          "source": "sancho-panza",
+          "url": "https://sancho.bearblog.dev/google-weird/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
+          "summary": "暂无摘要",
+          "source": "Chekka",
+          "url": "https://crypto-sentiment-x402.onrender.com/sentiment/BTC",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: An AI wedding concierge I built and ran at my own 300-person wedding",
+          "summary": "暂无摘要",
+          "source": "aido_wedding",
+          "url": "https://ai-do.io/demo",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Corporate America embraces cheaper 'open' AI models",
+          "summary": "暂无摘要",
+          "source": "macleginn",
+          "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+          "summary": "暂无摘要",
+          "source": "splurf",
+          "url": "https://heysquint.com/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+          "summary": "暂无摘要",
+          "source": "jcfrei",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+          "time": "2026-09-27"
         }
       ]
     },
@@ -148,18 +428,144 @@
           "time": "2026-09-25"
         },
         {
-          "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
-          "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needl",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
-          "time": "2026-09-25"
+          "title": "George Hotz’s opinion on AI coding",
+          "summary": "暂无摘要",
+          "source": "sashank_1509",
+          "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+          "time": "2026-09-27"
         },
         {
-          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-          "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-          "time": "2026-09-25"
+          "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
+          "summary": "暂无摘要",
+          "source": "Anon84",
+          "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Latency reduction for consumer facing AI applications",
+          "summary": "暂无摘要",
+          "source": "akiimehta",
+          "url": "https://news.ycombinator.com/item?id=49871083",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Fundamentals still worth learning when AI writes the code",
+          "summary": "暂无摘要",
+          "source": "ibobev",
+          "url": "https://flaviocopes.com/fundamentals-ai-era/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "T3rnel Browser – DevTools you can talk to, and a browser your AI can drive",
+          "summary": "暂无摘要",
+          "source": "tkaviya",
+          "url": "https://t3ratech.github.io/t3rnel-browser-plugin/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+          "summary": "暂无摘要",
+          "source": "Betelbuddy",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+          "summary": "暂无摘要",
+          "source": "Betelbuddy",
+          "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
+          "summary": "暂无摘要",
+          "source": "Chekka",
+          "url": "https://crypto-sentiment-x402.onrender.com/sentiment/BTC",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Oil Slips as Iran Diplomacy Sparks Fresh Hopes for a Market Reset",
+          "summary": "暂无摘要",
+          "source": "joeymabia1",
+          "url": "https://medium.com/@d02514047/oil-slips-as-iran-diplomacy-sparks-fresh-hopes-for-a-market-reset-4b5a9168ac52",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: An AI wedding concierge I built and ran at my own 300-person wedding",
+          "summary": "暂无摘要",
+          "source": "aido_wedding",
+          "url": "https://ai-do.io/demo",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Corporate America embraces cheaper 'open' AI models",
+          "summary": "暂无摘要",
+          "source": "macleginn",
+          "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+          "summary": "暂无摘要",
+          "source": "splurf",
+          "url": "https://heysquint.com/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+          "summary": "暂无摘要",
+          "source": "jcfrei",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "AI Companies Say They're Investigating Rogue Bot Incidents",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Heypcb: Figma for Hardware, with AI",
+          "summary": "暂无摘要",
+          "source": "handfuloflight",
+          "url": "https://heypcb.ai",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: Asimov's 4 Laws for AI Contexts",
+          "summary": "暂无摘要",
+          "source": "davidsonff",
+          "url": "https://github.com/davidsonff/asimov4laws",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "He's Terrified of AI–and He's About to Make Billions Off It",
+          "summary": "暂无摘要",
+          "source": "thm",
+          "url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
+          "summary": "暂无摘要",
+          "source": "codepawl",
+          "url": "https://orglet.codepawl.com/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
+          "time": "2026-09-27"
         }
       ]
     },
@@ -342,6 +748,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "George Hotz’s opinion on AI coding",
+          "summary": "暂无摘要",
+          "source": "sashank_1509",
+          "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
+          "summary": "暂无摘要",
+          "source": "Anon84",
+          "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Latency reduction for consumer facing AI applications",
+          "summary": "暂无摘要",
+          "source": "akiimehta",
+          "url": "https://news.ycombinator.com/item?id=49871083",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Fundamentals still worth learning when AI writes the code",
+          "summary": "暂无摘要",
+          "source": "ibobev",
+          "url": "https://flaviocopes.com/fundamentals-ai-era/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "T3rnel Browser – DevTools you can talk to, and a browser your AI can drive",
+          "summary": "暂无摘要",
+          "source": "tkaviya",
+          "url": "https://t3ratech.github.io/t3rnel-browser-plugin/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+          "summary": "暂无摘要",
+          "source": "Betelbuddy",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+          "summary": "暂无摘要",
+          "source": "Betelbuddy",
+          "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
+          "summary": "暂无摘要",
+          "source": "Chekka",
+          "url": "https://crypto-sentiment-x402.onrender.com/sentiment/BTC",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: An AI wedding concierge I built and ran at my own 300-person wedding",
+          "summary": "暂无摘要",
+          "source": "aido_wedding",
+          "url": "https://ai-do.io/demo",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Corporate America embraces cheaper 'open' AI models",
+          "summary": "暂无摘要",
+          "source": "macleginn",
+          "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+          "summary": "暂无摘要",
+          "source": "splurf",
+          "url": "https://heysquint.com/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+          "summary": "暂无摘要",
+          "source": "jcfrei",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "AI Companies Say They're Investigating Rogue Bot Incidents",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Heypcb: Figma for Hardware, with AI",
+          "summary": "暂无摘要",
+          "source": "handfuloflight",
+          "url": "https://heypcb.ai",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: Asimov's 4 Laws for AI Contexts",
+          "summary": "暂无摘要",
+          "source": "davidsonff",
+          "url": "https://github.com/davidsonff/asimov4laws",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "He's Terrified of AI–and He's About to Make Billions Off It",
+          "summary": "暂无摘要",
+          "source": "thm",
+          "url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
+          "summary": "暂无摘要",
+          "source": "codepawl",
+          "url": "https://orglet.codepawl.com/",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+          "summary": "暂无摘要",
+          "source": "billybuckwheat",
+          "url": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
+          "time": "2026-09-27"
+        },
+        {
+          "title": "Ask HN: What am I missing with Siri AI?",
+          "summary": "暂无摘要",
+          "source": "ryeguy_24",
+          "url": "https://news.ycombinator.com/item?id=49869237",
+          "time": "2026-09-27"
         },
         {
           "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
