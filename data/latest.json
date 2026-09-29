@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-29T00:03:46.554Z",
-  "date": "2026年9月29日 0时3分",
+  "updateTime": "2026-09-29T23:16:23.419Z",
+  "date": "2026年9月29日 23时16分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,151 @@
       "icon": "📰",
       "news": [
         {
-          "title": "China broadens travel curbs to encompass family of top AI talent",
+          "title": "Show HN: I build omarchy like experience in browser for remote machine",
           "summary": "暂无摘要",
-          "source": "jnord",
-          "url": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
-          "time": "2026-09-28"
+          "source": "liyu1981au",
+          "url": "https://news.ycombinator.com/item?id=49902131",
+          "time": "2026-09-29"
         },
         {
-          "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-          "summary": "暂无摘要",
-          "source": "6thbit",
-          "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Nvidia announces AI safety platform",
-          "summary": "暂无摘要",
-          "source": "iamdamian",
-          "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
-          "summary": "暂无摘要",
-          "source": "BiraIgnacio",
-          "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Go Pace Yourself (an example of what AI films done right looks like)",
-          "summary": "暂无摘要",
-          "source": "johnnyApplePRNG",
-          "url": "https://www.reddit.com/r/Anthropic/comments/1wnd5qh/go_pace_yourself/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "A diagram language where you say where things go",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://reladraw.github.io/reladraw/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "What if automating AI R&D triggers an intelligence explosion? [pdf]",
-          "summary": "暂无摘要",
-          "source": "whyleyc",
-          "url": "https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "AI Almost Started a U.S.–China War – and No One Seems to Care",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Reliable AI automation done right (not with a model)",
-          "summary": "暂无摘要",
-          "source": "senorcarbone",
-          "url": "https://skeptical.ai/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "AI is eroding the barriers that kept biological weapons rare",
-          "summary": "暂无摘要",
-          "source": "EA-3167",
-          "url": "https://www.statnews.com/2026/09/28/ai-bioweapons-pathogens-guardrails-policy-warning/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "SBX env: consistent and shareable AI sandbox configurations",
-          "summary": "暂无摘要",
-          "source": "pploug",
-          "url": "https://docs.docker.com/ai/sandboxes/configuration/environment-files",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "OpenAI Scraps Release of New AI Model over Safety Concerns",
-          "summary": "暂无摘要",
-          "source": "borski",
-          "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
-          "summary": "暂无摘要",
-          "source": "Greenpants",
-          "url": "https://blog.greenpants.net/ai-accountability/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Range – open a 1 TB AI model in 3 seconds without downloading it",
-          "summary": "暂无摘要",
-          "source": "andreygrehov",
-          "url": "https://getrange.sh/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Recalld – A memory layer for AI agents that returns only relevant facts",
-          "summary": "暂无摘要",
-          "source": "costinu",
-          "url": "https://recalld.ai/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Walmart promises to never use AI to charge shoppers higher prices",
+          "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
           "summary": "暂无摘要",
           "source": "DeepLogin",
-          "url": "https://corporate.walmart.com/about/everyday-affordability/letter-from-our-ceo",
-          "time": "2026-09-28"
+          "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+          "time": "2026-09-29"
         },
         {
-          "title": "The AI as the New Compiler",
+          "title": "Trump orders US Government to call AI 'Super Intelligence'",
           "summary": "暂无摘要",
-          "source": "wslh",
-          "url": "https://www.buildwithdc.co/posts/beyond-ai-driven-development-part-1-the-ai-as-the-new-compiler/",
-          "time": "2026-09-28"
+          "source": "recsv-heredoc",
+          "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+          "time": "2026-09-29"
         },
         {
-          "title": "Show HN: What a VM for your AI agent costs across 13 sandbox providers",
+          "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
           "summary": "暂无摘要",
-          "source": "theMackabu",
-          "url": "https://vm-price-board.sf.tools/",
-          "time": "2026-09-28"
+          "source": "Gaishan",
+          "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+          "time": "2026-09-29"
         },
         {
-          "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+          "title": "Temporal computing surpassing Transformers – Sleeping Machines [pdf]",
           "summary": "暂无摘要",
-          "source": "nkko",
-          "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-          "time": "2026-09-28"
+          "source": "keskival",
+          "url": "https://github.com/keskival/sleeping_machines/blob/main/report/sleeping_machines_status.pdf",
+          "time": "2026-09-29"
         },
         {
-          "title": "Machine-Generated, Machine-Checked Proofs for a Verified Compiler (ICFP'26) [video]",
+          "title": "Trump and major AI executives sign \"morally binding\" voluntary controls",
           "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://www.youtube.com/watch?v=Dmt0h99iOmM",
-          "time": "2026-09-28"
+          "source": "oogali",
+          "url": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Ask HN: How do you maintain depth of understanding and velocity when using AI?",
+          "summary": "暂无摘要",
+          "source": "civicsquid",
+          "url": "https://news.ycombinator.com/item?id=49901420",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "New US Government AI Chatbot soon to \"let you take action\"",
+          "summary": "暂无摘要",
+          "source": "gumby",
+          "url": "https://lifehacker.com/tech/what-is-america-dot-gov",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Show HN: The Activity Monitor for the AI Era",
+          "summary": "暂无摘要",
+          "source": "eduardpantazi",
+          "url": "https://cortexformac.com/",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "No Time to Pwn – Can AI Find and Exploit the Linux Kernel?",
+          "summary": "暂无摘要",
+          "source": "_xor_",
+          "url": "https://xbow.com/blog/no-time-to-pwn-cve-2026-72018",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Pluralis Towards a Multicultural Multimodal, Multilingual Benchmark for AI Risk",
+          "summary": "暂无摘要",
+          "source": "thinkevolve",
+          "url": "https://arxiv.org/abs/2607.06196",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Can AI Decipher the Indus Valley Script?",
+          "summary": "暂无摘要",
+          "source": "aadyachinubhai",
+          "url": "https://news.ycombinator.com/item?id=49901168",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "GPT-6.1 Astra Is Grounded: OpenAI's Safety Decision Puts the AI Race on Notice",
+          "summary": "暂无摘要",
+          "source": "joeymabia1",
+          "url": "https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Drift: An AI idea map that grows as you explore. free to use",
+          "summary": "暂无摘要",
+          "source": "echohive42",
+          "url": "https://www.echohive.ai/drift",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Show HN: Self healing AI Assistant with a 4B model on a Raspberry Pi5",
+          "summary": "暂无摘要",
+          "source": "phntmcore",
+          "url": "https://www.phntmcore.com/",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "CodeCrab – Local-first desktop app for AI code reviews",
+          "summary": "暂无摘要",
+          "source": "edyaguirre",
+          "url": "https://www.codecrab.ai/",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Reliable AI Automation done right (it's not a model this time)",
+          "summary": "暂无摘要",
+          "source": "senorcarbone",
+          "url": "https://skeptical.io/",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "The best explanation I've found about the state of AI hype and hysteria [video]",
+          "summary": "暂无摘要",
+          "source": "yogthos",
+          "url": "https://www.youtube.com/watch?v=claxN4oxDuY",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Colonel JD AI Codec Conversation [video]",
+          "summary": "暂无摘要",
+          "source": "pulkitsh1234",
+          "url": "https://www.youtube.com/watch?v=eKl6WjfDqYA",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Software Investing in the Age of AI and Slower Growth",
+          "summary": "暂无摘要",
+          "source": "T-A",
+          "url": "https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Making AI an asset, not an expense",
+          "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
+          "source": "Cheri Williams",
+          "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+          "time": "2026-09-29"
         },
         {
           "title": "When can we say AI made a scientific discovery?",
@@ -258,146 +265,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
           "time": "2026-08-19"
-        },
-        {
-          "title": "China broadens travel curbs to encompass family of top AI talent",
-          "summary": "暂无摘要",
-          "source": "jnord",
-          "url": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Reverse Engineering How Meta's Muse Shops",
-          "summary": "暂无摘要",
-          "source": "kalanpeace",
-          "url": "https://caeliai.com/blog/reverse-engineering-how-muse-shops",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-          "summary": "暂无摘要",
-          "source": "6thbit",
-          "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Nvidia announces AI safety platform",
-          "summary": "暂无摘要",
-          "source": "iamdamian",
-          "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns",
-          "summary": "暂无摘要",
-          "source": "smb06",
-          "url": "https://runtimewire.com/article/wsj-reports-openai-scrapped-gpt-6-1-astra-over-safety-concerns",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-          "summary": "暂无摘要",
-          "source": "ihuman",
-          "url": "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Show HN: MuseTogether – let Meta's Muse agents coordinate plans with each other",
-          "summary": "暂无摘要",
-          "source": "waylaidwanderer",
-          "url": "https://musetogether.ai/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
-          "summary": "暂无摘要",
-          "source": "BiraIgnacio",
-          "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Tech OpenAI abandons plan to release upcoming model as safety concerns escalate",
-          "summary": "暂无摘要",
-          "source": "paulkrush",
-          "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Go Pace Yourself (an example of what AI films done right looks like)",
-          "summary": "暂无摘要",
-          "source": "johnnyApplePRNG",
-          "url": "https://www.reddit.com/r/Anthropic/comments/1wnd5qh/go_pace_yourself/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "OpenAI Scrapped Newest Model Release",
-          "summary": "暂无摘要",
-          "source": "pliiight",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "What if automating AI R&D triggers an intelligence explosion? [pdf]",
-          "summary": "暂无摘要",
-          "source": "whyleyc",
-          "url": "https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "I built a FIDO2 hardware key. OpenAI says it isn't hardware enough",
-          "summary": "暂无摘要",
-          "source": "voidnullvalue",
-          "url": "https://voidnullvalue.github.io/openai-fido2/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "AI Almost Started a U.S.–China War – and No One Seems to Care",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Reliable AI automation done right (not with a model)",
-          "summary": "暂无摘要",
-          "source": "senorcarbone",
-          "url": "https://skeptical.ai/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "AI is eroding the barriers that kept biological weapons rare",
-          "summary": "暂无摘要",
-          "source": "EA-3167",
-          "url": "https://www.statnews.com/2026/09/28/ai-bioweapons-pathogens-guardrails-policy-warning/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "SBX env: consistent and shareable AI sandbox configurations",
-          "summary": "暂无摘要",
-          "source": "pploug",
-          "url": "https://docs.docker.com/ai/sandboxes/configuration/environment-files",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Meta Poaches MongoDB CEO \"Effective Immediately\"",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.tikr.com/blog/meta-poaches-mongodb-ceo-effective-immediately-stock-sinks-24",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "App Store review allowed a Meta Muse copycat",
-          "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://lapcatsoftware.com/articles/2026/9/8.html",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "OpenAI Scraps Release of New AI Model over Safety Concerns",
-          "summary": "暂无摘要",
-          "source": "borski",
-          "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
-          "time": "2026-09-28"
         }
       ]
     },
@@ -407,52 +274,45 @@
       "icon": "💼",
       "news": [
         {
+          "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+          "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+          "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food,",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Reco raises $55M as AI agent security startups crowd the market",
+          "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+          "source": "Ram Iyer",
+          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+          "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+          "time": "2026-09-29"
+        },
+        {
+          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+          "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+          "time": "2026-09-29"
+        },
+        {
           "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-          "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+          "summary": "The new financing is expected to more than triple the AI infrastructure startup's valuation from just four months ago.",
           "source": "Marina Temkin",
           "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion",
-          "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-          "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones a",
-          "source": "Connie Loizos",
-          "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-          "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disru",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-          "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leader",
-          "source": "TechCrunch Events",
-          "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-          "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-          "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a sta",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
           "time": "2026-09-28"
         },
         {
@@ -469,6 +329,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "Making AI an asset, not an expense",
+          "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
+          "source": "Cheri Williams",
+          "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+          "time": "2026-09-29"
+        },
         {
           "title": "When can we say AI made a scientific discovery?",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it ",
@@ -645,144 +512,18 @@
           "time": "2022-12-16"
         },
         {
-          "title": "China broadens travel curbs to encompass family of top AI talent",
-          "summary": "暂无摘要",
-          "source": "jnord",
-          "url": "https://www.business-standard.com/world-news/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent-126092801465_1.html",
-          "time": "2026-09-28"
+          "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+          "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+          "source": "Emily Mullin, Anna Rogers",
+          "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+          "time": "2026-09-29"
         },
         {
-          "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-          "summary": "暂无摘要",
-          "source": "6thbit",
-          "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Nvidia announces AI safety platform",
-          "summary": "暂无摘要",
-          "source": "iamdamian",
-          "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
-          "summary": "暂无摘要",
-          "source": "BiraIgnacio",
-          "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Go Pace Yourself (an example of what AI films done right looks like)",
-          "summary": "暂无摘要",
-          "source": "johnnyApplePRNG",
-          "url": "https://www.reddit.com/r/Anthropic/comments/1wnd5qh/go_pace_yourself/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "What if automating AI R&D triggers an intelligence explosion? [pdf]",
-          "summary": "暂无摘要",
-          "source": "whyleyc",
-          "url": "https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "AI Almost Started a U.S.–China War – and No One Seems to Care",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://theintercept.com/2026/09/28/ai-military-nuclear-war-doomsday/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Reliable AI automation done right (not with a model)",
-          "summary": "暂无摘要",
-          "source": "senorcarbone",
-          "url": "https://skeptical.ai/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "AI is eroding the barriers that kept biological weapons rare",
-          "summary": "暂无摘要",
-          "source": "EA-3167",
-          "url": "https://www.statnews.com/2026/09/28/ai-bioweapons-pathogens-guardrails-policy-warning/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "SBX env: consistent and shareable AI sandbox configurations",
-          "summary": "暂无摘要",
-          "source": "pploug",
-          "url": "https://docs.docker.com/ai/sandboxes/configuration/environment-files",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "OpenAI Scraps Release of New AI Model over Safety Concerns",
-          "summary": "暂无摘要",
-          "source": "borski",
-          "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
-          "summary": "暂无摘要",
-          "source": "Greenpants",
-          "url": "https://blog.greenpants.net/ai-accountability/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Range – open a 1 TB AI model in 3 seconds without downloading it",
-          "summary": "暂无摘要",
-          "source": "andreygrehov",
-          "url": "https://getrange.sh/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Recalld – A memory layer for AI agents that returns only relevant facts",
-          "summary": "暂无摘要",
-          "source": "costinu",
-          "url": "https://recalld.ai/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Walmart promises to never use AI to charge shoppers higher prices",
-          "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://corporate.walmart.com/about/everyday-affordability/letter-from-our-ceo",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "The AI as the New Compiler",
-          "summary": "暂无摘要",
-          "source": "wslh",
-          "url": "https://www.buildwithdc.co/posts/beyond-ai-driven-development-part-1-the-ai-as-the-new-compiler/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Show HN: What a VM for your AI agent costs across 13 sandbox providers",
-          "summary": "暂无摘要",
-          "source": "theMackabu",
-          "url": "https://vm-price-board.sf.tools/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Conway's Law cuts both ways",
-          "summary": "暂无摘要",
-          "source": "pablomartin",
-          "url": "https://pablohere.contrapeso.xyz/writings/conways-law-cuts-both-ways.html",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Researchers proved AI has deleted every reason universities exist",
-          "summary": "暂无摘要",
-          "source": "pretext",
-          "url": "https://twitter.com/thesupermannx/status/2104519992532496810",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "Man Says Meta's Muse AI Gave His Home Address Out to Strangers",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://futurism.com/artificial-intelligence/metas-muse-ai-giving-users-home-addresses",
-          "time": "2026-09-28"
+          "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+          "summary": "The company said its latest Astra model would undergo more work to meet safety standards, and issued an apology for the way it handled the hacking of an Australian government website.",
+          "source": "Isabella Ward",
+          "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+          "time": "2026-09-29"
         },
         {
           "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
