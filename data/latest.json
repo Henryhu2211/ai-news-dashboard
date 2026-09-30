@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-09-29T23:16:23.419Z",
-  "date": "2026年9月29日 23时16分",
+  "updateTime": "2026-09-30T23:19:32.778Z",
+  "date": "2026年9月30日 23时19分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,11 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Show HN: I build omarchy like experience in browser for remote machine",
-          "summary": "暂无摘要",
-          "source": "liyu1981au",
-          "url": "https://news.ycombinator.com/item?id=49902131",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
-          "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Trump orders US Government to call AI 'Super Intelligence'",
-          "summary": "暂无摘要",
-          "source": "recsv-heredoc",
-          "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-          "summary": "暂无摘要",
-          "source": "Gaishan",
-          "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Temporal computing surpassing Transformers – Sleeping Machines [pdf]",
-          "summary": "暂无摘要",
-          "source": "keskival",
-          "url": "https://github.com/keskival/sleeping_machines/blob/main/report/sleeping_machines_status.pdf",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Trump and major AI executives sign \"morally binding\" voluntary controls",
-          "summary": "暂无摘要",
-          "source": "oogali",
-          "url": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Ask HN: How do you maintain depth of understanding and velocity when using AI?",
-          "summary": "暂无摘要",
-          "source": "civicsquid",
-          "url": "https://news.ycombinator.com/item?id=49901420",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "New US Government AI Chatbot soon to \"let you take action\"",
-          "summary": "暂无摘要",
-          "source": "gumby",
-          "url": "https://lifehacker.com/tech/what-is-america-dot-gov",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Show HN: The Activity Monitor for the AI Era",
-          "summary": "暂无摘要",
-          "source": "eduardpantazi",
-          "url": "https://cortexformac.com/",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "No Time to Pwn – Can AI Find and Exploit the Linux Kernel?",
-          "summary": "暂无摘要",
-          "source": "_xor_",
-          "url": "https://xbow.com/blog/no-time-to-pwn-cve-2026-72018",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Pluralis Towards a Multicultural Multimodal, Multilingual Benchmark for AI Risk",
-          "summary": "暂无摘要",
-          "source": "thinkevolve",
-          "url": "https://arxiv.org/abs/2607.06196",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Can AI Decipher the Indus Valley Script?",
-          "summary": "暂无摘要",
-          "source": "aadyachinubhai",
-          "url": "https://news.ycombinator.com/item?id=49901168",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "GPT-6.1 Astra Is Grounded: OpenAI's Safety Decision Puts the AI Race on Notice",
-          "summary": "暂无摘要",
-          "source": "joeymabia1",
-          "url": "https://predx-article.fika.bar/gpt-6-1-astra-is-grounded-openai-s-safety-decision-puts-the-01M3NFXDZ5S2X22FYZNNECEHK3",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Drift: An AI idea map that grows as you explore. free to use",
-          "summary": "暂无摘要",
-          "source": "echohive42",
-          "url": "https://www.echohive.ai/drift",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Show HN: Self healing AI Assistant with a 4B model on a Raspberry Pi5",
-          "summary": "暂无摘要",
-          "source": "phntmcore",
-          "url": "https://www.phntmcore.com/",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "CodeCrab – Local-first desktop app for AI code reviews",
-          "summary": "暂无摘要",
-          "source": "edyaguirre",
-          "url": "https://www.codecrab.ai/",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Reliable AI Automation done right (it's not a model this time)",
-          "summary": "暂无摘要",
-          "source": "senorcarbone",
-          "url": "https://skeptical.io/",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "The best explanation I've found about the state of AI hype and hysteria [video]",
-          "summary": "暂无摘要",
-          "source": "yogthos",
-          "url": "https://www.youtube.com/watch?v=claxN4oxDuY",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Colonel JD AI Codec Conversation [video]",
-          "summary": "暂无摘要",
-          "source": "pulkitsh1234",
-          "url": "https://www.youtube.com/watch?v=eKl6WjfDqYA",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Software Investing in the Age of AI and Slower Growth",
-          "summary": "暂无摘要",
-          "source": "T-A",
-          "url": "https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/",
-          "time": "2026-09-29"
+          "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+          "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr",
+          "source": "Will Douglas Heaven",
+          "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+          "time": "2026-09-30"
         },
         {
           "title": "Making AI an asset, not an expense",
@@ -274,53 +141,32 @@
       "icon": "💼",
       "news": [
         {
-          "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+          "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+          "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+          "time": "2026-09-30"
+        },
+        {
+          "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+          "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+          "time": "2026-09-30"
+        },
+        {
+          "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+          "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+          "time": "2026-09-30"
+        },
+        {
+          "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
           "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
           "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
           "time": "2026-09-29"
-        },
-        {
-          "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-          "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food,",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Reco raises $55M as AI agent security startups crowd the market",
-          "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-          "source": "Ram Iyer",
-          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-          "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
-          "source": "Connie Loizos",
-          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-          "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-          "time": "2026-09-29"
-        },
-        {
-          "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-          "summary": "The new financing is expected to more than triple the AI infrastructure startup's valuation from just four months ago.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-          "time": "2026-09-28"
-        },
-        {
-          "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-          "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-          "source": "Joel Khalili",
-          "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-          "time": "2026-09-28"
         }
       ]
     },
