@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-02T23:25:05.309Z",
-  "date": "2026年10月2日 23时25分",
+  "updateTime": "2026-10-03T22:33:11.993Z",
+  "date": "2026年10月3日 22时33分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
+          "title": "When Does Automating AI Research Produce Explosive Growth? [pdf]",
           "summary": "暂无摘要",
-          "source": "initramfs",
-          "url": "https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58",
-          "time": "2026-10-02"
+          "source": "marojejian",
+          "url": "https://basilhalperin.com/papers/singularities.pdf",
+          "time": "2026-10-03"
         },
         {
-          "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
+          "title": "Building the Human Layer of AI",
           "summary": "暂无摘要",
-          "source": "sunpy",
-          "url": "https://teacherplanner.ai",
-          "time": "2026-10-02"
+          "source": "measurablefunc",
+          "url": "https://publicai.io/",
+          "time": "2026-10-03"
         },
         {
-          "title": "AI Torture Chamber – Steering LLMs into negative and positive valence states",
+          "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
           "summary": "暂无摘要",
-          "source": "Anonboxis",
-          "url": "https://github.com/login",
-          "time": "2026-10-02"
+          "source": "jethronethro",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "time": "2026-10-03"
         },
         {
-          "title": "LLMs Will Not Replace AI Compilers. They Will Call Them.",
+          "title": "Can AI self-improvement overcome diminishing returns?",
+          "summary": "暂无摘要",
+          "source": "marojejian",
+          "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
+          "summary": "暂无摘要",
+          "source": "pseudolus",
+          "url": "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "The University of Cambridge opposes Turnitin AI training plans",
+          "summary": "暂无摘要",
+          "source": "qifzer",
+          "url": "https://www.varsity.co.uk/news/32158",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Don't Write with AI, Say People Who Write with AI",
+          "summary": "暂无摘要",
+          "source": "FinnLobsien",
+          "url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Kent Beck: Software Engineering in the Age of AI [video]",
+          "summary": "暂无摘要",
+          "source": "quick_brown_fox",
+          "url": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Is library building obsoleted by AI coding?",
+          "summary": "暂无摘要",
+          "source": "k1w1",
+          "url": "https://news.ycombinator.com/item?id=49947975",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "The Metaphysical Impossibility of AI [video]",
+          "summary": "暂无摘要",
+          "source": "h02",
+          "url": "https://www.youtube.com/watch?v=nzCtuKSt3gA",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Compiling dynamic programming languages (2018)",
+          "summary": "暂无摘要",
+          "source": "azhenley",
+          "url": "https://notes.eatonphil.com/compiling-dynamic-programming-languages.html",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "A Beginner's Guide to Running AI Models Locally",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.itsthatlady.dev/blog/beginners-guide-to-local-ai/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "What do you want from AI?",
+          "summary": "暂无摘要",
+          "source": "Eridanus2",
+          "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "AI (For Normal People) with AWS Hero Thorsten Hoger [video]",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://vbrownbag.com/2026/06/episode-followup-ai-for-normal-people-with-aws-hero-thorsten-hoger/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Keurig's new machine uses plastic-free compressed coffee pucks",
+          "summary": "暂无摘要",
+          "source": "rdmuser",
+          "url": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Zordt – AI news distilled to what happened and why it matters",
+          "summary": "暂无摘要",
+          "source": "vchilkuri",
+          "url": "https://zordt.com/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Language Designers Panel – Stroustrup, Guido van Rossum, Torgersen and Tracey",
+          "summary": "暂无摘要",
+          "source": "ggcr",
+          "url": "https://www.youtube.com/watch?v=HFcTjwfpHWQ",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Co-Linguistics: AI-Augmented Theory Construction in Linguistics",
+          "summary": "暂无摘要",
+          "source": "puttycat",
+          "url": "https://arxiv.org/abs/2609.37635",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Process Matters More Than Output for Distinguishing Humans from Machines",
+          "summary": "暂无摘要",
+          "source": "timshell",
+          "url": "https://arxiv.org/abs/2605.06524",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
           "summary": "暂无摘要",
           "source": "matt_d",
-          "url": "https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
-          "summary": "暂无摘要",
-          "source": "jaredwiener",
-          "url": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
-          "summary": "暂无摘要",
-          "source": "CharlesW",
-          "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Can You SEO Your Way into an AI Agent's Recommendation?",
-          "summary": "暂无摘要",
-          "source": "richards",
-          "url": "https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: Asked Opus for a video about AI labs and it spit out this weird thing",
-          "summary": "暂无摘要",
-          "source": "HaxleRose",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Merlean AI",
-          "summary": "暂无摘要",
-          "source": "zmaren",
-          "url": "https://merlean.ai/",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Huddo: Instant Shared AI Room",
-          "summary": "暂无摘要",
-          "source": "hellohanchen",
-          "url": "https://huddo.ai",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Reducing the cognitive load of AI changes",
-          "summary": "暂无摘要",
-          "source": "birdculture",
-          "url": "https://amoffat.github.io/blog/cognitive-load.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Meta stumbled onto a winning AI strategy",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Database of Scientist Leaving America (USA)",
-          "summary": "暂无摘要",
-          "source": "panicbutton",
-          "url": "https://www.scientistsleavingusa.com/",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
-          "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Decide where your AI workload should run (local/edge/cloud)",
-          "summary": "暂无摘要",
-          "source": "krajan124",
-          "url": "https://github.com/Keerthana0309/ai-workload-placement",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "How I think about meaning: and my sneaky tricks for manufacturing more of it",
-          "summary": "暂无摘要",
-          "source": "jger15",
-          "url": "https://notnottalmud.substack.com/p/how-i-think-about-meaning-and-my",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: I build a local archive for AI chats that are hard to export openrouter",
-          "summary": "暂无摘要",
-          "source": "thread123",
-          "url": "https://github.com/ChrystianSchutz/ThreadShelf",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "The Sleuths Who Expose When AI Goes Rogue",
-          "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Pope Leo XIV on AI and Art",
-          "summary": "暂无摘要",
-          "source": "smartmic",
-          "url": "https://twitter.com/Pontifex/status/2105983638147891490",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: Portus, A Rust Based API/AI/MCP Gateway",
-          "summary": "暂无摘要",
-          "source": "nodstuff",
-          "url": "https://portus-gateway.dev/",
-          "time": "2026-10-02"
+          "url": "https://github.com/eunomia-bpf/agentsight",
+          "time": "2026-10-03"
         },
         {
           "title": "Redefining enterprise intelligence with autonomous AI",
@@ -288,144 +288,144 @@
           "time": "2026-08-25"
         },
         {
-          "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
+          "title": "When Does Automating AI Research Produce Explosive Growth? [pdf]",
           "summary": "暂无摘要",
-          "source": "initramfs",
-          "url": "https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58",
-          "time": "2026-10-02"
+          "source": "marojejian",
+          "url": "https://basilhalperin.com/papers/singularities.pdf",
+          "time": "2026-10-03"
         },
         {
-          "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
+          "title": "Building the Human Layer of AI",
           "summary": "暂无摘要",
-          "source": "sunpy",
-          "url": "https://teacherplanner.ai",
-          "time": "2026-10-02"
+          "source": "measurablefunc",
+          "url": "https://publicai.io/",
+          "time": "2026-10-03"
         },
         {
-          "title": "AI Torture Chamber – Steering LLMs into negative and positive valence states",
+          "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
           "summary": "暂无摘要",
-          "source": "Anonboxis",
-          "url": "https://github.com/login",
-          "time": "2026-10-02"
+          "source": "jethronethro",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "time": "2026-10-03"
         },
         {
-          "title": "LLMs Will Not Replace AI Compilers. They Will Call Them.",
+          "title": "Can AI self-improvement overcome diminishing returns?",
+          "summary": "暂无摘要",
+          "source": "marojejian",
+          "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
+          "summary": "暂无摘要",
+          "source": "pseudolus",
+          "url": "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "The University of Cambridge opposes Turnitin AI training plans",
+          "summary": "暂无摘要",
+          "source": "qifzer",
+          "url": "https://www.varsity.co.uk/news/32158",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Don't Write with AI, Say People Who Write with AI",
+          "summary": "暂无摘要",
+          "source": "FinnLobsien",
+          "url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Kent Beck: Software Engineering in the Age of AI [video]",
+          "summary": "暂无摘要",
+          "source": "quick_brown_fox",
+          "url": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Is library building obsoleted by AI coding?",
+          "summary": "暂无摘要",
+          "source": "k1w1",
+          "url": "https://news.ycombinator.com/item?id=49947975",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "The Metaphysical Impossibility of AI [video]",
+          "summary": "暂无摘要",
+          "source": "h02",
+          "url": "https://www.youtube.com/watch?v=nzCtuKSt3gA",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "A Beginner's Guide to Running AI Models Locally",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.itsthatlady.dev/blog/beginners-guide-to-local-ai/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "What do you want from AI?",
+          "summary": "暂无摘要",
+          "source": "Eridanus2",
+          "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "AI (For Normal People) with AWS Hero Thorsten Hoger [video]",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://vbrownbag.com/2026/06/episode-followup-ai-for-normal-people-with-aws-hero-thorsten-hoger/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Zordt – AI news distilled to what happened and why it matters",
+          "summary": "暂无摘要",
+          "source": "vchilkuri",
+          "url": "https://zordt.com/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Co-Linguistics: AI-Augmented Theory Construction in Linguistics",
+          "summary": "暂无摘要",
+          "source": "puttycat",
+          "url": "https://arxiv.org/abs/2609.37635",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
           "summary": "暂无摘要",
           "source": "matt_d",
-          "url": "https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html",
-          "time": "2026-10-02"
+          "url": "https://github.com/eunomia-bpf/agentsight",
+          "time": "2026-10-03"
         },
         {
-          "title": "An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
+          "title": "Has AI impacted the labor market yet?",
           "summary": "暂无摘要",
-          "source": "jaredwiener",
-          "url": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back",
-          "time": "2026-10-02"
+          "source": "Ariarule",
+          "url": "https://aleximas.substack.com/p/has-ai-impacted-the-labor-market",
+          "time": "2026-10-03"
         },
         {
-          "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
+          "title": "Capcom Plans to Transform the Re Engine into an AI-Generation Game Engine",
           "summary": "暂无摘要",
-          "source": "CharlesW",
-          "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
-          "time": "2026-10-02"
+          "source": "password54321",
+          "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+          "time": "2026-10-03"
         },
         {
-          "title": "Can You SEO Your Way into an AI Agent's Recommendation?",
+          "title": "Anthropic tried to persuade Pope that AI could be conscious being",
           "summary": "暂无摘要",
-          "source": "richards",
-          "url": "https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html",
-          "time": "2026-10-02"
+          "source": "Topfi",
+          "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+          "time": "2026-10-03"
         },
         {
-          "title": "Show HN: Asked Opus for a video about AI labs and it spit out this weird thing",
+          "title": "Our AI Midwife",
           "summary": "暂无摘要",
-          "source": "HaxleRose",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Merlean AI",
-          "summary": "暂无摘要",
-          "source": "zmaren",
-          "url": "https://merlean.ai/",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Huddo: Instant Shared AI Room",
-          "summary": "暂无摘要",
-          "source": "hellohanchen",
-          "url": "https://huddo.ai",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "OpenAI alerts 100 orgs that its 'misaligned models' attempted to break in",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Reducing the cognitive load of AI changes",
-          "summary": "暂无摘要",
-          "source": "birdculture",
-          "url": "https://amoffat.github.io/blog/cognitive-load.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Meta stumbled onto a winning AI strategy",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
-          "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Decide where your AI workload should run (local/edge/cloud)",
-          "summary": "暂无摘要",
-          "source": "krajan124",
-          "url": "https://github.com/Keerthana0309/ai-workload-placement",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: I build a local archive for AI chats that are hard to export openrouter",
-          "summary": "暂无摘要",
-          "source": "thread123",
-          "url": "https://github.com/ChrystianSchutz/ThreadShelf",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "The Sleuths Who Expose When AI Goes Rogue",
-          "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Pope Leo XIV on AI and Art",
-          "summary": "暂无摘要",
-          "source": "smartmic",
-          "url": "https://twitter.com/Pontifex/status/2105983638147891490",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: Portus, A Rust Based API/AI/MCP Gateway",
-          "summary": "暂无摘要",
-          "source": "nodstuff",
-          "url": "https://portus-gateway.dev/",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Gpui based database client built for teams and AI agents",
-          "summary": "暂无摘要",
-          "source": "faramarz",
-          "url": "https://based.pavi2410.com/",
-          "time": "2026-10-02"
+          "source": "eatitraw",
+          "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+          "time": "2026-10-03"
         }
       ]
     },
@@ -442,165 +442,158 @@
           "time": "2026-10-02"
         },
         {
-          "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-          "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-          "time": "2026-10-01"
-        },
-        {
-          "title": "Hearing tech startup Legato launches its AI hearing glasses",
-          "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-          "source": "Aisha Malik",
-          "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-          "time": "2026-10-01"
+          "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+          "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+          "source": "Lily Hay Newman, Matt Burgess",
+          "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+          "time": "2026-10-03"
         },
         {
           "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-          "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+          "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
           "source": "Steven Levy",
           "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
           "time": "2026-10-02"
         },
         {
-          "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
+          "title": "When Does Automating AI Research Produce Explosive Growth? [pdf]",
           "summary": "暂无摘要",
-          "source": "initramfs",
-          "url": "https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58",
-          "time": "2026-10-02"
+          "source": "marojejian",
+          "url": "https://basilhalperin.com/papers/singularities.pdf",
+          "time": "2026-10-03"
         },
         {
-          "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
+          "title": "Building the Human Layer of AI",
           "summary": "暂无摘要",
-          "source": "sunpy",
-          "url": "https://teacherplanner.ai",
-          "time": "2026-10-02"
+          "source": "measurablefunc",
+          "url": "https://publicai.io/",
+          "time": "2026-10-03"
         },
         {
-          "title": "AI Torture Chamber – Steering LLMs into negative and positive valence states",
+          "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
           "summary": "暂无摘要",
-          "source": "Anonboxis",
-          "url": "https://github.com/login",
-          "time": "2026-10-02"
+          "source": "jethronethro",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "time": "2026-10-03"
         },
         {
-          "title": "LLMs Will Not Replace AI Compilers. They Will Call Them.",
+          "title": "Can AI self-improvement overcome diminishing returns?",
+          "summary": "暂无摘要",
+          "source": "marojejian",
+          "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
+          "summary": "暂无摘要",
+          "source": "pseudolus",
+          "url": "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "The University of Cambridge opposes Turnitin AI training plans",
+          "summary": "暂无摘要",
+          "source": "qifzer",
+          "url": "https://www.varsity.co.uk/news/32158",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Don't Write with AI, Say People Who Write with AI",
+          "summary": "暂无摘要",
+          "source": "FinnLobsien",
+          "url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Kent Beck: Software Engineering in the Age of AI [video]",
+          "summary": "暂无摘要",
+          "source": "quick_brown_fox",
+          "url": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Is library building obsoleted by AI coding?",
+          "summary": "暂无摘要",
+          "source": "k1w1",
+          "url": "https://news.ycombinator.com/item?id=49947975",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "The Metaphysical Impossibility of AI [video]",
+          "summary": "暂无摘要",
+          "source": "h02",
+          "url": "https://www.youtube.com/watch?v=nzCtuKSt3gA",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "A Beginner's Guide to Running AI Models Locally",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.itsthatlady.dev/blog/beginners-guide-to-local-ai/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "What do you want from AI?",
+          "summary": "暂无摘要",
+          "source": "Eridanus2",
+          "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "AI (For Normal People) with AWS Hero Thorsten Hoger [video]",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://vbrownbag.com/2026/06/episode-followup-ai-for-normal-people-with-aws-hero-thorsten-hoger/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Zordt – AI news distilled to what happened and why it matters",
+          "summary": "暂无摘要",
+          "source": "vchilkuri",
+          "url": "https://zordt.com/",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "Co-Linguistics: AI-Augmented Theory Construction in Linguistics",
+          "summary": "暂无摘要",
+          "source": "puttycat",
+          "url": "https://arxiv.org/abs/2609.37635",
+          "time": "2026-10-03"
+        },
+        {
+          "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
           "summary": "暂无摘要",
           "source": "matt_d",
-          "url": "https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html",
-          "time": "2026-10-02"
+          "url": "https://github.com/eunomia-bpf/agentsight",
+          "time": "2026-10-03"
         },
         {
-          "title": "An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
+          "title": "Has AI impacted the labor market yet?",
           "summary": "暂无摘要",
-          "source": "jaredwiener",
-          "url": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back",
-          "time": "2026-10-02"
+          "source": "Ariarule",
+          "url": "https://aleximas.substack.com/p/has-ai-impacted-the-labor-market",
+          "time": "2026-10-03"
         },
         {
-          "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
+          "title": "Capcom Plans to Transform the Re Engine into an AI-Generation Game Engine",
           "summary": "暂无摘要",
-          "source": "CharlesW",
-          "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
-          "time": "2026-10-02"
+          "source": "password54321",
+          "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+          "time": "2026-10-03"
         },
         {
-          "title": "Can You SEO Your Way into an AI Agent's Recommendation?",
+          "title": "Anthropic tried to persuade Pope that AI could be conscious being",
           "summary": "暂无摘要",
-          "source": "richards",
-          "url": "https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html",
-          "time": "2026-10-02"
+          "source": "Topfi",
+          "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+          "time": "2026-10-03"
         },
         {
-          "title": "Show HN: Asked Opus for a video about AI labs and it spit out this weird thing",
+          "title": "Our AI Midwife",
           "summary": "暂无摘要",
-          "source": "HaxleRose",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Merlean AI",
-          "summary": "暂无摘要",
-          "source": "zmaren",
-          "url": "https://merlean.ai/",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Huddo: Instant Shared AI Room",
-          "summary": "暂无摘要",
-          "source": "hellohanchen",
-          "url": "https://huddo.ai",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Reducing the cognitive load of AI changes",
-          "summary": "暂无摘要",
-          "source": "birdculture",
-          "url": "https://amoffat.github.io/blog/cognitive-load.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Meta stumbled onto a winning AI strategy",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
-          "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Decide where your AI workload should run (local/edge/cloud)",
-          "summary": "暂无摘要",
-          "source": "krajan124",
-          "url": "https://github.com/Keerthana0309/ai-workload-placement",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: I build a local archive for AI chats that are hard to export openrouter",
-          "summary": "暂无摘要",
-          "source": "thread123",
-          "url": "https://github.com/ChrystianSchutz/ThreadShelf",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "The Sleuths Who Expose When AI Goes Rogue",
-          "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Pope Leo XIV on AI and Art",
-          "summary": "暂无摘要",
-          "source": "smartmic",
-          "url": "https://twitter.com/Pontifex/status/2105983638147891490",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: Portus, A Rust Based API/AI/MCP Gateway",
-          "summary": "暂无摘要",
-          "source": "nodstuff",
-          "url": "https://portus-gateway.dev/",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Gpui based database client built for teams and AI agents",
-          "summary": "暂无摘要",
-          "source": "faramarz",
-          "url": "https://based.pavi2410.com/",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "The AI telling farmers when to harvest",
-          "summary": "暂无摘要",
-          "source": "rmason",
-          "url": "https://www.bbc.com/news/articles/cgk53dkmyxko",
-          "time": "2026-10-02"
+          "source": "eatitraw",
+          "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+          "time": "2026-10-03"
         }
       ]
     },
@@ -799,144 +792,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
-          "summary": "暂无摘要",
-          "source": "initramfs",
-          "url": "https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
-          "summary": "暂无摘要",
-          "source": "sunpy",
-          "url": "https://teacherplanner.ai",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "AI Torture Chamber – Steering LLMs into negative and positive valence states",
-          "summary": "暂无摘要",
-          "source": "Anonboxis",
-          "url": "https://github.com/login",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "LLMs Will Not Replace AI Compilers. They Will Call Them.",
-          "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
-          "summary": "暂无摘要",
-          "source": "jaredwiener",
-          "url": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
-          "summary": "暂无摘要",
-          "source": "CharlesW",
-          "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Can You SEO Your Way into an AI Agent's Recommendation?",
-          "summary": "暂无摘要",
-          "source": "richards",
-          "url": "https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: Asked Opus for a video about AI labs and it spit out this weird thing",
-          "summary": "暂无摘要",
-          "source": "HaxleRose",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Merlean AI",
-          "summary": "暂无摘要",
-          "source": "zmaren",
-          "url": "https://merlean.ai/",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Huddo: Instant Shared AI Room",
-          "summary": "暂无摘要",
-          "source": "hellohanchen",
-          "url": "https://huddo.ai",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Reducing the cognitive load of AI changes",
-          "summary": "暂无摘要",
-          "source": "birdculture",
-          "url": "https://amoffat.github.io/blog/cognitive-load.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Meta stumbled onto a winning AI strategy",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Big Balls is running the ops for USA's new government network infrastructure",
-          "summary": "暂无摘要",
-          "source": "sans_souse",
-          "url": "https://medium.com/@carmitage/big-balls-now-exposed-to-serious-criminal-charges-in-at-least-six-states-ca865e1d6305",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
-          "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Decide where your AI workload should run (local/edge/cloud)",
-          "summary": "暂无摘要",
-          "source": "krajan124",
-          "url": "https://github.com/Keerthana0309/ai-workload-placement",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: I build a local archive for AI chats that are hard to export openrouter",
-          "summary": "暂无摘要",
-          "source": "thread123",
-          "url": "https://github.com/ChrystianSchutz/ThreadShelf",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "The Sleuths Who Expose When AI Goes Rogue",
-          "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Pope Leo XIV on AI and Art",
-          "summary": "暂无摘要",
-          "source": "smartmic",
-          "url": "https://twitter.com/Pontifex/status/2105983638147891490",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Show HN: Portus, A Rust Based API/AI/MCP Gateway",
-          "summary": "暂无摘要",
-          "source": "nodstuff",
-          "url": "https://portus-gateway.dev/",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Gpui based database client built for teams and AI agents",
-          "summary": "暂无摘要",
-          "source": "faramarz",
-          "url": "https://based.pavi2410.com/",
-          "time": "2026-10-02"
+          "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+          "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+          "source": "Lily Hay Newman, Matt Burgess",
+          "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+          "time": "2026-10-03"
         },
         {
           "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
