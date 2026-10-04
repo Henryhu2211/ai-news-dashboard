@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-03T22:33:11.993Z",
-  "date": "2026年10月3日 22时33分",
+  "updateTime": "2026-10-04T22:36:55.863Z",
+  "date": "2026年10月4日 22时36分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "When Does Automating AI Research Produce Explosive Growth? [pdf]",
+          "title": "Muse AI on Xteink X3 E-reader",
           "summary": "暂无摘要",
-          "source": "marojejian",
-          "url": "https://basilhalperin.com/papers/singularities.pdf",
-          "time": "2026-10-03"
+          "source": "Exorust",
+          "url": "https://charoori.com/blog/muse-on-xteink-x3/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Building the Human Layer of AI",
+          "title": "Ask HN: Mainstream media overplaying the threat of AI, or industry underplaying?",
           "summary": "暂无摘要",
-          "source": "measurablefunc",
-          "url": "https://publicai.io/",
-          "time": "2026-10-03"
+          "source": "AbstractH24",
+          "url": "https://news.ycombinator.com/item?id=49958383",
+          "time": "2026-10-04"
         },
         {
-          "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "title": "AI Backers Sound the Alarm About Safety",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "time": "2026-10-03"
+          "source": "ent101",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety",
+          "time": "2026-10-04"
         },
         {
-          "title": "Can AI self-improvement overcome diminishing returns?",
+          "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
           "summary": "暂无摘要",
-          "source": "marojejian",
-          "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-          "time": "2026-10-03"
+          "source": "bookofjoe",
+          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
+          "title": "Donate AI Tokens for Open Source Projects",
           "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/",
-          "time": "2026-10-03"
+          "source": "sanix-darker",
+          "url": "https://moochy.dev",
+          "time": "2026-10-04"
         },
         {
-          "title": "The University of Cambridge opposes Turnitin AI training plans",
+          "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
           "summary": "暂无摘要",
-          "source": "qifzer",
-          "url": "https://www.varsity.co.uk/news/32158",
-          "time": "2026-10-03"
+          "source": "netfortius",
+          "url": "https://news.ycombinator.com/item?id=49957917",
+          "time": "2026-10-04"
         },
         {
-          "title": "Don't Write with AI, Say People Who Write with AI",
+          "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
           "summary": "暂无摘要",
-          "source": "FinnLobsien",
-          "url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
-          "time": "2026-10-03"
+          "source": "sbulaev",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "time": "2026-10-04"
         },
         {
-          "title": "Kent Beck: Software Engineering in the Age of AI [video]",
+          "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
           "summary": "暂无摘要",
-          "source": "quick_brown_fox",
-          "url": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
-          "time": "2026-10-03"
+          "source": "amirshk80",
+          "url": "https://github.com/bluebear-io/baloo-bear",
+          "time": "2026-10-04"
         },
         {
-          "title": "Is library building obsoleted by AI coding?",
+          "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
           "summary": "暂无摘要",
-          "source": "k1w1",
-          "url": "https://news.ycombinator.com/item?id=49947975",
-          "time": "2026-10-03"
+          "source": "rokrokss",
+          "url": "https://recly.dev/",
+          "time": "2026-10-04"
         },
         {
-          "title": "The Metaphysical Impossibility of AI [video]",
+          "title": "Let's compete with China on AI social impact",
           "summary": "暂无摘要",
-          "source": "h02",
-          "url": "https://www.youtube.com/watch?v=nzCtuKSt3gA",
-          "time": "2026-10-03"
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
+          "time": "2026-10-04"
         },
         {
-          "title": "Compiling dynamic programming languages (2018)",
-          "summary": "暂无摘要",
-          "source": "azhenley",
-          "url": "https://notes.eatonphil.com/compiling-dynamic-programming-languages.html",
-          "time": "2026-10-03"
-        },
-        {
-          "title": "A Beginner's Guide to Running AI Models Locally",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.itsthatlady.dev/blog/beginners-guide-to-local-ai/",
-          "time": "2026-10-03"
-        },
-        {
-          "title": "What do you want from AI?",
-          "summary": "暂无摘要",
-          "source": "Eridanus2",
-          "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
-          "time": "2026-10-03"
-        },
-        {
-          "title": "AI (For Normal People) with AWS Hero Thorsten Hoger [video]",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://vbrownbag.com/2026/06/episode-followup-ai-for-normal-people-with-aws-hero-thorsten-hoger/",
-          "time": "2026-10-03"
-        },
-        {
-          "title": "Keurig's new machine uses plastic-free compressed coffee pucks",
+          "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
           "summary": "暂无摘要",
           "source": "rdmuser",
-          "url": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
-          "time": "2026-10-03"
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+          "time": "2026-10-04"
         },
         {
-          "title": "Zordt – AI news distilled to what happened and why it matters",
+          "title": "AI is making ambition feel pointless [video]",
           "summary": "暂无摘要",
-          "source": "vchilkuri",
-          "url": "https://zordt.com/",
-          "time": "2026-10-03"
+          "source": "dumindunuwan",
+          "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
+          "time": "2026-10-04"
         },
         {
-          "title": "Language Designers Panel – Stroustrup, Guido van Rossum, Torgersen and Tracey",
+          "title": "Memelang: Token-Terse Query Language",
           "summary": "暂无摘要",
-          "source": "ggcr",
-          "url": "https://www.youtube.com/watch?v=HFcTjwfpHWQ",
-          "time": "2026-10-03"
+          "source": "bri-holt",
+          "url": "https://memelang.net/11/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Co-Linguistics: AI-Augmented Theory Construction in Linguistics",
+          "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
           "summary": "暂无摘要",
-          "source": "puttycat",
-          "url": "https://arxiv.org/abs/2609.37635",
-          "time": "2026-10-03"
+          "source": "rdmuser",
+          "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Process Matters More Than Output for Distinguishing Humans from Machines",
+          "title": "The Illusion of AI Productivity: Go Frame the House",
           "summary": "暂无摘要",
-          "source": "timshell",
-          "url": "https://arxiv.org/abs/2605.06524",
-          "time": "2026-10-03"
+          "source": "kaydub",
+          "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
+          "time": "2026-10-04"
         },
         {
-          "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
+          "title": "Homa: The end of TCP for AI clusters [video]",
           "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://github.com/eunomia-bpf/agentsight",
-          "time": "2026-10-03"
+          "source": "signa11",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Show HN: Svetoviz - A browser for public machine learning datasets",
+          "summary": "暂无摘要",
+          "source": "piogryko",
+          "url": "https://app.svetoviz.com/",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Project is co-curated with AI",
+          "summary": "暂无摘要",
+          "source": "vesterde",
+          "url": "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
+          "summary": "暂无摘要",
+          "source": "davidoh",
+          "url": "https://www.finebytes.com/mfr/",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Big Bad Wolf: AI doesn't break security, it reprices it",
+          "summary": "暂无摘要",
+          "source": "salivan_421",
+          "url": "https://salivan.substack.com/p/big-bad-wolf",
+          "time": "2026-10-04"
         },
         {
           "title": "Redefining enterprise intelligence with autonomous AI",
@@ -288,144 +288,144 @@
           "time": "2026-08-25"
         },
         {
-          "title": "When Does Automating AI Research Produce Explosive Growth? [pdf]",
+          "title": "Muse AI on Xteink X3 E-reader",
           "summary": "暂无摘要",
-          "source": "marojejian",
-          "url": "https://basilhalperin.com/papers/singularities.pdf",
-          "time": "2026-10-03"
+          "source": "Exorust",
+          "url": "https://charoori.com/blog/muse-on-xteink-x3/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Building the Human Layer of AI",
+          "title": "Ask HN: Mainstream media overplaying the threat of AI, or industry underplaying?",
           "summary": "暂无摘要",
-          "source": "measurablefunc",
-          "url": "https://publicai.io/",
-          "time": "2026-10-03"
+          "source": "AbstractH24",
+          "url": "https://news.ycombinator.com/item?id=49958383",
+          "time": "2026-10-04"
         },
         {
-          "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "title": "AI Backers Sound the Alarm About Safety",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "time": "2026-10-03"
+          "source": "ent101",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety",
+          "time": "2026-10-04"
         },
         {
-          "title": "Can AI self-improvement overcome diminishing returns?",
+          "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
           "summary": "暂无摘要",
-          "source": "marojejian",
-          "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-          "time": "2026-10-03"
+          "source": "bookofjoe",
+          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
+          "title": "Donate AI Tokens for Open Source Projects",
           "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/",
-          "time": "2026-10-03"
+          "source": "sanix-darker",
+          "url": "https://moochy.dev",
+          "time": "2026-10-04"
         },
         {
-          "title": "The University of Cambridge opposes Turnitin AI training plans",
+          "title": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
           "summary": "暂无摘要",
-          "source": "qifzer",
-          "url": "https://www.varsity.co.uk/news/32158",
-          "time": "2026-10-03"
+          "source": "v9v",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "time": "2026-10-04"
         },
         {
-          "title": "Don't Write with AI, Say People Who Write with AI",
+          "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
           "summary": "暂无摘要",
-          "source": "FinnLobsien",
-          "url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
-          "time": "2026-10-03"
+          "source": "netfortius",
+          "url": "https://news.ycombinator.com/item?id=49957917",
+          "time": "2026-10-04"
         },
         {
-          "title": "Kent Beck: Software Engineering in the Age of AI [video]",
+          "title": "New York Times Saved $45M with Tax Break It Faults Meta for Using",
           "summary": "暂无摘要",
-          "source": "quick_brown_fox",
-          "url": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
-          "time": "2026-10-03"
+          "source": "CGMthrowaway",
+          "url": "https://freebeacon.substack.com/p/new-york-times-co-saved-45-million",
+          "time": "2026-10-04"
         },
         {
-          "title": "Is library building obsoleted by AI coding?",
+          "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
           "summary": "暂无摘要",
-          "source": "k1w1",
-          "url": "https://news.ycombinator.com/item?id=49947975",
-          "time": "2026-10-03"
+          "source": "sbulaev",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "time": "2026-10-04"
         },
         {
-          "title": "The Metaphysical Impossibility of AI [video]",
+          "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
           "summary": "暂无摘要",
-          "source": "h02",
-          "url": "https://www.youtube.com/watch?v=nzCtuKSt3gA",
-          "time": "2026-10-03"
+          "source": "amirshk80",
+          "url": "https://github.com/bluebear-io/baloo-bear",
+          "time": "2026-10-04"
         },
         {
-          "title": "A Beginner's Guide to Running AI Models Locally",
+          "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.itsthatlady.dev/blog/beginners-guide-to-local-ai/",
-          "time": "2026-10-03"
+          "source": "rokrokss",
+          "url": "https://recly.dev/",
+          "time": "2026-10-04"
         },
         {
-          "title": "What do you want from AI?",
+          "title": "Let's compete with China on AI social impact",
           "summary": "暂无摘要",
-          "source": "Eridanus2",
-          "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
-          "time": "2026-10-03"
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
+          "time": "2026-10-04"
         },
         {
-          "title": "AI (For Normal People) with AWS Hero Thorsten Hoger [video]",
+          "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://vbrownbag.com/2026/06/episode-followup-ai-for-normal-people-with-aws-hero-thorsten-hoger/",
-          "time": "2026-10-03"
+          "source": "rdmuser",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+          "time": "2026-10-04"
         },
         {
-          "title": "Zordt – AI news distilled to what happened and why it matters",
+          "title": "AI is making ambition feel pointless [video]",
           "summary": "暂无摘要",
-          "source": "vchilkuri",
-          "url": "https://zordt.com/",
-          "time": "2026-10-03"
+          "source": "dumindunuwan",
+          "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
+          "time": "2026-10-04"
         },
         {
-          "title": "Co-Linguistics: AI-Augmented Theory Construction in Linguistics",
+          "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
           "summary": "暂无摘要",
-          "source": "puttycat",
-          "url": "https://arxiv.org/abs/2609.37635",
-          "time": "2026-10-03"
+          "source": "rdmuser",
+          "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
+          "time": "2026-10-04"
         },
         {
-          "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
+          "title": "The Illusion of AI Productivity: Go Frame the House",
           "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://github.com/eunomia-bpf/agentsight",
-          "time": "2026-10-03"
+          "source": "kaydub",
+          "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
+          "time": "2026-10-04"
         },
         {
-          "title": "Has AI impacted the labor market yet?",
+          "title": "Homa: The end of TCP for AI clusters [video]",
           "summary": "暂无摘要",
-          "source": "Ariarule",
-          "url": "https://aleximas.substack.com/p/has-ai-impacted-the-labor-market",
-          "time": "2026-10-03"
+          "source": "signa11",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "time": "2026-10-04"
         },
         {
-          "title": "Capcom Plans to Transform the Re Engine into an AI-Generation Game Engine",
+          "title": "Improper redaction reveals Google Data Center water and electricity usage",
           "summary": "暂无摘要",
-          "source": "password54321",
-          "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
-          "time": "2026-10-03"
+          "source": "sensanaty",
+          "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+          "title": "Project is co-curated with AI",
           "summary": "暂无摘要",
-          "source": "Topfi",
-          "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
-          "time": "2026-10-03"
+          "source": "vesterde",
+          "url": "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Our AI Midwife",
+          "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
           "summary": "暂无摘要",
-          "source": "eatitraw",
-          "url": "https://www.astralcodexten.com/p/our-ai-midwife",
-          "time": "2026-10-03"
+          "source": "davidoh",
+          "url": "https://www.finebytes.com/mfr/",
+          "time": "2026-10-04"
         }
       ]
     },
@@ -456,144 +456,144 @@
           "time": "2026-10-02"
         },
         {
-          "title": "When Does Automating AI Research Produce Explosive Growth? [pdf]",
+          "title": "Muse AI on Xteink X3 E-reader",
           "summary": "暂无摘要",
-          "source": "marojejian",
-          "url": "https://basilhalperin.com/papers/singularities.pdf",
-          "time": "2026-10-03"
+          "source": "Exorust",
+          "url": "https://charoori.com/blog/muse-on-xteink-x3/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Building the Human Layer of AI",
+          "title": "Ask HN: Mainstream media overplaying the threat of AI, or industry underplaying?",
           "summary": "暂无摘要",
-          "source": "measurablefunc",
-          "url": "https://publicai.io/",
-          "time": "2026-10-03"
+          "source": "AbstractH24",
+          "url": "https://news.ycombinator.com/item?id=49958383",
+          "time": "2026-10-04"
         },
         {
-          "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "title": "AI Backers Sound the Alarm About Safety",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "time": "2026-10-03"
+          "source": "ent101",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety",
+          "time": "2026-10-04"
         },
         {
-          "title": "Can AI self-improvement overcome diminishing returns?",
+          "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
           "summary": "暂无摘要",
-          "source": "marojejian",
-          "url": "https://www.rameznaam.com/p/ai-rsi-isnt-leading-to-super-intelligence",
-          "time": "2026-10-03"
+          "source": "bookofjoe",
+          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
+          "title": "Donate AI Tokens for Open Source Projects",
           "summary": "暂无摘要",
-          "source": "pseudolus",
-          "url": "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/",
-          "time": "2026-10-03"
+          "source": "sanix-darker",
+          "url": "https://moochy.dev",
+          "time": "2026-10-04"
         },
         {
-          "title": "The University of Cambridge opposes Turnitin AI training plans",
+          "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
           "summary": "暂无摘要",
-          "source": "qifzer",
-          "url": "https://www.varsity.co.uk/news/32158",
-          "time": "2026-10-03"
+          "source": "netfortius",
+          "url": "https://news.ycombinator.com/item?id=49957917",
+          "time": "2026-10-04"
         },
         {
-          "title": "Don't Write with AI, Say People Who Write with AI",
+          "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
           "summary": "暂无摘要",
-          "source": "FinnLobsien",
-          "url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
-          "time": "2026-10-03"
+          "source": "sbulaev",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "time": "2026-10-04"
         },
         {
-          "title": "Kent Beck: Software Engineering in the Age of AI [video]",
+          "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
           "summary": "暂无摘要",
-          "source": "quick_brown_fox",
-          "url": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
-          "time": "2026-10-03"
+          "source": "amirshk80",
+          "url": "https://github.com/bluebear-io/baloo-bear",
+          "time": "2026-10-04"
         },
         {
-          "title": "Is library building obsoleted by AI coding?",
+          "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
           "summary": "暂无摘要",
-          "source": "k1w1",
-          "url": "https://news.ycombinator.com/item?id=49947975",
-          "time": "2026-10-03"
+          "source": "rokrokss",
+          "url": "https://recly.dev/",
+          "time": "2026-10-04"
         },
         {
-          "title": "The Metaphysical Impossibility of AI [video]",
+          "title": "Let's compete with China on AI social impact",
           "summary": "暂无摘要",
-          "source": "h02",
-          "url": "https://www.youtube.com/watch?v=nzCtuKSt3gA",
-          "time": "2026-10-03"
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
+          "time": "2026-10-04"
         },
         {
-          "title": "A Beginner's Guide to Running AI Models Locally",
+          "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.itsthatlady.dev/blog/beginners-guide-to-local-ai/",
-          "time": "2026-10-03"
+          "source": "rdmuser",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+          "time": "2026-10-04"
         },
         {
-          "title": "What do you want from AI?",
+          "title": "AI is making ambition feel pointless [video]",
           "summary": "暂无摘要",
-          "source": "Eridanus2",
-          "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
-          "time": "2026-10-03"
+          "source": "dumindunuwan",
+          "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
+          "time": "2026-10-04"
         },
         {
-          "title": "AI (For Normal People) with AWS Hero Thorsten Hoger [video]",
+          "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://vbrownbag.com/2026/06/episode-followup-ai-for-normal-people-with-aws-hero-thorsten-hoger/",
-          "time": "2026-10-03"
+          "source": "rdmuser",
+          "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Zordt – AI news distilled to what happened and why it matters",
+          "title": "The Illusion of AI Productivity: Go Frame the House",
           "summary": "暂无摘要",
-          "source": "vchilkuri",
-          "url": "https://zordt.com/",
-          "time": "2026-10-03"
+          "source": "kaydub",
+          "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
+          "time": "2026-10-04"
         },
         {
-          "title": "Co-Linguistics: AI-Augmented Theory Construction in Linguistics",
+          "title": "Homa: The end of TCP for AI clusters [video]",
           "summary": "暂无摘要",
-          "source": "puttycat",
-          "url": "https://arxiv.org/abs/2609.37635",
-          "time": "2026-10-03"
+          "source": "signa11",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "time": "2026-10-04"
         },
         {
-          "title": "AgentSight: System-wide AI agent profiling and monitoring with eBPF",
+          "title": "Project is co-curated with AI",
           "summary": "暂无摘要",
-          "source": "matt_d",
-          "url": "https://github.com/eunomia-bpf/agentsight",
-          "time": "2026-10-03"
+          "source": "vesterde",
+          "url": "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Has AI impacted the labor market yet?",
+          "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
           "summary": "暂无摘要",
-          "source": "Ariarule",
-          "url": "https://aleximas.substack.com/p/has-ai-impacted-the-labor-market",
-          "time": "2026-10-03"
+          "source": "davidoh",
+          "url": "https://www.finebytes.com/mfr/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Capcom Plans to Transform the Re Engine into an AI-Generation Game Engine",
+          "title": "Big Bad Wolf: AI doesn't break security, it reprices it",
           "summary": "暂无摘要",
-          "source": "password54321",
-          "url": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
-          "time": "2026-10-03"
+          "source": "salivan_421",
+          "url": "https://salivan.substack.com/p/big-bad-wolf",
+          "time": "2026-10-04"
         },
         {
-          "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+          "title": "Show HN: Ranking the most AI agent friendly tools",
           "summary": "暂无摘要",
-          "source": "Topfi",
-          "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
-          "time": "2026-10-03"
+          "source": "zerocool86",
+          "url": "https://www.anchorterminal.com/tools/",
+          "time": "2026-10-04"
         },
         {
-          "title": "Our AI Midwife",
+          "title": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace tech",
           "summary": "暂无摘要",
-          "source": "eatitraw",
-          "url": "https://www.astralcodexten.com/p/our-ai-midwife",
-          "time": "2026-10-03"
+          "source": "penskymaterial",
+          "url": "https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology",
+          "time": "2026-10-04"
         }
       ]
     },
@@ -790,6 +790,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Muse AI on Xteink X3 E-reader",
+          "summary": "暂无摘要",
+          "source": "Exorust",
+          "url": "https://charoori.com/blog/muse-on-xteink-x3/",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Ask HN: Mainstream media overplaying the threat of AI, or industry underplaying?",
+          "summary": "暂无摘要",
+          "source": "AbstractH24",
+          "url": "https://news.ycombinator.com/item?id=49958383",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "AI Backers Sound the Alarm About Safety",
+          "summary": "暂无摘要",
+          "source": "ent101",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+          "summary": "暂无摘要",
+          "source": "bookofjoe",
+          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Donate AI Tokens for Open Source Projects",
+          "summary": "暂无摘要",
+          "source": "sanix-darker",
+          "url": "https://moochy.dev",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
+          "summary": "暂无摘要",
+          "source": "netfortius",
+          "url": "https://news.ycombinator.com/item?id=49957917",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
+          "summary": "暂无摘要",
+          "source": "sbulaev",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
+          "summary": "暂无摘要",
+          "source": "amirshk80",
+          "url": "https://github.com/bluebear-io/baloo-bear",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
+          "summary": "暂无摘要",
+          "source": "rokrokss",
+          "url": "https://recly.dev/",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Let's compete with China on AI social impact",
+          "summary": "暂无摘要",
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
+          "summary": "暂无摘要",
+          "source": "rdmuser",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "AI is making ambition feel pointless [video]",
+          "summary": "暂无摘要",
+          "source": "dumindunuwan",
+          "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
+          "summary": "暂无摘要",
+          "source": "rdmuser",
+          "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "The Illusion of AI Productivity: Go Frame the House",
+          "summary": "暂无摘要",
+          "source": "kaydub",
+          "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Homa: The end of TCP for AI clusters [video]",
+          "summary": "暂无摘要",
+          "source": "signa11",
+          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Project is co-curated with AI",
+          "summary": "暂无摘要",
+          "source": "vesterde",
+          "url": "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
+          "summary": "暂无摘要",
+          "source": "davidoh",
+          "url": "https://www.finebytes.com/mfr/",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Big Bad Wolf: AI doesn't break security, it reprices it",
+          "summary": "暂无摘要",
+          "source": "salivan_421",
+          "url": "https://salivan.substack.com/p/big-bad-wolf",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Show HN: Ranking the most AI agent friendly tools",
+          "summary": "暂无摘要",
+          "source": "zerocool86",
+          "url": "https://www.anchorterminal.com/tools/",
+          "time": "2026-10-04"
+        },
+        {
+          "title": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace tech",
+          "summary": "暂无摘要",
+          "source": "penskymaterial",
+          "url": "https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology",
+          "time": "2026-10-04"
         },
         {
           "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
