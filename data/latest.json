@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-04T22:36:55.863Z",
-  "date": "2026年10月4日 22时36分",
+  "updateTime": "2026-10-06T01:02:27.511Z",
+  "date": "2026年10月6日 1时2分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,25 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Muse AI on Xteink X3 E-reader",
-          "summary": "暂无摘要",
-          "source": "Exorust",
-          "url": "https://charoori.com/blog/muse-on-xteink-x3/",
-          "time": "2026-10-04"
+          "title": "Bringing predictive analytics to the agentic AI era",
+          "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems t",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+          "time": "2026-10-05"
         },
         {
-          "title": "Ask HN: Mainstream media overplaying the threat of AI, or industry underplaying?",
-          "summary": "暂无摘要",
-          "source": "AbstractH24",
-          "url": "https://news.ycombinator.com/item?id=49958383",
-          "time": "2026-10-04"
+          "title": "People really hate AI, so why can’t they get enough?",
+          "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he ",
+          "source": "Will Douglas Heaven",
+          "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+          "time": "2026-10-05"
         },
         {
-          "title": "AI Backers Sound the Alarm About Safety",
-          "summary": "暂无摘要",
-          "source": "ent101",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Donate AI Tokens for Open Source Projects",
-          "summary": "暂无摘要",
-          "source": "sanix-darker",
-          "url": "https://moochy.dev",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
-          "summary": "暂无摘要",
-          "source": "netfortius",
-          "url": "https://news.ycombinator.com/item?id=49957917",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
-          "summary": "暂无摘要",
-          "source": "amirshk80",
-          "url": "https://github.com/bluebear-io/baloo-bear",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
-          "summary": "暂无摘要",
-          "source": "rokrokss",
-          "url": "https://recly.dev/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Let's compete with China on AI social impact",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI is making ambition feel pointless [video]",
-          "summary": "暂无摘要",
-          "source": "dumindunuwan",
-          "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Memelang: Token-Terse Query Language",
-          "summary": "暂无摘要",
-          "source": "bri-holt",
-          "url": "https://memelang.net/11/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "The Illusion of AI Productivity: Go Frame the House",
-          "summary": "暂无摘要",
-          "source": "kaydub",
-          "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "summary": "暂无摘要",
-          "source": "signa11",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Svetoviz - A browser for public machine learning datasets",
-          "summary": "暂无摘要",
-          "source": "piogryko",
-          "url": "https://app.svetoviz.com/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Project is co-curated with AI",
-          "summary": "暂无摘要",
-          "source": "vesterde",
-          "url": "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
-          "summary": "暂无摘要",
-          "source": "davidoh",
-          "url": "https://www.finebytes.com/mfr/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Big Bad Wolf: AI doesn't break security, it reprices it",
-          "summary": "暂无摘要",
-          "source": "salivan_421",
-          "url": "https://salivan.substack.com/p/big-bad-wolf",
-          "time": "2026-10-04"
+          "title": "EmTech Future 2026: When AI Meets Everything",
+          "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it in",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+          "time": "2026-10-05"
         },
         {
           "title": "Redefining enterprise intelligence with autonomous AI",
@@ -181,20 +62,6 @@
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
           "time": "2026-09-28"
-        },
-        {
-          "title": "The AI Hype Index: AI loves cheating",
-          "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
-          "source": "Michelle Kim",
-          "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-          "time": "2026-09-23"
-        },
-        {
-          "title": "Don’t be fooled by this summer of AI hype",
-          "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O",
-          "source": "Timnit Gebru, Emily M. Bender",
-          "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-          "time": "2026-09-22"
         }
       ]
     },
@@ -286,146 +153,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
           "time": "2026-08-25"
-        },
-        {
-          "title": "Muse AI on Xteink X3 E-reader",
-          "summary": "暂无摘要",
-          "source": "Exorust",
-          "url": "https://charoori.com/blog/muse-on-xteink-x3/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Ask HN: Mainstream media overplaying the threat of AI, or industry underplaying?",
-          "summary": "暂无摘要",
-          "source": "AbstractH24",
-          "url": "https://news.ycombinator.com/item?id=49958383",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI Backers Sound the Alarm About Safety",
-          "summary": "暂无摘要",
-          "source": "ent101",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Donate AI Tokens for Open Source Projects",
-          "summary": "暂无摘要",
-          "source": "sanix-darker",
-          "url": "https://moochy.dev",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "summary": "暂无摘要",
-          "source": "v9v",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
-          "summary": "暂无摘要",
-          "source": "netfortius",
-          "url": "https://news.ycombinator.com/item?id=49957917",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "New York Times Saved $45M with Tax Break It Faults Meta for Using",
-          "summary": "暂无摘要",
-          "source": "CGMthrowaway",
-          "url": "https://freebeacon.substack.com/p/new-york-times-co-saved-45-million",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
-          "summary": "暂无摘要",
-          "source": "amirshk80",
-          "url": "https://github.com/bluebear-io/baloo-bear",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
-          "summary": "暂无摘要",
-          "source": "rokrokss",
-          "url": "https://recly.dev/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Let's compete with China on AI social impact",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI is making ambition feel pointless [video]",
-          "summary": "暂无摘要",
-          "source": "dumindunuwan",
-          "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "The Illusion of AI Productivity: Go Frame the House",
-          "summary": "暂无摘要",
-          "source": "kaydub",
-          "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "summary": "暂无摘要",
-          "source": "signa11",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Improper redaction reveals Google Data Center water and electricity usage",
-          "summary": "暂无摘要",
-          "source": "sensanaty",
-          "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Project is co-curated with AI",
-          "summary": "暂无摘要",
-          "source": "vesterde",
-          "url": "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
-          "summary": "暂无摘要",
-          "source": "davidoh",
-          "url": "https://www.finebytes.com/mfr/",
-          "time": "2026-10-04"
         }
       ]
     },
@@ -435,11 +162,11 @@
       "icon": "💼",
       "news": [
         {
-          "title": "Pope Leo XIV is not a fan of AI-generated art",
-          "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope ",
-          "source": "Russell Brandom",
-          "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-          "time": "2026-10-02"
+          "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+          "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+          "time": "2026-10-05"
         },
         {
           "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
@@ -454,146 +181,6 @@
           "source": "Steven Levy",
           "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
           "time": "2026-10-02"
-        },
-        {
-          "title": "Muse AI on Xteink X3 E-reader",
-          "summary": "暂无摘要",
-          "source": "Exorust",
-          "url": "https://charoori.com/blog/muse-on-xteink-x3/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Ask HN: Mainstream media overplaying the threat of AI, or industry underplaying?",
-          "summary": "暂无摘要",
-          "source": "AbstractH24",
-          "url": "https://news.ycombinator.com/item?id=49958383",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI Backers Sound the Alarm About Safety",
-          "summary": "暂无摘要",
-          "source": "ent101",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Donate AI Tokens for Open Source Projects",
-          "summary": "暂无摘要",
-          "source": "sanix-darker",
-          "url": "https://moochy.dev",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
-          "summary": "暂无摘要",
-          "source": "netfortius",
-          "url": "https://news.ycombinator.com/item?id=49957917",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
-          "summary": "暂无摘要",
-          "source": "amirshk80",
-          "url": "https://github.com/bluebear-io/baloo-bear",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
-          "summary": "暂无摘要",
-          "source": "rokrokss",
-          "url": "https://recly.dev/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Let's compete with China on AI social impact",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI is making ambition feel pointless [video]",
-          "summary": "暂无摘要",
-          "source": "dumindunuwan",
-          "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "The Illusion of AI Productivity: Go Frame the House",
-          "summary": "暂无摘要",
-          "source": "kaydub",
-          "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "summary": "暂无摘要",
-          "source": "signa11",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Project is co-curated with AI",
-          "summary": "暂无摘要",
-          "source": "vesterde",
-          "url": "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
-          "summary": "暂无摘要",
-          "source": "davidoh",
-          "url": "https://www.finebytes.com/mfr/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Big Bad Wolf: AI doesn't break security, it reprices it",
-          "summary": "暂无摘要",
-          "source": "salivan_421",
-          "url": "https://salivan.substack.com/p/big-bad-wolf",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Ranking the most AI agent friendly tools",
-          "summary": "暂无摘要",
-          "source": "zerocool86",
-          "url": "https://www.anchorterminal.com/tools/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace tech",
-          "summary": "暂无摘要",
-          "source": "penskymaterial",
-          "url": "https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology",
-          "time": "2026-10-04"
         }
       ]
     },
@@ -602,6 +189,20 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "Connecting AI agents to enterprise knowledge",
+          "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+          "time": "2026-10-05"
+        },
+        {
+          "title": "Bringing predictive analytics to the agentic AI era",
+          "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems t",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+          "time": "2026-10-05"
+        },
         {
           "title": "Redefining enterprise intelligence with autonomous AI",
           "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f",
@@ -790,146 +391,6 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
-        },
-        {
-          "title": "Muse AI on Xteink X3 E-reader",
-          "summary": "暂无摘要",
-          "source": "Exorust",
-          "url": "https://charoori.com/blog/muse-on-xteink-x3/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Ask HN: Mainstream media overplaying the threat of AI, or industry underplaying?",
-          "summary": "暂无摘要",
-          "source": "AbstractH24",
-          "url": "https://news.ycombinator.com/item?id=49958383",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI Backers Sound the Alarm About Safety",
-          "summary": "暂无摘要",
-          "source": "ent101",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-10-04/ai-backers-sound-the-alarm-about-safety",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Donate AI Tokens for Open Source Projects",
-          "summary": "暂无摘要",
-          "source": "sanix-darker",
-          "url": "https://moochy.dev",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
-          "summary": "暂无摘要",
-          "source": "netfortius",
-          "url": "https://news.ycombinator.com/item?id=49957917",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
-          "summary": "暂无摘要",
-          "source": "sbulaev",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
-          "summary": "暂无摘要",
-          "source": "amirshk80",
-          "url": "https://github.com/bluebear-io/baloo-bear",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
-          "summary": "暂无摘要",
-          "source": "rokrokss",
-          "url": "https://recly.dev/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Let's compete with China on AI social impact",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "AI is making ambition feel pointless [video]",
-          "summary": "暂无摘要",
-          "source": "dumindunuwan",
-          "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "The Illusion of AI Productivity: Go Frame the House",
-          "summary": "暂无摘要",
-          "source": "kaydub",
-          "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "summary": "暂无摘要",
-          "source": "signa11",
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Project is co-curated with AI",
-          "summary": "暂无摘要",
-          "source": "vesterde",
-          "url": "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
-          "summary": "暂无摘要",
-          "source": "davidoh",
-          "url": "https://www.finebytes.com/mfr/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Big Bad Wolf: AI doesn't break security, it reprices it",
-          "summary": "暂无摘要",
-          "source": "salivan_421",
-          "url": "https://salivan.substack.com/p/big-bad-wolf",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Show HN: Ranking the most AI agent friendly tools",
-          "summary": "暂无摘要",
-          "source": "zerocool86",
-          "url": "https://www.anchorterminal.com/tools/",
-          "time": "2026-10-04"
-        },
-        {
-          "title": "Chick-fil-A rules out AI drive-thru ordering as fast-food rivals embrace tech",
-          "summary": "暂无摘要",
-          "source": "penskymaterial",
-          "url": "https://www.foxbusiness.com/lifestyle/chick-fil-a-ai-drive-thru-ordering-fast-food-rivals-embrace-technology",
-          "time": "2026-10-04"
         },
         {
           "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
