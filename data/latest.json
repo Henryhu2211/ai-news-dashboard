@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-06T23:26:50.616Z",
-  "date": "2026年10月6日 23时26分",
+  "updateTime": "2026-10-07T23:55:58.463Z",
+  "date": "2026年10月7日 23时55分",
   "categories": [
     {
       "id": "tech",
@@ -146,13 +146,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
           "time": "2026-08-27"
-        },
-        {
-          "title": "5 ways to upgrade your home decor with Google Search",
-          "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-          "time": "2026-08-25"
         }
       ]
     },
@@ -162,8 +155,36 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+          "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+          "time": "2026-10-07"
+        },
+        {
+          "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+          "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+          "source": "Ram Iyer",
+          "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+          "time": "2026-10-07"
+        },
+        {
+          "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+          "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+          "source": "Amanda Silberling",
+          "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+          "time": "2026-10-07"
+        },
+        {
+          "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+          "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, regist",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+          "time": "2026-10-07"
+        },
+        {
           "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-          "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+          "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
           "source": "Marina Temkin",
           "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
           "time": "2026-10-06"
@@ -190,18 +211,11 @@
           "time": "2026-10-06"
         },
         {
-          "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-          "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-          "source": "Lily Hay Newman, Matt Burgess",
-          "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-          "time": "2026-10-03"
-        },
-        {
-          "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-          "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-          "source": "Steven Levy",
-          "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-          "time": "2026-10-02"
+          "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+          "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+          "source": "Maddy Varner",
+          "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+          "time": "2026-10-07"
         }
       ]
     },
@@ -414,25 +428,18 @@
           "time": "2022-12-16"
         },
         {
+          "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+          "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+          "source": "Maddy Varner",
+          "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+          "time": "2026-10-07"
+        },
+        {
           "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
           "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
           "source": "Joel Khalili",
           "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
           "time": "2026-10-06"
-        },
-        {
-          "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-          "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-          "source": "Lily Hay Newman, Matt Burgess",
-          "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
-          "time": "2026-10-03"
-        },
-        {
-          "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-          "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-          "source": "Lily Hay Newman, Matt Burgess",
-          "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
-          "time": "2026-10-02"
         }
       ]
     }
