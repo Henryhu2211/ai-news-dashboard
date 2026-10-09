@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-09T00:03:21.100Z",
-  "date": "2026年10月9日 0时3分",
+  "updateTime": "2026-10-09T23:42:11.396Z",
+  "date": "2026年10月9日 23时42分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,18 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-          "summary": "暂无摘要",
-          "source": "edris0077",
-          "url": "https://github.com/edrisranjbar/lifeos",
+          "title": "We’re putting too much faith in AI’s ability to say no",
+          "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu",
+          "source": "Arthur Holland Michel",
+          "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
           "time": "2026-10-09"
         },
         {
-          "title": "Parenting hits different when you work in AI: SF dad letting bot read to baby",
-          "summary": "暂无摘要",
-          "source": "Topfi",
-          "url": "https://www.fastcompany.com/91620848/parenting-hits-different-when-you-work-in-ai-san-francisco-father-going-viral-for-letting-chatbot-read-to-his-baby",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "New site for AI math problems",
-          "summary": "暂无摘要",
-          "source": "NatalieTrono",
-          "url": "https://erdosproblems.ai",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "AI and the Death of the Author",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thedeepdish.substack.com/p/ai-and-the-death-of-the-author",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "AI and Chiral Fermions",
-          "summary": "暂无摘要",
-          "source": "jjgreen",
-          "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15915",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Show HN: Wick, a daily word game where you guess by meaning, not spelling",
-          "summary": "暂无摘要",
-          "source": "jpage2",
-          "url": "https://guesswick.com/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Top Reasons AI Will Never Become Superintelligence: Won't Destroy nor Save Us",
-          "summary": "暂无摘要",
-          "source": "B1FF_PSUVM",
-          "url": "https://www.wmbriggs.com/post/62236/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Female AI agents 'paid' less than males, study finds",
-          "summary": "暂无摘要",
-          "source": "TMWNN",
-          "url": "https://www.the-independent.com/tech/ai-gender-pay-gap-study-b3061881.html",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Atomic Machines – The Matter Compiler",
-          "summary": "暂无摘要",
-          "source": "axialflqx",
-          "url": "https://www.atomicmachines.com/matter-compiler",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "The operating system for AI harnesses",
-          "summary": "暂无摘要",
-          "source": "hochmartinez",
-          "url": "https://github.com/affaan-m/ecc",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "'Suno is the new auto-tune': Meet the artists using AI to go viral",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.dazeddigital.com/music/article/71134/1/suno-is-the-new-auto-tune-meet-the-artists-using-ai-to-go-viral",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "ZapExpense – Track expenses in seconds with natural language, voice and Siri",
-          "summary": "暂无摘要",
-          "source": "jimmy_lee",
-          "url": "https://apps.apple.com/us/app/zapexpense/id6760149256",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Quad9 Considers Leaving France over Website Blocking Order",
-          "summary": "暂无摘要",
-          "source": "miohtama",
-          "url": "https://reclaimthenet.org/quad9-considers-leaving-france-over-website-blocking-order",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Atomic Machines introduces the Matter Compiler to the world",
-          "summary": "暂无摘要",
-          "source": "sdrinan",
-          "url": "https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Cybersecurity Imperatives Will Demand AI Math",
-          "summary": "暂无摘要",
-          "source": "mmaunder",
-          "url": "https://www.wordfence.com/blog/2026/10/cybersecurity-imperatives-will-demand-ai-math/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-          "summary": "暂无摘要",
-          "source": "thesnarkitecht",
-          "url": "https://github.com/thesnarkitecht/rembrandt",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Measure how engineers and teams work with AI",
-          "summary": "暂无摘要",
-          "source": "pratesd",
-          "url": "https://www.eversynced.com/pheebs/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "As AI Closed in on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
-          "summary": "暂无摘要",
-          "source": "bcaulfield",
-          "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Is AI the End of Math as We Know It?",
-          "summary": "暂无摘要",
-          "source": "bcaulfield",
-          "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "AI-ready biological data: $1.8B global commitment",
-          "summary": "暂无摘要",
-          "source": "ray__",
-          "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-          "time": "2026-10-08"
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "time": "2026-10-09"
         },
         {
           "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
@@ -195,20 +69,6 @@
           "source": "Thore Graepel",
           "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
           "time": "2026-10-02"
-        },
-        {
-          "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-          "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady dr",
-          "source": "Will Douglas Heaven",
-          "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-          "time": "2026-09-30"
-        },
-        {
-          "title": "Making AI an asset, not an expense",
-          "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
-          "source": "Cheri Williams",
-          "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-          "time": "2026-09-29"
         }
       ]
     },
@@ -293,146 +153,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
           "time": "2026-08-27"
-        },
-        {
-          "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-          "summary": "暂无摘要",
-          "source": "edris0077",
-          "url": "https://github.com/edrisranjbar/lifeos",
-          "time": "2026-10-09"
-        },
-        {
-          "title": "Parenting hits different when you work in AI: SF dad letting bot read to baby",
-          "summary": "暂无摘要",
-          "source": "Topfi",
-          "url": "https://www.fastcompany.com/91620848/parenting-hits-different-when-you-work-in-ai-san-francisco-father-going-viral-for-letting-chatbot-read-to-his-baby",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "OpenAI Safety Researchers Fired",
-          "summary": "暂无摘要",
-          "source": "papergirl",
-          "url": "https://twitter.com/balesni/status/2108262814003687745",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "OpenAI, the Partition Principle, and Mathematics",
-          "summary": "暂无摘要",
-          "source": "md224",
-          "url": "https://karagila.org/2026/openai-pp/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Anthropic changes usage policy to ban model abuse and election interference",
-          "summary": "暂无摘要",
-          "source": "guessmyname",
-          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "New site for AI math problems",
-          "summary": "暂无摘要",
-          "source": "NatalieTrono",
-          "url": "https://erdosproblems.ai",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "On abuse towards models and Anthropic's new usage policies",
-          "summary": "暂无摘要",
-          "source": "thepasch",
-          "url": "https://blog.pascalschuster.de/article/on-model-welfare-and-usage-policies",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "AI and the Death of the Author",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thedeepdish.substack.com/p/ai-and-the-death-of-the-author",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "AI and Chiral Fermions",
-          "summary": "暂无摘要",
-          "source": "jjgreen",
-          "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15915",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Top Reasons AI Will Never Become Superintelligence: Won't Destroy nor Save Us",
-          "summary": "暂无摘要",
-          "source": "B1FF_PSUVM",
-          "url": "https://www.wmbriggs.com/post/62236/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "'Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release",
-          "summary": "暂无摘要",
-          "source": "furcyd",
-          "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Google Is Pushing Scam Videos on Elderly and Cognitively Impaired People",
-          "summary": "暂无摘要",
-          "source": "rexpop",
-          "url": "https://www.currentaffairs.org/news/how-google-is-pushing-scam-videos-on-elderly-and-cognitively-impaired-people",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "OSS Scanner by Anthropic",
-          "summary": "暂无摘要",
-          "source": "0natcer",
-          "url": "https://red.anthropic.com/oss-scanner/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Female AI agents 'paid' less than males, study finds",
-          "summary": "暂无摘要",
-          "source": "TMWNN",
-          "url": "https://www.the-independent.com/tech/ai-gender-pay-gap-study-b3061881.html",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "OpenAI cuts ties with 3 safety researchers",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "The operating system for AI harnesses",
-          "summary": "暂无摘要",
-          "source": "hochmartinez",
-          "url": "https://github.com/affaan-m/ecc",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "'Suno is the new auto-tune': Meet the artists using AI to go viral",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.dazeddigital.com/music/article/71134/1/suno-is-the-new-auto-tune-meet-the-artists-using-ai-to-go-viral",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Cybersecurity Imperatives Will Demand AI Math",
-          "summary": "暂无摘要",
-          "source": "mmaunder",
-          "url": "https://www.wordfence.com/blog/2026/10/cybersecurity-imperatives-will-demand-ai-math/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Partner in multiple Google adventures (Luis Barroso)",
-          "summary": "暂无摘要",
-          "source": "brandonb",
-          "url": "https://allen.hutchison.org/2026/10/08/partner-in-multiple-google-adventures/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
-          "summary": "暂无摘要",
-          "source": "thesnarkitecht",
-          "url": "https://github.com/thesnarkitecht/rembrandt",
-          "time": "2026-10-08"
         }
       ]
     },
@@ -461,27 +181,6 @@
           "source": "Lucas Ropek",
           "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
           "time": "2026-10-08"
-        },
-        {
-          "title": "Cal AI&#8217;s 19-year-old founder just raised $10M for his new AI startup",
-          "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "China&#8217;s Manus raises over $500M in first funding round since split with Meta",
-          "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-          "source": "Kate Park",
-          "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-          "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-          "time": "2026-10-07"
         },
         {
           "title": "Inside Elon Musk’s Midterm Spending Spree",
@@ -531,13 +230,6 @@
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
           "time": "2026-10-02"
-        },
-        {
-          "title": "Making AI an asset, not an expense",
-          "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
-          "source": "Cheri Williams",
-          "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-          "time": "2026-09-29"
         }
       ]
     },
@@ -706,6 +398,13 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "Even ‘Law & Order’ Is Terrified of AI",
+          "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+          "source": "Ej Dickson",
+          "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+          "time": "2026-10-09"
         },
         {
           "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
