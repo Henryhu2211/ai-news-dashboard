@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-10-09T23:42:11.396Z",
-  "date": "2026年10月9日 23时42分",
+  "updateTime": "2026-10-10T23:06:05.499Z",
+  "date": "2026年10月10日 23时6分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "PwnPad – hardware hacking platform built for practical learning",
+          "summary": "暂无摘要",
+          "source": "therepanic",
+          "url": "https://github.com/twelvesec/PwnPad",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "A mountain of AI math, a few precious bytes",
+          "summary": "暂无摘要",
+          "source": "abetusk",
+          "url": "https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "A Stark Warning from a Former AI Doomer",
+          "summary": "暂无摘要",
+          "source": "_virtu",
+          "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "We're All Working for AI Now",
+          "summary": "暂无摘要",
+          "source": "criexe",
+          "url": "https://medium.com/@mustafaydemir/were-all-working-for-ai-now-19353aa51e82",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Arrival Mind (children's book about AI risk – narrated)",
+          "summary": "暂无摘要",
+          "source": "hogwash",
+          "url": "https://www.youtube.com/watch?v=5GISvEfdbm4",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Show HN: I built a macOS screensaver that reacts to AI coding agents",
+          "summary": "暂无摘要",
+          "source": "emotf",
+          "url": "https://www.ascendaflow.com/waterline",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Show HN: Try Free Long-Term Memory for AI 50M-Token Window",
+          "summary": "暂无摘要",
+          "source": "Corbenic",
+          "url": "https://github.com/corbenicai/galahad",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "The Token Economy: Why Falling Token Prices Have Not Lowered AI Bills",
+          "summary": "暂无摘要",
+          "source": "b-man",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "I bet AI would invent its own language; Claude Opus's survived every copy",
+          "summary": "暂无摘要",
+          "source": "BlackThistle",
+          "url": "https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
+          "summary": "暂无摘要",
+          "source": "senthil_kr",
+          "url": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
+          "summary": "暂无摘要",
+          "source": "senthil_kr",
+          "url": "https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Try On-Device AI with FM",
+          "summary": "暂无摘要",
+          "source": "frizlab",
+          "url": "https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Is AI conscious? Anthropic says 'maybe'",
+          "summary": "暂无摘要",
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "The state of AI-assisted reverse-engineering of Apple Macs",
+          "summary": "暂无摘要",
+          "source": "cromka",
+          "url": "https://github.com/aurora-silicon/linux/discussions/70",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Integrated Circuits, AI, and Wallabies",
+          "summary": "暂无摘要",
+          "source": "dxs",
+          "url": "https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Your AI Said \"Done.\" Make It Prove It.",
+          "summary": "暂无摘要",
+          "source": "pjpoulose",
+          "url": "https://viaknox.com/blog/ai-said-done-make-it-prove-it",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Ask HN: What's your plan if AI takes your job?",
+          "summary": "暂无摘要",
+          "source": "bumicodes",
+          "url": "https://news.ycombinator.com/item?id=50036432",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "I don't trust Lean code from AI",
+          "summary": "暂无摘要",
+          "source": "pieterk",
+          "url": "https://karagila.org/2026/lean/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+          "summary": "暂无摘要",
+          "source": "CharlesW",
+          "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Does written language speed up or slow down cultural change?",
+          "summary": "暂无摘要",
+          "source": "theanonymousone",
+          "url": "https://www.livescience.com/technology/communications/does-written-language-speed-up-or-slow-down-cultural-change",
+          "time": "2026-10-10"
+        },
         {
           "title": "We’re putting too much faith in AI’s ability to say no",
           "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu",
@@ -153,6 +293,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
           "time": "2026-08-27"
+        },
+        {
+          "title": "A mountain of AI math, a few precious bytes",
+          "summary": "暂无摘要",
+          "source": "abetusk",
+          "url": "https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "A Stark Warning from a Former AI Doomer",
+          "summary": "暂无摘要",
+          "source": "_virtu",
+          "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "We're All Working for AI Now",
+          "summary": "暂无摘要",
+          "source": "criexe",
+          "url": "https://medium.com/@mustafaydemir/were-all-working-for-ai-now-19353aa51e82",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Arrival Mind (children's book about AI risk – narrated)",
+          "summary": "暂无摘要",
+          "source": "hogwash",
+          "url": "https://www.youtube.com/watch?v=5GISvEfdbm4",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Show HN: I built a macOS screensaver that reacts to AI coding agents",
+          "summary": "暂无摘要",
+          "source": "emotf",
+          "url": "https://www.ascendaflow.com/waterline",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Show HN: Try Free Long-Term Memory for AI 50M-Token Window",
+          "summary": "暂无摘要",
+          "source": "Corbenic",
+          "url": "https://github.com/corbenicai/galahad",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+          "summary": "暂无摘要",
+          "source": "PicardManeuver",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "The Token Economy: Why Falling Token Prices Have Not Lowered AI Bills",
+          "summary": "暂无摘要",
+          "source": "b-man",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "I bet AI would invent its own language; Claude Opus's survived every copy",
+          "summary": "暂无摘要",
+          "source": "BlackThistle",
+          "url": "https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Ask HN: Locked out of Google despite knowing password and having email access",
+          "summary": "暂无摘要",
+          "source": "coherenttemple",
+          "url": "https://news.ycombinator.com/item?id=50037004",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "OpenAI's Astra model is shockingly good at robotics",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://www.understandingrobots.org/p/openais-astra-model-is-shockingly",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
+          "summary": "暂无摘要",
+          "source": "senthil_kr",
+          "url": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
+          "summary": "暂无摘要",
+          "source": "senthil_kr",
+          "url": "https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Try On-Device AI with FM",
+          "summary": "暂无摘要",
+          "source": "frizlab",
+          "url": "https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Is AI conscious? Anthropic says 'maybe'",
+          "summary": "暂无摘要",
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "The state of AI-assisted reverse-engineering of Apple Macs",
+          "summary": "暂无摘要",
+          "source": "cromka",
+          "url": "https://github.com/aurora-silicon/linux/discussions/70",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Integrated Circuits, AI, and Wallabies",
+          "summary": "暂无摘要",
+          "source": "dxs",
+          "url": "https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Your AI Said \"Done.\" Make It Prove It.",
+          "summary": "暂无摘要",
+          "source": "pjpoulose",
+          "url": "https://viaknox.com/blog/ai-said-done-make-it-prove-it",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Ask HN: What's your plan if AI takes your job?",
+          "summary": "暂无摘要",
+          "source": "bumicodes",
+          "url": "https://news.ycombinator.com/item?id=50036432",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "I don't trust Lean code from AI",
+          "summary": "暂无摘要",
+          "source": "pieterk",
+          "url": "https://karagila.org/2026/lean/",
+          "time": "2026-10-10"
         }
       ]
     },
@@ -161,6 +441,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+          "source": "Anthony Ha",
+          "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+          "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s",
+          "source": "TechCrunch Events",
+          "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+          "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "time": "2026-10-10"
+        },
         {
           "title": "Ben Affleck is an AI nerd, and the internet is impressed",
           "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h",
@@ -195,6 +496,146 @@
           "source": "Maddy Varner",
           "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
           "time": "2026-10-07"
+        },
+        {
+          "title": "A mountain of AI math, a few precious bytes",
+          "summary": "暂无摘要",
+          "source": "abetusk",
+          "url": "https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "A Stark Warning from a Former AI Doomer",
+          "summary": "暂无摘要",
+          "source": "_virtu",
+          "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "We're All Working for AI Now",
+          "summary": "暂无摘要",
+          "source": "criexe",
+          "url": "https://medium.com/@mustafaydemir/were-all-working-for-ai-now-19353aa51e82",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Arrival Mind (children's book about AI risk – narrated)",
+          "summary": "暂无摘要",
+          "source": "hogwash",
+          "url": "https://www.youtube.com/watch?v=5GISvEfdbm4",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Show HN: I built a macOS screensaver that reacts to AI coding agents",
+          "summary": "暂无摘要",
+          "source": "emotf",
+          "url": "https://www.ascendaflow.com/waterline",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Show HN: Try Free Long-Term Memory for AI 50M-Token Window",
+          "summary": "暂无摘要",
+          "source": "Corbenic",
+          "url": "https://github.com/corbenicai/galahad",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "The Token Economy: Why Falling Token Prices Have Not Lowered AI Bills",
+          "summary": "暂无摘要",
+          "source": "b-man",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "I bet AI would invent its own language; Claude Opus's survived every copy",
+          "summary": "暂无摘要",
+          "source": "BlackThistle",
+          "url": "https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
+          "summary": "暂无摘要",
+          "source": "senthil_kr",
+          "url": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
+          "summary": "暂无摘要",
+          "source": "senthil_kr",
+          "url": "https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Try On-Device AI with FM",
+          "summary": "暂无摘要",
+          "source": "frizlab",
+          "url": "https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Is AI conscious? Anthropic says 'maybe'",
+          "summary": "暂无摘要",
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "The state of AI-assisted reverse-engineering of Apple Macs",
+          "summary": "暂无摘要",
+          "source": "cromka",
+          "url": "https://github.com/aurora-silicon/linux/discussions/70",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Integrated Circuits, AI, and Wallabies",
+          "summary": "暂无摘要",
+          "source": "dxs",
+          "url": "https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Your AI Said \"Done.\" Make It Prove It.",
+          "summary": "暂无摘要",
+          "source": "pjpoulose",
+          "url": "https://viaknox.com/blog/ai-said-done-make-it-prove-it",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Ask HN: What's your plan if AI takes your job?",
+          "summary": "暂无摘要",
+          "source": "bumicodes",
+          "url": "https://news.ycombinator.com/item?id=50036432",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "I don't trust Lean code from AI",
+          "summary": "暂无摘要",
+          "source": "pieterk",
+          "url": "https://karagila.org/2026/lean/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+          "summary": "暂无摘要",
+          "source": "CharlesW",
+          "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Google AI Edge Foresight – meeting notetaker on-device",
+          "summary": "暂无摘要",
+          "source": "dotmanish",
+          "url": "https://developers.google.com/edge/foresight",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "AI and Bottlenecks in Software Production [pdf]",
+          "summary": "暂无摘要",
+          "source": "tripleee",
+          "url": "https://fion.ac/jellyfish.pdf",
+          "time": "2026-10-10"
         }
       ]
     },
@@ -398,6 +839,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "A mountain of AI math, a few precious bytes",
+          "summary": "暂无摘要",
+          "source": "abetusk",
+          "url": "https://blog.adafruit.com/2026/10/10/a-mountain-of-ai-math-a-few-precious-bytes/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "A Stark Warning from a Former AI Doomer",
+          "summary": "暂无摘要",
+          "source": "_virtu",
+          "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "We're All Working for AI Now",
+          "summary": "暂无摘要",
+          "source": "criexe",
+          "url": "https://medium.com/@mustafaydemir/were-all-working-for-ai-now-19353aa51e82",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Arrival Mind (children's book about AI risk – narrated)",
+          "summary": "暂无摘要",
+          "source": "hogwash",
+          "url": "https://www.youtube.com/watch?v=5GISvEfdbm4",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Show HN: I built a macOS screensaver that reacts to AI coding agents",
+          "summary": "暂无摘要",
+          "source": "emotf",
+          "url": "https://www.ascendaflow.com/waterline",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Show HN: Try Free Long-Term Memory for AI 50M-Token Window",
+          "summary": "暂无摘要",
+          "source": "Corbenic",
+          "url": "https://github.com/corbenicai/galahad",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "The Token Economy: Why Falling Token Prices Have Not Lowered AI Bills",
+          "summary": "暂无摘要",
+          "source": "b-man",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562258",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "I bet AI would invent its own language; Claude Opus's survived every copy",
+          "summary": "暂无摘要",
+          "source": "BlackThistle",
+          "url": "https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Cyber Resilience Guide: Zero Trust, AI Security and Ransomware Recovery",
+          "summary": "暂无摘要",
+          "source": "senthil_kr",
+          "url": "https://phpscientist.com/blog/cyber-resilience-implementation-guide-ai-ransomware-zero-trust/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "AI Browser Agents: SEO, Security and Implementation Playbook for 2026",
+          "summary": "暂无摘要",
+          "source": "senthil_kr",
+          "url": "https://phpscientist.com/blog/ai-browser-agents-seo-security-implementation-playbook-2026/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Try On-Device AI with FM",
+          "summary": "暂无摘要",
+          "source": "frizlab",
+          "url": "https://eclecticlight.co/2026/10/10/try-on-device-ai-with-fm/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Is AI conscious? Anthropic says 'maybe'",
+          "summary": "暂无摘要",
+          "source": "mikelgan",
+          "url": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "The state of AI-assisted reverse-engineering of Apple Macs",
+          "summary": "暂无摘要",
+          "source": "cromka",
+          "url": "https://github.com/aurora-silicon/linux/discussions/70",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Integrated Circuits, AI, and Wallabies",
+          "summary": "暂无摘要",
+          "source": "dxs",
+          "url": "https://walkingtheworld.substack.com/p/integrated-circuits-ai-and-wallabies",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Your AI Said \"Done.\" Make It Prove It.",
+          "summary": "暂无摘要",
+          "source": "pjpoulose",
+          "url": "https://viaknox.com/blog/ai-said-done-make-it-prove-it",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Ask HN: What's your plan if AI takes your job?",
+          "summary": "暂无摘要",
+          "source": "bumicodes",
+          "url": "https://news.ycombinator.com/item?id=50036432",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "I don't trust Lean code from AI",
+          "summary": "暂无摘要",
+          "source": "pieterk",
+          "url": "https://karagila.org/2026/lean/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+          "summary": "暂无摘要",
+          "source": "CharlesW",
+          "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "Google AI Edge Foresight – meeting notetaker on-device",
+          "summary": "暂无摘要",
+          "source": "dotmanish",
+          "url": "https://developers.google.com/edge/foresight",
+          "time": "2026-10-10"
+        },
+        {
+          "title": "AI and Bottlenecks in Software Production [pdf]",
+          "summary": "暂无摘要",
+          "source": "tripleee",
+          "url": "https://fion.ac/jellyfish.pdf",
+          "time": "2026-10-10"
         },
         {
           "title": "Even ‘Law & Order’ Is Terrified of AI",
