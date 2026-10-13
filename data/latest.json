@@ -1,152 +1,12 @@
 {
-  "updateTime": "2026-10-11T23:18:53.316Z",
-  "date": "2026年10月11日 23时18分",
+  "updateTime": "2026-10-13T01:43:45.770Z",
+  "date": "2026年10月13日 1时43分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
-        {
-          "title": "Ask HN: What to Build in the AI Era?",
-          "summary": "暂无摘要",
-          "source": "le_curious",
-          "url": "https://news.ycombinator.com/item?id=50049047",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "AI is less regulated than milk, says Microsoft president",
-          "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
-          "summary": "暂无摘要",
-          "source": "alentodorov",
-          "url": "https://www.seodata.dev/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "FilmHunch – Describe a movie in your own words and get matching films",
-          "summary": "暂无摘要",
-          "source": "eduardoalba",
-          "url": "https://filmhunch.com/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
-          "summary": "暂无摘要",
-          "source": "routelastresort",
-          "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Concrete Problems in AI Safety",
-          "summary": "暂无摘要",
-          "source": "yusufozkan",
-          "url": "https://arxiv.org/abs/1606.06565",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Show HN: Shpyrd – A new type of cloud for AI era",
-          "summary": "暂无摘要",
-          "source": "patricknegri",
-          "url": "https://www.shpyrd.io",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
-          "summary": "暂无摘要",
-          "source": "julianflux",
-          "url": "https://github.com/julianjohnson-web/julianflux-research",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "HPE Unveils the First of the Next Generation of ProLiants for the AI Era",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.nextplatform.com/compute/2026/10/08/hpe-unveils-the-first-of-the-next-generation-of-proliants-for-the-ai-era/5301808",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
-          "summary": "暂无摘要",
-          "source": "mraniki",
-          "url": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Jensen Huang thinks AI is going great",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Inside McDonald's push to have AI price your Big Mac",
-          "summary": "暂无摘要",
-          "source": "colinprince",
-          "url": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "AI Risk – Users Guide (Part V): Trust Is the Product",
-          "summary": "暂无摘要",
-          "source": "SanjeevSharma",
-          "url": "https://sdarchitect.blog/2026/10/11/ai-risk-users-guide-part-v-trust-is-the-product/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Amazed and Disappointed by AI Troubleshooting",
-          "summary": "暂无摘要",
-          "source": "miladibra",
-          "url": "https://blog.miladibra.com/posts/amazed-and-disappointed-at-the-same-time/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "How do you test AI-generated UIs without a visual baseline?",
-          "summary": "暂无摘要",
-          "source": "tolka",
-          "url": "https://instantsite.app",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Botmail: A mailbox for every AI agent",
-          "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://botmail.pro/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "An AI agent's $20 Kalshi account, with an exact reward model",
-          "summary": "暂无摘要",
-          "source": "mirabilisagent",
-          "url": "https://github.com/mirabilis-agent/lip-ledger",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "CertusAI.dev, the living OS for physical AI",
-          "summary": "暂无摘要",
-          "source": "enaguthiabhishe",
-          "url": "https://certusai.dev/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "How the AI Boom Ends",
-          "summary": "暂无摘要",
-          "source": "kamaraju",
-          "url": "https://www.wsj.com/opinion/how-the-ai-boom-ends-0d9d47e7",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, Lancet say",
-          "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://www.healthdata.org/news-events/newsroom/news-releases/new-lancet-commission-provides-roadmap-protect-economies",
-          "time": "2026-10-11"
-        },
         {
           "title": "We’re putting too much faith in AI’s ability to say no",
           "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu",
@@ -218,221 +78,144 @@
       "icon": "🏢",
       "news": [
         {
-          "title": "The latest AI news we announced in September 2026",
-          "summary": "Here are Google’s latest AI updates from September 2026",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-          "time": "2026-10-02"
-        },
-        {
-          "title": "Google Beam expands with new regions, partners, and customers",
-          "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-          "time": "2026-09-23"
-        },
-        {
-          "title": "New experts join Google’s AI & Economy team",
-          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-          "time": "2026-09-18"
-        },
-        {
-          "title": "Co-creating the future of fashion with Google",
-          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-          "time": "2026-09-18"
-        },
-        {
-          "title": "Making global data easier to explore",
-          "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-          "time": "2026-09-17"
-        },
-        {
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-          "time": "2026-09-15"
-        },
-        {
-          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-          "time": "2026-09-14"
-        },
-        {
-          "title": "Recreating a 70-year love story frame by frame",
-          "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-          "time": "2026-09-09"
-        },
-        {
-          "title": "The latest AI news we announced in August 2026",
-          "summary": "Here are Google’s latest AI updates from August 2026",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-          "time": "2026-09-01"
-        },
-        {
-          "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-          "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-          "time": "2026-09-01"
-        },
-        {
-          "title": "3 new ways to plan and book travel in Search",
-          "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-          "time": "2026-08-27"
-        },
-        {
-          "title": "Ask HN: What to Build in the AI Era?",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
           "summary": "暂无摘要",
-          "source": "le_curious",
-          "url": "https://news.ycombinator.com/item?id=50049047",
-          "time": "2026-10-11"
+          "source": "luispa",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "time": "2026-10-13"
         },
         {
-          "title": "AI is less regulated than milk, says Microsoft president",
+          "title": "Examining China's AI Financing [pdf]",
           "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
-          "time": "2026-10-11"
+          "source": "gmays",
+          "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/09/Examining-Chinas-AI-Financing.pdf",
+          "time": "2026-10-13"
         },
         {
-          "title": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
+          "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
           "summary": "暂无摘要",
-          "source": "alentodorov",
-          "url": "https://www.seodata.dev/",
-          "time": "2026-10-11"
+          "source": "doppp",
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+          "time": "2026-10-13"
         },
         {
-          "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+          "title": "Math community could learn from bio[med]'s to live with AI",
           "summary": "暂无摘要",
-          "source": "routelastresort",
-          "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-          "time": "2026-10-11"
+          "source": "oliculipolicula",
+          "url": "https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/",
+          "time": "2026-10-13"
         },
         {
-          "title": "Concrete Problems in AI Safety",
-          "summary": "暂无摘要",
-          "source": "yusufozkan",
-          "url": "https://arxiv.org/abs/1606.06565",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Google Data Centers around the world",
-          "summary": "暂无摘要",
-          "source": "andsoitis",
-          "url": "https://datacenters.google/locations/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Show HN: Shpyrd – A new type of cloud for AI era",
-          "summary": "暂无摘要",
-          "source": "patricknegri",
-          "url": "https://www.shpyrd.io",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
-          "summary": "暂无摘要",
-          "source": "julianflux",
-          "url": "https://github.com/julianjohnson-web/julianflux-research",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "HPE Unveils the First of the Next Generation of ProLiants for the AI Era",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.nextplatform.com/compute/2026/10/08/hpe-unveils-the-first-of-the-next-generation-of-proliants-for-the-ai-era/5301808",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Google is illegaly cutting forest to build data centers",
-          "summary": "暂无摘要",
-          "source": "heyimada",
-          "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
-          "summary": "暂无摘要",
-          "source": "mraniki",
-          "url": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Jensen Huang thinks AI is going great",
+          "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
           "summary": "暂无摘要",
           "source": "bookofjoe",
-          "url": "https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html",
-          "time": "2026-10-11"
+          "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
+          "time": "2026-10-13"
         },
         {
-          "title": "Inside McDonald's push to have AI price your Big Mac",
+          "title": "AI-critic – Task-aware auditing of ML models",
           "summary": "暂无摘要",
-          "source": "colinprince",
-          "url": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
-          "time": "2026-10-11"
+          "source": "LuizSeabra",
+          "url": "https://github.com/LuizSeabraDeMarco/ai-critic",
+          "time": "2026-10-13"
         },
         {
-          "title": "AI Risk – Users Guide (Part V): Trust Is the Product",
+          "title": "FrontierCode: Can AI models write code maintainers would merge?",
           "summary": "暂无摘要",
-          "source": "SanjeevSharma",
-          "url": "https://sdarchitect.blog/2026/10/11/ai-risk-users-guide-part-v-trust-is-the-product/",
-          "time": "2026-10-11"
+          "source": "emschwartz",
+          "url": "https://artificialanalysis.ai/articles/frontiercode",
+          "time": "2026-10-13"
         },
         {
-          "title": "Amazed and Disappointed by AI Troubleshooting",
+          "title": "Turn a frontier AI into a multi-agent systems architect",
           "summary": "暂无摘要",
-          "source": "miladibra",
-          "url": "https://blog.miladibra.com/posts/amazed-and-disappointed-at-the-same-time/",
-          "time": "2026-10-11"
+          "source": "polymodality",
+          "url": "https://github.com/polymodality/agentic-polymodality/tree/main/ai-guidance",
+          "time": "2026-10-13"
         },
         {
-          "title": "How do you test AI-generated UIs without a visual baseline?",
+          "title": "What it felt like when I was interviewed by an AI assistant",
           "summary": "暂无摘要",
-          "source": "tolka",
-          "url": "https://instantsite.app",
-          "time": "2026-10-11"
+          "source": "jethronethro",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant",
+          "time": "2026-10-13"
         },
         {
-          "title": "Botmail: A mailbox for every AI agent",
+          "title": "CS2680 Modern AI Systems: Agents and System Optimizations",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://botmail.pro/",
-          "time": "2026-10-11"
+          "source": "shenli3514",
+          "url": "https://cs2680.seas.harvard.edu/",
+          "time": "2026-10-12"
         },
         {
-          "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+          "title": "A shared, verifiable fix database that AI agents read and write themselves",
           "summary": "暂无摘要",
-          "source": "mirabilisagent",
-          "url": "https://github.com/mirabilis-agent/lip-ledger",
-          "time": "2026-10-11"
+          "source": "glopercio",
+          "url": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+          "time": "2026-10-12"
         },
         {
-          "title": "CertusAI.dev, the living OS for physical AI",
+          "title": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
           "summary": "暂无摘要",
-          "source": "enaguthiabhishe",
-          "url": "https://certusai.dev/",
-          "time": "2026-10-11"
+          "source": "chumze",
+          "url": "https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai",
+          "time": "2026-10-12"
         },
         {
-          "title": "How the AI Boom Ends",
+          "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
           "summary": "暂无摘要",
-          "source": "kamaraju",
-          "url": "https://www.wsj.com/opinion/how-the-ai-boom-ends-0d9d47e7",
-          "time": "2026-10-11"
+          "source": "ClearwayLaw",
+          "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "Why AI doesn't make companies more productive",
+          "summary": "暂无摘要",
+          "source": "nobody9999",
+          "url": "https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "Veda: First AI Agentic Hobby OS",
+          "summary": "暂无摘要",
+          "source": "vahmohh2",
+          "url": "https://github.com/vahmoh25/Veda/blob/main/README.md",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "OpenKylin: The AI Agent Linux Desktop",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "The Tetrad Tour, Part III: Why AI Needs Its Linnaeus",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://samirvarma.substack.com/p/the-tetrad-tour-part-iii-why-ai-needs",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "AI's mathematics blitz pushes science into new territory",
+          "summary": "暂无摘要",
+          "source": "sbulaev",
+          "url": "https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "Agentic BSS Explained: AI-Native Model, Architecture and Use Cases [pdf]",
+          "summary": "暂无摘要",
+          "source": "y2so",
+          "url": "https://framerusercontent.com/assets/PKpdXtv0xAf0e4W4M53D2pUDpzg.pdf",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
+          "summary": "暂无摘要",
+          "source": "metadat",
+          "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
+          "time": "2026-10-12"
         }
       ]
     },
@@ -441,6 +224,20 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+          "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+          "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+          "source": "Kirsten Korosec",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "time": "2026-10-12"
+        },
         {
           "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
           "summary": "Is Apple hoping to get into the AI-generated podcast business?",
@@ -456,20 +253,6 @@
           "time": "2026-10-10"
         },
         {
-          "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
-          "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-          "time": "2026-10-10"
-        },
-        {
-          "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-          "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-          "time": "2026-10-08"
-        },
-        {
           "title": "Inside Elon Musk’s Midterm Spending Spree",
           "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
           "source": "Zoë Schiffer, Leah Feiger",
@@ -477,151 +260,144 @@
           "time": "2026-10-08"
         },
         {
-          "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-          "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
-          "source": "Maddy Varner",
-          "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
-          "time": "2026-10-07"
-        },
-        {
-          "title": "Ask HN: What to Build in the AI Era?",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
           "summary": "暂无摘要",
-          "source": "le_curious",
-          "url": "https://news.ycombinator.com/item?id=50049047",
-          "time": "2026-10-11"
+          "source": "luispa",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "time": "2026-10-13"
         },
         {
-          "title": "AI is less regulated than milk, says Microsoft president",
+          "title": "Examining China's AI Financing [pdf]",
           "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
-          "time": "2026-10-11"
+          "source": "gmays",
+          "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/09/Examining-Chinas-AI-Financing.pdf",
+          "time": "2026-10-13"
         },
         {
-          "title": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
+          "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
           "summary": "暂无摘要",
-          "source": "alentodorov",
-          "url": "https://www.seodata.dev/",
-          "time": "2026-10-11"
+          "source": "doppp",
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+          "time": "2026-10-13"
         },
         {
-          "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+          "title": "Math community could learn from bio[med]'s to live with AI",
           "summary": "暂无摘要",
-          "source": "routelastresort",
-          "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-          "time": "2026-10-11"
+          "source": "oliculipolicula",
+          "url": "https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/",
+          "time": "2026-10-13"
         },
         {
-          "title": "Concrete Problems in AI Safety",
-          "summary": "暂无摘要",
-          "source": "yusufozkan",
-          "url": "https://arxiv.org/abs/1606.06565",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Show HN: Shpyrd – A new type of cloud for AI era",
-          "summary": "暂无摘要",
-          "source": "patricknegri",
-          "url": "https://www.shpyrd.io",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
-          "summary": "暂无摘要",
-          "source": "julianflux",
-          "url": "https://github.com/julianjohnson-web/julianflux-research",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "HPE Unveils the First of the Next Generation of ProLiants for the AI Era",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.nextplatform.com/compute/2026/10/08/hpe-unveils-the-first-of-the-next-generation-of-proliants-for-the-ai-era/5301808",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
-          "summary": "暂无摘要",
-          "source": "mraniki",
-          "url": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Jensen Huang thinks AI is going great",
+          "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
           "summary": "暂无摘要",
           "source": "bookofjoe",
-          "url": "https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html",
-          "time": "2026-10-11"
+          "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
+          "time": "2026-10-13"
         },
         {
-          "title": "Inside McDonald's push to have AI price your Big Mac",
+          "title": "AI-critic – Task-aware auditing of ML models",
           "summary": "暂无摘要",
-          "source": "colinprince",
-          "url": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
-          "time": "2026-10-11"
+          "source": "LuizSeabra",
+          "url": "https://github.com/LuizSeabraDeMarco/ai-critic",
+          "time": "2026-10-13"
         },
         {
-          "title": "AI Risk – Users Guide (Part V): Trust Is the Product",
+          "title": "FrontierCode: Can AI models write code maintainers would merge?",
           "summary": "暂无摘要",
-          "source": "SanjeevSharma",
-          "url": "https://sdarchitect.blog/2026/10/11/ai-risk-users-guide-part-v-trust-is-the-product/",
-          "time": "2026-10-11"
+          "source": "emschwartz",
+          "url": "https://artificialanalysis.ai/articles/frontiercode",
+          "time": "2026-10-13"
         },
         {
-          "title": "Amazed and Disappointed by AI Troubleshooting",
+          "title": "Turn a frontier AI into a multi-agent systems architect",
           "summary": "暂无摘要",
-          "source": "miladibra",
-          "url": "https://blog.miladibra.com/posts/amazed-and-disappointed-at-the-same-time/",
-          "time": "2026-10-11"
+          "source": "polymodality",
+          "url": "https://github.com/polymodality/agentic-polymodality/tree/main/ai-guidance",
+          "time": "2026-10-13"
         },
         {
-          "title": "How do you test AI-generated UIs without a visual baseline?",
+          "title": "What it felt like when I was interviewed by an AI assistant",
           "summary": "暂无摘要",
-          "source": "tolka",
-          "url": "https://instantsite.app",
-          "time": "2026-10-11"
+          "source": "jethronethro",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant",
+          "time": "2026-10-13"
         },
         {
-          "title": "Botmail: A mailbox for every AI agent",
+          "title": "CS2680 Modern AI Systems: Agents and System Optimizations",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://botmail.pro/",
-          "time": "2026-10-11"
+          "source": "shenli3514",
+          "url": "https://cs2680.seas.harvard.edu/",
+          "time": "2026-10-12"
         },
         {
-          "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+          "title": "A shared, verifiable fix database that AI agents read and write themselves",
           "summary": "暂无摘要",
-          "source": "mirabilisagent",
-          "url": "https://github.com/mirabilis-agent/lip-ledger",
-          "time": "2026-10-11"
+          "source": "glopercio",
+          "url": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+          "time": "2026-10-12"
         },
         {
-          "title": "CertusAI.dev, the living OS for physical AI",
+          "title": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
           "summary": "暂无摘要",
-          "source": "enaguthiabhishe",
-          "url": "https://certusai.dev/",
-          "time": "2026-10-11"
+          "source": "chumze",
+          "url": "https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai",
+          "time": "2026-10-12"
         },
         {
-          "title": "How the AI Boom Ends",
+          "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
           "summary": "暂无摘要",
-          "source": "kamaraju",
-          "url": "https://www.wsj.com/opinion/how-the-ai-boom-ends-0d9d47e7",
-          "time": "2026-10-11"
+          "source": "ClearwayLaw",
+          "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
+          "time": "2026-10-12"
         },
         {
-          "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, Lancet say",
+          "title": "Why AI doesn't make companies more productive",
           "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://www.healthdata.org/news-events/newsroom/news-releases/new-lancet-commission-provides-roadmap-protect-economies",
-          "time": "2026-10-11"
+          "source": "nobody9999",
+          "url": "https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html",
+          "time": "2026-10-12"
         },
         {
-          "title": "Ask HN: Pre-AI, did you think harder? Or are you thinking more (and better) now?",
+          "title": "Veda: First AI Agentic Hobby OS",
           "summary": "暂无摘要",
-          "source": "rishikeshs",
-          "url": "https://news.ycombinator.com/item?id=50047886",
-          "time": "2026-10-11"
+          "source": "vahmohh2",
+          "url": "https://github.com/vahmoh25/Veda/blob/main/README.md",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "OpenKylin: The AI Agent Linux Desktop",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "The Tetrad Tour, Part III: Why AI Needs Its Linnaeus",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://samirvarma.substack.com/p/the-tetrad-tour-part-iii-why-ai-needs",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "AI's mathematics blitz pushes science into new territory",
+          "summary": "暂无摘要",
+          "source": "sbulaev",
+          "url": "https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "Agentic BSS Explained: AI-Native Model, Architecture and Use Cases [pdf]",
+          "summary": "暂无摘要",
+          "source": "y2so",
+          "url": "https://framerusercontent.com/assets/PKpdXtv0xAf0e4W4M53D2pUDpzg.pdf",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
+          "summary": "暂无摘要",
+          "source": "metadat",
+          "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
+          "time": "2026-10-12"
         }
       ]
     },
@@ -827,144 +603,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Ask HN: What to Build in the AI Era?",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
           "summary": "暂无摘要",
-          "source": "le_curious",
-          "url": "https://news.ycombinator.com/item?id=50049047",
-          "time": "2026-10-11"
+          "source": "luispa",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "time": "2026-10-13"
         },
         {
-          "title": "AI is less regulated than milk, says Microsoft president",
+          "title": "Examining China's AI Financing [pdf]",
           "summary": "暂无摘要",
-          "source": "mikelgan",
-          "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
-          "time": "2026-10-11"
+          "source": "gmays",
+          "url": "https://www.visualcapitalist.com/wp-content/uploads/2026/09/Examining-Chinas-AI-Financing.pdf",
+          "time": "2026-10-13"
         },
         {
-          "title": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
+          "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
           "summary": "暂无摘要",
-          "source": "alentodorov",
-          "url": "https://www.seodata.dev/",
-          "time": "2026-10-11"
+          "source": "doppp",
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+          "time": "2026-10-13"
         },
         {
-          "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+          "title": "Math community could learn from bio[med]'s to live with AI",
           "summary": "暂无摘要",
-          "source": "routelastresort",
-          "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-          "time": "2026-10-11"
+          "source": "oliculipolicula",
+          "url": "https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/",
+          "time": "2026-10-13"
         },
         {
-          "title": "Concrete Problems in AI Safety",
-          "summary": "暂无摘要",
-          "source": "yusufozkan",
-          "url": "https://arxiv.org/abs/1606.06565",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Show HN: Shpyrd – A new type of cloud for AI era",
-          "summary": "暂无摘要",
-          "source": "patricknegri",
-          "url": "https://www.shpyrd.io",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
-          "summary": "暂无摘要",
-          "source": "julianflux",
-          "url": "https://github.com/julianjohnson-web/julianflux-research",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "HPE Unveils the First of the Next Generation of ProLiants for the AI Era",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.nextplatform.com/compute/2026/10/08/hpe-unveils-the-first-of-the-next-generation-of-proliants-for-the-ai-era/5301808",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Amazon in talks to buy AI startup Decart for around $7B, WSJ reports",
-          "summary": "暂无摘要",
-          "source": "mraniki",
-          "url": "https://www.reuters.com/business/retail-consumer/amazon-talks-buy-ai-startup-decart-around-7-billion-wsj-reports-2026-10-11/",
-          "time": "2026-10-11"
-        },
-        {
-          "title": "Jensen Huang thinks AI is going great",
+          "title": "AI Company Lets Cops Pinpoint Specific Houses Based on a Single Interior Photo",
           "summary": "暂无摘要",
           "source": "bookofjoe",
-          "url": "https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html",
-          "time": "2026-10-11"
+          "url": "https://www.404media.co/ai-company-lets-cops-pinpoint-specific-houses-based-on-a-single-interior-photo/",
+          "time": "2026-10-13"
         },
         {
-          "title": "Inside McDonald's push to have AI price your Big Mac",
+          "title": "AI-critic – Task-aware auditing of ML models",
           "summary": "暂无摘要",
-          "source": "colinprince",
-          "url": "https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/",
-          "time": "2026-10-11"
+          "source": "LuizSeabra",
+          "url": "https://github.com/LuizSeabraDeMarco/ai-critic",
+          "time": "2026-10-13"
         },
         {
-          "title": "Asking the Dutch Central Government a question on X",
+          "title": "FrontierCode: Can AI models write code maintainers would merge?",
           "summary": "暂无摘要",
-          "source": "andsoitis",
-          "url": "https://www.government.nl/service/contact/public-information-service/twitter",
-          "time": "2026-10-11"
+          "source": "emschwartz",
+          "url": "https://artificialanalysis.ai/articles/frontiercode",
+          "time": "2026-10-13"
         },
         {
-          "title": "AI Risk – Users Guide (Part V): Trust Is the Product",
+          "title": "Turn a frontier AI into a multi-agent systems architect",
           "summary": "暂无摘要",
-          "source": "SanjeevSharma",
-          "url": "https://sdarchitect.blog/2026/10/11/ai-risk-users-guide-part-v-trust-is-the-product/",
-          "time": "2026-10-11"
+          "source": "polymodality",
+          "url": "https://github.com/polymodality/agentic-polymodality/tree/main/ai-guidance",
+          "time": "2026-10-13"
         },
         {
-          "title": "Amazed and Disappointed by AI Troubleshooting",
+          "title": "What it felt like when I was interviewed by an AI assistant",
           "summary": "暂无摘要",
-          "source": "miladibra",
-          "url": "https://blog.miladibra.com/posts/amazed-and-disappointed-at-the-same-time/",
-          "time": "2026-10-11"
+          "source": "jethronethro",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant",
+          "time": "2026-10-13"
         },
         {
-          "title": "How do you test AI-generated UIs without a visual baseline?",
+          "title": "CS2680 Modern AI Systems: Agents and System Optimizations",
           "summary": "暂无摘要",
-          "source": "tolka",
-          "url": "https://instantsite.app",
-          "time": "2026-10-11"
+          "source": "shenli3514",
+          "url": "https://cs2680.seas.harvard.edu/",
+          "time": "2026-10-12"
         },
         {
-          "title": "Botmail: A mailbox for every AI agent",
+          "title": "A shared, verifiable fix database that AI agents read and write themselves",
           "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://botmail.pro/",
-          "time": "2026-10-11"
+          "source": "glopercio",
+          "url": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+          "time": "2026-10-12"
         },
         {
-          "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+          "title": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
           "summary": "暂无摘要",
-          "source": "mirabilisagent",
-          "url": "https://github.com/mirabilis-agent/lip-ledger",
-          "time": "2026-10-11"
+          "source": "chumze",
+          "url": "https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai",
+          "time": "2026-10-12"
         },
         {
-          "title": "CertusAI.dev, the living OS for physical AI",
+          "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
           "summary": "暂无摘要",
-          "source": "enaguthiabhishe",
-          "url": "https://certusai.dev/",
-          "time": "2026-10-11"
+          "source": "ClearwayLaw",
+          "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
+          "time": "2026-10-12"
         },
         {
-          "title": "How the AI Boom Ends",
+          "title": "Why AI doesn't make companies more productive",
           "summary": "暂无摘要",
-          "source": "kamaraju",
-          "url": "https://www.wsj.com/opinion/how-the-ai-boom-ends-0d9d47e7",
-          "time": "2026-10-11"
+          "source": "nobody9999",
+          "url": "https://www.computerworld.com/article/4215022/why-ai-doesnt-make-companies-more-productive.html",
+          "time": "2026-10-12"
         },
         {
-          "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, Lancet say",
+          "title": "Veda: First AI Agentic Hobby OS",
           "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://www.healthdata.org/news-events/newsroom/news-releases/new-lancet-commission-provides-roadmap-protect-economies",
-          "time": "2026-10-11"
+          "source": "vahmohh2",
+          "url": "https://github.com/vahmoh25/Veda/blob/main/README.md",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "OpenKylin: The AI Agent Linux Desktop",
+          "summary": "暂无摘要",
+          "source": "CrankyBear",
+          "url": "https://techstrong.ai/articles/openkylin-the-ai-agent-linux-desktop/",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "The Tetrad Tour, Part III: Why AI Needs Its Linnaeus",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://samirvarma.substack.com/p/the-tetrad-tour-part-iii-why-ai-needs",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "What the Greeks Would Call Our Government [video]",
+          "summary": "暂无摘要",
+          "source": "verdverm",
+          "url": "https://www.youtube.com/watch?v=205IdzGJMJs",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "AI's mathematics blitz pushes science into new territory",
+          "summary": "暂无摘要",
+          "source": "sbulaev",
+          "url": "https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory",
+          "time": "2026-10-12"
+        },
+        {
+          "title": "Agentic BSS Explained: AI-Native Model, Architecture and Use Cases [pdf]",
+          "summary": "暂无摘要",
+          "source": "y2so",
+          "url": "https://framerusercontent.com/assets/PKpdXtv0xAf0e4W4M53D2pUDpzg.pdf",
+          "time": "2026-10-12"
         },
         {
           "title": "Even ‘Law & Order’ Is Terrified of AI",
@@ -972,13 +748,6 @@
           "source": "Ej Dickson",
           "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
           "time": "2026-10-09"
-        },
-        {
-          "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-          "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
-          "source": "Maddy Varner",
-          "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
-          "time": "2026-10-07"
         }
       ]
     }
