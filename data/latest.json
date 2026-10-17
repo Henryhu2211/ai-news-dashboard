@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-16T22:20:29.246Z",
-  "date": "2026年10月16日 22时20分",
+  "updateTime": "2026-10-17T21:52:13.252Z",
+  "date": "2026年10月17日 21时52分",
   "categories": [
     {
       "id": "tech",
@@ -187,13 +187,6 @@
           "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
           "source": "Lucas Ropek",
           "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-          "time": "2026-10-15"
-        },
-        {
-          "title": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75",
-          "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
           "time": "2026-10-15"
         },
         {
@@ -398,6 +391,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "AI neolabs are raising sums. Most have little to show for it",
+          "summary": "暂无摘要",
+          "source": "andsoitis",
+          "url": "https://economist.com/business/2026/10/15/ai-neolabs-are-raising-huge-sums-most-have-little-to-show-for-it",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
+          "summary": "暂无摘要",
+          "source": "DeepLogin",
+          "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Plagiarism in the Age of AI",
+          "summary": "暂无摘要",
+          "source": "chmaynard",
+          "url": "https://lawrencecpaulson.github.io//2026/10/17/Plagiarism.html",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Videographer tries AI editing with MCP DaVinci Resolve connector",
+          "summary": "暂无摘要",
+          "source": "fallinditch",
+          "url": "https://www.youtube.com/watch?v=4nQGiRCUlDg",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Show HN: KIRA – Sovereign, local-first AI and media workstation for Windows",
+          "summary": "暂无摘要",
+          "source": "MDRStudio",
+          "url": "https://apps.microsoft.com/detail/9n2dr3g0jw0z?hl=en-US&amp;gl=US",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Past.dev: Long-term memory for AI agents",
+          "summary": "暂无摘要",
+          "source": "handfuloflight",
+          "url": "https://past.dev",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Show HN: Thoreau's Walden as a 3D browser game with an AI guide",
+          "summary": "暂无摘要",
+          "source": "michaellee8",
+          "url": "https://walden.learnmer.com/",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "LOL Fuck AI by xplsv – a vibecoded demo",
+          "summary": "暂无摘要",
+          "source": "knoke",
+          "url": "https://xplsv.github.io/lolfuckai/",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "AutoMEP – The AI drafter for MEP engineers and designers",
+          "summary": "暂无摘要",
+          "source": "vannventures",
+          "url": "https://automep.app/",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Neuro-Symbolic AI",
+          "summary": "暂无摘要",
+          "source": "modinfo",
+          "url": "https://en.wikipedia.org/wiki/Neuro-symbolic_AI",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "History's long-secret codes are being cracked by amateurs using AI",
+          "summary": "暂无摘要",
+          "source": "bucket2015",
+          "url": "https://www.nature.com/articles/d41586-026-03338-y",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Eight and One Predictions for AI in 2030",
+          "summary": "暂无摘要",
+          "source": "7777777phil",
+          "url": "https://philippdubach.com/posts/ai-in-2030/",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Three LLM judges couldn't tell an AI agent's real memory from a counterfeit one",
+          "summary": "暂无摘要",
+          "source": "gcolella",
+          "url": "https://kairos-experiment.com/checks.html",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
+          "summary": "暂无摘要",
+          "source": "grandpajoey",
+          "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
+          "summary": "暂无摘要",
+          "source": "kurienbytes",
+          "url": "https://github.com/Annora998/inboxwall",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Anthropic pitches its own AI safety bill to lawmakers",
+          "summary": "暂无摘要",
+          "source": "EA-3167",
+          "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
+          "summary": "暂无摘要",
+          "source": "ClearwayLaw",
+          "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Selfhosting my AI chats: more privacy and sovereignty",
+          "summary": "暂无摘要",
+          "source": "jlelse",
+          "url": "https://janlukas.blog/thoughts/2026/10/selfhosting-ai-chats",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
+          "summary": "暂无摘要",
+          "source": "pessimizer",
+          "url": "https://nono.sh",
+          "time": "2026-10-17"
+        },
+        {
+          "title": "AI Can Write the Code. Who Verifies It?",
+          "summary": "暂无摘要",
+          "source": "mmarvramm",
+          "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+          "time": "2026-10-17"
         }
       ]
     }
