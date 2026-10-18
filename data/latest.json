@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-10-17T21:52:13.252Z",
-  "date": "2026年10月17日 21时52分",
+  "updateTime": "2026-10-18T22:03:34.731Z",
+  "date": "2026年10月18日 22时3分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "ShortSmash – prompt-to-published short videos, 50-language dubbing, open source",
+          "summary": "暂无摘要",
+          "source": "abicevoice1",
+          "url": "https://github.com/hydope/shortsmash",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Subvert.fm AI Policy",
+          "summary": "暂无摘要",
+          "source": "MattSayar",
+          "url": "https://www.subvert.fm/pages/ai-policy",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Chinese researchers solve 3D Ghys conjecture with homegrown AI model",
+          "summary": "暂无摘要",
+          "source": "yogthos",
+          "url": "https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Programming Language Foundations in Agda",
+          "summary": "暂无摘要",
+          "source": "solomonb",
+          "url": "https://plfa.github.io/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Beating Warcraft III's insane AI with self-play reinforcement learning on one PC",
+          "summary": "暂无摘要",
+          "source": "nawtora",
+          "url": "https://warlock.ai/blog/warcraftsim-1/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Trustbut checks if an AI agent's new tests fail without its change",
+          "summary": "暂无摘要",
+          "source": "almog_io",
+          "url": "https://github.com/isAlmogK/trustbut",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Expose the digital body language of Bluetooth Low Energy devices",
+          "summary": "暂无摘要",
+          "source": "unixnick",
+          "url": "https://blog.stormvault.net/airtell-a-bluetooth-5-security-cli-streamlit-interface-to-sniffle-b486ffee419d",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Self-hosted workspace where notes, tasks and AI chats are all items",
+          "summary": "暂无摘要",
+          "source": "osinachi88",
+          "url": "https://github.com/sianachi/nixsites",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "An executable specification language based on temporal logic of actions (TLA)",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://github.com/quint-co/quint",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "A Token-by-Token Guide to Prompt Caching",
+          "summary": "暂无摘要",
+          "source": "hdit",
+          "url": "https://www.sithankanna.com/posts/prompt-caching-vs-kv-caching.html",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
+          "summary": "暂无摘要",
+          "source": "iamnothere",
+          "url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "AI/Pangram and Writing",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://ninza7.medium.com/ai-pangram-writing-966c1da59c48",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "The Ontological Admission Test: When a Language Model Requires an Object",
+          "summary": "暂无摘要",
+          "source": "Aldus551",
+          "url": "https://medium.com/@smoking2man/the-ontological-admission-test-when-a-language-model-requires-an-object-to-belong-to-its-own-world-416e6446c5ab",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Why Clay Has an AI Writing Policy",
+          "summary": "暂无摘要",
+          "source": "ryzvonusef",
+          "url": "https://www.clay.com/blog/ai-writing-policy",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "AI Is the Uber Moment for Mathematics",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://greyenlightenment.com/2026/09/27/ai-is-the-uber-moment-for-mathematics/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Men Can't Stop Faking How Much They Know About AI",
+          "summary": "暂无摘要",
+          "source": "ceejayoz",
+          "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "AI won't kill jobs. Bad team design will",
+          "summary": "暂无摘要",
+          "source": "eustoria",
+          "url": "https://www.cio.com/article/4236023/ai-wont-kill-jobs-bad-team-design-will.html",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+          "summary": "暂无摘要",
+          "source": "toomuchtodo",
+          "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+          "time": "2026-10-18"
+        },
         {
           "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
           "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose ",
@@ -195,6 +335,146 @@
           "source": "Tess Owen, Tim Marchman",
           "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
           "time": "2026-10-16"
+        },
+        {
+          "title": "Subvert.fm AI Policy",
+          "summary": "暂无摘要",
+          "source": "MattSayar",
+          "url": "https://www.subvert.fm/pages/ai-policy",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Chinese researchers solve 3D Ghys conjecture with homegrown AI model",
+          "summary": "暂无摘要",
+          "source": "yogthos",
+          "url": "https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Beating Warcraft III's insane AI with self-play reinforcement learning on one PC",
+          "summary": "暂无摘要",
+          "source": "nawtora",
+          "url": "https://warlock.ai/blog/warcraftsim-1/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Trustbut checks if an AI agent's new tests fail without its change",
+          "summary": "暂无摘要",
+          "source": "almog_io",
+          "url": "https://github.com/isAlmogK/trustbut",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Self-hosted workspace where notes, tasks and AI chats are all items",
+          "summary": "暂无摘要",
+          "source": "osinachi88",
+          "url": "https://github.com/sianachi/nixsites",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "AI/Pangram and Writing",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://ninza7.medium.com/ai-pangram-writing-966c1da59c48",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Why Clay Has an AI Writing Policy",
+          "summary": "暂无摘要",
+          "source": "ryzvonusef",
+          "url": "https://www.clay.com/blog/ai-writing-policy",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "AI Is the Uber Moment for Mathematics",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://greyenlightenment.com/2026/09/27/ai-is-the-uber-moment-for-mathematics/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Men Can't Stop Faking How Much They Know About AI",
+          "summary": "暂无摘要",
+          "source": "ceejayoz",
+          "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "AI won't kill jobs. Bad team design will",
+          "summary": "暂无摘要",
+          "source": "eustoria",
+          "url": "https://www.cio.com/article/4236023/ai-wont-kill-jobs-bad-team-design-will.html",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+          "summary": "暂无摘要",
+          "source": "toomuchtodo",
+          "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "The Radxa Linkr – A KVM for Your AI Agent",
+          "summary": "暂无摘要",
+          "source": "rcarmo",
+          "url": "https://taoofmac.com/space/reviews/2026/10/18/1646",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Tell HN: I picked up knitting while waiting for my AI agent to complete",
+          "summary": "暂无摘要",
+          "source": "amelius",
+          "url": "https://news.ycombinator.com/item?id=50142650",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Show HN: HedgePick – nine AI agents that argue against your stock thesis",
+          "summary": "暂无摘要",
+          "source": "joegahagan",
+          "url": "https://hedgepick.com/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Would you switch credit cards for your rewards on your AI spend?",
+          "summary": "暂无摘要",
+          "source": "mhutchw",
+          "url": "https://news.ycombinator.com/item?id=50142494",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Vertick – built with DominoKit and agentic AI",
+          "summary": "暂无摘要",
+          "source": "vegegoku",
+          "url": "https://dominokit.com/vertick/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
+          "summary": "暂无摘要",
+          "source": "swolpers",
+          "url": "https://age-of-product.com/ai-assisted-product-discovery/",
+          "time": "2026-10-18"
+        },
+        {
+          "title": "Microsoft drops AI datacentre project in Essex over power supply concerns",
+          "summary": "暂无摘要",
+          "source": "wondersky",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+          "time": "2026-10-18"
         }
       ]
     },
@@ -393,144 +673,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "AI neolabs are raising sums. Most have little to show for it",
-          "summary": "暂无摘要",
-          "source": "andsoitis",
-          "url": "https://economist.com/business/2026/10/15/ai-neolabs-are-raising-huge-sums-most-have-little-to-show-for-it",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
-          "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Plagiarism in the Age of AI",
-          "summary": "暂无摘要",
-          "source": "chmaynard",
-          "url": "https://lawrencecpaulson.github.io//2026/10/17/Plagiarism.html",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Videographer tries AI editing with MCP DaVinci Resolve connector",
-          "summary": "暂无摘要",
-          "source": "fallinditch",
-          "url": "https://www.youtube.com/watch?v=4nQGiRCUlDg",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Show HN: KIRA – Sovereign, local-first AI and media workstation for Windows",
-          "summary": "暂无摘要",
-          "source": "MDRStudio",
-          "url": "https://apps.microsoft.com/detail/9n2dr3g0jw0z?hl=en-US&amp;gl=US",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Past.dev: Long-term memory for AI agents",
-          "summary": "暂无摘要",
-          "source": "handfuloflight",
-          "url": "https://past.dev",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Show HN: Thoreau's Walden as a 3D browser game with an AI guide",
-          "summary": "暂无摘要",
-          "source": "michaellee8",
-          "url": "https://walden.learnmer.com/",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "LOL Fuck AI by xplsv – a vibecoded demo",
-          "summary": "暂无摘要",
-          "source": "knoke",
-          "url": "https://xplsv.github.io/lolfuckai/",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "AutoMEP – The AI drafter for MEP engineers and designers",
-          "summary": "暂无摘要",
-          "source": "vannventures",
-          "url": "https://automep.app/",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Neuro-Symbolic AI",
-          "summary": "暂无摘要",
-          "source": "modinfo",
-          "url": "https://en.wikipedia.org/wiki/Neuro-symbolic_AI",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "History's long-secret codes are being cracked by amateurs using AI",
-          "summary": "暂无摘要",
-          "source": "bucket2015",
-          "url": "https://www.nature.com/articles/d41586-026-03338-y",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Eight and One Predictions for AI in 2030",
-          "summary": "暂无摘要",
-          "source": "7777777phil",
-          "url": "https://philippdubach.com/posts/ai-in-2030/",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Three LLM judges couldn't tell an AI agent's real memory from a counterfeit one",
-          "summary": "暂无摘要",
-          "source": "gcolella",
-          "url": "https://kairos-experiment.com/checks.html",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
-          "summary": "暂无摘要",
-          "source": "grandpajoey",
-          "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Show HN: InBox Wall – A local-first, open-source email sanitizer for AI agents",
-          "summary": "暂无摘要",
-          "source": "kurienbytes",
-          "url": "https://github.com/Annora998/inboxwall",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Anthropic pitches its own AI safety bill to lawmakers",
-          "summary": "暂无摘要",
-          "source": "EA-3167",
-          "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
-          "summary": "暂无摘要",
-          "source": "ClearwayLaw",
-          "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Selfhosting my AI chats: more privacy and sovereignty",
-          "summary": "暂无摘要",
-          "source": "jlelse",
-          "url": "https://janlukas.blog/thoughts/2026/10/selfhosting-ai-chats",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "Nono: Agent runtime security. Kernel-enforced boundaries for AI agents",
-          "summary": "暂无摘要",
-          "source": "pessimizer",
-          "url": "https://nono.sh",
-          "time": "2026-10-17"
-        },
-        {
-          "title": "AI Can Write the Code. Who Verifies It?",
-          "summary": "暂无摘要",
-          "source": "mmarvramm",
-          "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
-          "time": "2026-10-17"
+          "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+          "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+          "source": "Reece Rogers",
+          "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+          "time": "2026-10-18"
         }
       ]
     }
