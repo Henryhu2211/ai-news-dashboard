@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-19T23:12:41.993Z",
-  "date": "2026年10月19日 23时12分",
+  "updateTime": "2026-10-20T22:49:21.418Z",
+  "date": "2026年10月20日 22时49分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,11 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Show HN: MediationBench – testing AI mediators in 62 simulated conflicts",
-          "summary": "暂无摘要",
-          "source": "hendler",
-          "url": "https://mediationbench.com/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Is it too late to reduce catastrophic AI risk?",
-          "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Why AI is not conscious and perhaps never will be",
-          "summary": "暂无摘要",
-          "source": "ersinesen",
-          "url": "https://www.nature.com/articles/d41586-026-03313-7",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Advancing Coding in Low-Resource Programming Languages",
-          "summary": "暂无摘要",
-          "source": "tech234a",
-          "url": "https://openai.com/index/low-resource-programming-languages/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Profiling the Attack Surface of AI Agent Skills",
-          "summary": "暂无摘要",
-          "source": "ratneshiiita",
-          "url": "https://arxiv.org/abs/2610.19264",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "MLIR CodeGen Dialects for Machine Learning Compilers (2022)",
-          "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://www.lei.chat/posts/mlir-codegen-dialects-for-machine-learning-compilers/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Universal Basic AI",
-          "summary": "暂无摘要",
-          "source": "ent101",
-          "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-19/universal-basic-ai",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Caching in Gemini 4 Argon has some quirks",
-          "summary": "暂无摘要",
-          "source": "bleonard",
-          "url": "https://www.induction.ai/blog/caching-in-gemini-4-argon",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Jev Helps Multiplayer AI",
-          "summary": "暂无摘要",
-          "source": "bookernath",
-          "url": "https://www.runtype.com/blog/jev-in-the-group-chat",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "AI models can get brain rot, too",
-          "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Show HN: Accessibility Context for UI with AI",
-          "summary": "暂无摘要",
-          "source": "elwingo1",
-          "url": "https://www.typeui.sh/ui-foundations/configurator",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Where Jev Fits in a Large-Scale Data Pipeline",
-          "summary": "暂无摘要",
-          "source": "evanfenster",
-          "url": "https://trychannel3.com/blog/where-jev-fits",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
-          "summary": "暂无摘要",
-          "source": "benarent",
-          "url": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
-          "summary": "暂无摘要",
-          "source": "JohnHammersley",
-          "url": "https://arxiv.org/abs/2610.16555",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Technocapitalist AI-Powered Blues",
-          "summary": "暂无摘要",
-          "source": "d0able",
-          "url": "https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Quizera – Create and deploy AI-assisted assessments in minutes",
-          "summary": "暂无摘要",
-          "source": "agsperry",
-          "url": "https://quizera.ai/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Scope: Open-source evaluation for AI coding agents",
-          "summary": "暂无摘要",
-          "source": "notfried",
-          "url": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
-          "summary": "暂无摘要",
-          "source": "alexdykyi",
-          "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
-          "summary": "暂无摘要",
-          "source": "vatsachak",
-          "url": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Blocking the Internet Archive Will Not Stop AI",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
-          "time": "2026-10-19"
+          "title": "A visit to Samsung’s massive new semiconductor hub",
+          "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massi",
+          "source": "Michelle Kim",
+          "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+          "time": "2026-10-20"
         },
         {
           "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
@@ -188,20 +55,6 @@
           "source": "Arthur Holland Michel",
           "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
           "time": "2026-10-09"
-        },
-        {
-          "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
-          "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we liv",
-          "source": "Jamie Condliffe",
-          "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Building a safer path to autonomous industrial AI",
-          "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to au",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-          "time": "2026-10-08"
         }
       ]
     },
@@ -279,146 +132,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
           "time": "2026-09-01"
-        },
-        {
-          "title": "Show HN: MediationBench – testing AI mediators in 62 simulated conflicts",
-          "summary": "暂无摘要",
-          "source": "hendler",
-          "url": "https://mediationbench.com/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Is it too late to reduce catastrophic AI risk?",
-          "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Why AI is not conscious and perhaps never will be",
-          "summary": "暂无摘要",
-          "source": "ersinesen",
-          "url": "https://www.nature.com/articles/d41586-026-03313-7",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Profiling the Attack Surface of AI Agent Skills",
-          "summary": "暂无摘要",
-          "source": "ratneshiiita",
-          "url": "https://arxiv.org/abs/2610.19264",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Universal Basic AI",
-          "summary": "暂无摘要",
-          "source": "ent101",
-          "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-19/universal-basic-ai",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Jev Helps Multiplayer AI",
-          "summary": "暂无摘要",
-          "source": "bookernath",
-          "url": "https://www.runtype.com/blog/jev-in-the-group-chat",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Google pushes Chrome on Windows 11, gets away with what Microsoft is slammed for",
-          "summary": "暂无摘要",
-          "source": "nsdfg",
-          "url": "https://www.windowslatest.com/2026/10/18/google-now-wants-windows-11-users-to-ditch-edge-for-chrome-and-gets-away-with-what-microsoft-is-slammed-for/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "AI models can get brain rot, too",
-          "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Show HN: Accessibility Context for UI with AI",
-          "summary": "暂无摘要",
-          "source": "elwingo1",
-          "url": "https://www.typeui.sh/ui-foundations/configurator",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
-          "summary": "暂无摘要",
-          "source": "benarent",
-          "url": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
-          "summary": "暂无摘要",
-          "source": "JohnHammersley",
-          "url": "https://arxiv.org/abs/2610.16555",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Technocapitalist AI-Powered Blues",
-          "summary": "暂无摘要",
-          "source": "d0able",
-          "url": "https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Quizera – Create and deploy AI-assisted assessments in minutes",
-          "summary": "暂无摘要",
-          "source": "agsperry",
-          "url": "https://quizera.ai/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Scope: Open-source evaluation for AI coding agents",
-          "summary": "暂无摘要",
-          "source": "notfried",
-          "url": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
-          "summary": "暂无摘要",
-          "source": "alexdykyi",
-          "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
-          "summary": "暂无摘要",
-          "source": "vatsachak",
-          "url": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Blocking the Internet Archive Will Not Stop AI",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing",
-          "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.reuters.com/technology/ex-openai-employee-accused-planting-device-appears-have-saudi-backing-court-2026-10-19/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Ex OpenAI engineer accused of planting bug was in contact with Saudi royals",
-          "summary": "暂无摘要",
-          "source": "Betelbuddy",
-          "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Red Hat Engineering Director Uses AI to Tackle Linux's Undocumented Driver Woes",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/",
-          "time": "2026-10-19"
         }
       ]
     },
@@ -428,60 +141,46 @@
       "icon": "💼",
       "news": [
         {
-          "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
-          "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. Howe",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-          "time": "2026-10-19"
+          "title": "Anthropic’s cloud partnerships are getting messy",
+          "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "time": "2026-10-20"
         },
         {
-          "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-          "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+          "title": "SpaceX&#8217;s AI business is beating expectations",
+          "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+          "source": "Tim Fernholz, Kirsten Korosec",
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+          "time": "2026-10-20"
+        },
+        {
+          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+          "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researcher",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "time": "2026-10-20"
+        },
+        {
+          "title": "Meta&#8217;s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+          "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher r",
           "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-          "time": "2026-10-19"
+          "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+          "time": "2026-10-20"
         },
         {
-          "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-          "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-          "time": "2026-10-19"
+          "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+          "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+          "source": "Tim De Chant",
+          "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+          "time": "2026-10-20"
         },
         {
-          "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-          "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-          "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in ",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
-          "source": "Theresa Loconsolo",
-          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-          "time": "2026-10-16"
-        },
-        {
-          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic",
-          "source": "Theresa Loconsolo, Dominic-Madori Davis",
-          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-          "time": "2026-10-16"
-        },
-        {
-          "title": "Elorian’s first AI model wants to reason with images, not just about them",
-          "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-          "source": "Aditya Mehta",
-          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-          "time": "2026-10-16"
+          "title": "Otter.ai raises $320 million from General Catalyst&#8217;s growth fund for its meeting tool",
+          "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equi",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+          "time": "2026-10-20"
         },
         {
           "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
@@ -505,25 +204,25 @@
       "icon": "💡",
       "news": [
         {
+          "title": "The new economics of enterprise AI",
+          "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity become",
+          "source": "David Sydow",
+          "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+          "time": "2026-10-20"
+        },
+        {
+          "title": "AI adoption by industry shows what other sectors can learn",
+          "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tec",
+          "source": "TripleTen",
+          "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+          "time": "2026-10-20"
+        },
+        {
           "title": "Making the internet better for AI agents might make it worse for everyone else",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just",
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
           "time": "2026-10-19"
-        },
-        {
-          "title": "Building a safer path to autonomous industrial AI",
-          "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to au",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-          "time": "2026-10-08"
-        },
-        {
-          "title": "Connecting AI agents to enterprise knowledge",
-          "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-          "time": "2026-10-05"
         }
       ]
     },
@@ -694,144 +393,18 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Show HN: MediationBench – testing AI mediators in 62 simulated conflicts",
-          "summary": "暂无摘要",
-          "source": "hendler",
-          "url": "https://mediationbench.com/",
-          "time": "2026-10-19"
+          "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+          "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+          "source": "Isabella Ward, Anna Desmarais",
+          "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+          "time": "2026-10-20"
         },
         {
-          "title": "Is it too late to reduce catastrophic AI risk?",
-          "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Why AI is not conscious and perhaps never will be",
-          "summary": "暂无摘要",
-          "source": "ersinesen",
-          "url": "https://www.nature.com/articles/d41586-026-03313-7",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Profiling the Attack Surface of AI Agent Skills",
-          "summary": "暂无摘要",
-          "source": "ratneshiiita",
-          "url": "https://arxiv.org/abs/2610.19264",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Universal Basic AI",
-          "summary": "暂无摘要",
-          "source": "ent101",
-          "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-19/universal-basic-ai",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Jev Helps Multiplayer AI",
-          "summary": "暂无摘要",
-          "source": "bookernath",
-          "url": "https://www.runtype.com/blog/jev-in-the-group-chat",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "AI models can get brain rot, too",
-          "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://news.engineering.tamu.edu/news/2026/10/19/ai-models-can-get-brain-rot-too/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "DHS orders removal of DeepSeek from government agency IT systems",
-          "summary": "暂无摘要",
-          "source": "mhalle",
-          "url": "https://thehill.com/policy/technology/6159116-dhs-bans-chinese-deepseek-ai/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Show HN: Accessibility Context for UI with AI",
-          "summary": "暂无摘要",
-          "source": "elwingo1",
-          "url": "https://www.typeui.sh/ui-foundations/configurator",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
-          "summary": "暂无摘要",
-          "source": "benarent",
-          "url": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
-          "summary": "暂无摘要",
-          "source": "JohnHammersley",
-          "url": "https://arxiv.org/abs/2610.16555",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Technocapitalist AI-Powered Blues",
-          "summary": "暂无摘要",
-          "source": "d0able",
-          "url": "https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Quizera – Create and deploy AI-assisted assessments in minutes",
-          "summary": "暂无摘要",
-          "source": "agsperry",
-          "url": "https://quizera.ai/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Scope: Open-source evaluation for AI coding agents",
-          "summary": "暂无摘要",
-          "source": "notfried",
-          "url": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
-          "summary": "暂无摘要",
-          "source": "alexdykyi",
-          "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
-          "summary": "暂无摘要",
-          "source": "vatsachak",
-          "url": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Blocking the Internet Archive Will Not Stop AI",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Red Hat Engineering Director Uses AI to Tackle Linux's Undocumented Driver Woes",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "Linus Torvalds' AI Code Improved: Performance Wins with Reworked Code",
-          "summary": "暂无摘要",
-          "source": "maxloh",
-          "url": "https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref",
-          "time": "2026-10-19"
-        },
-        {
-          "title": "What is still hard to become good at as AI makes coding easier?",
-          "summary": "暂无摘要",
-          "source": "Bhavya031",
-          "url": "https://news.ycombinator.com/item?id=50157098",
-          "time": "2026-10-19"
+          "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+          "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+          "source": "Olivia Snow",
+          "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+          "time": "2026-10-20"
         },
         {
           "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
