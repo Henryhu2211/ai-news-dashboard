@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-22T22:52:12.965Z",
-  "date": "2026年10月22日 22时52分",
+  "updateTime": "2026-10-23T22:45:41.199Z",
+  "date": "2026年10月23日 22时45分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title": "Aethyro – AI chat SaaS, and a billing bypass I found by attacking my own product",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "time": "2026-10-22"
+          "source": "leer4030",
+          "url": "https://aethyro.com/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Liquid AI launches sub-20ms latency stack",
+          "title": "Wall Street prepares for AI's \"day after\"",
           "summary": "暂无摘要",
-          "source": "pember",
-          "url": "https://www.liquid.ai/blog/low-latency",
-          "time": "2026-10-22"
+          "source": "toomuchtodo",
+          "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+          "time": "2026-10-23"
         },
         {
-          "title": "The $300k Competition to Hijack AI Agents",
+          "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
           "summary": "暂无摘要",
-          "source": "waprin",
-          "url": "https://www.aiengineering.report/p/inside-the-300k-competition-to-hijack",
-          "time": "2026-10-22"
+          "source": "aakatheeri",
+          "url": "https://aakatheeri.github.io/narrative-deck/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: Stumble Upon for AI News",
+          "title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
           "summary": "暂无摘要",
-          "source": "computerex",
-          "url": "https://ainews247.org/",
-          "time": "2026-10-22"
+          "source": "wltyn",
+          "url": "https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html",
+          "time": "2026-10-23"
         },
         {
-          "title": "Thoughts on AI in game development (from the trenches)",
+          "title": "Learning as Freedom (2012)",
           "summary": "暂无摘要",
-          "source": "minimaxir",
-          "url": "https://www.reddit.com/r/Games/comments/1xcr1au/thoughts_on_ai_in_game_development_from_the/",
-          "time": "2026-10-22"
+          "source": "alasr",
+          "url": "https://www.nytimes.com/2012/09/06/opinion/john-deweys-vision-of-learning-as-freedom.html",
+          "time": "2026-10-23"
         },
         {
-          "title": "US banks are blocking third-party AI agents access to customer accounts",
+          "title": "AI devours a fifth of companies' IT budgets",
           "summary": "暂无摘要",
-          "source": "champagnepapi",
-          "url": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
-          "time": "2026-10-22"
+          "source": "mikelgan",
+          "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+          "time": "2026-10-23"
         },
         {
-          "title": "Public-Interest Information in an AI-Intermediated Age",
+          "title": "AI Just Raised the Stakes on Continuous Delivery",
           "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.journalismfutures.org/three-layer-cake",
-          "time": "2026-10-22"
+          "source": "bradoyler",
+          "url": "https://www.bradoyler.com/ai/continuous-delivery-is-a-security-feature/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: AI Prompt Chain Builder – offline multi-step prompt workflows",
+          "title": "Show HN: AiSniff, underline the phrases in a text that read like AI wrote them",
           "summary": "暂无摘要",
-          "source": "theaioperator",
-          "url": "https://theaioperatorstore.gumroad.com/l/kjxamb",
-          "time": "2026-10-22"
+          "source": "levi74108520963",
+          "url": "https://github.com/Arthur031221/AiSniff",
+          "time": "2026-10-23"
         },
         {
-          "title": "1Password adds browser login feature for AI agents",
+          "title": "\"No way to prevent this\" say users of only language where this regularly happens",
           "summary": "暂无摘要",
-          "source": "walski",
-          "url": "https://1password.com/personal-ai-agent-integrations",
-          "time": "2026-10-22"
+          "source": "watermelon0",
+          "url": "https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/",
+          "time": "2026-10-23"
         },
         {
-          "title": "AI vs. no AI? not much of interest to me",
+          "title": "Clearing Out the Unfinished Project Backlog",
           "summary": "暂无摘要",
-          "source": "yuna2k",
-          "url": "https://mvndy.cl/blog/a-sort-of-declaration",
-          "time": "2026-10-22"
+          "source": "stn8188",
+          "url": "https://shielddigitaldesign.com/posts/2026/finish-projects/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: AI for Group Chats",
+          "title": "Hare is a boring programming language",
           "summary": "暂无摘要",
-          "source": "vpj",
-          "url": "https://boba.app",
-          "time": "2026-10-22"
+          "source": "Muhammad523",
+          "url": "https://harelang.org/blog/2022-11-27-hare-is-boring/",
+          "time": "2026-10-23"
         },
         {
-          "title": "SpaceX $40B debt deal gets pricey as AI fears spread",
+          "title": "AI is devastating higher education, but the system was broken",
           "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
-          "time": "2026-10-22"
+          "source": "pseudolus",
+          "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+          "time": "2026-10-23"
         },
         {
-          "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+          "title": "Show HN: AI Detector that is private, free and unlimited use",
           "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://microsoft.ai/news/building-medical-superintelligence/",
-          "time": "2026-10-22"
+          "source": "mrkn1",
+          "url": "https://kouh.me/ai-text-detector",
+          "time": "2026-10-23"
         },
         {
-          "title": "Experimental mRNA vaccine cuts risk melanoma returns by 42%",
+          "title": "AI gets about 10x cheaper every year",
           "summary": "暂无摘要",
-          "source": "conductor",
-          "url": "https://www.cnn.com/2026/10/22/health/mnra-cancer-vaccine-moderna",
-          "time": "2026-10-22"
+          "source": "stevekrouse",
+          "url": "https://stevekrouse.com/10x",
+          "time": "2026-10-23"
         },
         {
-          "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+          "title": "Please Don't Let an AI Bot Log into Your Bank Account",
           "summary": "暂无摘要",
-          "source": "karakoram",
-          "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
-          "time": "2026-10-22"
+          "source": "speckx",
+          "url": "https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: Secure your AI agents on Mac",
+          "title": "The Reason AI Can't Take Your Job [video]",
           "summary": "暂无摘要",
-          "source": "frohrer",
-          "url": "https://installplango.com/",
-          "time": "2026-10-22"
+          "source": "lroe",
+          "url": "https://www.youtube.com/watch?v=1-NXfnVeDfw",
+          "time": "2026-10-23"
         },
         {
-          "title": "Don't throw it all away: Caching an immediate-mode UI",
+          "title": "The Search for Better Learning Algorithms – Yaroslav Bulatov [video]",
           "summary": "暂无摘要",
-          "source": "birdculture",
-          "url": "https://blickeditor.com/blog/caching-an-immediate-mode-ui",
-          "time": "2026-10-22"
+          "source": "latentoracle",
+          "url": "https://www.youtube.com/watch?v=qgNeImtcykQ",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: State Machines for Software Factories",
+          "title": "What are some free AI education platforms to learn AI? [video]",
           "summary": "暂无摘要",
-          "source": "ramoz",
-          "url": "https://twitter.com/backnotprop/status/2113354057054126238",
-          "time": "2026-10-22"
+          "source": "aicc",
+          "url": "https://www.youtube.com/watch?v=4iTqvHrzzAw",
+          "time": "2026-10-23"
         },
         {
-          "title": "Carbon-X: An open 14B language model for DNA understanding and generation",
+          "title": "Kimi K3.1 Pro puts open-source AI a month behind the best",
           "summary": "暂无摘要",
-          "source": "pretext",
-          "url": "https://huggingface.co/HuggingFaceBio/Carbon-X",
-          "time": "2026-10-22"
+          "source": "rakannimer",
+          "url": "https://www.modelcompare.ai/blog/china-open-source-ai",
+          "time": "2026-10-23"
         },
         {
-          "title": "Messaging for AI Agents",
+          "title": "AI Coding Agent Security Benchmark",
           "summary": "暂无摘要",
-          "source": "juan-23blocks",
-          "url": "https://trycrabmail.com/",
-          "time": "2026-10-22"
+          "source": "espeed",
+          "url": "https://www.endorlabs.com/research/ai-code-security-benchmark",
+          "time": "2026-10-23"
         },
         {
           "title": "Designing an AI serving harness built to last",
@@ -260,144 +260,144 @@
           "time": "2026-09-01"
         },
         {
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title": "Aethyro – AI chat SaaS, and a billing bypass I found by attacking my own product",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "time": "2026-10-22"
+          "source": "leer4030",
+          "url": "https://aethyro.com/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Liquid AI launches sub-20ms latency stack",
+          "title": "Wall Street prepares for AI's \"day after\"",
           "summary": "暂无摘要",
-          "source": "pember",
-          "url": "https://www.liquid.ai/blog/low-latency",
-          "time": "2026-10-22"
+          "source": "toomuchtodo",
+          "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+          "time": "2026-10-23"
         },
         {
-          "title": "The $300k Competition to Hijack AI Agents",
+          "title": "German court calls Google aerial imagery 'spying'",
           "summary": "暂无摘要",
-          "source": "waprin",
-          "url": "https://www.aiengineering.report/p/inside-the-300k-competition-to-hijack",
-          "time": "2026-10-22"
+          "source": "rdmuser",
+          "url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: Stumble Upon for AI News",
+          "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
           "summary": "暂无摘要",
-          "source": "computerex",
-          "url": "https://ainews247.org/",
-          "time": "2026-10-22"
+          "source": "aakatheeri",
+          "url": "https://aakatheeri.github.io/narrative-deck/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Thoughts on AI in game development (from the trenches)",
+          "title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
           "summary": "暂无摘要",
-          "source": "minimaxir",
-          "url": "https://www.reddit.com/r/Games/comments/1xcr1au/thoughts_on_ai_in_game_development_from_the/",
-          "time": "2026-10-22"
+          "source": "wltyn",
+          "url": "https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html",
+          "time": "2026-10-23"
         },
         {
-          "title": "US banks are blocking third-party AI agents access to customer accounts",
+          "title": "Google will pay people to use less electricity so its data centers can use more",
           "summary": "暂无摘要",
-          "source": "champagnepapi",
-          "url": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
-          "time": "2026-10-22"
+          "source": "mikelgan",
+          "url": "https://www.computerworld.com/article/4239858/google-will-pay-people-to-use-less-electricity-so-its-data-centers-can-use-more.html",
+          "time": "2026-10-23"
         },
         {
-          "title": "Meta to Pay Zuckerberg's CA Wealth Tax",
+          "title": "AI devours a fifth of companies' IT budgets",
           "summary": "暂无摘要",
-          "source": "bigwheels",
-          "url": "https://seekingalpha.com/news/4655678-meta-approves-class-c-share-structure-strikes-deal-to-retain-ceo-zuckerberg-in-california",
-          "time": "2026-10-22"
+          "source": "mikelgan",
+          "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+          "time": "2026-10-23"
         },
         {
-          "title": "Public-Interest Information in an AI-Intermediated Age",
+          "title": "AI Just Raised the Stakes on Continuous Delivery",
           "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.journalismfutures.org/three-layer-cake",
-          "time": "2026-10-22"
+          "source": "bradoyler",
+          "url": "https://www.bradoyler.com/ai/continuous-delivery-is-a-security-feature/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: AI Prompt Chain Builder – offline multi-step prompt workflows",
+          "title": "Show HN: AiSniff, underline the phrases in a text that read like AI wrote them",
           "summary": "暂无摘要",
-          "source": "theaioperator",
-          "url": "https://theaioperatorstore.gumroad.com/l/kjxamb",
-          "time": "2026-10-22"
+          "source": "levi74108520963",
+          "url": "https://github.com/Arthur031221/AiSniff",
+          "time": "2026-10-23"
         },
         {
-          "title": "Hannah Fry: How OpenAI has caused an existential crisis in mathematics",
+          "title": "AI is devastating higher education, but the system was broken",
           "summary": "暂无摘要",
-          "source": "consumer451",
-          "url": "https://www.newscientist.com/article/2593249-hannah-fry-how-openai-has-caused-an-existential-crisis-in-mathematics/",
-          "time": "2026-10-22"
+          "source": "pseudolus",
+          "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+          "time": "2026-10-23"
         },
         {
-          "title": "Google's verifiable quantum circuit compilation competition",
+          "title": "Show HN: AI Detector that is private, free and unlimited use",
           "summary": "暂无摘要",
-          "source": "simonpure",
-          "url": "https://opensource.googleblog.com/2026/10/announcing-verifiable-quantum-circuit-compilation-competition-on-kaggle.html",
-          "time": "2026-10-22"
+          "source": "mrkn1",
+          "url": "https://kouh.me/ai-text-detector",
+          "time": "2026-10-23"
         },
         {
-          "title": "1Password adds browser login feature for AI agents",
+          "title": "AI gets about 10x cheaper every year",
           "summary": "暂无摘要",
-          "source": "walski",
-          "url": "https://1password.com/personal-ai-agent-integrations",
-          "time": "2026-10-22"
+          "source": "stevekrouse",
+          "url": "https://stevekrouse.com/10x",
+          "time": "2026-10-23"
         },
         {
-          "title": "AI vs. no AI? not much of interest to me",
+          "title": "Please Don't Let an AI Bot Log into Your Bank Account",
           "summary": "暂无摘要",
-          "source": "yuna2k",
-          "url": "https://mvndy.cl/blog/a-sort-of-declaration",
-          "time": "2026-10-22"
+          "source": "speckx",
+          "url": "https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: AI for Group Chats",
+          "title": "The Reason AI Can't Take Your Job [video]",
           "summary": "暂无摘要",
-          "source": "vpj",
-          "url": "https://boba.app",
-          "time": "2026-10-22"
+          "source": "lroe",
+          "url": "https://www.youtube.com/watch?v=1-NXfnVeDfw",
+          "time": "2026-10-23"
         },
         {
-          "title": "SpaceX $40B debt deal gets pricey as AI fears spread",
+          "title": "What are some free AI education platforms to learn AI? [video]",
           "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
-          "time": "2026-10-22"
+          "source": "aicc",
+          "url": "https://www.youtube.com/watch?v=4iTqvHrzzAw",
+          "time": "2026-10-23"
         },
         {
-          "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+          "title": "Kimi K3.1 Pro puts open-source AI a month behind the best",
           "summary": "暂无摘要",
-          "source": "ex-aws-dude",
-          "url": "https://news.ycombinator.com/item?id=50200997",
-          "time": "2026-10-22"
+          "source": "rakannimer",
+          "url": "https://www.modelcompare.ai/blog/china-open-source-ai",
+          "time": "2026-10-23"
         },
         {
-          "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+          "title": "AI Coding Agent Security Benchmark",
           "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://microsoft.ai/news/building-medical-superintelligence/",
-          "time": "2026-10-22"
+          "source": "espeed",
+          "url": "https://www.endorlabs.com/research/ai-code-security-benchmark",
+          "time": "2026-10-23"
         },
         {
-          "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+          "title": "The \"AI-Last\" Methodology",
           "summary": "暂无摘要",
-          "source": "karakoram",
-          "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
-          "time": "2026-10-22"
+          "source": "tholford",
+          "url": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: Murmur, open-source push-to-talk dictation for Mac (BYO OpenAI key)",
+          "title": "OpenAI: Securing our frontier model training environment",
           "summary": "暂无摘要",
-          "source": "leochaddad",
-          "url": "https://github.com/leochaddad/murmur",
-          "time": "2026-10-22"
+          "source": "pretext",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+          "time": "2026-10-23"
         },
         {
-          "title": "UPDATE: Anthropic's non-existant customer support",
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
           "summary": "暂无摘要",
-          "source": "ChrisMitSchmiss",
-          "url": "Messenger",
-          "time": "2026-10-22"
+          "source": "JustSkyfall",
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "time": "2026-10-23"
         }
       ]
     },
@@ -442,13 +442,6 @@
           "time": "2026-10-21"
         },
         {
-          "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-          "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-          "source": "Dominic-Madori Davis",
-          "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-          "time": "2026-10-21"
-        },
-        {
           "title": "The Social Society Helping Women Join the AI Boom",
           "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
           "source": "Zoë Schiffer",
@@ -475,146 +468,6 @@
           "source": "Matt Burgess, Lily Hay Newman",
           "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
           "time": "2026-10-21"
-        },
-        {
-          "title": "Startup plans to rejuvenate nuclear power industry with new manufacturing",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://news.mit.edu/2026/startup-rejuvenates-nuclear-power-industry-new-manufacturing-approach-1022",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Sony Exits UHD Blu-ray Player Market as Pull Back from Physical Media Continues",
-          "summary": "暂无摘要",
-          "source": "throw0101c",
-          "url": "https://www.pushsquare.com/news/2026/10/sony-exits-uhd-blu-ray-player-market-as-pull-back-from-physical-media-continues",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Liquid AI launches sub-20ms latency stack",
-          "summary": "暂无摘要",
-          "source": "pember",
-          "url": "https://www.liquid.ai/blog/low-latency",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "The $300k Competition to Hijack AI Agents",
-          "summary": "暂无摘要",
-          "source": "waprin",
-          "url": "https://www.aiengineering.report/p/inside-the-300k-competition-to-hijack",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Show HN: Stumble Upon for AI News",
-          "summary": "暂无摘要",
-          "source": "computerex",
-          "url": "https://ainews247.org/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Thoughts on AI in game development (from the trenches)",
-          "summary": "暂无摘要",
-          "source": "minimaxir",
-          "url": "https://www.reddit.com/r/Games/comments/1xcr1au/thoughts_on_ai_in_game_development_from_the/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "US banks are blocking third-party AI agents access to customer accounts",
-          "summary": "暂无摘要",
-          "source": "champagnepapi",
-          "url": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Public-Interest Information in an AI-Intermediated Age",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.journalismfutures.org/three-layer-cake",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Show HN: AI Prompt Chain Builder – offline multi-step prompt workflows",
-          "summary": "暂无摘要",
-          "source": "theaioperator",
-          "url": "https://theaioperatorstore.gumroad.com/l/kjxamb",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "1Password adds browser login feature for AI agents",
-          "summary": "暂无摘要",
-          "source": "walski",
-          "url": "https://1password.com/personal-ai-agent-integrations",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "AI vs. no AI? not much of interest to me",
-          "summary": "暂无摘要",
-          "source": "yuna2k",
-          "url": "https://mvndy.cl/blog/a-sort-of-declaration",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Show HN: AI for Group Chats",
-          "summary": "暂无摘要",
-          "source": "vpj",
-          "url": "https://boba.app",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "SpaceX $40B debt deal gets pricey as AI fears spread",
-          "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-          "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://microsoft.ai/news/building-medical-superintelligence/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-          "summary": "暂无摘要",
-          "source": "karakoram",
-          "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Show HN: Secure your AI agents on Mac",
-          "summary": "暂无摘要",
-          "source": "frohrer",
-          "url": "https://installplango.com/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "AngelList has lost 33% of it's SPV market share",
-          "summary": "暂无摘要",
-          "source": "GoRudy",
-          "url": "https://www.angelschool.vc/blog/top-startup-syndicate-platforms-for-investors",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Messaging for AI Agents",
-          "summary": "暂无摘要",
-          "source": "juan-23blocks",
-          "url": "https://trycrabmail.com/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on",
-          "summary": "暂无摘要",
-          "source": "rossdavidh",
-          "url": "https://www.businessinsider.com/amazon-nvidia-ai-gpu-data-centers-power-shortages-2026-10",
-          "time": "2026-10-22"
         }
       ]
     },
@@ -827,144 +680,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "title": "Aethyro – AI chat SaaS, and a billing bypass I found by attacking my own product",
           "summary": "暂无摘要",
-          "source": "rbanffy",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "time": "2026-10-22"
+          "source": "leer4030",
+          "url": "https://aethyro.com/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Liquid AI launches sub-20ms latency stack",
+          "title": "Wall Street prepares for AI's \"day after\"",
           "summary": "暂无摘要",
-          "source": "pember",
-          "url": "https://www.liquid.ai/blog/low-latency",
-          "time": "2026-10-22"
+          "source": "toomuchtodo",
+          "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+          "time": "2026-10-23"
         },
         {
-          "title": "The $300k Competition to Hijack AI Agents",
+          "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
           "summary": "暂无摘要",
-          "source": "waprin",
-          "url": "https://www.aiengineering.report/p/inside-the-300k-competition-to-hijack",
-          "time": "2026-10-22"
+          "source": "aakatheeri",
+          "url": "https://aakatheeri.github.io/narrative-deck/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: Stumble Upon for AI News",
+          "title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
           "summary": "暂无摘要",
-          "source": "computerex",
-          "url": "https://ainews247.org/",
-          "time": "2026-10-22"
+          "source": "wltyn",
+          "url": "https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html",
+          "time": "2026-10-23"
         },
         {
-          "title": "Thoughts on AI in game development (from the trenches)",
+          "title": "AI devours a fifth of companies' IT budgets",
           "summary": "暂无摘要",
-          "source": "minimaxir",
-          "url": "https://www.reddit.com/r/Games/comments/1xcr1au/thoughts_on_ai_in_game_development_from_the/",
-          "time": "2026-10-22"
+          "source": "mikelgan",
+          "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+          "time": "2026-10-23"
         },
         {
-          "title": "US banks are blocking third-party AI agents access to customer accounts",
+          "title": "AI Just Raised the Stakes on Continuous Delivery",
           "summary": "暂无摘要",
-          "source": "champagnepapi",
-          "url": "https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/",
-          "time": "2026-10-22"
+          "source": "bradoyler",
+          "url": "https://www.bradoyler.com/ai/continuous-delivery-is-a-security-feature/",
+          "time": "2026-10-23"
         },
         {
-          "title": "Public-Interest Information in an AI-Intermediated Age",
+          "title": "Show HN: AiSniff, underline the phrases in a text that read like AI wrote them",
           "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.journalismfutures.org/three-layer-cake",
-          "time": "2026-10-22"
+          "source": "levi74108520963",
+          "url": "https://github.com/Arthur031221/AiSniff",
+          "time": "2026-10-23"
         },
         {
-          "title": "Show HN: AI Prompt Chain Builder – offline multi-step prompt workflows",
+          "title": "AI is devastating higher education, but the system was broken",
+          "summary": "暂无摘要",
+          "source": "pseudolus",
+          "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "Show HN: AI Detector that is private, free and unlimited use",
+          "summary": "暂无摘要",
+          "source": "mrkn1",
+          "url": "https://kouh.me/ai-text-detector",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "AI gets about 10x cheaper every year",
+          "summary": "暂无摘要",
+          "source": "stevekrouse",
+          "url": "https://stevekrouse.com/10x",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "Please Don't Let an AI Bot Log into Your Bank Account",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "The Reason AI Can't Take Your Job [video]",
+          "summary": "暂无摘要",
+          "source": "lroe",
+          "url": "https://www.youtube.com/watch?v=1-NXfnVeDfw",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "What are some free AI education platforms to learn AI? [video]",
+          "summary": "暂无摘要",
+          "source": "aicc",
+          "url": "https://www.youtube.com/watch?v=4iTqvHrzzAw",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "Kimi K3.1 Pro puts open-source AI a month behind the best",
+          "summary": "暂无摘要",
+          "source": "rakannimer",
+          "url": "https://www.modelcompare.ai/blog/china-open-source-ai",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "AI Coding Agent Security Benchmark",
+          "summary": "暂无摘要",
+          "source": "espeed",
+          "url": "https://www.endorlabs.com/research/ai-code-security-benchmark",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "The \"AI-Last\" Methodology",
+          "summary": "暂无摘要",
+          "source": "tholford",
+          "url": "https://blog.wispem-wantex.xyz/posts/the-ai-last-methodology/",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "Show HN: Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm",
+          "summary": "暂无摘要",
+          "source": "romeo-lefter",
+          "url": "https://github.com/rla-labs/argus",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+          "summary": "暂无摘要",
+          "source": "njx",
+          "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
+          "summary": "暂无摘要",
+          "source": "DmitryDolgopolo",
+          "url": "https://useinstantsearch.com/",
+          "time": "2026-10-23"
+        },
+        {
+          "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
           "summary": "暂无摘要",
           "source": "theaioperator",
-          "url": "https://theaioperatorstore.gumroad.com/l/kjxamb",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "1Password adds browser login feature for AI agents",
-          "summary": "暂无摘要",
-          "source": "walski",
-          "url": "https://1password.com/personal-ai-agent-integrations",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "AI vs. no AI? not much of interest to me",
-          "summary": "暂无摘要",
-          "source": "yuna2k",
-          "url": "https://mvndy.cl/blog/a-sort-of-declaration",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Show HN: AI for Group Chats",
-          "summary": "暂无摘要",
-          "source": "vpj",
-          "url": "https://boba.app",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "SpaceX $40B debt deal gets pricey as AI fears spread",
-          "summary": "暂无摘要",
-          "source": "mfiguiere",
-          "url": "https://www.semafor.com/article/10/22/2026/spacex-40b-debt-deal-will-cost-it-as-ai-fears-spread",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Linus's Law \"given enough eyeballs, all bugs are shallow\"",
-          "summary": "暂无摘要",
-          "source": "chrisjj",
-          "url": "https://news.ycombinator.com/item?id=50200987",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-          "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://microsoft.ai/news/building-medical-superintelligence/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-          "summary": "暂无摘要",
-          "source": "karakoram",
-          "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Show HN: Secure your AI agents on Mac",
-          "summary": "暂无摘要",
-          "source": "frohrer",
-          "url": "https://installplango.com/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Messaging for AI Agents",
-          "summary": "暂无摘要",
-          "source": "juan-23blocks",
-          "url": "https://trycrabmail.com/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on",
-          "summary": "暂无摘要",
-          "source": "rossdavidh",
-          "url": "https://www.businessinsider.com/amazon-nvidia-ai-gpu-data-centers-power-shortages-2026-10",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "New prize launches for books co-written with AI",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Banks Are Struggling to Protect Customers from Their Own AI Agents",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.motherjones.com/politics/2026/10/banks-ai-axios-agents-rogue-financial-decisions-security/",
-          "time": "2026-10-22"
+          "url": "https://theaioperatorstore.gumroad.com/l/womuyx",
+          "time": "2026-10-23"
         },
         {
           "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
