@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-24T22:06:58.913Z",
-  "date": "2026年10月24日 22时6分",
+  "updateTime": "2026-10-25T22:10:13.008Z",
+  "date": "2026年10月25日 22时10分",
   "categories": [
     {
       "id": "tech",
@@ -127,6 +127,13 @@
       "icon": "💼",
       "news": [
         {
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+          "source": "Anthony Ha",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "time": "2026-10-25"
+        },
+        {
           "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
           "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
           "source": "Lauren Forristal",
@@ -138,13 +145,6 @@
           "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
           "source": "Julie Bort",
           "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "DeepSeek reportedly raises $15B days after US restrictions",
-          "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-          "source": "Kate Park",
-          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
           "time": "2026-10-22"
         },
         {
@@ -174,146 +174,6 @@
           "source": "Matt Burgess, Lily Hay Newman",
           "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
           "time": "2026-10-21"
-        },
-        {
-          "title": "How to Start a Startup Game",
-          "summary": "暂无摘要",
-          "source": "FDX2018",
-          "url": "https://www.neuroplusgbrain.net/",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "OpenAI says it will no longer train its AI models on the live internet",
-          "summary": "暂无摘要",
-          "source": "colinprince",
-          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Ask HN: Any real cases where AI slop ruined a codebase and forced a rewrite?",
-          "summary": "暂无摘要",
-          "source": "hukuuu",
-          "url": "https://news.ycombinator.com/item?id=50225469",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Making My Blog Readable by AI Agents",
-          "summary": "暂无摘要",
-          "source": "ingve",
-          "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Sevenbox, find what an AI agent's wrong decision affected",
-          "summary": "暂无摘要",
-          "source": "ObeeAI",
-          "url": "https://github.com/sevenboxlabs/sevenbox",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "How AI is transforming economic research and analysis",
-          "summary": "暂无摘要",
-          "source": "TMWNN",
-          "url": "https://www.axios.com/2026/10/23/ai-economic-research-analysis",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Which AI in UX or HCI conference is in your radar for 2027?",
-          "summary": "暂无摘要",
-          "source": "uxness",
-          "url": "https://www.uxness.in/2026/08/top-ux-conferences-to-attend-in-2027.html",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Decompiling Games with AI: Virtueel Zoetermeer",
-          "summary": "暂无摘要",
-          "source": "bouk",
-          "url": "https://bou.ke/blog/zoetermeer/",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "An explosion of AI-powered hacks will reshape life online",
-          "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.theatlantic.com/technology/2026/10/the-safe-internet-is-shrinking/689130/",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "AI agents, in separate VMs without network, communicated through the CPU cache",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://twitter.com/rynorhn/status/2113757656498196605",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Will AI stop us getting ripped off?",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.optimallyirrational.com/p/will-ai-stop-us-getting-ripped-off",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "No Signs of AI Payoff Outside the Tech Sector",
-          "summary": "暂无摘要",
-          "source": "the-mitr",
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
-          "summary": "暂无摘要",
-          "source": "ghoshbinayak",
-          "url": "https://github.com/swrdfish/narro",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Who Pays for AI Data Centers?",
-          "summary": "暂无摘要",
-          "source": "Betelbuddy",
-          "url": "https://www.youtube.com/watch?v=NyOeLB0WVNE",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Poldi – Local offline AI assistant/\"companion\" for the GPU poor",
-          "summary": "暂无摘要",
-          "source": "RhinoDevel",
-          "url": "https://github.com/RhinoDevel/poldi",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "AI: EU Member States approve \"digital expropriation\" for AI companies",
-          "summary": "暂无摘要",
-          "source": "h1x",
-          "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Chess Arena – Minimal chess vs. Hard AI (vanilla JavaScript, no login)",
-          "summary": "暂无摘要",
-          "source": "Roniad",
-          "url": "https://playgama.ai/play/xl6duef7p3",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "What if you could have AI applied to your brain?",
-          "summary": "暂无摘要",
-          "source": "whiteangel1984",
-          "url": "https://news.ycombinator.com/item?id=50223726",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "What would be effective ways to market our SaaS application",
-          "summary": "暂无摘要",
-          "source": "elfingman",
-          "url": "https://statusentry.com/",
-          "time": "2026-10-24"
         }
       ]
     },
@@ -524,146 +384,6 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
-        },
-        {
-          "title": "OpenAI says it will no longer train its AI models on the live internet",
-          "summary": "暂无摘要",
-          "source": "colinprince",
-          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Ask HN: Any real cases where AI slop ruined a codebase and forced a rewrite?",
-          "summary": "暂无摘要",
-          "source": "hukuuu",
-          "url": "https://news.ycombinator.com/item?id=50225469",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Making My Blog Readable by AI Agents",
-          "summary": "暂无摘要",
-          "source": "ingve",
-          "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Sevenbox, find what an AI agent's wrong decision affected",
-          "summary": "暂无摘要",
-          "source": "ObeeAI",
-          "url": "https://github.com/sevenboxlabs/sevenbox",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "How AI is transforming economic research and analysis",
-          "summary": "暂无摘要",
-          "source": "TMWNN",
-          "url": "https://www.axios.com/2026/10/23/ai-economic-research-analysis",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Which AI in UX or HCI conference is in your radar for 2027?",
-          "summary": "暂无摘要",
-          "source": "uxness",
-          "url": "https://www.uxness.in/2026/08/top-ux-conferences-to-attend-in-2027.html",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Decompiling Games with AI: Virtueel Zoetermeer",
-          "summary": "暂无摘要",
-          "source": "bouk",
-          "url": "https://bou.ke/blog/zoetermeer/",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "An explosion of AI-powered hacks will reshape life online",
-          "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.theatlantic.com/technology/2026/10/the-safe-internet-is-shrinking/689130/",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "AI agents, in separate VMs without network, communicated through the CPU cache",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://twitter.com/rynorhn/status/2113757656498196605",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Will AI stop us getting ripped off?",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.optimallyirrational.com/p/will-ai-stop-us-getting-ripped-off",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "No Signs of AI Payoff Outside the Tech Sector",
-          "summary": "暂无摘要",
-          "source": "the-mitr",
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
-          "summary": "暂无摘要",
-          "source": "ghoshbinayak",
-          "url": "https://github.com/swrdfish/narro",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Who Pays for AI Data Centers?",
-          "summary": "暂无摘要",
-          "source": "Betelbuddy",
-          "url": "https://www.youtube.com/watch?v=NyOeLB0WVNE",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Poldi – Local offline AI assistant/\"companion\" for the GPU poor",
-          "summary": "暂无摘要",
-          "source": "RhinoDevel",
-          "url": "https://github.com/RhinoDevel/poldi",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "AI: EU Member States approve \"digital expropriation\" for AI companies",
-          "summary": "暂无摘要",
-          "source": "h1x",
-          "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Danish Government silently drops plan to dump MS Office",
-          "summary": "暂无摘要",
-          "source": "lowkeyokay",
-          "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "Chess Arena – Minimal chess vs. Hard AI (vanilla JavaScript, no login)",
-          "summary": "暂无摘要",
-          "source": "Roniad",
-          "url": "https://playgama.ai/play/xl6duef7p3",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "What if you could have AI applied to your brain?",
-          "summary": "暂无摘要",
-          "source": "whiteangel1984",
-          "url": "https://news.ycombinator.com/item?id=50223726",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "The AI Trade Is Shifting from Chip Stocks to Cybersecurity",
-          "summary": "暂无摘要",
-          "source": "m348e912",
-          "url": "https://www.barrons.com/articles/ai-chip-stocks-cybersecurity-crowdstrike-palo-alto-056aaea8",
-          "time": "2026-10-24"
         },
         {
           "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
