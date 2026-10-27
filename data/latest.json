@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-26T23:27:51.760Z",
-  "date": "2026年10月26日 23时27分",
+  "updateTime": "2026-10-27T23:21:08.006Z",
+  "date": "2026年10月27日 23时21分",
   "categories": [
     {
       "id": "tech",
@@ -8,148 +8,8 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Show HN: A directory for AI-slop games",
-          "summary": "暂无摘要",
-          "source": "thatxliner",
-          "url": "https://claudeslop.bryanhu.com",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Show HN: Hugonot – Sponsor a Dedicated AI Blogger",
-          "summary": "暂无摘要",
-          "source": "jenthoven",
-          "url": "https://www.hugonot.com/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
-          "summary": "暂无摘要",
-          "source": "codercatdev",
-          "url": "https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-          "summary": "暂无摘要",
-          "source": "jacquesm",
-          "url": "https://maccus.fr/en/ai-models-hide-capabilities-oxford/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "US political candidates tailor messages for AI models used by voters",
-          "summary": "暂无摘要",
-          "source": "1659447091",
-          "url": "https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "What is bigger than AI?",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.exponentialview.co/p/what-is-bigger-than-ai",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The Paradox of Contemporary AI: Engineering Success and Institutional Failure",
-          "summary": "暂无摘要",
-          "source": "Daniel_Van_Zant",
-          "url": "https://3quarksdaily.com/3quarksdaily/2026/03/the-paradox-of-contemporary-ai-engineering-success-and-institutional-failure.html",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The Goose Programming Language",
-          "summary": "暂无摘要",
-          "source": "bpierre",
-          "url": "https://github.com/aardappel/goose",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-          "summary": "暂无摘要",
-          "source": "wondersky",
-          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
-          "summary": "暂无摘要",
-          "source": "nedsma",
-          "url": "https://codingplans.dev/briefs/us-model-labs-part-1/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Wall St banksline up $63B to finance Broadcom AI chips for Anthropic",
-          "summary": "暂无摘要",
-          "source": "tartoran",
-          "url": "https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Police Pulling People over Because AI Deems Their Driving Patterns \"Suspicious\"",
-          "summary": "暂无摘要",
-          "source": "voxadam",
-          "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "You can hack your TVs and gadgets with AI for free now – but should you?",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://www.zdnet.com/innovation/ai-reverse-engineering-old-gadgets-smart-tvs/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Analysis – In China, the AI bubble has burst",
-          "summary": "暂无摘要",
-          "source": "PLenz",
-          "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "What we learned from 250k public workers about AI adoption",
-          "summary": "暂无摘要",
-          "source": "postalex",
-          "url": "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "AI models cost more when you don't use English",
-          "summary": "暂无摘要",
-          "source": "postalex",
-          "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Learning to Ride Your Brain",
-          "summary": "暂无摘要",
-          "source": "jger15",
-          "url": "https://contraptions.venkateshrao.com/p/on-learning-to-ride-your-brain",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Rules of relevance: Carlyle's new paper on AI and markets",
-          "summary": "暂无摘要",
-          "source": "rafaelc",
-          "url": "https://www.carlyle.com/global-insights/research/rules-of-relevance",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The Insane Real Engineering of the Nazi Enigma Machine [video]",
-          "summary": "暂无摘要",
-          "source": "vinnyglennon",
-          "url": "https://www.youtube.com/watch?v=JsBZOcqZerk",
-          "time": "2026-10-26"
-        },
-        {
           "title": "Will the real Anthropic please stand up",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its I",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed ",
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
           "time": "2026-10-26"
@@ -251,146 +111,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
           "time": "2026-09-09"
-        },
-        {
-          "title": "Markdown files now work natively across Google Drive and Docs",
-          "summary": "暂无摘要",
-          "source": "arbayi",
-          "url": "https://twitter.com/ChanduThota/status/2107195115441946850",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Show HN: A directory for AI-slop games",
-          "summary": "暂无摘要",
-          "source": "thatxliner",
-          "url": "https://claudeslop.bryanhu.com",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Show HN: Hugonot – Sponsor a Dedicated AI Blogger",
-          "summary": "暂无摘要",
-          "source": "jenthoven",
-          "url": "https://www.hugonot.com/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
-          "summary": "暂无摘要",
-          "source": "codercatdev",
-          "url": "https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Anthropic: Strengthening our defenses against distillation attacks",
-          "summary": "暂无摘要",
-          "source": "wfme",
-          "url": "https://www.anthropic.com/news/distillation-defenses",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-          "summary": "暂无摘要",
-          "source": "jacquesm",
-          "url": "https://maccus.fr/en/ai-models-hide-capabilities-oxford/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "US political candidates tailor messages for AI models used by voters",
-          "summary": "暂无摘要",
-          "source": "1659447091",
-          "url": "https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "What is bigger than AI?",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.exponentialview.co/p/what-is-bigger-than-ai",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Ask HN: Why Is Anthropic's Customer Support Bad?",
-          "summary": "暂无摘要",
-          "source": "tj-teej",
-          "url": "https://news.ycombinator.com/item?id=50252272",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The Paradox of Contemporary AI: Engineering Success and Institutional Failure",
-          "summary": "暂无摘要",
-          "source": "Daniel_Van_Zant",
-          "url": "https://3quarksdaily.com/3quarksdaily/2026/03/the-paradox-of-contemporary-ai-engineering-success-and-institutional-failure.html",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-          "summary": "暂无摘要",
-          "source": "wondersky",
-          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Rhode Island sues Meta over alleged profits from scam ads",
-          "summary": "暂无摘要",
-          "source": "chmaynard",
-          "url": "https://rhodeislandcurrent.com/2026/10/26/rhode-island-is-first-state-to-sue-meta-over-alleged-profits-from-scam-ads/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Anthropic Is the Most Ridiculous IPO of 2026 [pdf]",
-          "summary": "暂无摘要",
-          "source": "simonebrunozzi",
-          "url": "https://www.newconstructs.com/wp-content/uploads/2026/10/Anthropic-Is-The-Most-Ridiculous-IPO-of-2026.pdf",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
-          "summary": "暂无摘要",
-          "source": "nedsma",
-          "url": "https://codingplans.dev/briefs/us-model-labs-part-1/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Wall St banksline up $63B to finance Broadcom AI chips for Anthropic",
-          "summary": "暂无摘要",
-          "source": "tartoran",
-          "url": "https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Police Pulling People over Because AI Deems Their Driving Patterns \"Suspicious\"",
-          "summary": "暂无摘要",
-          "source": "voxadam",
-          "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "You can hack your TVs and gadgets with AI for free now – but should you?",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://www.zdnet.com/innovation/ai-reverse-engineering-old-gadgets-smart-tvs/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Analysis – In China, the AI bubble has burst",
-          "summary": "暂无摘要",
-          "source": "PLenz",
-          "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "OpenAI's agents talked to each other through the CPU Cache",
-          "summary": "暂无摘要",
-          "source": "limbicsystem",
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-          "time": "2026-10-26"
         }
       ]
     },
@@ -399,6 +119,48 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
+          "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+          "time": "2026-10-27"
+        },
+        {
+          "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+          "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+          "source": "Dominic-Madori Davis",
+          "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+          "time": "2026-10-27"
+        },
+        {
+          "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+          "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+          "time": "2026-10-27"
+        },
+        {
+          "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+          "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+          "time": "2026-10-27"
+        },
+        {
+          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+          "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+          "time": "2026-10-27"
+        },
+        {
+          "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+          "summary": "暂无摘要",
+          "source": "Aditya Mehta",
+          "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+          "time": "2026-10-27"
+        },
         {
           "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
           "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise cust",
@@ -428,18 +190,11 @@
           "time": "2026-10-25"
         },
         {
-          "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-          "source": "Lauren Forristal",
-          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-          "time": "2026-10-24"
-        },
-        {
-          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-          "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-          "time": "2026-10-22"
+          "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+          "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big disc",
+          "source": "Emily Mullin",
+          "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+          "time": "2026-10-27"
         },
         {
           "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
@@ -454,153 +209,6 @@
           "source": "Joel Khalili, Kate Taylor",
           "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
           "time": "2026-10-26"
-        },
-        {
-          "title": "The Social Society Helping Women Join the AI Boom",
-          "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-          "source": "Zoë Schiffer",
-          "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
-          "time": "2026-10-22"
-        },
-        {
-          "title": "Show HN: A directory for AI-slop games",
-          "summary": "暂无摘要",
-          "source": "thatxliner",
-          "url": "https://claudeslop.bryanhu.com",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Show HN: Hugonot – Sponsor a Dedicated AI Blogger",
-          "summary": "暂无摘要",
-          "source": "jenthoven",
-          "url": "https://www.hugonot.com/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
-          "summary": "暂无摘要",
-          "source": "codercatdev",
-          "url": "https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-          "summary": "暂无摘要",
-          "source": "jacquesm",
-          "url": "https://maccus.fr/en/ai-models-hide-capabilities-oxford/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "US political candidates tailor messages for AI models used by voters",
-          "summary": "暂无摘要",
-          "source": "1659447091",
-          "url": "https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "What is bigger than AI?",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.exponentialview.co/p/what-is-bigger-than-ai",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The Paradox of Contemporary AI: Engineering Success and Institutional Failure",
-          "summary": "暂无摘要",
-          "source": "Daniel_Van_Zant",
-          "url": "https://3quarksdaily.com/3quarksdaily/2026/03/the-paradox-of-contemporary-ai-engineering-success-and-institutional-failure.html",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-          "summary": "暂无摘要",
-          "source": "wondersky",
-          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
-          "summary": "暂无摘要",
-          "source": "nedsma",
-          "url": "https://codingplans.dev/briefs/us-model-labs-part-1/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Wall St banksline up $63B to finance Broadcom AI chips for Anthropic",
-          "summary": "暂无摘要",
-          "source": "tartoran",
-          "url": "https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Police Pulling People over Because AI Deems Their Driving Patterns \"Suspicious\"",
-          "summary": "暂无摘要",
-          "source": "voxadam",
-          "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "You can hack your TVs and gadgets with AI for free now – but should you?",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://www.zdnet.com/innovation/ai-reverse-engineering-old-gadgets-smart-tvs/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Analysis – In China, the AI bubble has burst",
-          "summary": "暂无摘要",
-          "source": "PLenz",
-          "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "What we learned from 250k public workers about AI adoption",
-          "summary": "暂无摘要",
-          "source": "postalex",
-          "url": "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "AI models cost more when you don't use English",
-          "summary": "暂无摘要",
-          "source": "postalex",
-          "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Show HN: Play ten years of stock picking in an evening, on a simulated market",
-          "summary": "暂无摘要",
-          "source": "whatever_works",
-          "url": "https://stockpickersgame.com",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Rules of relevance: Carlyle's new paper on AI and markets",
-          "summary": "暂无摘要",
-          "source": "rafaelc",
-          "url": "https://www.carlyle.com/global-insights/research/rules-of-relevance",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "DealVector AI – Tracking True Days on Market and Price Cuts in Canada",
-          "summary": "暂无摘要",
-          "source": "davmuldoon_ai",
-          "url": "https://dealvectorai.com",
-          "time": "2026-10-26"
         }
       ]
     },
@@ -611,7 +219,7 @@
       "news": [
         {
           "title": "Will the real Anthropic please stand up",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its I",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed ",
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
           "time": "2026-10-26"
@@ -643,13 +251,6 @@
           "source": "TripleTen",
           "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
           "time": "2026-10-20"
-        },
-        {
-          "title": "Making the internet better for AI agents might make it worse for everyone else",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just",
-          "source": "James O'Donnell",
-          "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-          "time": "2026-10-19"
         }
       ]
     },
@@ -820,144 +421,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Show HN: A directory for AI-slop games",
-          "summary": "暂无摘要",
-          "source": "thatxliner",
-          "url": "https://claudeslop.bryanhu.com",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Show HN: Hugonot – Sponsor a Dedicated AI Blogger",
-          "summary": "暂无摘要",
-          "source": "jenthoven",
-          "url": "https://www.hugonot.com/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
-          "summary": "暂无摘要",
-          "source": "codercatdev",
-          "url": "https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-          "summary": "暂无摘要",
-          "source": "jacquesm",
-          "url": "https://maccus.fr/en/ai-models-hide-capabilities-oxford/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "US political candidates tailor messages for AI models used by voters",
-          "summary": "暂无摘要",
-          "source": "1659447091",
-          "url": "https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "What is bigger than AI?",
-          "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://www.exponentialview.co/p/what-is-bigger-than-ai",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The Paradox of Contemporary AI: Engineering Success and Institutional Failure",
-          "summary": "暂无摘要",
-          "source": "Daniel_Van_Zant",
-          "url": "https://3quarksdaily.com/3quarksdaily/2026/03/the-paradox-of-contemporary-ai-engineering-success-and-institutional-failure.html",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-          "summary": "暂无摘要",
-          "source": "wondersky",
-          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
-          "summary": "暂无摘要",
-          "source": "nedsma",
-          "url": "https://codingplans.dev/briefs/us-model-labs-part-1/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Wall St banksline up $63B to finance Broadcom AI chips for Anthropic",
-          "summary": "暂无摘要",
-          "source": "tartoran",
-          "url": "https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Police Pulling People over Because AI Deems Their Driving Patterns \"Suspicious\"",
-          "summary": "暂无摘要",
-          "source": "voxadam",
-          "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "You can hack your TVs and gadgets with AI for free now – but should you?",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://www.zdnet.com/innovation/ai-reverse-engineering-old-gadgets-smart-tvs/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Analysis – In China, the AI bubble has burst",
-          "summary": "暂无摘要",
-          "source": "PLenz",
-          "url": "https://www.msn.com/en-us/money/general/analysis-in-china-the-ai-bubble-has-already-burst/ar-AA2g68nN",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "What we learned from 250k public workers about AI adoption",
-          "summary": "暂无摘要",
-          "source": "postalex",
-          "url": "https://www.fastcompany.com/91628634/how-the-public-sector-is-using-ai",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "AI models cost more when you don't use English",
-          "summary": "暂无摘要",
-          "source": "postalex",
-          "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Rules of relevance: Carlyle's new paper on AI and markets",
-          "summary": "暂无摘要",
-          "source": "rafaelc",
-          "url": "https://www.carlyle.com/global-insights/research/rules-of-relevance",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
-          "summary": "暂无摘要",
-          "source": "CrankyBear",
-          "url": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "DealVector AI – Tracking True Days on Market and Price Cuts in Canada",
-          "summary": "暂无摘要",
-          "source": "davmuldoon_ai",
-          "url": "https://dealvectorai.com",
-          "time": "2026-10-26"
-        },
-        {
-          "title": "The Shrugflation Triangle: How AI, Oil, and Treasuries Are Impacting the Economy",
-          "summary": "暂无摘要",
-          "source": "rafaelc",
-          "url": "https://kyla.substack.com/p/the-shrugflation-triangle-how-ai",
-          "time": "2026-10-26"
+          "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+          "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+          "source": "Isabella Ward",
+          "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+          "time": "2026-10-27"
         }
       ]
     }
