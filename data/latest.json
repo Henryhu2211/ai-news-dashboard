@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-10-31T22:55:51.020Z",
-  "date": "2026年10月31日 22时55分",
+  "updateTime": "2026-11-01T23:13:41.293Z",
+  "date": "2026年11月1日 23时13分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+          "title": "Stackless Python is an enhanced version of the Python programming language",
           "summary": "暂无摘要",
-          "source": "pjmlp",
-          "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/",
-          "time": "2026-10-31"
+          "source": "Bluestein",
+          "url": "https://github.com/stackless-dev/stackless/wiki/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Proton senior management prioritizes AI over security",
+          "title": "Empires of AI – By Eric Schmidt and Niall Ferguson",
           "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
-          "time": "2026-10-31"
+          "source": "ksajadi",
+          "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+          "time": "2026-11-01"
         },
         {
-          "title": "AI text watermarking and quality loss",
+          "title": "An AI runs a tiny web studio with a year to earn its existence",
           "summary": "暂无摘要",
-          "source": "danielfoster",
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "time": "2026-10-31"
+          "source": "FreeFlinstones",
+          "url": "https://brasspage.com/alive/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Will AI take your job? You have more agency than you think",
+          "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
           "summary": "暂无摘要",
-          "source": "Anon84",
-          "url": "https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence",
-          "time": "2026-10-31"
+          "source": "rajveerb",
+          "url": "https://avartha.ai/blog/introducing-avartha/",
+          "time": "2026-11-01"
         },
         {
-          "title": "The Loudest Stories Were Missing from the Map: Learning Topics on Hacker News",
+          "title": "OpenEaNasir: Public-domain machine translations of the famous copper complaint",
           "summary": "暂无摘要",
-          "source": "splimeproject",
-          "url": "https://medium.com/@yastrebovks/the-loudest-stories-were-missing-from-the-map-learning-topics-on-hacker-news-f2b10a3255c9",
-          "time": "2026-10-31"
+          "source": "firasd",
+          "url": "https://github.com/firasd/scrapbook/tree/main/2026_V/openeanasir",
+          "time": "2026-11-01"
         },
         {
-          "title": "People are the hard part of AI",
+          "title": "Hackers could poison AI models by tampering with core infrastructure",
           "summary": "暂无摘要",
-          "source": "drewlem",
-          "url": "https://keithbrown.com/proton-ai-manifesto",
-          "time": "2026-10-31"
+          "source": "gmays",
+          "url": "https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Free AI",
+          "title": "Watch any video in your language",
           "summary": "暂无摘要",
-          "source": "Armsn",
-          "url": "https://cloudy.chat/",
-          "time": "2026-10-31"
+          "source": "jaekwon",
+          "url": "https://sugar.video/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Reddit shares plunge as Google's AI search squeezes traffic",
+          "title": "Argentina most exposed to AI impact in Latin America",
           "summary": "暂无摘要",
-          "source": "randycupertino",
-          "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
-          "time": "2026-10-31"
+          "source": "wslh",
+          "url": "https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds",
+          "time": "2026-11-01"
         },
         {
-          "title": "Toit. Language for ESP32",
+          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
           "summary": "暂无摘要",
-          "source": "wiradikusuma",
-          "url": "https://toit.io/",
-          "time": "2026-10-31"
+          "source": "throwoutway",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Show HN: Read your Character.AI data export in the browser, nothing uploaded",
+          "title": "Proton's AI manifesto for software engineering",
           "summary": "暂无摘要",
-          "source": "Amavie",
-          "url": "https://github.com/anima-universe/character-ai-export-viewer",
-          "time": "2026-10-31"
+          "source": "jonbaer",
+          "url": "https://proton.me/blog/ai-manifesto",
+          "time": "2026-11-01"
         },
         {
-          "title": "Anthropic blocks users for anything touching training larger models",
+          "title": "PrayForMe – a garden of AI agents that pray for you",
           "summary": "暂无摘要",
-          "source": "pretext",
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "time": "2026-10-31"
+          "source": "digitalresearch",
+          "url": "https://prayforme.garden/garden/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
+          "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
+          "summary": "暂无摘要",
+          "source": "richardmeng",
+          "url": "https://www.anonce.io/",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
+          "summary": "暂无摘要",
+          "source": "kilasec",
+          "url": "https://kilasec.com",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Early Career Researcher Responses to AI in Math",
+          "summary": "暂无摘要",
+          "source": "joshbuddy",
+          "url": "https://arxiv.org/abs/2610.40584",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Commodore 64 AI Image Generator",
+          "summary": "暂无摘要",
+          "source": "watercooler_guy",
+          "url": "https://hackaday.io/project/195819-commodore-64-ai-image-generator",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "About Platform Engineering and AI",
+          "summary": "暂无摘要",
+          "source": "eminetto",
+          "url": "https://eltonminetto.dev/en/post/2026-10-04-platform-engineering-p5/",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Gnosh.ai for \"Functional AI\"; functional context management, no compaction",
+          "summary": "暂无摘要",
+          "source": "jaekwon",
+          "url": "https://gnosh.ai/head-to-head.html",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Turn Superlogical's Rex into an AI Harness",
+          "summary": "暂无摘要",
+          "source": "alpcan",
+          "url": "https://github.com/alpcanaydin/rexmod/",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Are There Problems Beyond the Reach of AI [video]",
+          "summary": "暂无摘要",
+          "source": "efavdb",
+          "url": "https://www.youtube.com/watch?v=NWNbAEivyvs",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Show HN: Castov – A local-first desktop automation engine using local AI",
           "summary": "暂无摘要",
           "source": "castov",
           "url": "https://castov.com",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Cisco gives engineer unlimited AI tokens to rewrite company's legacy code",
-          "summary": "暂无摘要",
-          "source": "runwithdata",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Inference engine in game scripting language using macros",
-          "summary": "暂无摘要",
-          "source": "BorisTheOptimiz",
-          "url": "https://dasllama.io/articles/2026-10-28-the-need-for-speed.html",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "The Limits of AI as an Economic Weapon",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Ask HN: Has Google started cleaning their search results from AI slop?",
-          "summary": "暂无摘要",
-          "source": "gosen",
-          "url": "https://news.ycombinator.com/item?id=50318869",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Google's AI satellite sends a expensive haiku to Earth",
-          "summary": "暂无摘要",
-          "source": "saikatsg",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Software is Eating AI (2017)",
-          "summary": "暂无摘要",
-          "source": "jruohonen",
-          "url": "https://hyperparameter.space/blog/software-is-eating-ai/",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
-          "summary": "暂无摘要",
-          "source": "rifmj",
-          "url": "https://www.arxo.io/findings/ARXO-2026-0413/",
-          "time": "2026-10-31"
+          "time": "2026-11-01"
         },
         {
           "title": "We urgently need to monitor AI agents’ actions in real time",
@@ -260,144 +260,144 @@
           "time": "2026-09-09"
         },
         {
-          "title": "Anthropic pushes for opt-out model for Australian content",
+          "title": "Empires of AI – By Eric Schmidt and Niall Ferguson",
           "summary": "暂无摘要",
-          "source": "cisc",
-          "url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
-          "time": "2026-10-31"
+          "source": "ksajadi",
+          "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+          "time": "2026-11-01"
         },
         {
-          "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+          "title": "An AI runs a tiny web studio with a year to earn its existence",
           "summary": "暂无摘要",
-          "source": "pjmlp",
-          "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/",
-          "time": "2026-10-31"
+          "source": "FreeFlinstones",
+          "url": "https://brasspage.com/alive/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Proton senior management prioritizes AI over security",
+          "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
           "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
-          "time": "2026-10-31"
+          "source": "rajveerb",
+          "url": "https://avartha.ai/blog/introducing-avartha/",
+          "time": "2026-11-01"
         },
         {
-          "title": "\"Very Intentional\": Steve Eisman Thinks Anthropic Is Hiding Something",
+          "title": "Hackers could poison AI models by tampering with core infrastructure",
           "summary": "暂无摘要",
-          "source": "gradus_ad",
-          "url": "https://quoththeraven.substack.com/p/very-intentional-steve-eisman-thinks",
-          "time": "2026-10-31"
+          "source": "gmays",
+          "url": "https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177/",
+          "time": "2026-11-01"
         },
         {
-          "title": "AI text watermarking and quality loss",
+          "title": "Argentina most exposed to AI impact in Latin America",
           "summary": "暂无摘要",
-          "source": "danielfoster",
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "time": "2026-10-31"
+          "source": "wslh",
+          "url": "https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds",
+          "time": "2026-11-01"
         },
         {
-          "title": "Will AI take your job? You have more agency than you think",
+          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
           "summary": "暂无摘要",
-          "source": "Anon84",
-          "url": "https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence",
-          "time": "2026-10-31"
+          "source": "throwoutway",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+          "title": "Proton's AI manifesto for software engineering",
           "summary": "暂无摘要",
-          "source": "firesteelrain",
-          "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-          "time": "2026-10-31"
+          "source": "jonbaer",
+          "url": "https://proton.me/blog/ai-manifesto",
+          "time": "2026-11-01"
         },
         {
-          "title": "People are the hard part of AI",
+          "title": "PrayForMe – a garden of AI agents that pray for you",
           "summary": "暂无摘要",
-          "source": "drewlem",
-          "url": "https://keithbrown.com/proton-ai-manifesto",
-          "time": "2026-10-31"
+          "source": "digitalresearch",
+          "url": "https://prayforme.garden/garden/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Free AI",
+          "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
           "summary": "暂无摘要",
-          "source": "Armsn",
-          "url": "https://cloudy.chat/",
-          "time": "2026-10-31"
+          "source": "richardmeng",
+          "url": "https://www.anonce.io/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Reddit shares plunge as Google's AI search squeezes traffic",
+          "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
           "summary": "暂无摘要",
-          "source": "randycupertino",
-          "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
-          "time": "2026-10-31"
+          "source": "kilasec",
+          "url": "https://kilasec.com",
+          "time": "2026-11-01"
         },
         {
-          "title": "What Anthropic’s IPO Filing Actually Says",
+          "title": "Early Career Researcher Responses to AI in Math",
           "summary": "暂无摘要",
-          "source": "Betelbuddy",
-          "url": "https://www.youtube.com/watch?v=Ic1Jf7VlXRM",
-          "time": "2026-10-31"
+          "source": "joshbuddy",
+          "url": "https://arxiv.org/abs/2610.40584",
+          "time": "2026-11-01"
         },
         {
-          "title": "IdentityHub – Add Google, Dropbox, and email login to your SaaS in 5 minutes",
+          "title": "Commodore 64 AI Image Generator",
           "summary": "暂无摘要",
-          "source": "wildreallywon",
-          "url": "https://www.identityhub.tech",
-          "time": "2026-10-31"
+          "source": "watercooler_guy",
+          "url": "https://hackaday.io/project/195819-commodore-64-ai-image-generator",
+          "time": "2026-11-01"
         },
         {
-          "title": "Show HN: Read your Character.AI data export in the browser, nothing uploaded",
+          "title": "About Platform Engineering and AI",
           "summary": "暂无摘要",
-          "source": "Amavie",
-          "url": "https://github.com/anima-universe/character-ai-export-viewer",
-          "time": "2026-10-31"
+          "source": "eminetto",
+          "url": "https://eltonminetto.dev/en/post/2026-10-04-platform-engineering-p5/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Anthropic: Scaling Misuse Detection with Self-Assessment of Chats",
+          "title": "Gnosh.ai for \"Functional AI\"; functional context management, no compaction",
           "summary": "暂无摘要",
-          "source": "cft",
-          "url": "https://twitter.com/AnthropicAI/status/2115871889549865429",
-          "time": "2026-10-31"
+          "source": "jaekwon",
+          "url": "https://gnosh.ai/head-to-head.html",
+          "time": "2026-11-01"
         },
         {
-          "title": "Anthropic blocks users for anything touching training larger models",
+          "title": "Show HN: Epochnbd – Crash-Consistent Linux NBD Block Device on GCS/Google Drive",
           "summary": "暂无摘要",
-          "source": "pretext",
-          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-          "time": "2026-10-31"
+          "source": "c789a123",
+          "url": "https://github.com/c789a123/epochnbd",
+          "time": "2026-11-01"
         },
         {
-          "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
+          "title": "Turn Superlogical's Rex into an AI Harness",
+          "summary": "暂无摘要",
+          "source": "alpcan",
+          "url": "https://github.com/alpcanaydin/rexmod/",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Are There Problems Beyond the Reach of AI [video]",
+          "summary": "暂无摘要",
+          "source": "efavdb",
+          "url": "https://www.youtube.com/watch?v=NWNbAEivyvs",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Show HN: Castov – A local-first desktop automation engine using local AI",
           "summary": "暂无摘要",
           "source": "castov",
           "url": "https://castov.com",
-          "time": "2026-10-31"
+          "time": "2026-11-01"
         },
         {
-          "title": "Cisco gives engineer unlimited AI tokens to rewrite company's legacy code",
+          "title": "Behind the Curtain: OpenAI's post-election power play",
           "summary": "暂无摘要",
-          "source": "runwithdata",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
-          "time": "2026-10-31"
+          "source": "pretext",
+          "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+          "time": "2026-11-01"
         },
         {
-          "title": "The Limits of AI as an Economic Weapon",
+          "title": "Slop Code Monitor – scanned 2.6B of code to quantify AI cognitive debt",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Ask HN: Has Google started cleaning their search results from AI slop?",
-          "summary": "暂无摘要",
-          "source": "gosen",
-          "url": "https://news.ycombinator.com/item?id=50318869",
-          "time": "2026-10-31"
+          "source": "mramilli",
+          "url": "https://slopcodemonitor.ai/",
+          "time": "2026-11-01"
         }
       ]
     },
@@ -470,144 +470,144 @@
           "time": "2026-10-29"
         },
         {
-          "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+          "title": "Empires of AI – By Eric Schmidt and Niall Ferguson",
           "summary": "暂无摘要",
-          "source": "pjmlp",
-          "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/",
-          "time": "2026-10-31"
+          "source": "ksajadi",
+          "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+          "time": "2026-11-01"
         },
         {
-          "title": "Proton senior management prioritizes AI over security",
+          "title": "An AI runs a tiny web studio with a year to earn its existence",
           "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
-          "time": "2026-10-31"
+          "source": "FreeFlinstones",
+          "url": "https://brasspage.com/alive/",
+          "time": "2026-11-01"
         },
         {
-          "title": "AI text watermarking and quality loss",
+          "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
           "summary": "暂无摘要",
-          "source": "danielfoster",
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "time": "2026-10-31"
+          "source": "rajveerb",
+          "url": "https://avartha.ai/blog/introducing-avartha/",
+          "time": "2026-11-01"
         },
         {
-          "title": "I'm building a public goods funding mechanism. Roast my design",
+          "title": "Hackers could poison AI models by tampering with core infrastructure",
           "summary": "暂无摘要",
-          "source": "Bluestein",
-          "url": "https://agentbook2.whf.bz/t/88/i-m-building-a-public-goods-funding-mechanism-roast-my-design",
-          "time": "2026-10-31"
+          "source": "gmays",
+          "url": "https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Will AI take your job? You have more agency than you think",
+          "title": "Argentina most exposed to AI impact in Latin America",
           "summary": "暂无摘要",
-          "source": "Anon84",
-          "url": "https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence",
-          "time": "2026-10-31"
+          "source": "wslh",
+          "url": "https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds",
+          "time": "2026-11-01"
         },
         {
-          "title": "People are the hard part of AI",
+          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
           "summary": "暂无摘要",
-          "source": "drewlem",
-          "url": "https://keithbrown.com/proton-ai-manifesto",
-          "time": "2026-10-31"
+          "source": "throwoutway",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Free AI",
+          "title": "Proton's AI manifesto for software engineering",
           "summary": "暂无摘要",
-          "source": "Armsn",
-          "url": "https://cloudy.chat/",
-          "time": "2026-10-31"
+          "source": "jonbaer",
+          "url": "https://proton.me/blog/ai-manifesto",
+          "time": "2026-11-01"
         },
         {
-          "title": "Reddit shares plunge as Google's AI search squeezes traffic",
+          "title": "PrayForMe – a garden of AI agents that pray for you",
           "summary": "暂无摘要",
-          "source": "randycupertino",
-          "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
-          "time": "2026-10-31"
+          "source": "digitalresearch",
+          "url": "https://prayforme.garden/garden/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Show HN: Read your Character.AI data export in the browser, nothing uploaded",
+          "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
           "summary": "暂无摘要",
-          "source": "Amavie",
-          "url": "https://github.com/anima-universe/character-ai-export-viewer",
-          "time": "2026-10-31"
+          "source": "richardmeng",
+          "url": "https://www.anonce.io/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
+          "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
+          "summary": "暂无摘要",
+          "source": "kilasec",
+          "url": "https://kilasec.com",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Early Career Researcher Responses to AI in Math",
+          "summary": "暂无摘要",
+          "source": "joshbuddy",
+          "url": "https://arxiv.org/abs/2610.40584",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Commodore 64 AI Image Generator",
+          "summary": "暂无摘要",
+          "source": "watercooler_guy",
+          "url": "https://hackaday.io/project/195819-commodore-64-ai-image-generator",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "About Platform Engineering and AI",
+          "summary": "暂无摘要",
+          "source": "eminetto",
+          "url": "https://eltonminetto.dev/en/post/2026-10-04-platform-engineering-p5/",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "StarFloor: Orbital Market Center and Zero-Gravity Colocation",
+          "summary": "暂无摘要",
+          "source": "Yeabu369",
+          "url": "https://starfloor.8tcap.com/",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Gnosh.ai for \"Functional AI\"; functional context management, no compaction",
+          "summary": "暂无摘要",
+          "source": "jaekwon",
+          "url": "https://gnosh.ai/head-to-head.html",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "\"Theranos 2.0\" startup has patents, investors but no product",
+          "summary": "暂无摘要",
+          "source": "gosen",
+          "url": "https://fortune.com/2026/10/25/elizabeth-holmes-partner-billy-evans-haemanthus-blood-testing-startup-theranos/",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Turn Superlogical's Rex into an AI Harness",
+          "summary": "暂无摘要",
+          "source": "alpcan",
+          "url": "https://github.com/alpcanaydin/rexmod/",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Are There Problems Beyond the Reach of AI [video]",
+          "summary": "暂无摘要",
+          "source": "efavdb",
+          "url": "https://www.youtube.com/watch?v=NWNbAEivyvs",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Show HN: Castov – A local-first desktop automation engine using local AI",
           "summary": "暂无摘要",
           "source": "castov",
           "url": "https://castov.com",
-          "time": "2026-10-31"
+          "time": "2026-11-01"
         },
         {
-          "title": "Cisco gives engineer unlimited AI tokens to rewrite company's legacy code",
+          "title": "Slop Code Monitor – scanned 2.6B of code to quantify AI cognitive debt",
           "summary": "暂无摘要",
-          "source": "runwithdata",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "The Limits of AI as an Economic Weapon",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Ask HN: Has Google started cleaning their search results from AI slop?",
-          "summary": "暂无摘要",
-          "source": "gosen",
-          "url": "https://news.ycombinator.com/item?id=50318869",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Google's AI satellite sends a expensive haiku to Earth",
-          "summary": "暂无摘要",
-          "source": "saikatsg",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Software is Eating AI (2017)",
-          "summary": "暂无摘要",
-          "source": "jruohonen",
-          "url": "https://hyperparameter.space/blog/software-is-eating-ai/",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
-          "summary": "暂无摘要",
-          "source": "rifmj",
-          "url": "https://www.arxo.io/findings/ARXO-2026-0413/",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": "暂无摘要",
-          "source": "the-mitr",
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android",
-          "summary": "暂无摘要",
-          "source": "davidingalls",
-          "url": "https://zenodo.org/records/21909447",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Show HN: Publishub. An AI copilot for video creators and editors.",
-          "summary": "暂无摘要",
-          "source": "valmirjunior",
-          "url": "https://www.getpublishub.com",
-          "time": "2026-10-31"
+          "source": "mramilli",
+          "url": "https://slopcodemonitor.ai/",
+          "time": "2026-11-01"
         }
       ]
     },
@@ -820,144 +820,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+          "title": "Empires of AI – By Eric Schmidt and Niall Ferguson",
           "summary": "暂无摘要",
-          "source": "pjmlp",
-          "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/",
-          "time": "2026-10-31"
+          "source": "ksajadi",
+          "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+          "time": "2026-11-01"
         },
         {
-          "title": "Proton senior management prioritizes AI over security",
+          "title": "An AI runs a tiny web studio with a year to earn its existence",
           "summary": "暂无摘要",
-          "source": "DeepLogin",
-          "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
-          "time": "2026-10-31"
+          "source": "FreeFlinstones",
+          "url": "https://brasspage.com/alive/",
+          "time": "2026-11-01"
         },
         {
-          "title": "AI text watermarking and quality loss",
+          "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
           "summary": "暂无摘要",
-          "source": "danielfoster",
-          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-          "time": "2026-10-31"
+          "source": "rajveerb",
+          "url": "https://avartha.ai/blog/introducing-avartha/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Will AI take your job? You have more agency than you think",
+          "title": "Hackers could poison AI models by tampering with core infrastructure",
           "summary": "暂无摘要",
-          "source": "Anon84",
-          "url": "https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence",
-          "time": "2026-10-31"
+          "source": "gmays",
+          "url": "https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177/",
+          "time": "2026-11-01"
         },
         {
-          "title": "People are the hard part of AI",
+          "title": "Argentina most exposed to AI impact in Latin America",
           "summary": "暂无摘要",
-          "source": "drewlem",
-          "url": "https://keithbrown.com/proton-ai-manifesto",
-          "time": "2026-10-31"
+          "source": "wslh",
+          "url": "https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds",
+          "time": "2026-11-01"
         },
         {
-          "title": "Free AI",
+          "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
           "summary": "暂无摘要",
-          "source": "Armsn",
-          "url": "https://cloudy.chat/",
-          "time": "2026-10-31"
+          "source": "throwoutway",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Reddit shares plunge as Google's AI search squeezes traffic",
+          "title": "Proton's AI manifesto for software engineering",
           "summary": "暂无摘要",
-          "source": "randycupertino",
-          "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30/",
-          "time": "2026-10-31"
+          "source": "jonbaer",
+          "url": "https://proton.me/blog/ai-manifesto",
+          "time": "2026-11-01"
         },
         {
-          "title": "Show HN: Read your Character.AI data export in the browser, nothing uploaded",
+          "title": "PrayForMe – a garden of AI agents that pray for you",
           "summary": "暂无摘要",
-          "source": "Amavie",
-          "url": "https://github.com/anima-universe/character-ai-export-viewer",
-          "time": "2026-10-31"
+          "source": "digitalresearch",
+          "url": "https://prayforme.garden/garden/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Hackers broke into four of Canada's top law firms",
+          "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
           "summary": "暂无摘要",
-          "source": "Teever",
-          "url": "https://www.theglobeandmail.com/business/article-law-firms-hackers-how-did-it-happen-client-files-voice-phishing/",
-          "time": "2026-10-31"
+          "source": "richardmeng",
+          "url": "https://www.anonce.io/",
+          "time": "2026-11-01"
         },
         {
-          "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
+          "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
+          "summary": "暂无摘要",
+          "source": "kilasec",
+          "url": "https://kilasec.com",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Early Career Researcher Responses to AI in Math",
+          "summary": "暂无摘要",
+          "source": "joshbuddy",
+          "url": "https://arxiv.org/abs/2610.40584",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Commodore 64 AI Image Generator",
+          "summary": "暂无摘要",
+          "source": "watercooler_guy",
+          "url": "https://hackaday.io/project/195819-commodore-64-ai-image-generator",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "About Platform Engineering and AI",
+          "summary": "暂无摘要",
+          "source": "eminetto",
+          "url": "https://eltonminetto.dev/en/post/2026-10-04-platform-engineering-p5/",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Gnosh.ai for \"Functional AI\"; functional context management, no compaction",
+          "summary": "暂无摘要",
+          "source": "jaekwon",
+          "url": "https://gnosh.ai/head-to-head.html",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Turn Superlogical's Rex into an AI Harness",
+          "summary": "暂无摘要",
+          "source": "alpcan",
+          "url": "https://github.com/alpcanaydin/rexmod/",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Are There Problems Beyond the Reach of AI [video]",
+          "summary": "暂无摘要",
+          "source": "efavdb",
+          "url": "https://www.youtube.com/watch?v=NWNbAEivyvs",
+          "time": "2026-11-01"
+        },
+        {
+          "title": "Show HN: Castov – A local-first desktop automation engine using local AI",
           "summary": "暂无摘要",
           "source": "castov",
           "url": "https://castov.com",
-          "time": "2026-10-31"
+          "time": "2026-11-01"
         },
         {
-          "title": "Cisco gives engineer unlimited AI tokens to rewrite company's legacy code",
+          "title": "Slop Code Monitor – scanned 2.6B of code to quantify AI cognitive debt",
           "summary": "暂无摘要",
-          "source": "runwithdata",
-          "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
-          "time": "2026-10-31"
+          "source": "mramilli",
+          "url": "https://slopcodemonitor.ai/",
+          "time": "2026-11-01"
         },
         {
-          "title": "The Limits of AI as an Economic Weapon",
+          "title": "Ask HN: What mistakes did AI make in your codebase?",
           "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/",
-          "time": "2026-10-31"
+          "source": "underdeserver",
+          "url": "https://news.ycombinator.com/item?id=50328797",
+          "time": "2026-11-01"
         },
         {
-          "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
+          "title": "\"AI for everyone would cost a tenth of a kettle a day",
           "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Ask HN: Has Google started cleaning their search results from AI slop?",
-          "summary": "暂无摘要",
-          "source": "gosen",
-          "url": "https://news.ycombinator.com/item?id=50318869",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Google's AI satellite sends a expensive haiku to Earth",
-          "summary": "暂无摘要",
-          "source": "saikatsg",
-          "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Software is Eating AI (2017)",
-          "summary": "暂无摘要",
-          "source": "jruohonen",
-          "url": "https://hyperparameter.space/blog/software-is-eating-ai/",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
-          "summary": "暂无摘要",
-          "source": "rifmj",
-          "url": "https://www.arxo.io/findings/ARXO-2026-0413/",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-          "summary": "暂无摘要",
-          "source": "the-mitr",
-          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android",
-          "summary": "暂无摘要",
-          "source": "davidingalls",
-          "url": "https://zenodo.org/records/21909447",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Show HN: Publishub. An AI copilot for video creators and editors.",
-          "summary": "暂无摘要",
-          "source": "valmirjunior",
-          "url": "https://www.getpublishub.com",
-          "time": "2026-10-31"
+          "source": "dolbydb",
+          "url": "https://allyburns.com/musings/ai-for-all/",
+          "time": "2026-11-01"
         },
         {
           "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
