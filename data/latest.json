@@ -1,12 +1,19 @@
 {
-  "updateTime": "2026-11-03T01:55:25.144Z",
-  "date": "2026年11月3日 1时55分",
+  "updateTime": "2026-11-04T00:16:33.115Z",
+  "date": "2026年11月4日 0时16分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "How “reverse game theory” could keep AI agents in check",
+          "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers ",
+          "source": "Amit Katwala",
+          "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+          "time": "2026-11-03"
+        },
         {
           "title": "We urgently need to monitor AI agents’ actions in real time",
           "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about",
@@ -27,13 +34,6 @@
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
           "time": "2026-10-26"
-        },
-        {
-          "title": "Designing an AI serving harness built to last",
-          "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con",
-          "source": "Anand Logani",
-          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-          "time": "2026-10-22"
         }
       ]
     },
@@ -120,39 +120,32 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+          "summary": "暂无摘要",
+          "source": "Russell Brandom",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "time": "2026-11-03"
+        },
+        {
+          "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+          "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+          "time": "2026-11-03"
+        },
+        {
+          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+          "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "time": "2026-11-03"
+        },
+        {
           "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
           "summary": "The one-year-old startup is now valued at $300 million.",
           "source": "Marina Temkin",
           "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
           "time": "2026-11-02"
-        },
-        {
-          "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-          "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-          "time": "2026-11-02"
-        },
-        {
-          "title": "Data centers are now a midterm issue, even in Brooklyn",
-          "summary": "暂无摘要",
-          "source": "Dominic-Madori Davis",
-          "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-          "time": "2026-11-01"
-        },
-        {
-          "title": "OpenAI reportedly lowers funding target for new round",
-          "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-          "source": "Anthony Ha",
-          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-          "time": "2026-10-31"
-        },
-        {
-          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-          "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-          "time": "2026-10-30"
         },
         {
           "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
@@ -167,13 +160,6 @@
           "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
           "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
           "time": "2026-10-30"
-        },
-        {
-          "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-          "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-          "source": "Paresh Dave",
-          "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-          "time": "2026-10-29"
         }
       ]
     },
@@ -182,6 +168,20 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "How “reverse game theory” could keep AI agents in check",
+          "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers ",
+          "source": "Amit Katwala",
+          "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+          "time": "2026-11-03"
+        },
+        {
+          "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+          "time": "2026-11-03"
+        },
         {
           "title": "Raising the quality of insights in agentic analytics",
           "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa",
@@ -209,13 +209,6 @@
           "source": "Will Douglas Heaven",
           "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
           "time": "2026-10-26"
-        },
-        {
-          "title": "Designing an AI serving harness built to last",
-          "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con",
-          "source": "Anand Logani",
-          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-          "time": "2026-10-22"
         }
       ]
     },
@@ -384,13 +377,6 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
-        },
-        {
-          "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-          "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-          "source": "Joel Khalili",
-          "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-          "time": "2026-10-29"
         }
       ]
     }
