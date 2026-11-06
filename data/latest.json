@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-11-06T00:36:57.002Z",
-  "date": "2026年11月6日 0时36分",
+  "updateTime": "2026-11-06T23:52:23.812Z",
+  "date": "2026年11月6日 23时52分",
   "categories": [
     {
       "id": "tech",
@@ -20,13 +20,6 @@
           "source": "Madhulika Srikumar, Claire Leibowicz",
           "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
           "time": "2026-10-29"
-        },
-        {
-          "title": "Pairing industrial AI autonomy and human control",
-          "summary": "暂无摘要",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-          "time": "2026-10-28"
         }
       ]
     },
@@ -106,6 +99,41 @@
       "icon": "💼",
       "news": [
         {
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+          "source": "Lucas Ropek",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "time": "2026-11-06"
+        },
+        {
+          "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+          "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "time": "2026-11-06"
+        },
+        {
+          "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+          "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+          "source": "Ivan Mehta",
+          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+          "time": "2026-11-06"
+        },
+        {
+          "title": "Physicl raises $10M to make the digital world real enough for robots",
+          "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+          "time": "2026-11-06"
+        },
+        {
+          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+          "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+          "time": "2026-11-06"
+        },
+        {
           "title": "Meta warns that election backlash against data centers could make AI expansion harder",
           "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
           "source": "Sarah Perez",
@@ -125,48 +153,6 @@
           "source": "Aditya Mehta",
           "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
           "time": "2026-11-05"
-        },
-        {
-          "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-          "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materi",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-          "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
-          "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next month",
-          "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Meta acquires AI coding startup Conductor",
-          "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-          "source": "Lucas Ropek",
-          "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Open source AI is booming. Hugging Face explains who profits.",
-          "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model",
-          "source": "Theresa Loconsolo",
-          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-          "time": "2026-11-04"
         },
         {
           "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
@@ -229,13 +215,6 @@
           "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati",
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-          "time": "2026-10-28"
-        },
-        {
-          "title": "Pairing industrial AI autonomy and human control",
-          "summary": "暂无摘要",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
           "time": "2026-10-28"
         }
       ]
