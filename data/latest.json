@@ -1,152 +1,12 @@
 {
-  "updateTime": "2026-11-05T00:38:48.141Z",
-  "date": "2026年11月5日 0时38分",
+  "updateTime": "2026-11-06T00:36:57.002Z",
+  "date": "2026年11月6日 0时36分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
-        {
-          "title": "Show HN: Cinnamon – safer AI agent for household, private and shared context",
-          "summary": "暂无摘要",
-          "source": "mv4",
-          "url": "https://getcinnamon.ai/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "Ask HN: Have you changed your setup in the age of AI and mass vulnerabilities?",
-          "summary": "暂无摘要",
-          "source": "dysoco",
-          "url": "https://news.ycombinator.com/item?id=50373223",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "CodeRabbit – Automated review, triage, and security for AI-generated PRs",
-          "summary": "暂无摘要",
-          "source": "doodlesdev",
-          "url": "https://www.coderabbit.ai",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "You'll need nerves of steel to work with AI agents",
-          "summary": "暂无摘要",
-          "source": "theorchid",
-          "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "'Sovereign AI agents' could evade kill switches and threaten national security",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "Show HN: BrowserForge – AI agents use your real browser, you approve the clicks",
-          "summary": "暂无摘要",
-          "source": "mostafazoghlami",
-          "url": "https://github.com/zoghlamimostafa/BrowserForge-MCP",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "TikTok Cinema: Inside AI Microdramas",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.lwlies.com/long-read/tiktok-cinema-inside-ai-microdramas",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Yassamin Ansari: Top of the Democratic agenda on day 1 pause on advanced AI dev",
-          "summary": "暂无摘要",
-          "source": "donsupreme",
-          "url": "https://twitter.com/RepYassAnsari/status/2118054336077127797",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "AI poisoning: are we using AI, or is AI using us?",
-          "summary": "暂无摘要",
-          "source": "bstefanovic",
-          "url": "https://blog.sparkcan.com/posts/ai-poisoning/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
-          "summary": "暂无摘要",
-          "source": "akyuu",
-          "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
-          "summary": "暂无摘要",
-          "source": "mvojvoda",
-          "url": "https://github.com/djuk8/beacon/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Clawd's Bar opens - a speakeasy for AI agents and a new kind of service with it",
-          "summary": "暂无摘要",
-          "source": "boos_clawdsbar",
-          "url": "https://x.com/clawds_bar",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Chess X GO custom AI",
-          "summary": "暂无摘要",
-          "source": "popsmith",
-          "url": "https://news.ycombinator.com/item?id=50372412",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-          "summary": "暂无摘要",
-          "source": "healsdata",
-          "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Show HN: Amigent – AI agent and remote desktop for Commodore Amiga over 50 KB/s",
-          "summary": "暂无摘要",
-          "source": "akustikrausch",
-          "url": "https://github.com/akustikrausch/amigent",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Show HN: I built a hosting for small AI-generated software",
-          "summary": "暂无摘要",
-          "source": "dvolkhonskiy",
-          "url": "https://host0.ai",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "A painting went missing 20 years ago. Police tracked it down with the help of AI",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.bbc.com/future/article/20261027-this-painting-went-missing-20-years-ago-police-tracked-it-down-with-the-help-of-ai",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "OpenRing – Open-source, self-hosted voice AI agent platform (Vapi alternative)",
-          "summary": "暂无摘要",
-          "source": "elifalanrocha",
-          "url": "https://github.com/elifalanrocha/openring",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Mentat: One memory for all my AI tools",
-          "summary": "暂无摘要",
-          "source": "benkelly",
-          "url": "https://blog.benjamin.ie/blog/mentat",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Show HN: Chronosphere, a tool for understanding large PRs",
-          "summary": "暂无摘要",
-          "source": "trezm",
-          "url": "https://getchronosphere.com/",
-          "time": "2026-11-04"
-        },
         {
           "title": "How “reverse game theory” could keep AI agents in check",
           "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers ",
@@ -237,153 +97,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
           "time": "2026-09-14"
-        },
-        {
-          "title": "Recreating a 70-year love story frame by frame",
-          "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-          "time": "2026-09-09"
-        },
-        {
-          "title": "Show HN: Cinnamon – safer AI agent for household, private and shared context",
-          "summary": "暂无摘要",
-          "source": "mv4",
-          "url": "https://getcinnamon.ai/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "Ask HN: Have you changed your setup in the age of AI and mass vulnerabilities?",
-          "summary": "暂无摘要",
-          "source": "dysoco",
-          "url": "https://news.ycombinator.com/item?id=50373223",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "CodeRabbit – Automated review, triage, and security for AI-generated PRs",
-          "summary": "暂无摘要",
-          "source": "doodlesdev",
-          "url": "https://www.coderabbit.ai",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "You'll need nerves of steel to work with AI agents",
-          "summary": "暂无摘要",
-          "source": "theorchid",
-          "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "'Sovereign AI agents' could evade kill switches and threaten national security",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "Show HN: BrowserForge – AI agents use your real browser, you approve the clicks",
-          "summary": "暂无摘要",
-          "source": "mostafazoghlami",
-          "url": "https://github.com/zoghlamimostafa/BrowserForge-MCP",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "TikTok Cinema: Inside AI Microdramas",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.lwlies.com/long-read/tiktok-cinema-inside-ai-microdramas",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Yassamin Ansari: Top of the Democratic agenda on day 1 pause on advanced AI dev",
-          "summary": "暂无摘要",
-          "source": "donsupreme",
-          "url": "https://twitter.com/RepYassAnsari/status/2118054336077127797",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "AI poisoning: are we using AI, or is AI using us?",
-          "summary": "暂无摘要",
-          "source": "bstefanovic",
-          "url": "https://blog.sparkcan.com/posts/ai-poisoning/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
-          "summary": "暂无摘要",
-          "source": "akyuu",
-          "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
-          "summary": "暂无摘要",
-          "source": "mvojvoda",
-          "url": "https://github.com/djuk8/beacon/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Clawd's Bar opens - a speakeasy for AI agents and a new kind of service with it",
-          "summary": "暂无摘要",
-          "source": "boos_clawdsbar",
-          "url": "https://x.com/clawds_bar",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Chess X GO custom AI",
-          "summary": "暂无摘要",
-          "source": "popsmith",
-          "url": "https://news.ycombinator.com/item?id=50372412",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-          "summary": "暂无摘要",
-          "source": "healsdata",
-          "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Show HN: Amigent – AI agent and remote desktop for Commodore Amiga over 50 KB/s",
-          "summary": "暂无摘要",
-          "source": "akustikrausch",
-          "url": "https://github.com/akustikrausch/amigent",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Show HN: I built a hosting for small AI-generated software",
-          "summary": "暂无摘要",
-          "source": "dvolkhonskiy",
-          "url": "https://host0.ai",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "A painting went missing 20 years ago. Police tracked it down with the help of AI",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.bbc.com/future/article/20261027-this-painting-went-missing-20-years-ago-police-tracked-it-down-with-the-help-of-ai",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "OpenRing – Open-source, self-hosted voice AI agent platform (Vapi alternative)",
-          "summary": "暂无摘要",
-          "source": "elifalanrocha",
-          "url": "https://github.com/elifalanrocha/openring",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Meta locks hack victim out of account, won't offer support [video]",
-          "summary": "暂无摘要",
-          "source": "ccvannorman",
-          "url": "https://www.youtube.com/shorts/TUH_tNq1Ou8",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Mentat: One memory for all my AI tools",
-          "summary": "暂无摘要",
-          "source": "benkelly",
-          "url": "https://blog.benjamin.ie/blog/mentat",
-          "time": "2026-11-04"
         }
       ]
     },
@@ -392,6 +105,41 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+          "source": "Sarah Perez",
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+          "time": "2026-11-05"
+        },
+        {
+          "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+          "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully ma",
+          "source": "Sarah Perez",
+          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+          "time": "2026-11-05"
+        },
+        {
+          "title": "Axiom Math wants to keep AI slop out of mathematics",
+          "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+          "source": "Aditya Mehta",
+          "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+          "time": "2026-11-05"
+        },
+        {
+          "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+          "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materi",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+          "time": "2026-11-05"
+        },
+        {
+          "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+          "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+          "time": "2026-11-05"
+        },
         {
           "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
           "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
@@ -421,45 +169,24 @@
           "time": "2026-11-04"
         },
         {
-          "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-          "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model",
-          "source": "Theresa Loconsolo, Rebecca Bellan",
-          "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-          "time": "2026-11-04"
+          "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+          "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+          "source": "Julian Chokkattu",
+          "url": "https://www.wired.com/story/aina-smart-ring/",
+          "time": "2026-11-05"
         },
         {
-          "title": "Anthropic is working on a system to prove AI models&#8217; identity",
-          "summary": "暂无摘要",
-          "source": "Russell Brandom",
-          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-          "time": "2026-11-03"
-        },
-        {
-          "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-          "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-          "time": "2026-11-03"
-        },
-        {
-          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-          "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-          "time": "2026-11-03"
+          "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+          "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+          "source": "Joel Khalili",
+          "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+          "time": "2026-11-05"
         },
         {
           "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
           "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
           "source": "Tess Owen",
           "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-          "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
-          "source": "Ben Gartside",
-          "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
           "time": "2026-11-04"
         }
       ]
@@ -680,144 +407,11 @@
           "time": "2022-12-16"
         },
         {
-          "title": "The Entropy Law and the Economic Process (1971)",
-          "summary": "暂无摘要",
-          "source": "whoishiding",
-          "url": "https://en.wikipedia.org/wiki/Nicholas_Georgescu-Roegen",
+          "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+          "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+          "source": "Joel Khalili",
+          "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
           "time": "2026-11-05"
-        },
-        {
-          "title": "Show HN: Cinnamon – safer AI agent for household, private and shared context",
-          "summary": "暂无摘要",
-          "source": "mv4",
-          "url": "https://getcinnamon.ai/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "Ask HN: Have you changed your setup in the age of AI and mass vulnerabilities?",
-          "summary": "暂无摘要",
-          "source": "dysoco",
-          "url": "https://news.ycombinator.com/item?id=50373223",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "CodeRabbit – Automated review, triage, and security for AI-generated PRs",
-          "summary": "暂无摘要",
-          "source": "doodlesdev",
-          "url": "https://www.coderabbit.ai",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "You'll need nerves of steel to work with AI agents",
-          "summary": "暂无摘要",
-          "source": "theorchid",
-          "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "'Sovereign AI agents' could evade kill switches and threaten national security",
-          "summary": "暂无摘要",
-          "source": "billybuckwheat",
-          "url": "https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "Show HN: BrowserForge – AI agents use your real browser, you approve the clicks",
-          "summary": "暂无摘要",
-          "source": "mostafazoghlami",
-          "url": "https://github.com/zoghlamimostafa/BrowserForge-MCP",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "TikTok Cinema: Inside AI Microdramas",
-          "summary": "暂无摘要",
-          "source": "rdmuser",
-          "url": "https://www.lwlies.com/long-read/tiktok-cinema-inside-ai-microdramas",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Yassamin Ansari: Top of the Democratic agenda on day 1 pause on advanced AI dev",
-          "summary": "暂无摘要",
-          "source": "donsupreme",
-          "url": "https://twitter.com/RepYassAnsari/status/2118054336077127797",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "AI poisoning: are we using AI, or is AI using us?",
-          "summary": "暂无摘要",
-          "source": "bstefanovic",
-          "url": "https://blog.sparkcan.com/posts/ai-poisoning/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
-          "summary": "暂无摘要",
-          "source": "akyuu",
-          "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
-          "summary": "暂无摘要",
-          "source": "mvojvoda",
-          "url": "https://github.com/djuk8/beacon/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Clawd's Bar opens - a speakeasy for AI agents and a new kind of service with it",
-          "summary": "暂无摘要",
-          "source": "boos_clawdsbar",
-          "url": "https://x.com/clawds_bar",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Chess X GO custom AI",
-          "summary": "暂无摘要",
-          "source": "popsmith",
-          "url": "https://news.ycombinator.com/item?id=50372412",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-          "summary": "暂无摘要",
-          "source": "healsdata",
-          "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Show HN: Amigent – AI agent and remote desktop for Commodore Amiga over 50 KB/s",
-          "summary": "暂无摘要",
-          "source": "akustikrausch",
-          "url": "https://github.com/akustikrausch/amigent",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Show HN: I built a hosting for small AI-generated software",
-          "summary": "暂无摘要",
-          "source": "dvolkhonskiy",
-          "url": "https://host0.ai",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "A painting went missing 20 years ago. Police tracked it down with the help of AI",
-          "summary": "暂无摘要",
-          "source": "bookofjoe",
-          "url": "https://www.bbc.com/future/article/20261027-this-painting-went-missing-20-years-ago-police-tracked-it-down-with-the-help-of-ai",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "OpenRing – Open-source, self-hosted voice AI agent platform (Vapi alternative)",
-          "summary": "暂无摘要",
-          "source": "elifalanrocha",
-          "url": "https://github.com/elifalanrocha/openring",
-          "time": "2026-11-04"
-        },
-        {
-          "title": "Mentat: One memory for all my AI tools",
-          "summary": "暂无摘要",
-          "source": "benkelly",
-          "url": "https://blog.benjamin.ie/blog/mentat",
-          "time": "2026-11-04"
         },
         {
           "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
