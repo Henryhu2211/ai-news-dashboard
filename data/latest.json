@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-11-07T23:15:14.096Z",
-  "date": "2026年11月7日 23时15分",
+  "updateTime": "2026-11-08T23:17:49.747Z",
+  "date": "2026年11月8日 23时17分",
   "categories": [
     {
       "id": "tech",
@@ -90,6 +90,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
           "time": "2026-09-14"
+        },
+        {
+          "title": "AI to find vulnerabilities in global legislation (on Git)",
+          "summary": "暂无摘要",
+          "source": "alansaber",
+          "url": "https://github.com/lexifina/global-law/tree/main/vulnerabilities",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Exody – Native macOS AI Workbench (5-stage loop, 100% BYOK, $0 markup)",
+          "summary": "暂无摘要",
+          "source": "timamar",
+          "url": "https://www.exody.ai/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "AI, Bullshit and Art Speak: How the art world prepared us for the age of AI slop",
+          "summary": "暂无摘要",
+          "source": "thebigship",
+          "url": "https://jaymollica.com/blog/ai-bullshit-and-art-speak/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: My first project, an AI-powered financial news analyzer",
+          "summary": "暂无摘要",
+          "source": "lamarcol",
+          "url": "https://github.com/lamarcol/NotBot",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
+          "summary": "暂无摘要",
+          "source": "attiqbinkhalid",
+          "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "What Anthropic's IPO Filing Says About the Future of A.I",
+          "summary": "暂无摘要",
+          "source": "edward",
+          "url": "https://www.nytimes.com/2026/10/30/opinion/anthropic-ipo-ai.html",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "AI skill to provide IPA and English translations from uploaded sheet music",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Not another AI note taker",
+          "summary": "暂无摘要",
+          "source": "jbuchananr",
+          "url": "https://useskribble.com",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: APC Playground – Stop AI agents from modifying your API tool calls",
+          "summary": "暂无摘要",
+          "source": "apcaleph",
+          "url": "https://playground.alephapc.com/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code",
+          "summary": "暂无摘要",
+          "source": "crib-award-cont",
+          "url": "https://github.com/avivgerz-hue/vibe-shield",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: Vynyo – AI creative studio for hairstyle, image and video",
+          "summary": "暂无摘要",
+          "source": "zhoouweiyuan51",
+          "url": "https://vynyo.com",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "How I Fight AI Brain Fry",
+          "summary": "暂无摘要",
+          "source": "kyunez",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "AI detection trap: When machines put human creativity on trial",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "summary": "暂无摘要",
+          "source": "fortran77",
+          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Ask HN- Will AI agents behave differently in a swarm?",
+          "summary": "暂无摘要",
+          "source": "sharkyy",
+          "url": "https://world.emergence.ai/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Canada's AI translation tool keeps making hilarious mistakes",
+          "summary": "暂无摘要",
+          "source": "jethronethro",
+          "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+          "summary": "暂无摘要",
+          "source": "raybb",
+          "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "summary": "暂无摘要",
+          "source": "zzzeek",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: Is your product AI slop?",
+          "summary": "暂无摘要",
+          "source": "nshelia",
+          "url": "https://slopcalculator.com/",
+          "time": "2026-11-08"
         }
       ]
     },
@@ -148,13 +288,6 @@
           "time": "2026-11-05"
         },
         {
-          "title": "Axiom Math wants to keep AI slop out of mathematics",
-          "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-          "source": "Aditya Mehta",
-          "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-          "time": "2026-11-05"
-        },
-        {
           "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
           "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
           "source": "Julian Chokkattu",
@@ -167,6 +300,146 @@
           "source": "Joel Khalili",
           "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
           "time": "2026-11-05"
+        },
+        {
+          "title": "AI to find vulnerabilities in global legislation (on Git)",
+          "summary": "暂无摘要",
+          "source": "alansaber",
+          "url": "https://github.com/lexifina/global-law/tree/main/vulnerabilities",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Exody – Native macOS AI Workbench (5-stage loop, 100% BYOK, $0 markup)",
+          "summary": "暂无摘要",
+          "source": "timamar",
+          "url": "https://www.exody.ai/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "AI, Bullshit and Art Speak: How the art world prepared us for the age of AI slop",
+          "summary": "暂无摘要",
+          "source": "thebigship",
+          "url": "https://jaymollica.com/blog/ai-bullshit-and-art-speak/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: My first project, an AI-powered financial news analyzer",
+          "summary": "暂无摘要",
+          "source": "lamarcol",
+          "url": "https://github.com/lamarcol/NotBot",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
+          "summary": "暂无摘要",
+          "source": "attiqbinkhalid",
+          "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Future startup ideas, excavated from science fiction",
+          "summary": "暂无摘要",
+          "source": "thunderbong",
+          "url": "https://absurd.website/startup-archaeology/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "AI skill to provide IPA and English translations from uploaded sheet music",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Not another AI note taker",
+          "summary": "暂无摘要",
+          "source": "jbuchananr",
+          "url": "https://useskribble.com",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: APC Playground – Stop AI agents from modifying your API tool calls",
+          "summary": "暂无摘要",
+          "source": "apcaleph",
+          "url": "https://playground.alephapc.com/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code",
+          "summary": "暂无摘要",
+          "source": "crib-award-cont",
+          "url": "https://github.com/avivgerz-hue/vibe-shield",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: Claude Opus 5.5 (Max) best at generating startup ideas",
+          "summary": "暂无摘要",
+          "source": "AustinHatfiel",
+          "url": "https://asiprize.com/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: Vynyo – AI creative studio for hairstyle, image and video",
+          "summary": "暂无摘要",
+          "source": "zhoouweiyuan51",
+          "url": "https://vynyo.com",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "How I Fight AI Brain Fry",
+          "summary": "暂无摘要",
+          "source": "kyunez",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "AI detection trap: When machines put human creativity on trial",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "summary": "暂无摘要",
+          "source": "fortran77",
+          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Ask HN- Will AI agents behave differently in a swarm?",
+          "summary": "暂无摘要",
+          "source": "sharkyy",
+          "url": "https://world.emergence.ai/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Canada's AI translation tool keeps making hilarious mistakes",
+          "summary": "暂无摘要",
+          "source": "jethronethro",
+          "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+          "summary": "暂无摘要",
+          "source": "raybb",
+          "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "summary": "暂无摘要",
+          "source": "zzzeek",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "time": "2026-11-08"
         }
       ]
     },
@@ -377,6 +650,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "AI to find vulnerabilities in global legislation (on Git)",
+          "summary": "暂无摘要",
+          "source": "alansaber",
+          "url": "https://github.com/lexifina/global-law/tree/main/vulnerabilities",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Exody – Native macOS AI Workbench (5-stage loop, 100% BYOK, $0 markup)",
+          "summary": "暂无摘要",
+          "source": "timamar",
+          "url": "https://www.exody.ai/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "AI, Bullshit and Art Speak: How the art world prepared us for the age of AI slop",
+          "summary": "暂无摘要",
+          "source": "thebigship",
+          "url": "https://jaymollica.com/blog/ai-bullshit-and-art-speak/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: My first project, an AI-powered financial news analyzer",
+          "summary": "暂无摘要",
+          "source": "lamarcol",
+          "url": "https://github.com/lamarcol/NotBot",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
+          "summary": "暂无摘要",
+          "source": "attiqbinkhalid",
+          "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "UK Government 'looking seriously' at banning under-16s from Vinted and eBay",
+          "summary": "暂无摘要",
+          "source": "Lio",
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "AI skill to provide IPA and English translations from uploaded sheet music",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Not another AI note taker",
+          "summary": "暂无摘要",
+          "source": "jbuchananr",
+          "url": "https://useskribble.com",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: APC Playground – Stop AI agents from modifying your API tool calls",
+          "summary": "暂无摘要",
+          "source": "apcaleph",
+          "url": "https://playground.alephapc.com/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code",
+          "summary": "暂无摘要",
+          "source": "crib-award-cont",
+          "url": "https://github.com/avivgerz-hue/vibe-shield",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: Vynyo – AI creative studio for hairstyle, image and video",
+          "summary": "暂无摘要",
+          "source": "zhoouweiyuan51",
+          "url": "https://vynyo.com",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "How I Fight AI Brain Fry",
+          "summary": "暂无摘要",
+          "source": "kyunez",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "AI detection trap: When machines put human creativity on trial",
+          "summary": "暂无摘要",
+          "source": "paulpauper",
+          "url": "https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "summary": "暂无摘要",
+          "source": "fortran77",
+          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Ask HN- Will AI agents behave differently in a swarm?",
+          "summary": "暂无摘要",
+          "source": "sharkyy",
+          "url": "https://world.emergence.ai/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Canada's AI translation tool keeps making hilarious mistakes",
+          "summary": "暂无摘要",
+          "source": "jethronethro",
+          "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+          "summary": "暂无摘要",
+          "source": "raybb",
+          "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "summary": "暂无摘要",
+          "source": "zzzeek",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "time": "2026-11-08"
+        },
+        {
+          "title": "Show HN: Is your product AI slop?",
+          "summary": "暂无摘要",
+          "source": "nshelia",
+          "url": "https://slopcalculator.com/",
+          "time": "2026-11-08"
         },
         {
           "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
