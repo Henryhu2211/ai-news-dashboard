@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-11-08T23:17:49.747Z",
-  "date": "2026年11月8日 23时17分",
+  "updateTime": "2026-11-10T02:27:30.699Z",
+  "date": "2026年11月10日 2时27分",
   "categories": [
     {
       "id": "tech",
@@ -8,18 +8,151 @@
       "icon": "📰",
       "news": [
         {
+          "title": "'Stupendously large' primordial black holes ruled out as a dark matter source",
+          "summary": "暂无摘要",
+          "source": "wglb",
+          "url": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger",
+          "summary": "暂无摘要",
+          "source": "andsoitis",
+          "url": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "Proton CEO dismisses AI security-test request as 'bullshit and loser thinking'",
+          "summary": "暂无摘要",
+          "source": "skeptic_ai",
+          "url": "https://www.reddit.com/r/ProtonMail/comments/1xilgwk/manifestos_fear_and_loser_thinking_inside_protons/",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "AI and Irontown",
+          "summary": "暂无摘要",
+          "source": "lumpa",
+          "url": "https://lucumr.pocoo.org/2026/11/9/irontown/",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "Toptal AI – Full-Stack AI Services Company in the World for Agent Creation",
+          "summary": "暂无摘要",
+          "source": "artur_makly",
+          "url": "https://www.toptal.ai/",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "Ask HN: How do you check the security of AI-generated code before shipping?",
+          "summary": "暂无摘要",
+          "source": "valmirjunior",
+          "url": "https://www.getpublishub.com",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "Why is AI slop so frustrating to read?",
+          "summary": "暂无摘要",
+          "source": "espeed",
+          "url": "https://twitter.com/zhizdev/status/2119874095269707977",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "OpenRing – self-hosted voice AI agents with a Vapi-compatible API",
+          "summary": "暂无摘要",
+          "source": "elifalanrocha",
+          "url": "https://github.com/elifalanrocha/openring",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "Learning Abstractions: The Next Frontier for AI",
+          "summary": "暂无摘要",
+          "source": "jmugan",
+          "url": "https://twitter.com/jmugan/status/2119593410268999700",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+          "summary": "暂无摘要",
+          "source": "CharlesW",
+          "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "PeachQ: An open-source implementation of the q programming language",
+          "summary": "暂无摘要",
+          "source": "nyankosensei",
+          "url": "https://peachq.org/",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "The New York Times Doesn't Understand AI's Role in Suppressing Wages",
+          "summary": "暂无摘要",
+          "source": "NordStreamYacht",
+          "url": "https://gizmodo.com/the-new-york-times-doesnt-understand-ais-role-in-suppressing-wages-2000836392",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
+          "summary": "暂无摘要",
+          "source": "Topfi",
+          "url": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "JoesProxy – The free network workbench for your AI agent",
+          "summary": "暂无摘要",
+          "source": "SerialForBreakf",
+          "url": "https://www.joesproxy.com/",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "Building a full ASIC chip (no AI)",
+          "summary": "暂无摘要",
+          "source": "random__duck",
+          "url": "https://essenceia.github.io/projects/expresso/",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
+          "summary": "暂无摘要",
+          "source": "NiBiashara",
+          "url": "https://nibiashara.com/agent-index",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "AI Bubble Tracker",
+          "summary": "暂无摘要",
+          "source": "janoelze",
+          "url": "https://endtime-instruments.org/ai-bubble-tracker/",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "Innovating with AI in the special chemicals industry",
+          "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+          "time": "2026-11-09"
+        },
+        {
           "title": "How “reverse game theory” could keep AI agents in check",
           "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers ",
           "source": "Amit Katwala",
           "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
           "time": "2026-11-03"
-        },
-        {
-          "title": "We urgently need to monitor AI agents’ actions in real time",
-          "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about",
-          "source": "Madhulika Srikumar, Claire Leibowicz",
-          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-          "time": "2026-10-29"
         }
       ]
     },
@@ -92,144 +225,137 @@
           "time": "2026-09-14"
         },
         {
-          "title": "AI to find vulnerabilities in global legislation (on Git)",
+          "title": "Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger",
           "summary": "暂无摘要",
-          "source": "alansaber",
-          "url": "https://github.com/lexifina/global-law/tree/main/vulnerabilities",
-          "time": "2026-11-08"
+          "source": "andsoitis",
+          "url": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
+          "time": "2026-11-10"
         },
         {
-          "title": "Exody – Native macOS AI Workbench (5-stage loop, 100% BYOK, $0 markup)",
+          "title": "Proton CEO dismisses AI security-test request as 'bullshit and loser thinking'",
           "summary": "暂无摘要",
-          "source": "timamar",
-          "url": "https://www.exody.ai/",
-          "time": "2026-11-08"
+          "source": "skeptic_ai",
+          "url": "https://www.reddit.com/r/ProtonMail/comments/1xilgwk/manifestos_fear_and_loser_thinking_inside_protons/",
+          "time": "2026-11-10"
         },
         {
-          "title": "AI, Bullshit and Art Speak: How the art world prepared us for the age of AI slop",
+          "title": "Anthropic reportedly plans to move forward with IPO plans",
           "summary": "暂无摘要",
-          "source": "thebigship",
-          "url": "https://jaymollica.com/blog/ai-bullshit-and-art-speak/",
-          "time": "2026-11-08"
+          "source": "inthebay",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+          "time": "2026-11-10"
         },
         {
-          "title": "Show HN: My first project, an AI-powered financial news analyzer",
+          "title": "AI and Irontown",
           "summary": "暂无摘要",
-          "source": "lamarcol",
-          "url": "https://github.com/lamarcol/NotBot",
-          "time": "2026-11-08"
+          "source": "lumpa",
+          "url": "https://lucumr.pocoo.org/2026/11/9/irontown/",
+          "time": "2026-11-10"
         },
         {
-          "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
-          "summary": "暂无摘要",
-          "source": "attiqbinkhalid",
-          "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
-          "time": "2026-11-08"
-        },
-        {
-          "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+          "title": "Measuring how AI agents handle everyday wet-lab science",
           "summary": "暂无摘要",
           "source": "gmays",
-          "url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
-          "time": "2026-11-08"
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+          "time": "2026-11-10"
         },
         {
-          "title": "What Anthropic's IPO Filing Says About the Future of A.I",
+          "title": "Toptal AI – Full-Stack AI Services Company in the World for Agent Creation",
           "summary": "暂无摘要",
-          "source": "edward",
-          "url": "https://www.nytimes.com/2026/10/30/opinion/anthropic-ipo-ai.html",
-          "time": "2026-11-08"
+          "source": "artur_makly",
+          "url": "https://www.toptal.ai/",
+          "time": "2026-11-10"
         },
         {
-          "title": "AI skill to provide IPA and English translations from uploaded sheet music",
+          "title": "Ask HN: How do you check the security of AI-generated code before shipping?",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
-          "time": "2026-11-08"
+          "source": "valmirjunior",
+          "url": "https://www.getpublishub.com",
+          "time": "2026-11-10"
         },
         {
-          "title": "Not another AI note taker",
+          "title": "Google Antigravity for Knowledge Work",
           "summary": "暂无摘要",
-          "source": "jbuchananr",
-          "url": "https://useskribble.com",
-          "time": "2026-11-08"
+          "source": "mfiguiere",
+          "url": "https://antigravity.google/blog/antigravity-for-knowledge-work/",
+          "time": "2026-11-10"
         },
         {
-          "title": "Show HN: APC Playground – Stop AI agents from modifying your API tool calls",
+          "title": "Why is AI slop so frustrating to read?",
           "summary": "暂无摘要",
-          "source": "apcaleph",
-          "url": "https://playground.alephapc.com/",
-          "time": "2026-11-08"
+          "source": "espeed",
+          "url": "https://twitter.com/zhizdev/status/2119874095269707977",
+          "time": "2026-11-10"
         },
         {
-          "title": "Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code",
+          "title": "OpenRing – self-hosted voice AI agents with a Vapi-compatible API",
           "summary": "暂无摘要",
-          "source": "crib-award-cont",
-          "url": "https://github.com/avivgerz-hue/vibe-shield",
-          "time": "2026-11-08"
+          "source": "elifalanrocha",
+          "url": "https://github.com/elifalanrocha/openring",
+          "time": "2026-11-10"
         },
         {
-          "title": "Show HN: Vynyo – AI creative studio for hairstyle, image and video",
+          "title": "Learning Abstractions: The Next Frontier for AI",
           "summary": "暂无摘要",
-          "source": "zhoouweiyuan51",
-          "url": "https://vynyo.com",
-          "time": "2026-11-08"
+          "source": "jmugan",
+          "url": "https://twitter.com/jmugan/status/2119593410268999700",
+          "time": "2026-11-10"
         },
         {
-          "title": "How I Fight AI Brain Fry",
+          "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
           "summary": "暂无摘要",
-          "source": "kyunez",
-          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-          "time": "2026-11-08"
+          "source": "CharlesW",
+          "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+          "time": "2026-11-10"
         },
         {
-          "title": "AI detection trap: When machines put human creativity on trial",
+          "title": "Parents Sue Google over A.I. Safety Risks on School Chromebooks",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial",
-          "time": "2026-11-08"
+          "source": "tantalor",
+          "url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+          "time": "2026-11-09"
         },
         {
-          "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "title": "Anthropic must face lawsuit over Claude subscription marketing",
           "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-          "time": "2026-11-08"
+          "source": "mfiguiere",
+          "url": "https://www.reuters.com/legal/government/anthropic-must-face-lawsuit-over-claude-subscription-marketing-2026-11-09/",
+          "time": "2026-11-09"
         },
         {
-          "title": "Ask HN- Will AI agents behave differently in a swarm?",
+          "title": "The New York Times Doesn't Understand AI's Role in Suppressing Wages",
           "summary": "暂无摘要",
-          "source": "sharkyy",
-          "url": "https://world.emergence.ai/",
-          "time": "2026-11-08"
+          "source": "NordStreamYacht",
+          "url": "https://gizmodo.com/the-new-york-times-doesnt-understand-ais-role-in-suppressing-wages-2000836392",
+          "time": "2026-11-09"
         },
         {
-          "title": "Canada's AI translation tool keeps making hilarious mistakes",
+          "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
-          "time": "2026-11-08"
+          "source": "Topfi",
+          "url": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide",
+          "time": "2026-11-09"
         },
         {
-          "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+          "title": "JoesProxy – The free network workbench for your AI agent",
           "summary": "暂无摘要",
-          "source": "raybb",
-          "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
-          "time": "2026-11-08"
+          "source": "SerialForBreakf",
+          "url": "https://www.joesproxy.com/",
+          "time": "2026-11-09"
         },
         {
-          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title": "Building a full ASIC chip (no AI)",
           "summary": "暂无摘要",
-          "source": "zzzeek",
-          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-          "time": "2026-11-08"
+          "source": "random__duck",
+          "url": "https://essenceia.github.io/projects/expresso/",
+          "time": "2026-11-09"
         },
         {
-          "title": "Show HN: Is your product AI slop?",
+          "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
           "summary": "暂无摘要",
-          "source": "nshelia",
-          "url": "https://slopcalculator.com/",
-          "time": "2026-11-08"
+          "source": "NiBiashara",
+          "url": "https://nibiashara.com/agent-index",
+          "time": "2026-11-09"
         }
       ]
     },
@@ -239,6 +365,48 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Anthropic reportedly plans to move forward with IPO plans",
+          "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+          "time": "2026-11-10"
+        },
+        {
+          "title": "The race is on to sue Nvidia",
+          "summary": "暂无摘要",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+          "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+          "source": "Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+          "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+          "source": "Russell Brandom",
+          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+          "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+          "source": "Tim De Chant",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s &#8216;about a 50-50&#8217;",
+          "summary": "暂无摘要",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "time": "2026-11-09"
+        },
+        {
           "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
           "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
           "source": "Lucas Ropek",
@@ -246,200 +414,137 @@
           "time": "2026-11-06"
         },
         {
-          "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-          "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-          "time": "2026-11-06"
-        },
-        {
-          "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-          "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-          "source": "Ivan Mehta",
-          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-          "time": "2026-11-06"
-        },
-        {
-          "title": "Physicl raises $10M to make the digital world real enough for robots",
-          "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-          "source": "Tim Fernholz",
-          "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-          "time": "2026-11-06"
-        },
-        {
-          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-          "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-          "time": "2026-11-06"
-        },
-        {
-          "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-          "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-          "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully ma",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-          "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-          "source": "Julian Chokkattu",
-          "url": "https://www.wired.com/story/aina-smart-ring/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-          "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-          "source": "Joel Khalili",
-          "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-          "time": "2026-11-05"
-        },
-        {
-          "title": "AI to find vulnerabilities in global legislation (on Git)",
+          "title": "Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger",
           "summary": "暂无摘要",
-          "source": "alansaber",
-          "url": "https://github.com/lexifina/global-law/tree/main/vulnerabilities",
-          "time": "2026-11-08"
+          "source": "andsoitis",
+          "url": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
+          "time": "2026-11-10"
         },
         {
-          "title": "Exody – Native macOS AI Workbench (5-stage loop, 100% BYOK, $0 markup)",
+          "title": "Proton CEO dismisses AI security-test request as 'bullshit and loser thinking'",
           "summary": "暂无摘要",
-          "source": "timamar",
-          "url": "https://www.exody.ai/",
-          "time": "2026-11-08"
+          "source": "skeptic_ai",
+          "url": "https://www.reddit.com/r/ProtonMail/comments/1xilgwk/manifestos_fear_and_loser_thinking_inside_protons/",
+          "time": "2026-11-10"
         },
         {
-          "title": "AI, Bullshit and Art Speak: How the art world prepared us for the age of AI slop",
+          "title": "AI and Irontown",
           "summary": "暂无摘要",
-          "source": "thebigship",
-          "url": "https://jaymollica.com/blog/ai-bullshit-and-art-speak/",
-          "time": "2026-11-08"
+          "source": "lumpa",
+          "url": "https://lucumr.pocoo.org/2026/11/9/irontown/",
+          "time": "2026-11-10"
         },
         {
-          "title": "Show HN: My first project, an AI-powered financial news analyzer",
-          "summary": "暂无摘要",
-          "source": "lamarcol",
-          "url": "https://github.com/lamarcol/NotBot",
-          "time": "2026-11-08"
-        },
-        {
-          "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
-          "summary": "暂无摘要",
-          "source": "attiqbinkhalid",
-          "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
-          "time": "2026-11-08"
-        },
-        {
-          "title": "Future startup ideas, excavated from science fiction",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://absurd.website/startup-archaeology/",
-          "time": "2026-11-08"
-        },
-        {
-          "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+          "title": "Measuring how AI agents handle everyday wet-lab science",
           "summary": "暂无摘要",
           "source": "gmays",
-          "url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
-          "time": "2026-11-08"
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+          "time": "2026-11-10"
         },
         {
-          "title": "AI skill to provide IPA and English translations from uploaded sheet music",
+          "title": "Toptal AI – Full-Stack AI Services Company in the World for Agent Creation",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
-          "time": "2026-11-08"
+          "source": "artur_makly",
+          "url": "https://www.toptal.ai/",
+          "time": "2026-11-10"
         },
         {
-          "title": "Not another AI note taker",
+          "title": "Ask HN: How do you check the security of AI-generated code before shipping?",
           "summary": "暂无摘要",
-          "source": "jbuchananr",
-          "url": "https://useskribble.com",
-          "time": "2026-11-08"
+          "source": "valmirjunior",
+          "url": "https://www.getpublishub.com",
+          "time": "2026-11-10"
         },
         {
-          "title": "Show HN: APC Playground – Stop AI agents from modifying your API tool calls",
+          "title": "Why is AI slop so frustrating to read?",
           "summary": "暂无摘要",
-          "source": "apcaleph",
-          "url": "https://playground.alephapc.com/",
-          "time": "2026-11-08"
+          "source": "espeed",
+          "url": "https://twitter.com/zhizdev/status/2119874095269707977",
+          "time": "2026-11-10"
         },
         {
-          "title": "Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code",
+          "title": "OpenRing – self-hosted voice AI agents with a Vapi-compatible API",
           "summary": "暂无摘要",
-          "source": "crib-award-cont",
-          "url": "https://github.com/avivgerz-hue/vibe-shield",
-          "time": "2026-11-08"
+          "source": "elifalanrocha",
+          "url": "https://github.com/elifalanrocha/openring",
+          "time": "2026-11-10"
         },
         {
-          "title": "Show HN: Claude Opus 5.5 (Max) best at generating startup ideas",
+          "title": "Learning Abstractions: The Next Frontier for AI",
           "summary": "暂无摘要",
-          "source": "AustinHatfiel",
-          "url": "https://asiprize.com/",
-          "time": "2026-11-08"
+          "source": "jmugan",
+          "url": "https://twitter.com/jmugan/status/2119593410268999700",
+          "time": "2026-11-10"
         },
         {
-          "title": "Show HN: Vynyo – AI creative studio for hairstyle, image and video",
+          "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
           "summary": "暂无摘要",
-          "source": "zhoouweiyuan51",
-          "url": "https://vynyo.com",
-          "time": "2026-11-08"
+          "source": "CharlesW",
+          "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+          "time": "2026-11-10"
         },
         {
-          "title": "How I Fight AI Brain Fry",
+          "title": "The New York Times Doesn't Understand AI's Role in Suppressing Wages",
           "summary": "暂无摘要",
-          "source": "kyunez",
-          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-          "time": "2026-11-08"
+          "source": "NordStreamYacht",
+          "url": "https://gizmodo.com/the-new-york-times-doesnt-understand-ais-role-in-suppressing-wages-2000836392",
+          "time": "2026-11-09"
         },
         {
-          "title": "AI detection trap: When machines put human creativity on trial",
+          "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial",
-          "time": "2026-11-08"
+          "source": "Topfi",
+          "url": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide",
+          "time": "2026-11-09"
         },
         {
-          "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "title": "JoesProxy – The free network workbench for your AI agent",
           "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-          "time": "2026-11-08"
+          "source": "SerialForBreakf",
+          "url": "https://www.joesproxy.com/",
+          "time": "2026-11-09"
         },
         {
-          "title": "Ask HN- Will AI agents behave differently in a swarm?",
+          "title": "Building a full ASIC chip (no AI)",
           "summary": "暂无摘要",
-          "source": "sharkyy",
-          "url": "https://world.emergence.ai/",
-          "time": "2026-11-08"
+          "source": "random__duck",
+          "url": "https://essenceia.github.io/projects/expresso/",
+          "time": "2026-11-09"
         },
         {
-          "title": "Canada's AI translation tool keeps making hilarious mistakes",
+          "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
-          "time": "2026-11-08"
+          "source": "NiBiashara",
+          "url": "https://nibiashara.com/agent-index",
+          "time": "2026-11-09"
         },
         {
-          "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+          "title": "AI Bubble Tracker",
           "summary": "暂无摘要",
-          "source": "raybb",
-          "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
-          "time": "2026-11-08"
+          "source": "janoelze",
+          "url": "https://endtime-instruments.org/ai-bubble-tracker/",
+          "time": "2026-11-09"
         },
         {
-          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
           "summary": "暂无摘要",
-          "source": "zzzeek",
-          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-          "time": "2026-11-08"
+          "source": "JumpCrisscross",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "A year after the 100% AI mandate nobody understands our code",
+          "summary": "暂无摘要",
+          "source": "thelifeline",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "AI labs raise prices without raising prices",
+          "summary": "暂无摘要",
+          "source": "ianberdin",
+          "url": "https://playcode.io/blog/ai-labs-raise-prices-without-raising-prices",
+          "time": "2026-11-09"
         }
       ]
     },
@@ -448,6 +553,13 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "The backlash about data centers might really just be about electricity",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in ",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+          "time": "2026-11-09"
+        },
         {
           "title": "Securing the agentic enterprise with data lineage",
           "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks",
@@ -475,13 +587,6 @@
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
           "time": "2026-11-02"
-        },
-        {
-          "title": "Creating AI value with enterprise context",
-          "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-          "time": "2026-10-28"
         }
       ]
     },
@@ -652,151 +757,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "AI to find vulnerabilities in global legislation (on Git)",
+          "title": "U.S. Government Networks Will Need to Be Torched and Rebuilt",
           "summary": "暂无摘要",
-          "source": "alansaber",
-          "url": "https://github.com/lexifina/global-law/tree/main/vulnerabilities",
-          "time": "2026-11-08"
+          "source": "cdrnsf",
+          "url": "https://karlbode.com/u-s-government-it-systems-are-completely-compromised-and-will-require-a-total-rebuild/",
+          "time": "2026-11-10"
         },
         {
-          "title": "Exody – Native macOS AI Workbench (5-stage loop, 100% BYOK, $0 markup)",
+          "title": "Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger",
           "summary": "暂无摘要",
-          "source": "timamar",
-          "url": "https://www.exody.ai/",
-          "time": "2026-11-08"
+          "source": "andsoitis",
+          "url": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
+          "time": "2026-11-10"
         },
         {
-          "title": "AI, Bullshit and Art Speak: How the art world prepared us for the age of AI slop",
+          "title": "Proton CEO dismisses AI security-test request as 'bullshit and loser thinking'",
           "summary": "暂无摘要",
-          "source": "thebigship",
-          "url": "https://jaymollica.com/blog/ai-bullshit-and-art-speak/",
-          "time": "2026-11-08"
+          "source": "skeptic_ai",
+          "url": "https://www.reddit.com/r/ProtonMail/comments/1xilgwk/manifestos_fear_and_loser_thinking_inside_protons/",
+          "time": "2026-11-10"
         },
         {
-          "title": "Show HN: My first project, an AI-powered financial news analyzer",
+          "title": "AI and Irontown",
           "summary": "暂无摘要",
-          "source": "lamarcol",
-          "url": "https://github.com/lamarcol/NotBot",
-          "time": "2026-11-08"
+          "source": "lumpa",
+          "url": "https://lucumr.pocoo.org/2026/11/9/irontown/",
+          "time": "2026-11-10"
         },
         {
-          "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
-          "summary": "暂无摘要",
-          "source": "attiqbinkhalid",
-          "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
-          "time": "2026-11-08"
-        },
-        {
-          "title": "UK Government 'looking seriously' at banning under-16s from Vinted and eBay",
-          "summary": "暂无摘要",
-          "source": "Lio",
-          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
-          "time": "2026-11-08"
-        },
-        {
-          "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+          "title": "Measuring how AI agents handle everyday wet-lab science",
           "summary": "暂无摘要",
           "source": "gmays",
-          "url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
-          "time": "2026-11-08"
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+          "time": "2026-11-10"
         },
         {
-          "title": "AI skill to provide IPA and English translations from uploaded sheet music",
+          "title": "Toptal AI – Full-Stack AI Services Company in the World for Agent Creation",
           "summary": "暂无摘要",
-          "source": "mooreds",
-          "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
-          "time": "2026-11-08"
+          "source": "artur_makly",
+          "url": "https://www.toptal.ai/",
+          "time": "2026-11-10"
         },
         {
-          "title": "Not another AI note taker",
+          "title": "Ask HN: How do you check the security of AI-generated code before shipping?",
           "summary": "暂无摘要",
-          "source": "jbuchananr",
-          "url": "https://useskribble.com",
-          "time": "2026-11-08"
+          "source": "valmirjunior",
+          "url": "https://www.getpublishub.com",
+          "time": "2026-11-10"
         },
         {
-          "title": "Show HN: APC Playground – Stop AI agents from modifying your API tool calls",
+          "title": "Why is AI slop so frustrating to read?",
           "summary": "暂无摘要",
-          "source": "apcaleph",
-          "url": "https://playground.alephapc.com/",
-          "time": "2026-11-08"
+          "source": "espeed",
+          "url": "https://twitter.com/zhizdev/status/2119874095269707977",
+          "time": "2026-11-10"
         },
         {
-          "title": "Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code",
+          "title": "OpenRing – self-hosted voice AI agents with a Vapi-compatible API",
           "summary": "暂无摘要",
-          "source": "crib-award-cont",
-          "url": "https://github.com/avivgerz-hue/vibe-shield",
-          "time": "2026-11-08"
+          "source": "elifalanrocha",
+          "url": "https://github.com/elifalanrocha/openring",
+          "time": "2026-11-10"
         },
         {
-          "title": "Show HN: Vynyo – AI creative studio for hairstyle, image and video",
+          "title": "Learning Abstractions: The Next Frontier for AI",
           "summary": "暂无摘要",
-          "source": "zhoouweiyuan51",
-          "url": "https://vynyo.com",
-          "time": "2026-11-08"
+          "source": "jmugan",
+          "url": "https://twitter.com/jmugan/status/2119593410268999700",
+          "time": "2026-11-10"
         },
         {
-          "title": "How I Fight AI Brain Fry",
+          "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
           "summary": "暂无摘要",
-          "source": "kyunez",
-          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-          "time": "2026-11-08"
+          "source": "CharlesW",
+          "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+          "time": "2026-11-10"
         },
         {
-          "title": "AI detection trap: When machines put human creativity on trial",
+          "title": "The New York Times Doesn't Understand AI's Role in Suppressing Wages",
           "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial",
-          "time": "2026-11-08"
+          "source": "NordStreamYacht",
+          "url": "https://gizmodo.com/the-new-york-times-doesnt-understand-ais-role-in-suppressing-wages-2000836392",
+          "time": "2026-11-09"
         },
         {
-          "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
           "summary": "暂无摘要",
-          "source": "fortran77",
-          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
-          "time": "2026-11-08"
+          "source": "Topfi",
+          "url": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide",
+          "time": "2026-11-09"
         },
         {
-          "title": "Ask HN- Will AI agents behave differently in a swarm?",
+          "title": "JoesProxy – The free network workbench for your AI agent",
           "summary": "暂无摘要",
-          "source": "sharkyy",
-          "url": "https://world.emergence.ai/",
-          "time": "2026-11-08"
+          "source": "SerialForBreakf",
+          "url": "https://www.joesproxy.com/",
+          "time": "2026-11-09"
         },
         {
-          "title": "Canada's AI translation tool keeps making hilarious mistakes",
+          "title": "Building a full ASIC chip (no AI)",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
-          "time": "2026-11-08"
+          "source": "random__duck",
+          "url": "https://essenceia.github.io/projects/expresso/",
+          "time": "2026-11-09"
         },
         {
-          "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+          "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
           "summary": "暂无摘要",
-          "source": "raybb",
-          "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
-          "time": "2026-11-08"
+          "source": "NiBiashara",
+          "url": "https://nibiashara.com/agent-index",
+          "time": "2026-11-09"
         },
         {
-          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title": "AI Bubble Tracker",
           "summary": "暂无摘要",
-          "source": "zzzeek",
-          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-          "time": "2026-11-08"
+          "source": "janoelze",
+          "url": "https://endtime-instruments.org/ai-bubble-tracker/",
+          "time": "2026-11-09"
         },
         {
-          "title": "Show HN: Is your product AI slop?",
+          "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
           "summary": "暂无摘要",
-          "source": "nshelia",
-          "url": "https://slopcalculator.com/",
-          "time": "2026-11-08"
+          "source": "JumpCrisscross",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+          "time": "2026-11-09"
         },
         {
-          "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-          "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+          "title": "A year after the 100% AI mandate nobody understands our code",
+          "summary": "暂无摘要",
+          "source": "thelifeline",
+          "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+          "time": "2026-11-09"
+        },
+        {
+          "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+          "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
           "source": "Joel Khalili",
-          "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-          "time": "2026-11-05"
+          "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+          "time": "2026-11-09"
         }
       ]
     }
