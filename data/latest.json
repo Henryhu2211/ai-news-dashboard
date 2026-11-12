@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-11-11T00:18:50.599Z",
-  "date": "2026年11月11日 0时18分",
+  "updateTime": "2026-11-12T01:44:24.893Z",
+  "date": "2026年11月12日 1时44分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Learning from Real-World Experience",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://www.perplexity.ai/hub/blog/learning-from-real-world-experience",
+          "time": "2026-11-12"
+        },
+        {
+          "title": "Show HN: Lynx – open-source fully-customizable AI workspace",
+          "summary": "暂无摘要",
+          "source": "yakkomajuri",
+          "url": "https://github.com/yakkomajuri/lynx",
+          "time": "2026-11-12"
+        },
+        {
+          "title": "What gives you the chills? AI can engineer it",
+          "summary": "暂无摘要",
+          "source": "jbai",
+          "url": "https://medium.com/@joshbocanegra/how-to-engineer-goosebumps-e18935bcb1d2",
+          "time": "2026-11-12"
+        },
+        {
+          "title": "Yes, you should panic about AI",
+          "summary": "暂无摘要",
+          "source": "haizhung",
+          "url": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
+          "time": "2026-11-12"
+        },
+        {
+          "title": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+          "summary": "暂无摘要",
+          "source": "trinh312",
+          "url": "https://acneally.vercel.app",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Agentic AI for Military Cyberoperations (West Point Press) [pdf]",
+          "summary": "暂无摘要",
+          "source": "Alien1Being",
+          "url": "https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Composing data pipelines in an AI-native workflow",
+          "summary": "暂无摘要",
+          "source": "emrah",
+          "url": "https://www.fivetran.com/blog/composing-data-pipelines-in-an-ai-native-workflow",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Richard Feynman: Can Machines Think? [video]",
+          "summary": "暂无摘要",
+          "source": "Bluestein",
+          "url": "https://www.youtube.com/watch?v=ipRvjS7q1DI",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Who gets cheaper security from AI?",
+          "summary": "暂无摘要",
+          "source": "ffwang2",
+          "url": "https://franklyspeaking.substack.com/p/who-actually-gets-cheaper-security",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "On Fearing the Whispering Earring",
+          "summary": "暂无摘要",
+          "source": "tjohnell",
+          "url": "https://tomjohnell.com/on-fearing-the-whispering-earring/",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Words of warning about radiocarbon dating medieval human bones",
+          "summary": "暂无摘要",
+          "source": "gumby",
+          "url": "https://www.nature.com/articles/s40494-026-02958-x",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "HuggingFace/Kernels: 200 WebGPU Kernels for Local AI",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "An AI-driven proof of the Aaronson-Ambainis conjecture was announced",
+          "summary": "暂无摘要",
+          "source": "addaon",
+          "url": "https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "A Fan-Favorite Aquarium Screen Saver Is Leaving Roku",
+          "summary": "暂无摘要",
+          "source": "reaperducer",
+          "url": "https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Show HN: Zumungo – AI-driven home automation",
+          "summary": "暂无摘要",
+          "source": "hristov",
+          "url": "https://zumungo.com/get-started.html",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "An AI-assisted RP2040 audio board that worked on first spin in 5 days",
+          "summary": "暂无摘要",
+          "source": "Samanthajeanneb",
+          "url": "https://solderable.dev/blog/fluid",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Pundit Claims – Open-Source Register of AI Claims by Gary Marcus and Ed Zitron",
+          "summary": "暂无摘要",
+          "source": "davegoldblatt",
+          "url": "https://punditclaims.ai/",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Some IGF Jurors released a statement about AI usage",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://blog.lauramichet.com/some-igf-jurors-released-a-statement-about-ai-usage/",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Is the AI Singularity Coming?",
+          "summary": "暂无摘要",
+          "source": "ricciardo",
+          "url": "https://www.youtube.com/watch?v=IlgvRtTwaUs",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "summary": "暂无摘要",
+          "source": "herpderperator",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "time": "2026-11-11"
+        },
         {
           "title": "Innovating with AI in the special chemicals industry",
           "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
@@ -28,6 +168,20 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+          "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+          "time": "2026-11-11"
+        },
         {
           "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
           "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
@@ -92,18 +246,144 @@
           "time": "2026-09-17"
         },
         {
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-          "time": "2026-09-15"
+          "title": "Show HN: Lynx – open-source fully-customizable AI workspace",
+          "summary": "暂无摘要",
+          "source": "yakkomajuri",
+          "url": "https://github.com/yakkomajuri/lynx",
+          "time": "2026-11-12"
         },
         {
-          "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-          "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-          "time": "2026-09-14"
+          "title": "OpenAI Fooled by Russian Pranksters into Thinking They Were Talking to Ukrainian",
+          "summary": "暂无摘要",
+          "source": "SLHamlet",
+          "url": "https://theintercept.com/2026/11/11/openai-ukraine-russia-prank-security/",
+          "time": "2026-11-12"
+        },
+        {
+          "title": "Just say no to Anthropic's IPO",
+          "summary": "暂无摘要",
+          "source": "JumpCrisscross",
+          "url": "https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo",
+          "time": "2026-11-12"
+        },
+        {
+          "title": "What gives you the chills? AI can engineer it",
+          "summary": "暂无摘要",
+          "source": "jbai",
+          "url": "https://medium.com/@joshbocanegra/how-to-engineer-goosebumps-e18935bcb1d2",
+          "time": "2026-11-12"
+        },
+        {
+          "title": "Yes, you should panic about AI",
+          "summary": "暂无摘要",
+          "source": "haizhung",
+          "url": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
+          "time": "2026-11-12"
+        },
+        {
+          "title": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+          "summary": "暂无摘要",
+          "source": "trinh312",
+          "url": "https://acneally.vercel.app",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Agentic AI for Military Cyberoperations (West Point Press) [pdf]",
+          "summary": "暂无摘要",
+          "source": "Alien1Being",
+          "url": "https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Composing data pipelines in an AI-native workflow",
+          "summary": "暂无摘要",
+          "source": "emrah",
+          "url": "https://www.fivetran.com/blog/composing-data-pipelines-in-an-ai-native-workflow",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Show HN: Agent skill and Claude/Codex plugins for Google Ads campaigns",
+          "summary": "暂无摘要",
+          "source": "adeptads_ai",
+          "url": "https://github.com/adeptads/agent-skills",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Who gets cheaper security from AI?",
+          "summary": "暂无摘要",
+          "source": "ffwang2",
+          "url": "https://franklyspeaking.substack.com/p/who-actually-gets-cheaper-security",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Google Maps Now Requires Sign in to Read All Reviews and More",
+          "summary": "暂无摘要",
+          "source": "DeepLogin",
+          "url": "https://www.seroundtable.com/google-maps-account-reviews-42186.html",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "HuggingFace/Kernels: 200 WebGPU Kernels for Local AI",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "An AI-driven proof of the Aaronson-Ambainis conjecture was announced",
+          "summary": "暂无摘要",
+          "source": "addaon",
+          "url": "https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "\"Zlibrary my beloved\": Anthropic staff chats extolling piracy cited in Sony suit",
+          "summary": "暂无摘要",
+          "source": "gmays",
+          "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Show HN: Zumungo – AI-driven home automation",
+          "summary": "暂无摘要",
+          "source": "hristov",
+          "url": "https://zumungo.com/get-started.html",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "An AI-assisted RP2040 audio board that worked on first spin in 5 days",
+          "summary": "暂无摘要",
+          "source": "Samanthajeanneb",
+          "url": "https://solderable.dev/blog/fluid",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Pundit Claims – Open-Source Register of AI Claims by Gary Marcus and Ed Zitron",
+          "summary": "暂无摘要",
+          "source": "davegoldblatt",
+          "url": "https://punditclaims.ai/",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Some IGF Jurors released a statement about AI usage",
+          "summary": "暂无摘要",
+          "source": "speckx",
+          "url": "https://blog.lauramichet.com/some-igf-jurors-released-a-statement-about-ai-usage/",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "Is the AI Singularity Coming?",
+          "summary": "暂无摘要",
+          "source": "ricciardo",
+          "url": "https://www.youtube.com/watch?v=IlgvRtTwaUs",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "summary": "暂无摘要",
+          "source": "herpderperator",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "time": "2026-11-11"
         }
       ]
     },
@@ -112,6 +392,20 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+          "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+          "source": "Russell Brandom",
+          "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+          "time": "2026-11-11"
+        },
+        {
+          "title": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time",
+          "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+          "source": "Ram Iyer",
+          "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+          "time": "2026-11-11"
+        },
         {
           "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
           "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
@@ -134,18 +428,11 @@
           "time": "2026-11-10"
         },
         {
-          "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-          "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-          "source": "Rebecca Bellan, Ram Iyer",
-          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-          "time": "2026-11-10"
-        },
-        {
-          "title": "Anthropic reportedly plans to move forward with IPO plans",
-          "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-          "time": "2026-11-10"
+          "title": "A Startup Wants to Fight AI Bioweapons With AI",
+          "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+          "source": "Emily Mullin",
+          "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+          "time": "2026-11-11"
         }
       ]
     },
@@ -358,6 +645,13 @@
           "time": "2022-12-16"
         },
         {
+          "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+          "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+          "source": "Garrett M. Graff",
+          "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+          "time": "2026-11-11"
+        },
+        {
           "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
           "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
           "source": "Lauren Goode",
@@ -370,13 +664,6 @@
           "source": "Isabella Ward",
           "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
           "time": "2026-11-10"
-        },
-        {
-          "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-          "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
-          "source": "Joel Khalili",
-          "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-          "time": "2026-11-09"
         }
       ]
     }
