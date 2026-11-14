@@ -1,152 +1,12 @@
 {
-  "updateTime": "2026-11-13T00:47:33.974Z",
-  "date": "2026年11月13日 0时47分",
+  "updateTime": "2026-11-14T00:33:10.026Z",
+  "date": "2026年11月14日 0时33分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
-        {
-          "title": "Daybranch – A visual workspace for organizing AI-assisted work",
-          "summary": "暂无摘要",
-          "source": "brunohenriquede",
-          "url": "https://www.daybranch.com/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "The Nvidia AI GPU Black Market (2025)",
-          "summary": "暂无摘要",
-          "source": "codechicago277",
-          "url": "https://www.youtube.com/watch?v=1H3xQaf7BFI",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "AI Bubble: 'Circular financing is over' – Ed Zitron [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=hhVpOvpXUEE",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Machines of Loving Export Controls",
-          "summary": "暂无摘要",
-          "source": "Mercuriusdream",
-          "url": "https://mercuriusdream.com/loving-controls/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Adaptive Routing: Learning which model to trust",
-          "summary": "暂无摘要",
-          "source": "Faizann20",
-          "url": "https://sov.solibra.ai/blog/adaptive-routing/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Have AI timelines suddenly moved?",
-          "summary": "暂无摘要",
-          "source": "lars512",
-          "url": "https://lars.yencken.org/have-ai-timelines-moved/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Architect of National Popular Vote Compact Regards NPV as a \"Doomsday Machine\"",
-          "summary": "暂无摘要",
-          "source": "gumby",
-          "url": "https://www.vox.com/today-explained-newsletter/510466/national-popular-vote-compact-2026",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Dario Amodei says AI will cure cancer, Alzheimer's, heart disease in 10 years",
-          "summary": "暂无摘要",
-          "source": "Refreeze5224",
-          "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Show HN: AxiomStory – Keep stories consistent across AI text, images, video",
-          "summary": "暂无摘要",
-          "source": "asimj1029",
-          "url": "https://axiomstory.com",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Habits of Highly Ineffective AI Programmers",
-          "summary": "暂无摘要",
-          "source": "4mpm3",
-          "url": "https://medium.com/young-coder/7-habits-of-highly-ineffective-ai-programmers-f40febb3b6e7",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Kids and Parents Are Protesting Google's Classroom AI",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning",
-          "summary": "暂无摘要",
-          "source": "vintagedave",
-          "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Axelera AI Thinks Titania Is a Better Way to Scale AI Inference",
-          "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://www.forbes.com/sites/marcochiappetta/2026/11/12/axelera-ai-thinks-theres-a-better-way-to-scale-ai-inference/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Security flaws in popular AI tools have nearly tripled",
-          "summary": "暂无摘要",
-          "source": "joshfischer1108",
-          "url": "https://birdyfoot.com/research/ai-tool-vulnerabilities",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI and Virtual Reality Enter the Therapist's Office",
-          "summary": "暂无摘要",
-          "source": "EA-3167",
-          "url": "https://undark.org/2026/10/30/avatar-deepfake-therapy/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI-written peer reviews outscored top human experts",
-          "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI #194: Spy versus Guy",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI Company Employees Should Unionize",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Mirendil raises $1B Series A led by Kleiner Perkins to democratize AI R&D",
-          "summary": "暂无摘要",
-          "source": "dvaplima",
-          "url": "https://mirendil.com/news/series-a/",
-          "time": "2026-11-12"
-        },
         {
           "title": "Innovating with AI in the special chemicals industry",
           "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
@@ -251,146 +111,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
           "time": "2026-09-17"
-        },
-        {
-          "title": "Daybranch – A visual workspace for organizing AI-assisted work",
-          "summary": "暂无摘要",
-          "source": "brunohenriquede",
-          "url": "https://www.daybranch.com/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "The Nvidia AI GPU Black Market (2025)",
-          "summary": "暂无摘要",
-          "source": "codechicago277",
-          "url": "https://www.youtube.com/watch?v=1H3xQaf7BFI",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "AI Bubble: 'Circular financing is over' – Ed Zitron [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=hhVpOvpXUEE",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Have AI timelines suddenly moved?",
-          "summary": "暂无摘要",
-          "source": "lars512",
-          "url": "https://lars.yencken.org/have-ai-timelines-moved/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Dario Amodei says AI will cure cancer, Alzheimer's, heart disease in 10 years",
-          "summary": "暂无摘要",
-          "source": "Refreeze5224",
-          "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Show HN: AxiomStory – Keep stories consistent across AI text, images, video",
-          "summary": "暂无摘要",
-          "source": "asimj1029",
-          "url": "https://axiomstory.com",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Habits of Highly Ineffective AI Programmers",
-          "summary": "暂无摘要",
-          "source": "4mpm3",
-          "url": "https://medium.com/young-coder/7-habits-of-highly-ineffective-ai-programmers-f40febb3b6e7",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Kids and Parents Are Protesting Google's Classroom AI",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning",
-          "summary": "暂无摘要",
-          "source": "vintagedave",
-          "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Axelera AI Thinks Titania Is a Better Way to Scale AI Inference",
-          "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://www.forbes.com/sites/marcochiappetta/2026/11/12/axelera-ai-thinks-theres-a-better-way-to-scale-ai-inference/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Security flaws in popular AI tools have nearly tripled",
-          "summary": "暂无摘要",
-          "source": "joshfischer1108",
-          "url": "https://birdyfoot.com/research/ai-tool-vulnerabilities",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI and Virtual Reality Enter the Therapist's Office",
-          "summary": "暂无摘要",
-          "source": "EA-3167",
-          "url": "https://undark.org/2026/10/30/avatar-deepfake-therapy/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI-written peer reviews outscored top human experts",
-          "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI #194: Spy versus Guy",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI Company Employees Should Unionize",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Mirendil raises $1B Series A led by Kleiner Perkins to democratize AI R&D",
-          "summary": "暂无摘要",
-          "source": "dvaplima",
-          "url": "https://mirendil.com/news/series-a/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Why You Should Expect an AI Crash",
-          "summary": "暂无摘要",
-          "source": "toomuchtodo",
-          "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-          "summary": "暂无摘要",
-          "source": "sroussey",
-          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Show HN: Bugsy – AI automation which runs my company",
-          "summary": "暂无摘要",
-          "source": "skavish",
-          "url": "https://skavish.github.io/bugsy-map/",
-          "time": "2026-11-12"
         }
       ]
     },
@@ -399,6 +119,27 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+          "source": "Marina Temkin, Dominic-Madori Davis",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "time": "2026-11-13"
+        },
+        {
+          "title": "AI agent startup LangChain hits $3B valuation",
+          "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "time": "2026-11-13"
+        },
+        {
+          "title": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil",
+          "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+          "source": "Anna Heim",
+          "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+          "time": "2026-11-13"
+        },
         {
           "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
           "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
@@ -435,25 +176,11 @@
           "time": "2026-11-12"
         },
         {
-          "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-          "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Norwest pushes deeper into AI with new $4B fund",
-          "summary": "This is the investment firm's largest fund to date.",
-          "source": "Kirsten Korosec",
-          "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Nine Korean startups vie for a spot in Disrupt 2027&#8217;s Startup Battlefield 200 competition",
-          "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-          "source": "Kate Park",
-          "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-          "time": "2026-11-12"
+          "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+          "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+          "source": "Jason Parham",
+          "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+          "time": "2026-11-13"
         },
         {
           "title": "Jensen Huang’s $470 Billion Affair",
@@ -467,153 +194,6 @@
           "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
           "source": "Kate Taylor",
           "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
-          "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
-          "source": "Aarian Marshall",
-          "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "The Market Price of Managerial Indiscretions (2019)",
-          "summary": "暂无摘要",
-          "source": "throwaway81523",
-          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jacf.12319",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Daybranch – A visual workspace for organizing AI-assisted work",
-          "summary": "暂无摘要",
-          "source": "brunohenriquede",
-          "url": "https://www.daybranch.com/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "The Nvidia AI GPU Black Market (2025)",
-          "summary": "暂无摘要",
-          "source": "codechicago277",
-          "url": "https://www.youtube.com/watch?v=1H3xQaf7BFI",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "AI Bubble: 'Circular financing is over' – Ed Zitron [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=hhVpOvpXUEE",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Have AI timelines suddenly moved?",
-          "summary": "暂无摘要",
-          "source": "lars512",
-          "url": "https://lars.yencken.org/have-ai-timelines-moved/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Dario Amodei says AI will cure cancer, Alzheimer's, heart disease in 10 years",
-          "summary": "暂无摘要",
-          "source": "Refreeze5224",
-          "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Show HN: AxiomStory – Keep stories consistent across AI text, images, video",
-          "summary": "暂无摘要",
-          "source": "asimj1029",
-          "url": "https://axiomstory.com",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Habits of Highly Ineffective AI Programmers",
-          "summary": "暂无摘要",
-          "source": "4mpm3",
-          "url": "https://medium.com/young-coder/7-habits-of-highly-ineffective-ai-programmers-f40febb3b6e7",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Kids and Parents Are Protesting Google's Classroom AI",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning",
-          "summary": "暂无摘要",
-          "source": "vintagedave",
-          "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Axelera AI Thinks Titania Is a Better Way to Scale AI Inference",
-          "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://www.forbes.com/sites/marcochiappetta/2026/11/12/axelera-ai-thinks-theres-a-better-way-to-scale-ai-inference/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Security flaws in popular AI tools have nearly tripled",
-          "summary": "暂无摘要",
-          "source": "joshfischer1108",
-          "url": "https://birdyfoot.com/research/ai-tool-vulnerabilities",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI and Virtual Reality Enter the Therapist's Office",
-          "summary": "暂无摘要",
-          "source": "EA-3167",
-          "url": "https://undark.org/2026/10/30/avatar-deepfake-therapy/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI-written peer reviews outscored top human experts",
-          "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI #194: Spy versus Guy",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI Company Employees Should Unionize",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Mirendil raises $1B Series A led by Kleiner Perkins to democratize AI R&D",
-          "summary": "暂无摘要",
-          "source": "dvaplima",
-          "url": "https://mirendil.com/news/series-a/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Why You Should Expect an AI Crash",
-          "summary": "暂无摘要",
-          "source": "toomuchtodo",
-          "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-          "summary": "暂无摘要",
-          "source": "sroussey",
-          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
           "time": "2026-11-12"
         }
       ]
@@ -665,6 +245,13 @@
       "name": "政策监管",
       "icon": "📜",
       "news": [
+        {
+          "title": "Prohibited AI Practices under the AI Act",
+          "summary": "Since 2 February 2025, eight categories of AI practices have been banned in the EU because they pose unacceptable risks to fundamental rights and Union values. These ‘prohibited practices’ are set out",
+          "source": "Adam Radivojevic",
+          "url": "https://artificialintelligenceact.eu/prohibited-ai-practices-under-the-ai-act/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=prohibited-ai-practices-under-the-ai-act",
+          "time": "2026-11-13"
+        },
         {
           "title": "AI Therapy under the EU AI Act",
           "summary": "This page aims to provide an overview of AI systems, and in particular general-purpose AI (GPAI) systems, used for the purpose of therapy or emotional support under the AI Act. It explores the obligat",
@@ -825,146 +412,6 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
-        },
-        {
-          "title": "Daybranch – A visual workspace for organizing AI-assisted work",
-          "summary": "暂无摘要",
-          "source": "brunohenriquede",
-          "url": "https://www.daybranch.com/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
-          "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "The Nvidia AI GPU Black Market (2025)",
-          "summary": "暂无摘要",
-          "source": "codechicago277",
-          "url": "https://www.youtube.com/watch?v=1H3xQaf7BFI",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "AI Bubble: 'Circular financing is over' – Ed Zitron [video]",
-          "summary": "暂无摘要",
-          "source": "Bender",
-          "url": "https://www.youtube.com/watch?v=hhVpOvpXUEE",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Have AI timelines suddenly moved?",
-          "summary": "暂无摘要",
-          "source": "lars512",
-          "url": "https://lars.yencken.org/have-ai-timelines-moved/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Dario Amodei says AI will cure cancer, Alzheimer's, heart disease in 10 years",
-          "summary": "暂无摘要",
-          "source": "Refreeze5224",
-          "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Show HN: AxiomStory – Keep stories consistent across AI text, images, video",
-          "summary": "暂无摘要",
-          "source": "asimj1029",
-          "url": "https://axiomstory.com",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Habits of Highly Ineffective AI Programmers",
-          "summary": "暂无摘要",
-          "source": "4mpm3",
-          "url": "https://medium.com/young-coder/7-habits-of-highly-ineffective-ai-programmers-f40febb3b6e7",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Kids and Parents Are Protesting Google's Classroom AI",
-          "summary": "暂无摘要",
-          "source": "cdrnsf",
-          "url": "https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning",
-          "summary": "暂无摘要",
-          "source": "vintagedave",
-          "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Axelera AI Thinks Titania Is a Better Way to Scale AI Inference",
-          "summary": "暂无摘要",
-          "source": "peter_d_sherman",
-          "url": "https://www.forbes.com/sites/marcochiappetta/2026/11/12/axelera-ai-thinks-theres-a-better-way-to-scale-ai-inference/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Security flaws in popular AI tools have nearly tripled",
-          "summary": "暂无摘要",
-          "source": "joshfischer1108",
-          "url": "https://birdyfoot.com/research/ai-tool-vulnerabilities",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI and Virtual Reality Enter the Therapist's Office",
-          "summary": "暂无摘要",
-          "source": "EA-3167",
-          "url": "https://undark.org/2026/10/30/avatar-deepfake-therapy/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI-written peer reviews outscored top human experts",
-          "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI #194: Spy versus Guy",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "AI Company Employees Should Unionize",
-          "summary": "暂无摘要",
-          "source": "paulpauper",
-          "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Mirendil raises $1B Series A led by Kleiner Perkins to democratize AI R&D",
-          "summary": "暂无摘要",
-          "source": "dvaplima",
-          "url": "https://mirendil.com/news/series-a/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Why You Should Expect an AI Crash",
-          "summary": "暂无摘要",
-          "source": "toomuchtodo",
-          "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-          "summary": "暂无摘要",
-          "source": "sroussey",
-          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Show HN: Bugsy – AI automation which runs my company",
-          "summary": "暂无摘要",
-          "source": "skavish",
-          "url": "https://skavish.github.io/bugsy-map/",
-          "time": "2026-11-12"
         },
         {
           "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
