@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-11-14T00:33:10.026Z",
-  "date": "2026年11月14日 0时33分",
+  "updateTime": "2026-11-14T23:30:31.267Z",
+  "date": "2026年11月14日 23时30分",
   "categories": [
     {
       "id": "tech",
@@ -120,6 +120,13 @@
       "icon": "💼",
       "news": [
         {
+          "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "source": "Lauren Forristal",
+          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "time": "2026-11-14"
+        },
+        {
           "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
           "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
           "source": "Marina Temkin, Dominic-Madori Davis",
@@ -169,13 +176,6 @@
           "time": "2026-11-12"
         },
         {
-          "title": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambitions",
-          "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-          "source": "Tim De Chant",
-          "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-          "time": "2026-11-12"
-        },
-        {
           "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
           "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
           "source": "Jason Parham",
@@ -187,13 +187,6 @@
           "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
           "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
           "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-          "summary": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
-          "source": "Kate Taylor",
-          "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
           "time": "2026-11-12"
         }
       ]
