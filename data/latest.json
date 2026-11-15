@@ -1,12 +1,152 @@
 {
-  "updateTime": "2026-11-14T23:30:31.267Z",
-  "date": "2026年11月14日 23时30分",
+  "updateTime": "2026-11-15T23:38:54.726Z",
+  "date": "2026年11月15日 23时38分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "summary": "暂无摘要",
+          "source": "madihaa",
+          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+          "summary": "暂无摘要",
+          "source": "iwayato",
+          "url": "https://finance.biggo.com/news/71888475bad974d6",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Shen-rust, A port of the Shen programming language to Rust",
+          "summary": "暂无摘要",
+          "source": "eggy",
+          "url": "https://github.com/pyrex41/shen-rust",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "summary": "暂无摘要",
+          "source": "waximabbax",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "RouterOS – Wayback Machine",
+          "summary": "暂无摘要",
+          "source": "ronsor",
+          "url": "https://web.archive.org/web/20240913021822/http://192.168.1.1/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
+          "summary": "暂无摘要",
+          "source": "gnabgib",
+          "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Thales unveils software protection against AI-led reverse engineering",
+          "summary": "暂无摘要",
+          "source": "tommyage",
+          "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Technocracy, AI, and the End of the World",
+          "summary": "暂无摘要",
+          "source": "paimapi",
+          "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Delaware considers AI-managed companies",
+          "summary": "暂无摘要",
+          "source": "mitthrowaway2",
+          "url": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Sandboxes for AI Agents",
+          "summary": "暂无摘要",
+          "source": "ShMcK",
+          "url": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "The AI-Box Experiment (2002)",
+          "summary": "暂无摘要",
+          "source": "gavide",
+          "url": "https://www.yudkowsky.net/singularity/aibox",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Current human speed versus AI speed [video]",
+          "summary": "暂无摘要",
+          "source": "ilaksh",
+          "url": "https://www.youtube.com/watch?v=9PznwFjA4to",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Ask HN: What do coding interviews look like in the age of AI?",
+          "summary": "暂无摘要",
+          "source": "frankhorrigan",
+          "url": "https://news.ycombinator.com/item?id=50510540",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Inference Gateway Desktop, an AI client for any model provider",
+          "summary": "暂无摘要",
+          "source": "edenr",
+          "url": "https://github.com/inference-gateway/desktop",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "A browser API for choosing and running local AI models",
+          "summary": "暂无摘要",
+          "source": "kenzic",
+          "url": "https://www.webmodels.dev/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+          "summary": "暂无摘要",
+          "source": "hawkeye77787",
+          "url": "https://www.getlivewire.app/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+          "summary": "暂无摘要",
+          "source": "shalendragaur",
+          "url": "https://zenodo.org/records/23958737",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+          "summary": "暂无摘要",
+          "source": "u1hcw9nx",
+          "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+          "summary": "暂无摘要",
+          "source": "_spduchamp",
+          "url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
+          "time": "2026-11-15"
+        },
         {
           "title": "Innovating with AI in the special chemicals industry",
           "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
@@ -111,6 +251,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
           "time": "2026-09-17"
+        },
+        {
+          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "summary": "暂无摘要",
+          "source": "madihaa",
+          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+          "summary": "暂无摘要",
+          "source": "iwayato",
+          "url": "https://finance.biggo.com/news/71888475bad974d6",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "summary": "暂无摘要",
+          "source": "waximabbax",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
+          "summary": "暂无摘要",
+          "source": "gnabgib",
+          "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Thales unveils software protection against AI-led reverse engineering",
+          "summary": "暂无摘要",
+          "source": "tommyage",
+          "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Technocracy, AI, and the End of the World",
+          "summary": "暂无摘要",
+          "source": "paimapi",
+          "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Delaware considers AI-managed companies",
+          "summary": "暂无摘要",
+          "source": "mitthrowaway2",
+          "url": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Sandboxes for AI Agents",
+          "summary": "暂无摘要",
+          "source": "ShMcK",
+          "url": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "The AI-Box Experiment (2002)",
+          "summary": "暂无摘要",
+          "source": "gavide",
+          "url": "https://www.yudkowsky.net/singularity/aibox",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Anthropic's giant IPO puts the heat on OpenAI",
+          "summary": "暂无摘要",
+          "source": "andsoitis",
+          "url": "https://economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Current human speed versus AI speed [video]",
+          "summary": "暂无摘要",
+          "source": "ilaksh",
+          "url": "https://www.youtube.com/watch?v=9PznwFjA4to",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Ask HN: What do coding interviews look like in the age of AI?",
+          "summary": "暂无摘要",
+          "source": "frankhorrigan",
+          "url": "https://news.ycombinator.com/item?id=50510540",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Inference Gateway Desktop, an AI client for any model provider",
+          "summary": "暂无摘要",
+          "source": "edenr",
+          "url": "https://github.com/inference-gateway/desktop",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "A browser API for choosing and running local AI models",
+          "summary": "暂无摘要",
+          "source": "kenzic",
+          "url": "https://www.webmodels.dev/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+          "summary": "暂无摘要",
+          "source": "hawkeye77787",
+          "url": "https://www.getlivewire.app/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+          "summary": "暂无摘要",
+          "source": "shalendragaur",
+          "url": "https://zenodo.org/records/23958737",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+          "summary": "暂无摘要",
+          "source": "u1hcw9nx",
+          "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+          "summary": "暂无摘要",
+          "source": "_spduchamp",
+          "url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "OBR: Britain faces 'painful' job losses from AI",
+          "summary": "暂无摘要",
+          "source": "encyclopedism",
+          "url": "https://www.telegraph.co.uk/business/2026/11/13/britain-faces-very-painful-job-losses-from-ai-obr-chief-war/",
+          "time": "2026-11-15"
         }
       ]
     },
@@ -119,6 +399,13 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+          "source": "Jagmeet Singh",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "time": "2026-11-15"
+        },
         {
           "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
           "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -155,27 +442,6 @@
           "time": "2026-11-12"
         },
         {
-          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-          "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-          "source": "Lauren Forristal",
-          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-          "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-          "time": "2026-11-12"
-        },
-        {
-          "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#8217;s exit",
-          "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-          "time": "2026-11-12"
-        },
-        {
           "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
           "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
           "source": "Jason Parham",
@@ -183,11 +449,144 @@
           "time": "2026-11-13"
         },
         {
-          "title": "Jensen Huang’s $470 Billion Affair",
-          "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-          "source": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-          "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-          "time": "2026-11-12"
+          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "summary": "暂无摘要",
+          "source": "madihaa",
+          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+          "summary": "暂无摘要",
+          "source": "iwayato",
+          "url": "https://finance.biggo.com/news/71888475bad974d6",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "summary": "暂无摘要",
+          "source": "waximabbax",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
+          "summary": "暂无摘要",
+          "source": "gnabgib",
+          "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Thales unveils software protection against AI-led reverse engineering",
+          "summary": "暂无摘要",
+          "source": "tommyage",
+          "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Technocracy, AI, and the End of the World",
+          "summary": "暂无摘要",
+          "source": "paimapi",
+          "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Eric Trump-backed robot soldier startup can't pay staff; founder embezzled $4.6M",
+          "summary": "暂无摘要",
+          "source": "mikhael",
+          "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Delaware considers AI-managed companies",
+          "summary": "暂无摘要",
+          "source": "mitthrowaway2",
+          "url": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Sandboxes for AI Agents",
+          "summary": "暂无摘要",
+          "source": "ShMcK",
+          "url": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Duffy pins ground stop on Congress's lack of funding",
+          "summary": "暂无摘要",
+          "source": "madihaa",
+          "url": "https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "The AI-Box Experiment (2002)",
+          "summary": "暂无摘要",
+          "source": "gavide",
+          "url": "https://www.yudkowsky.net/singularity/aibox",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Current human speed versus AI speed [video]",
+          "summary": "暂无摘要",
+          "source": "ilaksh",
+          "url": "https://www.youtube.com/watch?v=9PznwFjA4to",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Ask HN: What do coding interviews look like in the age of AI?",
+          "summary": "暂无摘要",
+          "source": "frankhorrigan",
+          "url": "https://news.ycombinator.com/item?id=50510540",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Inference Gateway Desktop, an AI client for any model provider",
+          "summary": "暂无摘要",
+          "source": "edenr",
+          "url": "https://github.com/inference-gateway/desktop",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "A browser API for choosing and running local AI models",
+          "summary": "暂无摘要",
+          "source": "kenzic",
+          "url": "https://www.webmodels.dev/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+          "summary": "暂无摘要",
+          "source": "hawkeye77787",
+          "url": "https://www.getlivewire.app/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+          "summary": "暂无摘要",
+          "source": "shalendragaur",
+          "url": "https://zenodo.org/records/23958737",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "I was dissapointed with the UK job market until I saw someone else had it worse [video]",
+          "summary": "暂无摘要",
+          "source": "matthewg24",
+          "url": "https://www.youtube.com/watch?v=RRGOAj2dEX4",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+          "summary": "暂无摘要",
+          "source": "u1hcw9nx",
+          "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+          "time": "2026-11-15"
         }
       ]
     },
@@ -407,11 +806,151 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-          "summary": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-          "source": "Joel Khalili",
-          "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-          "time": "2026-11-12"
+          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "summary": "暂无摘要",
+          "source": "madihaa",
+          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+          "summary": "暂无摘要",
+          "source": "iwayato",
+          "url": "https://finance.biggo.com/news/71888475bad974d6",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "summary": "暂无摘要",
+          "source": "waximabbax",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
+          "summary": "暂无摘要",
+          "source": "gnabgib",
+          "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Thales unveils software protection against AI-led reverse engineering",
+          "summary": "暂无摘要",
+          "source": "tommyage",
+          "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Technocracy, AI, and the End of the World",
+          "summary": "暂无摘要",
+          "source": "paimapi",
+          "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Delaware considers AI-managed companies",
+          "summary": "暂无摘要",
+          "source": "mitthrowaway2",
+          "url": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Sandboxes for AI Agents",
+          "summary": "暂无摘要",
+          "source": "ShMcK",
+          "url": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "The AI-Box Experiment (2002)",
+          "summary": "暂无摘要",
+          "source": "gavide",
+          "url": "https://www.yudkowsky.net/singularity/aibox",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Current human speed versus AI speed [video]",
+          "summary": "暂无摘要",
+          "source": "ilaksh",
+          "url": "https://www.youtube.com/watch?v=9PznwFjA4to",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+          "summary": "暂无摘要",
+          "source": "geox",
+          "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Ask HN: What do coding interviews look like in the age of AI?",
+          "summary": "暂无摘要",
+          "source": "frankhorrigan",
+          "url": "https://news.ycombinator.com/item?id=50510540",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Inference Gateway Desktop, an AI client for any model provider",
+          "summary": "暂无摘要",
+          "source": "edenr",
+          "url": "https://github.com/inference-gateway/desktop",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "A browser API for choosing and running local AI models",
+          "summary": "暂无摘要",
+          "source": "kenzic",
+          "url": "https://www.webmodels.dev/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+          "summary": "暂无摘要",
+          "source": "hawkeye77787",
+          "url": "https://www.getlivewire.app/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+          "summary": "暂无摘要",
+          "source": "shalendragaur",
+          "url": "https://zenodo.org/records/23958737",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+          "summary": "暂无摘要",
+          "source": "u1hcw9nx",
+          "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+          "summary": "暂无摘要",
+          "source": "_spduchamp",
+          "url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "OBR: Britain faces 'painful' job losses from AI",
+          "summary": "暂无摘要",
+          "source": "encyclopedism",
+          "url": "https://www.telegraph.co.uk/business/2026/11/13/britain-faces-very-painful-job-losses-from-ai-obr-chief-war/",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "Show HN: Perfectclone – Yoink the source code of any website, not an AI clone",
+          "summary": "暂无摘要",
+          "source": "eshaangulati",
+          "url": "https://github.com/eshaangulati123/perfectclone",
+          "time": "2026-11-15"
+        },
+        {
+          "title": "AI DJs Completely Kill My Groove",
+          "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+          "source": "Reece Rogers",
+          "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+          "time": "2026-11-15"
         }
       ]
     }
