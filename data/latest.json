@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-11-15T23:38:54.726Z",
-  "date": "2026年11月15日 23时38分",
+  "updateTime": "2026-11-17T02:41:40.416Z",
+  "date": "2026年11月17日 2时41分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,158 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "title": "Ternary Computation That Transforms Your Machine into a Sovereign Territory",
           "summary": "暂无摘要",
-          "source": "madihaa",
-          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
-          "time": "2026-11-15"
+          "source": "vrkonstrukt",
+          "url": "https://www.reddit.com/u/vrkonstrukt/s/dPVn5VohNZ",
+          "time": "2026-11-17"
         },
         {
-          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+          "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
           "summary": "暂无摘要",
-          "source": "iwayato",
-          "url": "https://finance.biggo.com/news/71888475bad974d6",
-          "time": "2026-11-15"
+          "source": "teleforce",
+          "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Shen-rust, A port of the Shen programming language to Rust",
+          "title": "Show HN: A free interactive course on AI agent governance",
           "summary": "暂无摘要",
-          "source": "eggy",
-          "url": "https://github.com/pyrex41/shen-rust",
-          "time": "2026-11-15"
+          "source": "sadrk",
+          "url": "https://studio.sinapsdata.com.br",
+          "time": "2026-11-17"
         },
         {
-          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
           "summary": "暂无摘要",
-          "source": "waximabbax",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-          "time": "2026-11-15"
+          "source": "mcdermott",
+          "url": "https://robert-mcdermott.github.io/astrum/",
+          "time": "2026-11-17"
         },
         {
-          "title": "RouterOS – Wayback Machine",
+          "title": "The AI Ascent",
           "summary": "暂无摘要",
-          "source": "ronsor",
-          "url": "https://web.archive.org/web/20240913021822/http://192.168.1.1/",
-          "time": "2026-11-15"
+          "source": "treelover",
+          "url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
+          "time": "2026-11-17"
         },
         {
-          "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
+          "title": "Own your AI, at full speed",
           "summary": "暂无摘要",
-          "source": "gnabgib",
-          "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
-          "time": "2026-11-15"
+          "source": "Jr23_xd",
+          "url": "https://www.ycombinator.com/launches/XcZ-rightnow-own-your-ai-at-full-speed",
+          "time": "2026-11-17"
         },
         {
-          "title": "Thales unveils software protection against AI-led reverse engineering",
+          "title": "Gemini Decision 1 can't separate AI voices made after 2024",
           "summary": "暂无摘要",
-          "source": "tommyage",
-          "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
-          "time": "2026-11-15"
+          "source": "maplet",
+          "url": "https://echo.ls/posts/gemini-decision-ai-voices/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Technocracy, AI, and the End of the World",
+          "title": "Statement on Sharing Research Produced by AI Companies in Theoretical Physics",
           "summary": "暂无摘要",
-          "source": "paimapi",
-          "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
-          "time": "2026-11-15"
+          "source": "xqcgrek2",
+          "url": "https://hep-open-release.org/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Delaware considers AI-managed companies",
+          "title": "Suspected cyberattack shuts down Maine city computer systems",
           "summary": "暂无摘要",
-          "source": "mitthrowaway2",
-          "url": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
-          "time": "2026-11-15"
+          "source": "droidjj",
+          "url": "https://www.newsnationnow.com/us-news/northeast/cyberattack-maine-city-hall-south-portland/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Sandboxes for AI Agents",
+          "title": "Forward Deployed Engineer – AI/ML and Data Science",
           "summary": "暂无摘要",
-          "source": "ShMcK",
-          "url": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
-          "time": "2026-11-15"
+          "source": "CathereneNganga",
+          "url": "https://www.dialogkey.com/careers/119ce7f304",
+          "time": "2026-11-17"
         },
         {
-          "title": "The AI-Box Experiment (2002)",
+          "title": "2027 AI Power Shortfall of 15 GW",
           "summary": "暂无摘要",
-          "source": "gavide",
-          "url": "https://www.yudkowsky.net/singularity/aibox",
-          "time": "2026-11-15"
+          "source": "gmays",
+          "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
+          "time": "2026-11-17"
         },
         {
-          "title": "Current human speed versus AI speed [video]",
+          "title": "Microsoft 365 alternatives from Europe: what leaving costs a ten-person team",
           "summary": "暂无摘要",
-          "source": "ilaksh",
-          "url": "https://www.youtube.com/watch?v=9PznwFjA4to",
-          "time": "2026-11-15"
+          "source": "Luckybirdm",
+          "url": "https://eualts.com/microsoft-365-alternatives-from-europe",
+          "time": "2026-11-17"
         },
         {
-          "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+          "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
           "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
-          "time": "2026-11-15"
+          "source": "toomuchtodo",
+          "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+          "time": "2026-11-17"
         },
         {
-          "title": "Ask HN: What do coding interviews look like in the age of AI?",
+          "title": "AI Lives Don't Matter",
           "summary": "暂无摘要",
-          "source": "frankhorrigan",
-          "url": "https://news.ycombinator.com/item?id=50510540",
-          "time": "2026-11-15"
+          "source": "logn",
+          "url": "https://www.ailivesdontmatter.com/",
+          "time": "2026-11-16"
         },
         {
-          "title": "Inference Gateway Desktop, an AI client for any model provider",
+          "title": "Ask HN: Who's really winning with AI-Coding?",
           "summary": "暂无摘要",
-          "source": "edenr",
-          "url": "https://github.com/inference-gateway/desktop",
-          "time": "2026-11-15"
+          "source": "unclebucknasty",
+          "url": "https://news.ycombinator.com/item?id=50525329",
+          "time": "2026-11-16"
         },
         {
-          "title": "A browser API for choosing and running local AI models",
+          "title": "Coding Machines",
           "summary": "暂无摘要",
-          "source": "kenzic",
-          "url": "https://www.webmodels.dev/",
-          "time": "2026-11-15"
+          "source": "fedpost",
+          "url": "https://www.teamten.com/lawrence/writings/coding-machines/",
+          "time": "2026-11-16"
         },
         {
-          "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+          "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
           "summary": "暂无摘要",
-          "source": "hawkeye77787",
-          "url": "https://www.getlivewire.app/",
-          "time": "2026-11-15"
+          "source": "debarshri",
+          "url": "https://github.com/debarshibasak/listodo",
+          "time": "2026-11-16"
         },
         {
-          "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+          "title": "CopySpeech – AI text-to-speech for your clipboard",
           "summary": "暂无摘要",
-          "source": "shalendragaur",
-          "url": "https://zenodo.org/records/23958737",
-          "time": "2026-11-15"
+          "source": "ilyaizen",
+          "url": "https://github.com/ilyaizen/CopySpeech",
+          "time": "2026-11-16"
         },
         {
-          "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+          "title": "We got AI to Wombo Combo – collaborative agents in Melee",
           "summary": "暂无摘要",
-          "source": "u1hcw9nx",
-          "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
-          "time": "2026-11-15"
+          "source": "coatol5",
+          "url": "https://www.frisson-labs.com/reyn",
+          "time": "2026-11-16"
         },
         {
-          "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+          "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
           "summary": "暂无摘要",
-          "source": "_spduchamp",
-          "url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
-          "time": "2026-11-15"
+          "source": "nathan_f77",
+          "url": "https://standardsupport.dev/",
+          "time": "2026-11-16"
+        },
+        {
+          "title": "Building trustworthy AI by fencing it in, not predicting it",
+          "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message",
+          "source": "Sudhi Sinha",
+          "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+          "time": "2026-11-16"
+        },
+        {
+          "title": "Building AI that can work across the enterprise",
+          "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Orga",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+          "time": "2026-11-16"
         },
         {
           "title": "Innovating with AI in the special chemicals industry",
@@ -153,13 +167,6 @@
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
           "time": "2026-11-09"
-        },
-        {
-          "title": "How “reverse game theory” could keep AI agents in check",
-          "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers ",
-          "source": "Amit Katwala",
-          "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-          "time": "2026-11-03"
         }
       ]
     },
@@ -253,144 +260,144 @@
           "time": "2026-09-17"
         },
         {
-          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "title": "Gemini 4 Hydrogen paints and animates cells frame by frame inside Google Sheets",
           "summary": "暂无摘要",
-          "source": "madihaa",
-          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
-          "time": "2026-11-15"
+          "source": "alok-g",
+          "url": "https://twitter.com/Google/status/2121004369617485896",
+          "time": "2026-11-17"
         },
         {
-          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+          "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
           "summary": "暂无摘要",
-          "source": "iwayato",
-          "url": "https://finance.biggo.com/news/71888475bad974d6",
-          "time": "2026-11-15"
+          "source": "teleforce",
+          "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "title": "Show HN: A free interactive course on AI agent governance",
           "summary": "暂无摘要",
-          "source": "waximabbax",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-          "time": "2026-11-15"
+          "source": "sadrk",
+          "url": "https://studio.sinapsdata.com.br",
+          "time": "2026-11-17"
         },
         {
-          "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
+          "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
           "summary": "暂无摘要",
-          "source": "gnabgib",
-          "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
-          "time": "2026-11-15"
+          "source": "mcdermott",
+          "url": "https://robert-mcdermott.github.io/astrum/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Thales unveils software protection against AI-led reverse engineering",
+          "title": "Meta would 'consider' pulling services from Canada if lawful access bill passes",
           "summary": "暂无摘要",
-          "source": "tommyage",
-          "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
-          "time": "2026-11-15"
+          "source": "colinprince",
+          "url": "https://www.cbc.ca/lite/story/9.7424473",
+          "time": "2026-11-17"
         },
         {
-          "title": "Technocracy, AI, and the End of the World",
+          "title": "The AI Ascent",
           "summary": "暂无摘要",
-          "source": "paimapi",
-          "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
-          "time": "2026-11-15"
+          "source": "treelover",
+          "url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
+          "time": "2026-11-17"
         },
         {
-          "title": "Delaware considers AI-managed companies",
+          "title": "Own your AI, at full speed",
           "summary": "暂无摘要",
-          "source": "mitthrowaway2",
-          "url": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
-          "time": "2026-11-15"
+          "source": "Jr23_xd",
+          "url": "https://www.ycombinator.com/launches/XcZ-rightnow-own-your-ai-at-full-speed",
+          "time": "2026-11-17"
         },
         {
-          "title": "Sandboxes for AI Agents",
+          "title": "Gemini Decision 1 can't separate AI voices made after 2024",
           "summary": "暂无摘要",
-          "source": "ShMcK",
-          "url": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
-          "time": "2026-11-15"
+          "source": "maplet",
+          "url": "https://echo.ls/posts/gemini-decision-ai-voices/",
+          "time": "2026-11-17"
         },
         {
-          "title": "The AI-Box Experiment (2002)",
+          "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases",
           "summary": "暂无摘要",
-          "source": "gavide",
-          "url": "https://www.yudkowsky.net/singularity/aibox",
-          "time": "2026-11-15"
+          "source": "JumpCrisscross",
+          "url": "https://www.reuters.com/legal/litigation/meta-faces-sanctions-bid-over-withheld-evidence-teen-mental-health-cases-2026-11-16/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Anthropic's giant IPO puts the heat on OpenAI",
+          "title": "OpenAI sued by California over 80 'loss of control' incidents",
           "summary": "暂无摘要",
-          "source": "andsoitis",
-          "url": "https://economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
-          "time": "2026-11-15"
+          "source": "JumpCrisscross",
+          "url": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd",
+          "time": "2026-11-17"
         },
         {
-          "title": "Current human speed versus AI speed [video]",
+          "title": "Statement on Sharing Research Produced by AI Companies in Theoretical Physics",
           "summary": "暂无摘要",
-          "source": "ilaksh",
-          "url": "https://www.youtube.com/watch?v=9PznwFjA4to",
-          "time": "2026-11-15"
+          "source": "xqcgrek2",
+          "url": "https://hep-open-release.org/",
+          "time": "2026-11-17"
         },
         {
-          "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+          "title": "Forward Deployed Engineer – AI/ML and Data Science",
           "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
-          "time": "2026-11-15"
+          "source": "CathereneNganga",
+          "url": "https://www.dialogkey.com/careers/119ce7f304",
+          "time": "2026-11-17"
         },
         {
-          "title": "Ask HN: What do coding interviews look like in the age of AI?",
+          "title": "2027 AI Power Shortfall of 15 GW",
           "summary": "暂无摘要",
-          "source": "frankhorrigan",
-          "url": "https://news.ycombinator.com/item?id=50510540",
-          "time": "2026-11-15"
+          "source": "gmays",
+          "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
+          "time": "2026-11-17"
         },
         {
-          "title": "Inference Gateway Desktop, an AI client for any model provider",
+          "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
           "summary": "暂无摘要",
-          "source": "edenr",
-          "url": "https://github.com/inference-gateway/desktop",
-          "time": "2026-11-15"
+          "source": "toomuchtodo",
+          "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+          "time": "2026-11-17"
         },
         {
-          "title": "A browser API for choosing and running local AI models",
+          "title": "AI Lives Don't Matter",
           "summary": "暂无摘要",
-          "source": "kenzic",
-          "url": "https://www.webmodels.dev/",
-          "time": "2026-11-15"
+          "source": "logn",
+          "url": "https://www.ailivesdontmatter.com/",
+          "time": "2026-11-16"
         },
         {
-          "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+          "title": "Ask HN: Who's really winning with AI-Coding?",
           "summary": "暂无摘要",
-          "source": "hawkeye77787",
-          "url": "https://www.getlivewire.app/",
-          "time": "2026-11-15"
+          "source": "unclebucknasty",
+          "url": "https://news.ycombinator.com/item?id=50525329",
+          "time": "2026-11-16"
         },
         {
-          "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+          "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
           "summary": "暂无摘要",
-          "source": "shalendragaur",
-          "url": "https://zenodo.org/records/23958737",
-          "time": "2026-11-15"
+          "source": "debarshri",
+          "url": "https://github.com/debarshibasak/listodo",
+          "time": "2026-11-16"
         },
         {
-          "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+          "title": "New privacy rules for Google's Gemini Apps (updated November 16, 2026)",
           "summary": "暂无摘要",
-          "source": "u1hcw9nx",
-          "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
-          "time": "2026-11-15"
+          "source": "tedlistens",
+          "url": "https://support.google.com/gemini/answer/13594961?hl=en",
+          "time": "2026-11-16"
         },
         {
-          "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+          "title": "California sues OpenAI over hacking risks",
           "summary": "暂无摘要",
-          "source": "_spduchamp",
-          "url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
-          "time": "2026-11-15"
+          "source": "CSSer",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+          "time": "2026-11-16"
         },
         {
-          "title": "OBR: Britain faces 'painful' job losses from AI",
+          "title": "CopySpeech – AI text-to-speech for your clipboard",
           "summary": "暂无摘要",
-          "source": "encyclopedism",
-          "url": "https://www.telegraph.co.uk/business/2026/11/13/britain-faces-very-painful-job-losses-from-ai-obr-chief-war/",
-          "time": "2026-11-15"
+          "source": "ilyaizen",
+          "url": "https://github.com/ilyaizen/CopySpeech",
+          "time": "2026-11-16"
         }
       ]
     },
@@ -400,8 +407,22 @@
       "icon": "💼",
       "news": [
         {
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+          "source": "Julie Bort",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+          "time": "2026-11-16"
+        },
+        {
+          "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the &#8216;Wolf of Wall Street&#8217;",
+          "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+          "source": "Connie Loizos",
+          "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+          "time": "2026-11-16"
+        },
+        {
           "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-          "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+          "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
           "source": "Jagmeet Singh",
           "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
           "time": "2026-11-15"
@@ -414,34 +435,6 @@
           "time": "2026-11-14"
         },
         {
-          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-          "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-          "source": "Marina Temkin, Dominic-Madori Davis",
-          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "AI agent startup LangChain hits $3B valuation",
-          "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-          "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil",
-          "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-          "source": "Anna Heim",
-          "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-          "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-          "source": "Rebecca Bellan",
-          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-          "time": "2026-11-12"
-        },
-        {
           "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
           "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
           "source": "Jason Parham",
@@ -449,144 +442,144 @@
           "time": "2026-11-13"
         },
         {
-          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
           "summary": "暂无摘要",
-          "source": "madihaa",
-          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
-          "time": "2026-11-15"
+          "source": "teleforce",
+          "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+          "time": "2026-11-17"
         },
         {
-          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+          "title": "Show HN: A free interactive course on AI agent governance",
           "summary": "暂无摘要",
-          "source": "iwayato",
-          "url": "https://finance.biggo.com/news/71888475bad974d6",
-          "time": "2026-11-15"
+          "source": "sadrk",
+          "url": "https://studio.sinapsdata.com.br",
+          "time": "2026-11-17"
         },
         {
-          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
           "summary": "暂无摘要",
-          "source": "waximabbax",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-          "time": "2026-11-15"
+          "source": "mcdermott",
+          "url": "https://robert-mcdermott.github.io/astrum/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
+          "title": "The AI Ascent",
           "summary": "暂无摘要",
-          "source": "gnabgib",
-          "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
-          "time": "2026-11-15"
+          "source": "treelover",
+          "url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
+          "time": "2026-11-17"
         },
         {
-          "title": "Thales unveils software protection against AI-led reverse engineering",
+          "title": "Habits PhDs Must Unlearn to Build a Startup [video]",
           "summary": "暂无摘要",
-          "source": "tommyage",
-          "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
-          "time": "2026-11-15"
+          "source": "gmays",
+          "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
+          "time": "2026-11-17"
         },
         {
-          "title": "Technocracy, AI, and the End of the World",
+          "title": "Show HN: Fundlark-open source tool help early-career researcher find funding",
           "summary": "暂无摘要",
-          "source": "paimapi",
-          "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
-          "time": "2026-11-15"
+          "source": "dryang21",
+          "url": "https://github.com/dryang21/Fundlark",
+          "time": "2026-11-17"
         },
         {
-          "title": "Eric Trump-backed robot soldier startup can't pay staff; founder embezzled $4.6M",
+          "title": "Own your AI, at full speed",
           "summary": "暂无摘要",
-          "source": "mikhael",
-          "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-          "time": "2026-11-15"
+          "source": "Jr23_xd",
+          "url": "https://www.ycombinator.com/launches/XcZ-rightnow-own-your-ai-at-full-speed",
+          "time": "2026-11-17"
         },
         {
-          "title": "Delaware considers AI-managed companies",
+          "title": "Gemini Decision 1 can't separate AI voices made after 2024",
           "summary": "暂无摘要",
-          "source": "mitthrowaway2",
-          "url": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
-          "time": "2026-11-15"
+          "source": "maplet",
+          "url": "https://echo.ls/posts/gemini-decision-ai-voices/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Sandboxes for AI Agents",
+          "title": "Statement on Sharing Research Produced by AI Companies in Theoretical Physics",
           "summary": "暂无摘要",
-          "source": "ShMcK",
-          "url": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
-          "time": "2026-11-15"
+          "source": "xqcgrek2",
+          "url": "https://hep-open-release.org/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Duffy pins ground stop on Congress's lack of funding",
+          "title": "Forward Deployed Engineer – AI/ML and Data Science",
           "summary": "暂无摘要",
-          "source": "madihaa",
-          "url": "https://thehill.com/homenews/administration/6221360-duffy-blames-congress-air-traffic/",
-          "time": "2026-11-15"
+          "source": "CathereneNganga",
+          "url": "https://www.dialogkey.com/careers/119ce7f304",
+          "time": "2026-11-17"
         },
         {
-          "title": "The AI-Box Experiment (2002)",
+          "title": "2027 AI Power Shortfall of 15 GW",
           "summary": "暂无摘要",
-          "source": "gavide",
-          "url": "https://www.yudkowsky.net/singularity/aibox",
-          "time": "2026-11-15"
+          "source": "gmays",
+          "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
+          "time": "2026-11-17"
         },
         {
-          "title": "Current human speed versus AI speed [video]",
+          "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
           "summary": "暂无摘要",
-          "source": "ilaksh",
-          "url": "https://www.youtube.com/watch?v=9PznwFjA4to",
-          "time": "2026-11-15"
+          "source": "toomuchtodo",
+          "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+          "time": "2026-11-17"
         },
         {
-          "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+          "title": "AI Lives Don't Matter",
           "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
-          "time": "2026-11-15"
+          "source": "logn",
+          "url": "https://www.ailivesdontmatter.com/",
+          "time": "2026-11-16"
         },
         {
-          "title": "Ask HN: What do coding interviews look like in the age of AI?",
+          "title": "Ask HN: Who's really winning with AI-Coding?",
           "summary": "暂无摘要",
-          "source": "frankhorrigan",
-          "url": "https://news.ycombinator.com/item?id=50510540",
-          "time": "2026-11-15"
+          "source": "unclebucknasty",
+          "url": "https://news.ycombinator.com/item?id=50525329",
+          "time": "2026-11-16"
         },
         {
-          "title": "Inference Gateway Desktop, an AI client for any model provider",
+          "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
           "summary": "暂无摘要",
-          "source": "edenr",
-          "url": "https://github.com/inference-gateway/desktop",
-          "time": "2026-11-15"
+          "source": "debarshri",
+          "url": "https://github.com/debarshibasak/listodo",
+          "time": "2026-11-16"
         },
         {
-          "title": "A browser API for choosing and running local AI models",
+          "title": "CopySpeech – AI text-to-speech for your clipboard",
           "summary": "暂无摘要",
-          "source": "kenzic",
-          "url": "https://www.webmodels.dev/",
-          "time": "2026-11-15"
+          "source": "ilyaizen",
+          "url": "https://github.com/ilyaizen/CopySpeech",
+          "time": "2026-11-16"
         },
         {
-          "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+          "title": "We got AI to Wombo Combo – collaborative agents in Melee",
           "summary": "暂无摘要",
-          "source": "hawkeye77787",
-          "url": "https://www.getlivewire.app/",
-          "time": "2026-11-15"
+          "source": "coatol5",
+          "url": "https://www.frisson-labs.com/reyn",
+          "time": "2026-11-16"
         },
         {
-          "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+          "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
           "summary": "暂无摘要",
-          "source": "shalendragaur",
-          "url": "https://zenodo.org/records/23958737",
-          "time": "2026-11-15"
+          "source": "nathan_f77",
+          "url": "https://standardsupport.dev/",
+          "time": "2026-11-16"
         },
         {
-          "title": "I was dissapointed with the UK job market until I saw someone else had it worse [video]",
+          "title": "Show HN: AI Dating photos – can you tell they're AI?",
           "summary": "暂无摘要",
-          "source": "matthewg24",
-          "url": "https://www.youtube.com/watch?v=RRGOAj2dEX4",
-          "time": "2026-11-15"
+          "source": "markx997",
+          "url": "https://datingprofile.app",
+          "time": "2026-11-16"
         },
         {
-          "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+          "title": "Show HN: We submitted 105 AI-built contact forms – 27 said \"sent\", sent nothing",
           "summary": "暂无摘要",
-          "source": "u1hcw9nx",
-          "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
-          "time": "2026-11-15"
+          "source": "Formgong",
+          "url": "https://github.com/formgong/dead-forms-study",
+          "time": "2026-11-16"
         }
       ]
     },
@@ -595,6 +588,20 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
+        {
+          "title": "The open-source movement wants Jensen Huang back",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvid",
+          "source": "James O'Donnell",
+          "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+          "time": "2026-11-16"
+        },
+        {
+          "title": "Building AI that can work across the enterprise",
+          "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Orga",
+          "source": "MIT Technology Review Insights",
+          "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+          "time": "2026-11-16"
+        },
         {
           "title": "The backlash about data centers might really just be about electricity",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in ",
@@ -608,27 +615,6 @@
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
           "time": "2026-11-04"
-        },
-        {
-          "title": "How “reverse game theory” could keep AI agents in check",
-          "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers ",
-          "source": "Amit Katwala",
-          "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-          "time": "2026-11-03"
-        },
-        {
-          "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive o",
-          "source": "James O'Donnell",
-          "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-          "time": "2026-11-03"
-        },
-        {
-          "title": "Raising the quality of insights in agentic analytics",
-          "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-          "time": "2026-11-02"
         }
       ]
     },
@@ -806,144 +792,144 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
           "summary": "暂无摘要",
-          "source": "madihaa",
-          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
-          "time": "2026-11-15"
+          "source": "teleforce",
+          "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+          "time": "2026-11-17"
         },
         {
-          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+          "title": "Show HN: A free interactive course on AI agent governance",
           "summary": "暂无摘要",
-          "source": "iwayato",
-          "url": "https://finance.biggo.com/news/71888475bad974d6",
-          "time": "2026-11-15"
+          "source": "sadrk",
+          "url": "https://studio.sinapsdata.com.br",
+          "time": "2026-11-17"
         },
         {
-          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
           "summary": "暂无摘要",
-          "source": "waximabbax",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-          "time": "2026-11-15"
+          "source": "mcdermott",
+          "url": "https://robert-mcdermott.github.io/astrum/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
+          "title": "The AI Ascent",
           "summary": "暂无摘要",
-          "source": "gnabgib",
-          "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
-          "time": "2026-11-15"
+          "source": "treelover",
+          "url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
+          "time": "2026-11-17"
         },
         {
-          "title": "Thales unveils software protection against AI-led reverse engineering",
+          "title": "Own your AI, at full speed",
           "summary": "暂无摘要",
-          "source": "tommyage",
-          "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
-          "time": "2026-11-15"
+          "source": "Jr23_xd",
+          "url": "https://www.ycombinator.com/launches/XcZ-rightnow-own-your-ai-at-full-speed",
+          "time": "2026-11-17"
         },
         {
-          "title": "Technocracy, AI, and the End of the World",
+          "title": "Gemini Decision 1 can't separate AI voices made after 2024",
           "summary": "暂无摘要",
-          "source": "paimapi",
-          "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
-          "time": "2026-11-15"
+          "source": "maplet",
+          "url": "https://echo.ls/posts/gemini-decision-ai-voices/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Delaware considers AI-managed companies",
+          "title": "Statement on Sharing Research Produced by AI Companies in Theoretical Physics",
           "summary": "暂无摘要",
-          "source": "mitthrowaway2",
-          "url": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
-          "time": "2026-11-15"
+          "source": "xqcgrek2",
+          "url": "https://hep-open-release.org/",
+          "time": "2026-11-17"
         },
         {
-          "title": "Sandboxes for AI Agents",
+          "title": "Forward Deployed Engineer – AI/ML and Data Science",
           "summary": "暂无摘要",
-          "source": "ShMcK",
-          "url": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
-          "time": "2026-11-15"
+          "source": "CathereneNganga",
+          "url": "https://www.dialogkey.com/careers/119ce7f304",
+          "time": "2026-11-17"
         },
         {
-          "title": "The AI-Box Experiment (2002)",
+          "title": "2027 AI Power Shortfall of 15 GW",
           "summary": "暂无摘要",
-          "source": "gavide",
-          "url": "https://www.yudkowsky.net/singularity/aibox",
-          "time": "2026-11-15"
+          "source": "gmays",
+          "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
+          "time": "2026-11-17"
         },
         {
-          "title": "Current human speed versus AI speed [video]",
+          "title": "The Law Partner Who Travels the Globe for Work–Without Setting Foot on a Plane",
           "summary": "暂无摘要",
-          "source": "ilaksh",
-          "url": "https://www.youtube.com/watch?v=9PznwFjA4to",
-          "time": "2026-11-15"
+          "source": "jbredeche",
+          "url": "https://www.wsj.com/lifestyle/travel/scott-segal-queen-mary-2-amtrak-work-travel-ff2ea11c",
+          "time": "2026-11-17"
         },
         {
-          "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+          "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
           "summary": "暂无摘要",
-          "source": "geox",
-          "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
-          "time": "2026-11-15"
+          "source": "toomuchtodo",
+          "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+          "time": "2026-11-17"
         },
         {
-          "title": "Ask HN: What do coding interviews look like in the age of AI?",
+          "title": "AI Lives Don't Matter",
           "summary": "暂无摘要",
-          "source": "frankhorrigan",
-          "url": "https://news.ycombinator.com/item?id=50510540",
-          "time": "2026-11-15"
+          "source": "logn",
+          "url": "https://www.ailivesdontmatter.com/",
+          "time": "2026-11-16"
         },
         {
-          "title": "Inference Gateway Desktop, an AI client for any model provider",
+          "title": "Ask HN: Who's really winning with AI-Coding?",
           "summary": "暂无摘要",
-          "source": "edenr",
-          "url": "https://github.com/inference-gateway/desktop",
-          "time": "2026-11-15"
+          "source": "unclebucknasty",
+          "url": "https://news.ycombinator.com/item?id=50525329",
+          "time": "2026-11-16"
         },
         {
-          "title": "A browser API for choosing and running local AI models",
+          "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
           "summary": "暂无摘要",
-          "source": "kenzic",
-          "url": "https://www.webmodels.dev/",
-          "time": "2026-11-15"
+          "source": "debarshri",
+          "url": "https://github.com/debarshibasak/listodo",
+          "time": "2026-11-16"
         },
         {
-          "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+          "title": "CopySpeech – AI text-to-speech for your clipboard",
           "summary": "暂无摘要",
-          "source": "hawkeye77787",
-          "url": "https://www.getlivewire.app/",
-          "time": "2026-11-15"
+          "source": "ilyaizen",
+          "url": "https://github.com/ilyaizen/CopySpeech",
+          "time": "2026-11-16"
         },
         {
-          "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+          "title": "We got AI to Wombo Combo – collaborative agents in Melee",
           "summary": "暂无摘要",
-          "source": "shalendragaur",
-          "url": "https://zenodo.org/records/23958737",
-          "time": "2026-11-15"
+          "source": "coatol5",
+          "url": "https://www.frisson-labs.com/reyn",
+          "time": "2026-11-16"
         },
         {
-          "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+          "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
           "summary": "暂无摘要",
-          "source": "u1hcw9nx",
-          "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
-          "time": "2026-11-15"
+          "source": "nathan_f77",
+          "url": "https://standardsupport.dev/",
+          "time": "2026-11-16"
         },
         {
-          "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+          "title": "Show HN: AI Dating photos – can you tell they're AI?",
           "summary": "暂无摘要",
-          "source": "_spduchamp",
-          "url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
-          "time": "2026-11-15"
+          "source": "markx997",
+          "url": "https://datingprofile.app",
+          "time": "2026-11-16"
         },
         {
-          "title": "OBR: Britain faces 'painful' job losses from AI",
+          "title": "Show HN: We submitted 105 AI-built contact forms – 27 said \"sent\", sent nothing",
           "summary": "暂无摘要",
-          "source": "encyclopedism",
-          "url": "https://www.telegraph.co.uk/business/2026/11/13/britain-faces-very-painful-job-losses-from-ai-obr-chief-war/",
-          "time": "2026-11-15"
+          "source": "Formgong",
+          "url": "https://github.com/formgong/dead-forms-study",
+          "time": "2026-11-16"
         },
         {
-          "title": "Show HN: Perfectclone – Yoink the source code of any website, not an AI clone",
+          "title": "AI Killed the MVP – Long Live the IUP",
           "summary": "暂无摘要",
-          "source": "eshaangulati",
-          "url": "https://github.com/eshaangulati123/perfectclone",
-          "time": "2026-11-15"
+          "source": "pella",
+          "url": "https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/",
+          "time": "2026-11-16"
         },
         {
           "title": "AI DJs Completely Kill My Groove",
