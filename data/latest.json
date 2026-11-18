@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-11-17T02:41:40.416Z",
-  "date": "2026年11月17日 2时41分",
+  "updateTime": "2026-11-18T01:57:11.165Z",
+  "date": "2026年11月18日 1时57分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,11 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Ternary Computation That Transforms Your Machine into a Sovereign Territory",
-          "summary": "暂无摘要",
-          "source": "vrkonstrukt",
-          "url": "https://www.reddit.com/u/vrkonstrukt/s/dPVn5VohNZ",
+          "title": "Research Reports",
+          "summary": "To access a report, click on the corresponding image below.",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
           "time": "2026-11-17"
-        },
-        {
-          "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
-          "summary": "暂无摘要",
-          "source": "teleforce",
-          "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Show HN: A free interactive course on AI agent governance",
-          "summary": "暂无摘要",
-          "source": "sadrk",
-          "url": "https://studio.sinapsdata.com.br",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
-          "summary": "暂无摘要",
-          "source": "mcdermott",
-          "url": "https://robert-mcdermott.github.io/astrum/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "The AI Ascent",
-          "summary": "暂无摘要",
-          "source": "treelover",
-          "url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Own your AI, at full speed",
-          "summary": "暂无摘要",
-          "source": "Jr23_xd",
-          "url": "https://www.ycombinator.com/launches/XcZ-rightnow-own-your-ai-at-full-speed",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Gemini Decision 1 can't separate AI voices made after 2024",
-          "summary": "暂无摘要",
-          "source": "maplet",
-          "url": "https://echo.ls/posts/gemini-decision-ai-voices/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Statement on Sharing Research Produced by AI Companies in Theoretical Physics",
-          "summary": "暂无摘要",
-          "source": "xqcgrek2",
-          "url": "https://hep-open-release.org/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Suspected cyberattack shuts down Maine city computer systems",
-          "summary": "暂无摘要",
-          "source": "droidjj",
-          "url": "https://www.newsnationnow.com/us-news/northeast/cyberattack-maine-city-hall-south-portland/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Forward Deployed Engineer – AI/ML and Data Science",
-          "summary": "暂无摘要",
-          "source": "CathereneNganga",
-          "url": "https://www.dialogkey.com/careers/119ce7f304",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "2027 AI Power Shortfall of 15 GW",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Microsoft 365 alternatives from Europe: what leaving costs a ten-person team",
-          "summary": "暂无摘要",
-          "source": "Luckybirdm",
-          "url": "https://eualts.com/microsoft-365-alternatives-from-europe",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
-          "summary": "暂无摘要",
-          "source": "toomuchtodo",
-          "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "AI Lives Don't Matter",
-          "summary": "暂无摘要",
-          "source": "logn",
-          "url": "https://www.ailivesdontmatter.com/",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Ask HN: Who's really winning with AI-Coding?",
-          "summary": "暂无摘要",
-          "source": "unclebucknasty",
-          "url": "https://news.ycombinator.com/item?id=50525329",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Coding Machines",
-          "summary": "暂无摘要",
-          "source": "fedpost",
-          "url": "https://www.teamten.com/lawrence/writings/coding-machines/",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
-          "summary": "暂无摘要",
-          "source": "debarshri",
-          "url": "https://github.com/debarshibasak/listodo",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "CopySpeech – AI text-to-speech for your clipboard",
-          "summary": "暂无摘要",
-          "source": "ilyaizen",
-          "url": "https://github.com/ilyaizen/CopySpeech",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "We got AI to Wombo Combo – collaborative agents in Melee",
-          "summary": "暂无摘要",
-          "source": "coatol5",
-          "url": "https://www.frisson-labs.com/reyn",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
-          "summary": "暂无摘要",
-          "source": "nathan_f77",
-          "url": "https://standardsupport.dev/",
-          "time": "2026-11-16"
         },
         {
           "title": "Building trustworthy AI by fencing it in, not predicting it",
@@ -162,7 +29,7 @@
           "time": "2026-11-16"
         },
         {
-          "title": "Innovating with AI in the special chemicals industry",
+          "title": "Innovating with AI in the specialty chemicals industry",
           "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
@@ -175,6 +42,13 @@
       "name": "大厂动态",
       "icon": "🏢",
       "news": [
+        {
+          "title": "Put Gemini to work for you",
+          "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+          "source": "Google AI Blog",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+          "time": "2026-11-17"
+        },
         {
           "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
           "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
@@ -251,153 +125,6 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
           "time": "2026-09-18"
-        },
-        {
-          "title": "Making global data easier to explore",
-          "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-          "source": "Google AI Blog",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-          "time": "2026-09-17"
-        },
-        {
-          "title": "Gemini 4 Hydrogen paints and animates cells frame by frame inside Google Sheets",
-          "summary": "暂无摘要",
-          "source": "alok-g",
-          "url": "https://twitter.com/Google/status/2121004369617485896",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
-          "summary": "暂无摘要",
-          "source": "teleforce",
-          "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Show HN: A free interactive course on AI agent governance",
-          "summary": "暂无摘要",
-          "source": "sadrk",
-          "url": "https://studio.sinapsdata.com.br",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
-          "summary": "暂无摘要",
-          "source": "mcdermott",
-          "url": "https://robert-mcdermott.github.io/astrum/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Meta would 'consider' pulling services from Canada if lawful access bill passes",
-          "summary": "暂无摘要",
-          "source": "colinprince",
-          "url": "https://www.cbc.ca/lite/story/9.7424473",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "The AI Ascent",
-          "summary": "暂无摘要",
-          "source": "treelover",
-          "url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Own your AI, at full speed",
-          "summary": "暂无摘要",
-          "source": "Jr23_xd",
-          "url": "https://www.ycombinator.com/launches/XcZ-rightnow-own-your-ai-at-full-speed",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Gemini Decision 1 can't separate AI voices made after 2024",
-          "summary": "暂无摘要",
-          "source": "maplet",
-          "url": "https://echo.ls/posts/gemini-decision-ai-voices/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases",
-          "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.reuters.com/legal/litigation/meta-faces-sanctions-bid-over-withheld-evidence-teen-mental-health-cases-2026-11-16/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "OpenAI sued by California over 80 'loss of control' incidents",
-          "summary": "暂无摘要",
-          "source": "JumpCrisscross",
-          "url": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Statement on Sharing Research Produced by AI Companies in Theoretical Physics",
-          "summary": "暂无摘要",
-          "source": "xqcgrek2",
-          "url": "https://hep-open-release.org/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Forward Deployed Engineer – AI/ML and Data Science",
-          "summary": "暂无摘要",
-          "source": "CathereneNganga",
-          "url": "https://www.dialogkey.com/careers/119ce7f304",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "2027 AI Power Shortfall of 15 GW",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
-          "summary": "暂无摘要",
-          "source": "toomuchtodo",
-          "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "AI Lives Don't Matter",
-          "summary": "暂无摘要",
-          "source": "logn",
-          "url": "https://www.ailivesdontmatter.com/",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Ask HN: Who's really winning with AI-Coding?",
-          "summary": "暂无摘要",
-          "source": "unclebucknasty",
-          "url": "https://news.ycombinator.com/item?id=50525329",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
-          "summary": "暂无摘要",
-          "source": "debarshri",
-          "url": "https://github.com/debarshibasak/listodo",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "New privacy rules for Google's Gemini Apps (updated November 16, 2026)",
-          "summary": "暂无摘要",
-          "source": "tedlistens",
-          "url": "https://support.google.com/gemini/answer/13594961?hl=en",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "California sues OpenAI over hacking risks",
-          "summary": "暂无摘要",
-          "source": "CSSer",
-          "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "CopySpeech – AI text-to-speech for your clipboard",
-          "summary": "暂无摘要",
-          "source": "ilyaizen",
-          "url": "https://github.com/ilyaizen/CopySpeech",
-          "time": "2026-11-16"
         }
       ]
     },
@@ -407,179 +134,67 @@
       "icon": "💼",
       "news": [
         {
-          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-          "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+          "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+          "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+          "source": "Dominic-Madori Davis, Marina Temkin",
+          "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "time": "2026-11-18"
+        },
+        {
+          "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "summary": "暂无摘要",
           "source": "Julie Bort",
-          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the &#8216;Wolf of Wall Street&#8217;",
-          "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
-          "source": "Connie Loizos",
-          "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-          "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
-          "source": "Jagmeet Singh",
-          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-          "time": "2026-11-15"
-        },
-        {
-          "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
-          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-          "source": "Lauren Forristal",
-          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-          "time": "2026-11-14"
-        },
-        {
-          "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-          "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-          "source": "Jason Parham",
-          "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-          "time": "2026-11-13"
-        },
-        {
-          "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
-          "summary": "暂无摘要",
-          "source": "teleforce",
-          "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+          "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
           "time": "2026-11-17"
         },
         {
-          "title": "Show HN: A free interactive course on AI agent governance",
-          "summary": "暂无摘要",
-          "source": "sadrk",
-          "url": "https://studio.sinapsdata.com.br",
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affec",
+          "source": "Marina Temkin",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
           "time": "2026-11-17"
         },
         {
-          "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
-          "summary": "暂无摘要",
-          "source": "mcdermott",
-          "url": "https://robert-mcdermott.github.io/astrum/",
+          "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+          "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+          "source": "Russell Brandom",
+          "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
           "time": "2026-11-17"
         },
         {
-          "title": "The AI Ascent",
-          "summary": "暂无摘要",
-          "source": "treelover",
-          "url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
+          "title": "AI models can be tricked into identifying civilians as military targets by telling them it&#8217;s a game",
+          "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+          "source": "Kirsten Korosec, Rebecca Bellan",
+          "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
           "time": "2026-11-17"
         },
         {
-          "title": "Habits PhDs Must Unlearn to Build a Startup [video]",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
+          "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+          "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+          "source": "Russell Brandom",
+          "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
           "time": "2026-11-17"
         },
         {
-          "title": "Show HN: Fundlark-open source tool help early-career researcher find funding",
-          "summary": "暂无摘要",
-          "source": "dryang21",
-          "url": "https://github.com/dryang21/Fundlark",
+          "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+          "source": "Ram Iyer",
+          "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
           "time": "2026-11-17"
         },
         {
-          "title": "Own your AI, at full speed",
-          "summary": "暂无摘要",
-          "source": "Jr23_xd",
-          "url": "https://www.ycombinator.com/launches/XcZ-rightnow-own-your-ai-at-full-speed",
+          "title": "Science Corporation&#8217;s brain tech is worth $3.5 billion after new funding",
+          "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+          "source": "Tim Fernholz",
+          "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
           "time": "2026-11-17"
         },
         {
-          "title": "Gemini Decision 1 can't separate AI voices made after 2024",
-          "summary": "暂无摘要",
-          "source": "maplet",
-          "url": "https://echo.ls/posts/gemini-decision-ai-voices/",
+          "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+          "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+          "source": "Isabella Ward",
+          "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
           "time": "2026-11-17"
-        },
-        {
-          "title": "Statement on Sharing Research Produced by AI Companies in Theoretical Physics",
-          "summary": "暂无摘要",
-          "source": "xqcgrek2",
-          "url": "https://hep-open-release.org/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Forward Deployed Engineer – AI/ML and Data Science",
-          "summary": "暂无摘要",
-          "source": "CathereneNganga",
-          "url": "https://www.dialogkey.com/careers/119ce7f304",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "2027 AI Power Shortfall of 15 GW",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
-          "summary": "暂无摘要",
-          "source": "toomuchtodo",
-          "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "AI Lives Don't Matter",
-          "summary": "暂无摘要",
-          "source": "logn",
-          "url": "https://www.ailivesdontmatter.com/",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Ask HN: Who's really winning with AI-Coding?",
-          "summary": "暂无摘要",
-          "source": "unclebucknasty",
-          "url": "https://news.ycombinator.com/item?id=50525329",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
-          "summary": "暂无摘要",
-          "source": "debarshri",
-          "url": "https://github.com/debarshibasak/listodo",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "CopySpeech – AI text-to-speech for your clipboard",
-          "summary": "暂无摘要",
-          "source": "ilyaizen",
-          "url": "https://github.com/ilyaizen/CopySpeech",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "We got AI to Wombo Combo – collaborative agents in Melee",
-          "summary": "暂无摘要",
-          "source": "coatol5",
-          "url": "https://www.frisson-labs.com/reyn",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
-          "summary": "暂无摘要",
-          "source": "nathan_f77",
-          "url": "https://standardsupport.dev/",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: AI Dating photos – can you tell they're AI?",
-          "summary": "暂无摘要",
-          "source": "markx997",
-          "url": "https://datingprofile.app",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: We submitted 105 AI-built contact forms – 27 said \"sent\", sent nothing",
-          "summary": "暂无摘要",
-          "source": "Formgong",
-          "url": "https://github.com/formgong/dead-forms-study",
-          "time": "2026-11-16"
         }
       ]
     },
@@ -608,13 +223,6 @@
           "source": "James O'Donnell",
           "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
           "time": "2026-11-09"
-        },
-        {
-          "title": "Securing the agentic enterprise with data lineage",
-          "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-          "time": "2026-11-04"
         }
       ]
     },
@@ -790,146 +398,6 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
-        },
-        {
-          "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
-          "summary": "暂无摘要",
-          "source": "teleforce",
-          "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Show HN: A free interactive course on AI agent governance",
-          "summary": "暂无摘要",
-          "source": "sadrk",
-          "url": "https://studio.sinapsdata.com.br",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Show HN: Astrum – a terminal multiplexer with integrated AI assistant",
-          "summary": "暂无摘要",
-          "source": "mcdermott",
-          "url": "https://robert-mcdermott.github.io/astrum/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "The AI Ascent",
-          "summary": "暂无摘要",
-          "source": "treelover",
-          "url": "https://medium.com/@chipmunkworks/the-helicopter-problem-9bfec2cfdfab",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Own your AI, at full speed",
-          "summary": "暂无摘要",
-          "source": "Jr23_xd",
-          "url": "https://www.ycombinator.com/launches/XcZ-rightnow-own-your-ai-at-full-speed",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Gemini Decision 1 can't separate AI voices made after 2024",
-          "summary": "暂无摘要",
-          "source": "maplet",
-          "url": "https://echo.ls/posts/gemini-decision-ai-voices/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Statement on Sharing Research Produced by AI Companies in Theoretical Physics",
-          "summary": "暂无摘要",
-          "source": "xqcgrek2",
-          "url": "https://hep-open-release.org/",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Forward Deployed Engineer – AI/ML and Data Science",
-          "summary": "暂无摘要",
-          "source": "CathereneNganga",
-          "url": "https://www.dialogkey.com/careers/119ce7f304",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "2027 AI Power Shortfall of 15 GW",
-          "summary": "暂无摘要",
-          "source": "gmays",
-          "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "The Law Partner Who Travels the Globe for Work–Without Setting Foot on a Plane",
-          "summary": "暂无摘要",
-          "source": "jbredeche",
-          "url": "https://www.wsj.com/lifestyle/travel/scott-segal-queen-mary-2-amtrak-work-travel-ff2ea11c",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
-          "summary": "暂无摘要",
-          "source": "toomuchtodo",
-          "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-          "time": "2026-11-17"
-        },
-        {
-          "title": "AI Lives Don't Matter",
-          "summary": "暂无摘要",
-          "source": "logn",
-          "url": "https://www.ailivesdontmatter.com/",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Ask HN: Who's really winning with AI-Coding?",
-          "summary": "暂无摘要",
-          "source": "unclebucknasty",
-          "url": "https://news.ycombinator.com/item?id=50525329",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
-          "summary": "暂无摘要",
-          "source": "debarshri",
-          "url": "https://github.com/debarshibasak/listodo",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "CopySpeech – AI text-to-speech for your clipboard",
-          "summary": "暂无摘要",
-          "source": "ilyaizen",
-          "url": "https://github.com/ilyaizen/CopySpeech",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "We got AI to Wombo Combo – collaborative agents in Melee",
-          "summary": "暂无摘要",
-          "source": "coatol5",
-          "url": "https://www.frisson-labs.com/reyn",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
-          "summary": "暂无摘要",
-          "source": "nathan_f77",
-          "url": "https://standardsupport.dev/",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: AI Dating photos – can you tell they're AI?",
-          "summary": "暂无摘要",
-          "source": "markx997",
-          "url": "https://datingprofile.app",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "Show HN: We submitted 105 AI-built contact forms – 27 said \"sent\", sent nothing",
-          "summary": "暂无摘要",
-          "source": "Formgong",
-          "url": "https://github.com/formgong/dead-forms-study",
-          "time": "2026-11-16"
-        },
-        {
-          "title": "AI Killed the MVP – Long Live the IUP",
-          "summary": "暂无摘要",
-          "source": "pella",
-          "url": "https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/",
-          "time": "2026-11-16"
         },
         {
           "title": "AI DJs Completely Kill My Groove",
