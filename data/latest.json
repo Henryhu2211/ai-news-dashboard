@@ -1,12 +1,159 @@
 {
-  "updateTime": "2026-11-20T01:31:25.308Z",
-  "date": "2026年11月20日 1时31分",
+  "updateTime": "2026-11-21T00:59:11.441Z",
+  "date": "2026年11月21日 0时59分",
   "categories": [
     {
       "id": "tech",
       "name": "技术突破",
       "icon": "📰",
       "news": [
+        {
+          "title": "A push for a treaty to not allow AI total control over nukes",
+          "summary": "暂无摘要",
+          "source": "illidan1000",
+          "url": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "If AI found better drugs for every disease, what would it cost to prove it?",
+          "summary": "暂无摘要",
+          "source": "cvigoe",
+          "url": "https://cvigoe.github.io/website/ai-cures/",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "Is Ssense Pivoting to AI Slop?",
+          "summary": "暂无摘要",
+          "source": "randycupertino",
+          "url": "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "Show HN: Park – save and recall work context across repos and machines",
+          "summary": "暂无摘要",
+          "source": "pacifika",
+          "url": "https://svandragt.github.io/park/",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "AI models change their answers when they are monitored",
+          "summary": "暂无摘要",
+          "source": "nreece",
+          "url": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
+          "summary": "暂无摘要",
+          "source": "infr88",
+          "url": "https://saturnsql.com/context-layer",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Tor Books Removes Book Cover Generated with AI",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
+          "summary": "暂无摘要",
+          "source": "CGMthrowaway",
+          "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "AI may have solved the most important problem in mathematics",
+          "summary": "暂无摘要",
+          "source": "vinni2",
+          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Libreboot Abandons Anti-AI Policy After One Month",
+          "summary": "暂无摘要",
+          "source": "Novosell",
+          "url": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Written Agent Authorizations: 25 Instruments, Dissected for AI-Agent Design",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://github.com/dazzaji/agent4whom/blob/main/25-legal-instruments.md",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Antseed – brings people's computers together to serve AI",
+          "summary": "暂无摘要",
+          "source": "bilsbie",
+          "url": "https://antseed.com/",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Metro UI: How a Bold Design Language Changed Everything [video]",
+          "summary": "暂无摘要",
+          "source": "MaximilianEmel",
+          "url": "https://www.youtube.com/watch?v=MYyyhAhHgT8",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Jsonbit – Reduce token usage when AI reads logs",
+          "summary": "暂无摘要",
+          "source": "ComputedCamp995",
+          "url": "https://github.com/prathikmurugan/jsonbit",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+          "summary": "暂无摘要",
+          "source": "BoiledCabbage",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+          "summary": "暂无摘要",
+          "source": "baal80spam",
+          "url": "https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+          "summary": "暂无摘要",
+          "source": "paulis",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
+          "summary": "暂无摘要",
+          "source": "Adil_Ali",
+          "url": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+          "summary": "暂无摘要",
+          "source": "qlte",
+          "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "AI Trade Fears, Anthropic IPO Aftermath Prompts Tech Selloff",
+          "summary": "暂无摘要",
+          "source": "blondie9x",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "The most misunderstood graph in AI just got a major update",
+          "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at t",
+          "source": "Grace Huckins",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "time": "2026-11-20"
+        },
         {
           "title": "The AI Hype Index: AI is everywhere",
           "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you migh",
@@ -34,13 +181,6 @@
           "source": "MIT Technology Review Insights",
           "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
           "time": "2026-11-16"
-        },
-        {
-          "title": "Innovating with AI in the specialty chemicals industry",
-          "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific exper",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-          "time": "2026-11-09"
         }
       ]
     },
@@ -125,6 +265,146 @@
           "source": "Google AI Blog",
           "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
           "time": "2026-10-02"
+        },
+        {
+          "title": "A push for a treaty to not allow AI total control over nukes",
+          "summary": "暂无摘要",
+          "source": "illidan1000",
+          "url": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "If AI found better drugs for every disease, what would it cost to prove it?",
+          "summary": "暂无摘要",
+          "source": "cvigoe",
+          "url": "https://cvigoe.github.io/website/ai-cures/",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "Is Ssense Pivoting to AI Slop?",
+          "summary": "暂无摘要",
+          "source": "randycupertino",
+          "url": "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "AI models change their answers when they are monitored",
+          "summary": "暂无摘要",
+          "source": "nreece",
+          "url": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
+          "summary": "暂无摘要",
+          "source": "infr88",
+          "url": "https://saturnsql.com/context-layer",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Tor Books Removes Book Cover Generated with AI",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
+          "summary": "暂无摘要",
+          "source": "CGMthrowaway",
+          "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "AI may have solved the most important problem in mathematics",
+          "summary": "暂无摘要",
+          "source": "vinni2",
+          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Libreboot Abandons Anti-AI Policy After One Month",
+          "summary": "暂无摘要",
+          "source": "Novosell",
+          "url": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Written Agent Authorizations: 25 Instruments, Dissected for AI-Agent Design",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://github.com/dazzaji/agent4whom/blob/main/25-legal-instruments.md",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Antseed – brings people's computers together to serve AI",
+          "summary": "暂无摘要",
+          "source": "bilsbie",
+          "url": "https://antseed.com/",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Jsonbit – Reduce token usage when AI reads logs",
+          "summary": "暂无摘要",
+          "source": "ComputedCamp995",
+          "url": "https://github.com/prathikmurugan/jsonbit",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+          "summary": "暂无摘要",
+          "source": "BoiledCabbage",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Google Search upgrade: Gemini 4 Hydrogen features",
+          "summary": "暂无摘要",
+          "source": "kristianp",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+          "summary": "暂无摘要",
+          "source": "baal80spam",
+          "url": "https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+          "summary": "暂无摘要",
+          "source": "paulis",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "A few hours ago Google DeepMind created a math horizon repo",
+          "summary": "暂无摘要",
+          "source": "RubenLtke",
+          "url": "https://github.com/google-deepmind/math-horizon",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
+          "summary": "暂无摘要",
+          "source": "Adil_Ali",
+          "url": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+          "summary": "暂无摘要",
+          "source": "qlte",
+          "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "AI Trade Fears, Anthropic IPO Aftermath Prompts Tech Selloff",
+          "summary": "暂无摘要",
+          "source": "blondie9x",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
+          "time": "2026-11-20"
         }
       ]
     },
@@ -133,6 +413,13 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
+          "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+          "source": "Tim De Chant",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+          "time": "2026-11-20"
+        },
         {
           "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
           "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
@@ -169,11 +456,11 @@
           "time": "2026-11-19"
         },
         {
-          "title": "Anthropic prices IPO at $83 a share, above projected range",
-          "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-          "source": "Marina Temkin",
-          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-          "time": "2026-11-18"
+          "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+          "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allie",
+          "source": "Joel Khalili",
+          "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+          "time": "2026-11-20"
         },
         {
           "title": "What’s With All These Outages?",
@@ -190,11 +477,144 @@
           "time": "2026-11-19"
         },
         {
-          "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-          "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-          "source": "Steven Levy",
-          "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-          "time": "2026-11-18"
+          "title": "I think we can have a market for (Explaining as a Service) EaaS",
+          "summary": "暂无摘要",
+          "source": "pfx14",
+          "url": "https://news.ycombinator.com/item?id=50584623",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "A push for a treaty to not allow AI total control over nukes",
+          "summary": "暂无摘要",
+          "source": "illidan1000",
+          "url": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "If AI found better drugs for every disease, what would it cost to prove it?",
+          "summary": "暂无摘要",
+          "source": "cvigoe",
+          "url": "https://cvigoe.github.io/website/ai-cures/",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "Is Ssense Pivoting to AI Slop?",
+          "summary": "暂无摘要",
+          "source": "randycupertino",
+          "url": "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "Your target market isn't demographic (2025)",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://longform.asmartbear.com/target-market/",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "AI models change their answers when they are monitored",
+          "summary": "暂无摘要",
+          "source": "nreece",
+          "url": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
+          "summary": "暂无摘要",
+          "source": "infr88",
+          "url": "https://saturnsql.com/context-layer",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Tor Books Removes Book Cover Generated with AI",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
+          "summary": "暂无摘要",
+          "source": "CGMthrowaway",
+          "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "AI may have solved the most important problem in mathematics",
+          "summary": "暂无摘要",
+          "source": "vinni2",
+          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Libreboot Abandons Anti-AI Policy After One Month",
+          "summary": "暂无摘要",
+          "source": "Novosell",
+          "url": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Written Agent Authorizations: 25 Instruments, Dissected for AI-Agent Design",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://github.com/dazzaji/agent4whom/blob/main/25-legal-instruments.md",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Antseed – brings people's computers together to serve AI",
+          "summary": "暂无摘要",
+          "source": "bilsbie",
+          "url": "https://antseed.com/",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "2 hr delay between Alpöge posting the Riemann pdf and Kalshi market moving",
+          "summary": "暂无摘要",
+          "source": "empty_engineer",
+          "url": "https://twitter.com/_fangda/status/2123898555803087114",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Jsonbit – Reduce token usage when AI reads logs",
+          "summary": "暂无摘要",
+          "source": "ComputedCamp995",
+          "url": "https://github.com/prathikmurugan/jsonbit",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+          "summary": "暂无摘要",
+          "source": "BoiledCabbage",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+          "summary": "暂无摘要",
+          "source": "baal80spam",
+          "url": "https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+          "summary": "暂无摘要",
+          "source": "paulis",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
+          "summary": "暂无摘要",
+          "source": "Adil_Ali",
+          "url": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+          "summary": "暂无摘要",
+          "source": "qlte",
+          "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+          "time": "2026-11-20"
         }
       ]
     },
@@ -400,18 +820,151 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
-          "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
-          "source": "Hugo Lowell",
-          "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-          "time": "2026-11-18"
+          "title": "A push for a treaty to not allow AI total control over nukes",
+          "summary": "暂无摘要",
+          "source": "illidan1000",
+          "url": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
+          "time": "2026-11-21"
         },
         {
-          "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
-          "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
-          "source": "Louise Matsakis",
-          "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
-          "time": "2026-11-18"
+          "title": "If AI found better drugs for every disease, what would it cost to prove it?",
+          "summary": "暂无摘要",
+          "source": "cvigoe",
+          "url": "https://cvigoe.github.io/website/ai-cures/",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "Is Ssense Pivoting to AI Slop?",
+          "summary": "暂无摘要",
+          "source": "randycupertino",
+          "url": "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
+          "time": "2026-11-21"
+        },
+        {
+          "title": "AI models change their answers when they are monitored",
+          "summary": "暂无摘要",
+          "source": "nreece",
+          "url": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
+          "summary": "暂无摘要",
+          "source": "infr88",
+          "url": "https://saturnsql.com/context-layer",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Tor Books Removes Book Cover Generated with AI",
+          "summary": "暂无摘要",
+          "source": "cdrnsf",
+          "url": "https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
+          "summary": "暂无摘要",
+          "source": "CGMthrowaway",
+          "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "AI may have solved the most important problem in mathematics",
+          "summary": "暂无摘要",
+          "source": "vinni2",
+          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Libreboot Abandons Anti-AI Policy After One Month",
+          "summary": "暂无摘要",
+          "source": "Novosell",
+          "url": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Written Agent Authorizations: 25 Instruments, Dissected for AI-Agent Design",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://github.com/dazzaji/agent4whom/blob/main/25-legal-instruments.md",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Antseed – brings people's computers together to serve AI",
+          "summary": "暂无摘要",
+          "source": "bilsbie",
+          "url": "https://antseed.com/",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Jsonbit – Reduce token usage when AI reads logs",
+          "summary": "暂无摘要",
+          "source": "ComputedCamp995",
+          "url": "https://github.com/prathikmurugan/jsonbit",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+          "summary": "暂无摘要",
+          "source": "BoiledCabbage",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+          "summary": "暂无摘要",
+          "source": "baal80spam",
+          "url": "https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+          "summary": "暂无摘要",
+          "source": "paulis",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
+          "summary": "暂无摘要",
+          "source": "Adil_Ali",
+          "url": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+          "summary": "暂无摘要",
+          "source": "qlte",
+          "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "AI Trade Fears, Anthropic IPO Aftermath Prompts Tech Selloff",
+          "summary": "暂无摘要",
+          "source": "blondie9x",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "AI is building me a web browser",
+          "summary": "暂无摘要",
+          "source": "taubek",
+          "url": "https://blog.senko.net/ai-is-building-me-a-web-browser",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "LegisComply – Mask sensitive details in AI prompts",
+          "summary": "暂无摘要",
+          "source": "xantin",
+          "url": "https://www.legiscomply.com/?sample=proposal-review",
+          "time": "2026-11-20"
+        },
+        {
+          "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+          "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+          "source": "Miles Klee",
+          "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+          "time": "2026-11-20"
         }
       ]
     }
