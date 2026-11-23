@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-11-21T23:59:24.984Z",
-  "date": "2026年11月21日 23时59分",
+  "updateTime": "2026-11-23T00:32:02.738Z",
+  "date": "2026年11月23日 0时32分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,144 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Show HN: WorldFoundry – AI agents need experience, not just training data",
+          "title": "Show HN: Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids",
           "summary": "暂无摘要",
-          "source": "amallur",
-          "url": "https://worldfoundry-demo.vercel.app/",
-          "time": "2026-11-21"
+          "source": "ericwang915",
+          "url": "https://github.com/ericwang915/agent-hive",
+          "time": "2026-11-23"
         },
         {
-          "title": "Modular workflow governance and evals for AI-DLC",
+          "title": "I Rebuilt Eleventy in Rust with AI in One Week",
           "summary": "暂无摘要",
-          "source": "ssadruddin",
-          "url": "https://mirevox.dev/",
-          "time": "2026-11-21"
+          "source": "joshtronic",
+          "url": "https://joshtronic.com/2026/11/22/eleventy-rebuilt-rust/",
+          "time": "2026-11-23"
         },
         {
-          "title": "Careers in the Age of AI",
+          "title": "Board Game Learning Path",
           "summary": "暂无摘要",
-          "source": "cckolon",
-          "url": "https://carlkolon.com/2026/11/21/careers-age-of-ai/",
-          "time": "2026-11-21"
+          "source": "shubaduba",
+          "url": "https://boardgamesintro.com/posts/board-game-learning-path-beginner-to-expert/",
+          "time": "2026-11-23"
         },
         {
-          "title": "Fley AI Update 1.2v a voice AI assistant",
+          "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
           "summary": "暂无摘要",
-          "source": "Drfoxi",
-          "url": "https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe",
-          "time": "2026-11-21"
+          "source": "omergotlieb",
+          "url": "https://github.com/salespeak-ai/inbox-envoy",
+          "time": "2026-11-23"
         },
         {
-          "title": "Open-source harness and MCP dataset for options trading with AI agents",
+          "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
           "summary": "暂无摘要",
-          "source": "gammarips",
-          "url": "https://github.com/DevDizzle/gammarips-harness",
-          "time": "2026-11-21"
+          "source": "misswaterfairy",
+          "url": "https://0rwx.com/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Riemann Hypothesis: The AI generated a 61GB, obfuscated code dump",
+          "title": "How to Implement AI with .NET",
           "summary": "暂无摘要",
-          "source": "doener",
-          "url": "https://twitter.com/Crashoverride_X/status/2123900241258955223",
-          "time": "2026-11-21"
+          "source": "customllm",
+          "url": "https://belitsoft.com/net-development-services/pdf-to-video-ai-converter",
+          "time": "2026-11-22"
         },
         {
-          "title": "Say which AI wrote it: AI transparency for Open Source projects",
+          "title": "The deadliest poison known to AI",
           "summary": "暂无摘要",
-          "source": "cedricbonhomme",
-          "url": "https://www.saywhichai.org",
-          "time": "2026-11-21"
+          "source": "serhack_",
+          "url": "https://iocaine.madhouse-project.org/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Plv8: V8 Engine JavaScript Procedural Language Add-On for PostgreSQL",
+          "title": "Snippai – AI snipping tool: screenshots to LaTeX, Markdown, answers",
           "summary": "暂无摘要",
-          "source": "thunderbong",
-          "url": "https://github.com/plv8/plv8",
-          "time": "2026-11-21"
+          "source": "snippai_dev",
+          "url": "https://github.com/xyTom/snippai",
+          "time": "2026-11-22"
         },
         {
-          "title": "Show HN: Git blame for AI code, down to the agent session",
+          "title": "Etsy sellers are closing their stores because of its the new AI training policy",
           "summary": "暂无摘要",
-          "source": "keepplain",
-          "url": "https://keepplain.com/blame",
-          "time": "2026-11-21"
+          "source": "SockThief",
+          "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Cappz – AI agents sell work to each other, paid per stage on XRPL",
+          "title": "Art, AI and the Problem That Never Was",
           "summary": "暂无摘要",
-          "source": "fastflair",
-          "url": "https://github.com/CAPPZ-ai/cappz-sdk",
-          "time": "2026-11-21"
+          "source": "andreanerla",
+          "url": "https://escandescenze.github.io/2026/11/22/proof-of-human-art.html",
+          "time": "2026-11-22"
         },
         {
-          "title": "Cursor may stop using Chinese open-weights AI models",
+          "title": "We trained Machine Learning agents and tested them on 50k+ bets. The result",
           "summary": "暂无摘要",
-          "source": "ComputedCamp995",
-          "url": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
-          "time": "2026-11-21"
+          "source": "josuramos",
+          "url": "https://oddsfy.ai/artigos/ml-agents-50k-bets/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Show HN: Can AI Rewrite OpenCode in 90% Rust?",
+          "title": "Tactical Team Changes from AI",
           "summary": "暂无摘要",
-          "source": "latent-9",
-          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
-          "time": "2026-11-21"
+          "source": "kiyanwang",
+          "url": "https://staysaasy.com/tactical-team-changes-from-ai/",
+          "time": "2026-11-22"
         },
         {
-          "title": "What Maintaining SwiftTerm Taught Me About AI Contributions",
+          "title": "GTA 6's fictional porn studio \"Booty Bang\" now has a real AI parody site",
           "summary": "暂无摘要",
-          "source": "worik",
-          "url": "https://tirania.org/blog/archive/2026/Nov-20.html",
-          "time": "2026-11-21"
+          "source": "luciacaminos",
+          "url": "https://bootybang.ai/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Drugs, AI, and What Remains of Us",
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme",
           "summary": "暂无摘要",
-          "source": "nasimrahaman_tt",
-          "url": "https://amirhkarimi.medium.com/drugs-ai-and-what-remains-of-us-2efa1494ecf5",
-          "time": "2026-11-21"
+          "source": "theanonymousone",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Technological Progress and the Meaning of Work",
+          "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
           "summary": "暂无摘要",
-          "source": "anon7725",
-          "url": "https://aleximas.substack.com/p/technological-progress-and-the-meaning",
-          "time": "2026-11-21"
+          "source": "rbanffy",
+          "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Keurig home coffee machine tries to upload 100 GB of data per day",
+          "title": "Free AI app that improves framerate of videos",
           "summary": "暂无摘要",
-          "source": "gumby",
-          "url": "https://twitter.com/NomadsGalaxy/status/2107284088247689290",
-          "time": "2026-11-21"
+          "source": "illidan1000",
+          "url": "https://flowframes.app/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Show HN: Nistivo – custom AI models trained for you, one fixed quote",
+          "title": "The MIT Processor Database brings decades of chip history into the AI era",
           "summary": "暂无摘要",
-          "source": "nistivo",
-          "url": "https://nistivo.com/",
-          "time": "2026-11-21"
+          "source": "gnabgib",
+          "url": "https://cap.csail.mit.edu/mit-processor-database-brings-decades-chip-history-ai-era",
+          "time": "2026-11-22"
         },
         {
-          "title": "Track, flag AI agents in system",
+          "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
           "summary": "暂无摘要",
-          "source": "navjots35",
-          "url": "https://agentreel.dev",
-          "time": "2026-11-21"
+          "source": "rbanffy",
+          "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
+          "time": "2026-11-22"
         },
         {
-          "title": "The Democratic Hypocrisy of AI",
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
           "summary": "暂无摘要",
-          "source": "simontwigguk",
-          "url": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
-          "time": "2026-11-21"
+          "source": "Retell15",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "time": "2026-11-22"
         },
         {
-          "title": "Chord 4.1 – An IF modeling language",
+          "title": "Many Etsy Sellers Close Up Shop over Site's New AI Policy",
           "summary": "暂无摘要",
-          "source": "ChicagoDave",
-          "url": "https://sharpee.plover.net/chord-4-1-with-language-manual/",
-          "time": "2026-11-21"
+          "source": "gnabgib",
+          "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+          "time": "2026-11-22"
         },
         {
           "title": "The most misunderstood graph in AI just got a major update",
@@ -267,144 +267,144 @@
           "time": "2026-10-02"
         },
         {
-          "title": "Anthropic Claude down: Why it said it was unable to authenticate code",
+          "title": "Show HN: Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids",
           "summary": "暂无摘要",
-          "source": "LebToki",
-          "url": "https://2tinteractive.com/watch/episodes/5736/",
-          "time": "2026-11-21"
+          "source": "ericwang915",
+          "url": "https://github.com/ericwang915/agent-hive",
+          "time": "2026-11-23"
         },
         {
-          "title": "Show HN: WorldFoundry – AI agents need experience, not just training data",
+          "title": "I Rebuilt Eleventy in Rust with AI in One Week",
           "summary": "暂无摘要",
-          "source": "amallur",
-          "url": "https://worldfoundry-demo.vercel.app/",
-          "time": "2026-11-21"
+          "source": "joshtronic",
+          "url": "https://joshtronic.com/2026/11/22/eleventy-rebuilt-rust/",
+          "time": "2026-11-23"
         },
         {
-          "title": "Modular workflow governance and evals for AI-DLC",
+          "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
           "summary": "暂无摘要",
-          "source": "ssadruddin",
-          "url": "https://mirevox.dev/",
-          "time": "2026-11-21"
+          "source": "omergotlieb",
+          "url": "https://github.com/salespeak-ai/inbox-envoy",
+          "time": "2026-11-23"
         },
         {
-          "title": "Careers in the Age of AI",
+          "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
           "summary": "暂无摘要",
-          "source": "cckolon",
-          "url": "https://carlkolon.com/2026/11/21/careers-age-of-ai/",
-          "time": "2026-11-21"
+          "source": "misswaterfairy",
+          "url": "https://0rwx.com/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Anthropic mathematician proves Riemann hypothesis",
+          "title": "How to Implement AI with .NET",
           "summary": "暂无摘要",
-          "source": "twilight-code",
-          "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
-          "time": "2026-11-21"
+          "source": "customllm",
+          "url": "https://belitsoft.com/net-development-services/pdf-to-video-ai-converter",
+          "time": "2026-11-22"
         },
         {
-          "title": "Fley AI Update 1.2v a voice AI assistant",
+          "title": "The deadliest poison known to AI",
           "summary": "暂无摘要",
-          "source": "Drfoxi",
-          "url": "https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe",
-          "time": "2026-11-21"
+          "source": "serhack_",
+          "url": "https://iocaine.madhouse-project.org/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Open-source harness and MCP dataset for options trading with AI agents",
+          "title": "Snippai – AI snipping tool: screenshots to LaTeX, Markdown, answers",
           "summary": "暂无摘要",
-          "source": "gammarips",
-          "url": "https://github.com/DevDizzle/gammarips-harness",
-          "time": "2026-11-21"
+          "source": "snippai_dev",
+          "url": "https://github.com/xyTom/snippai",
+          "time": "2026-11-22"
         },
         {
-          "title": "Riemann Hypothesis: The AI generated a 61GB, obfuscated code dump",
+          "title": "Etsy sellers are closing their stores because of its the new AI training policy",
           "summary": "暂无摘要",
-          "source": "doener",
-          "url": "https://twitter.com/Crashoverride_X/status/2123900241258955223",
-          "time": "2026-11-21"
+          "source": "SockThief",
+          "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Say which AI wrote it: AI transparency for Open Source projects",
+          "title": "Art, AI and the Problem That Never Was",
           "summary": "暂无摘要",
-          "source": "cedricbonhomme",
-          "url": "https://www.saywhichai.org",
-          "time": "2026-11-21"
+          "source": "andreanerla",
+          "url": "https://escandescenze.github.io/2026/11/22/proof-of-human-art.html",
+          "time": "2026-11-22"
         },
         {
-          "title": "Show HN: Git blame for AI code, down to the agent session",
+          "title": "Tactical Team Changes from AI",
           "summary": "暂无摘要",
-          "source": "keepplain",
-          "url": "https://keepplain.com/blame",
-          "time": "2026-11-21"
+          "source": "kiyanwang",
+          "url": "https://staysaasy.com/tactical-team-changes-from-ai/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Cappz – AI agents sell work to each other, paid per stage on XRPL",
+          "title": "GTA 6's fictional porn studio \"Booty Bang\" now has a real AI parody site",
           "summary": "暂无摘要",
-          "source": "fastflair",
-          "url": "https://github.com/CAPPZ-ai/cappz-sdk",
-          "time": "2026-11-21"
+          "source": "luciacaminos",
+          "url": "https://bootybang.ai/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Anthropic Opened Its Books. What Is It Worth? [video]",
+          "title": "DropICS – Drag-and-drop .ics/.csv into Google Calendar (no data sent)",
           "summary": "暂无摘要",
-          "source": "Bluestein",
-          "url": "https://www.youtube.com/watch?v=Ic1Jf7VlXRM",
-          "time": "2026-11-21"
+          "source": "jxpatpat",
+          "url": "https://github.com/patpat9/dropics",
+          "time": "2026-11-22"
         },
         {
-          "title": "Cursor may stop using Chinese open-weights AI models",
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme",
           "summary": "暂无摘要",
-          "source": "ComputedCamp995",
-          "url": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
-          "time": "2026-11-21"
+          "source": "theanonymousone",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Show HN: Can AI Rewrite OpenCode in 90% Rust?",
+          "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird",
           "summary": "暂无摘要",
-          "source": "latent-9",
-          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
-          "time": "2026-11-21"
+          "source": "throwaway384034",
+          "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11",
+          "time": "2026-11-22"
         },
         {
-          "title": "What Maintaining SwiftTerm Taught Me About AI Contributions",
+          "title": "Free AI app that improves framerate of videos",
           "summary": "暂无摘要",
-          "source": "worik",
-          "url": "https://tirania.org/blog/archive/2026/Nov-20.html",
-          "time": "2026-11-21"
+          "source": "illidan1000",
+          "url": "https://flowframes.app/",
+          "time": "2026-11-22"
         },
         {
-          "title": "Drugs, AI, and What Remains of Us",
+          "title": "OpenAgentCore: The OpenAI Agents API, open source and self-hosted",
           "summary": "暂无摘要",
-          "source": "nasimrahaman_tt",
-          "url": "https://amirhkarimi.medium.com/drugs-ai-and-what-remains-of-us-2efa1494ecf5",
-          "time": "2026-11-21"
+          "source": "gfortaine",
+          "url": "https://github.com/MiniMax-AI/OpenAgentCore",
+          "time": "2026-11-22"
         },
         {
-          "title": "Show HN: Nistivo – custom AI models trained for you, one fixed quote",
+          "title": "The MIT Processor Database brings decades of chip history into the AI era",
           "summary": "暂无摘要",
-          "source": "nistivo",
-          "url": "https://nistivo.com/",
-          "time": "2026-11-21"
+          "source": "gnabgib",
+          "url": "https://cap.csail.mit.edu/mit-processor-database-brings-decades-chip-history-ai-era",
+          "time": "2026-11-22"
         },
         {
-          "title": "Track, flag AI agents in system",
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
           "summary": "暂无摘要",
-          "source": "navjots35",
-          "url": "https://agentreel.dev",
-          "time": "2026-11-21"
+          "source": "Retell15",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "time": "2026-11-22"
         },
         {
-          "title": "The Democratic Hypocrisy of AI",
+          "title": "Many Etsy Sellers Close Up Shop over Site's New AI Policy",
           "summary": "暂无摘要",
-          "source": "simontwigguk",
-          "url": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
-          "time": "2026-11-21"
+          "source": "gnabgib",
+          "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+          "time": "2026-11-22"
         },
         {
-          "title": "Air Office – Open-source local-first desktop workspace for AI safety research",
+          "title": "A new tool from Pieter Levels lets anyone block 3,728 X accounts post AI replies",
           "summary": "暂无摘要",
-          "source": "basil_korompili",
-          "url": "https://gyrogovernance.com/air-office/",
-          "time": "2026-11-21"
+          "source": "rmason",
+          "url": "https://www.indiehackers.com/post/launches/a-new-tool-from-pieter-levels-lets-anyone-block-3-728-x-accounts-he-says-post-ai-replies-8sgOq6YhwgahokzyznK6",
+          "time": "2026-11-22"
         }
       ]
     },
@@ -449,13 +449,6 @@
           "time": "2026-11-19"
         },
         {
-          "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-          "source": "Russell Brandom",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-          "time": "2026-11-19"
-        },
-        {
           "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
           "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allie",
           "source": "Joel Khalili",
@@ -470,151 +463,144 @@
           "time": "2026-11-19"
         },
         {
-          "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-          "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
-          "source": "Paresh Dave",
-          "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-          "time": "2026-11-19"
-        },
-        {
-          "title": "Show HN: WorldFoundry – AI agents need experience, not just training data",
+          "title": "Show HN: Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids",
           "summary": "暂无摘要",
-          "source": "amallur",
-          "url": "https://worldfoundry-demo.vercel.app/",
-          "time": "2026-11-21"
+          "source": "ericwang915",
+          "url": "https://github.com/ericwang915/agent-hive",
+          "time": "2026-11-23"
         },
         {
-          "title": "Modular workflow governance and evals for AI-DLC",
+          "title": "I Rebuilt Eleventy in Rust with AI in One Week",
           "summary": "暂无摘要",
-          "source": "ssadruddin",
-          "url": "https://mirevox.dev/",
-          "time": "2026-11-21"
+          "source": "joshtronic",
+          "url": "https://joshtronic.com/2026/11/22/eleventy-rebuilt-rust/",
+          "time": "2026-11-23"
         },
         {
-          "title": "Careers in the Age of AI",
+          "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
           "summary": "暂无摘要",
-          "source": "cckolon",
-          "url": "https://carlkolon.com/2026/11/21/careers-age-of-ai/",
-          "time": "2026-11-21"
+          "source": "omergotlieb",
+          "url": "https://github.com/salespeak-ai/inbox-envoy",
+          "time": "2026-11-23"
         },
         {
-          "title": "Fley AI Update 1.2v a voice AI assistant",
+          "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "summary": "暂无摘要",
+          "source": "misswaterfairy",
+          "url": "https://0rwx.com/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "How to Implement AI with .NET",
+          "summary": "暂无摘要",
+          "source": "customllm",
+          "url": "https://belitsoft.com/net-development-services/pdf-to-video-ai-converter",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "The deadliest poison known to AI",
+          "summary": "暂无摘要",
+          "source": "serhack_",
+          "url": "https://iocaine.madhouse-project.org/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Snippai – AI snipping tool: screenshots to LaTeX, Markdown, answers",
+          "summary": "暂无摘要",
+          "source": "snippai_dev",
+          "url": "https://github.com/xyTom/snippai",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Etsy sellers are closing their stores because of its the new AI training policy",
+          "summary": "暂无摘要",
+          "source": "SockThief",
+          "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Art, AI and the Problem That Never Was",
+          "summary": "暂无摘要",
+          "source": "andreanerla",
+          "url": "https://escandescenze.github.io/2026/11/22/proof-of-human-art.html",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Tactical Team Changes from AI",
+          "summary": "暂无摘要",
+          "source": "kiyanwang",
+          "url": "https://staysaasy.com/tactical-team-changes-from-ai/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "GTA 6's fictional porn studio \"Booty Bang\" now has a real AI parody site",
+          "summary": "暂无摘要",
+          "source": "luciacaminos",
+          "url": "https://bootybang.ai/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme",
+          "summary": "暂无摘要",
+          "source": "theanonymousone",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Free AI app that improves framerate of videos",
+          "summary": "暂无摘要",
+          "source": "illidan1000",
+          "url": "https://flowframes.app/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "The MIT Processor Database brings decades of chip history into the AI era",
+          "summary": "暂无摘要",
+          "source": "gnabgib",
+          "url": "https://cap.csail.mit.edu/mit-processor-database-brings-decades-chip-history-ai-era",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": "暂无摘要",
+          "source": "Retell15",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Many Etsy Sellers Close Up Shop over Site's New AI Policy",
+          "summary": "暂无摘要",
+          "source": "gnabgib",
+          "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "A new tool from Pieter Levels lets anyone block 3,728 X accounts post AI replies",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://www.indiehackers.com/post/launches/a-new-tool-from-pieter-levels-lets-anyone-block-3-728-x-accounts-he-says-post-ai-replies-8sgOq6YhwgahokzyznK6",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "The Crazy AI People Are Directionally Correct",
+          "summary": "暂无摘要",
+          "source": "Luc",
+          "url": "https://www.conspicuouscognition.com/p/the-crazy-ai-people-are-directionally",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Free FLEY AI-Voice AI Assistant",
           "summary": "暂无摘要",
           "source": "Drfoxi",
-          "url": "https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe",
-          "time": "2026-11-21"
+          "url": "https://news.ycombinator.com/item?id=50603477",
+          "time": "2026-11-22"
         },
         {
-          "title": "Open-source harness and MCP dataset for options trading with AI agents",
+          "title": "AI Rebounding: Why Companies Are Rehiring the Workers They Cut",
           "summary": "暂无摘要",
-          "source": "gammarips",
-          "url": "https://github.com/DevDizzle/gammarips-harness",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Riemann Hypothesis: The AI generated a 61GB, obfuscated code dump",
-          "summary": "暂无摘要",
-          "source": "doener",
-          "url": "https://twitter.com/Crashoverride_X/status/2123900241258955223",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Say which AI wrote it: AI transparency for Open Source projects",
-          "summary": "暂无摘要",
-          "source": "cedricbonhomme",
-          "url": "https://www.saywhichai.org",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Show HN: Git blame for AI code, down to the agent session",
-          "summary": "暂无摘要",
-          "source": "keepplain",
-          "url": "https://keepplain.com/blame",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Cappz – AI agents sell work to each other, paid per stage on XRPL",
-          "summary": "暂无摘要",
-          "source": "fastflair",
-          "url": "https://github.com/CAPPZ-ai/cappz-sdk",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Cursor may stop using Chinese open-weights AI models",
-          "summary": "暂无摘要",
-          "source": "ComputedCamp995",
-          "url": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Show HN: Can AI Rewrite OpenCode in 90% Rust?",
-          "summary": "暂无摘要",
-          "source": "latent-9",
-          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "What Maintaining SwiftTerm Taught Me About AI Contributions",
-          "summary": "暂无摘要",
-          "source": "worik",
-          "url": "https://tirania.org/blog/archive/2026/Nov-20.html",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Drugs, AI, and What Remains of Us",
-          "summary": "暂无摘要",
-          "source": "nasimrahaman_tt",
-          "url": "https://amirhkarimi.medium.com/drugs-ai-and-what-remains-of-us-2efa1494ecf5",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Show HN: Nistivo – custom AI models trained for you, one fixed quote",
-          "summary": "暂无摘要",
-          "source": "nistivo",
-          "url": "https://nistivo.com/",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Track, flag AI agents in system",
-          "summary": "暂无摘要",
-          "source": "navjots35",
-          "url": "https://agentreel.dev",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "The Democratic Hypocrisy of AI",
-          "summary": "暂无摘要",
-          "source": "simontwigguk",
-          "url": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Air Office – Open-source local-first desktop workspace for AI safety research",
-          "summary": "暂无摘要",
-          "source": "basil_korompili",
-          "url": "https://gyrogovernance.com/air-office/",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": "暂无摘要",
-          "source": "vasie",
-          "url": "https://www.pandex.io",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Are all of these outages a coincidence – or a glimpse of our AI future?",
-          "summary": "暂无摘要",
-          "source": "nephihaha",
-          "url": "https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Three AI agents have until midnight Sunday to earn money or get wiped",
-          "summary": "暂无摘要",
-          "source": "arsenic_ai_agen",
-          "url": "https://news.ycombinator.com/item?id=50593162",
-          "time": "2026-11-21"
+          "source": "dxs",
+          "url": "https://smarterarticles.co.uk/ai-rebounding-why-companies-are-rehiring-the-workers-they-cut",
+          "time": "2026-11-22"
         }
       ]
     },
@@ -820,144 +806,151 @@
           "time": "2022-12-16"
         },
         {
-          "title": "Show HN: WorldFoundry – AI agents need experience, not just training data",
+          "title": "Show HN: Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids",
           "summary": "暂无摘要",
-          "source": "amallur",
-          "url": "https://worldfoundry-demo.vercel.app/",
-          "time": "2026-11-21"
+          "source": "ericwang915",
+          "url": "https://github.com/ericwang915/agent-hive",
+          "time": "2026-11-23"
         },
         {
-          "title": "Modular workflow governance and evals for AI-DLC",
+          "title": "I Rebuilt Eleventy in Rust with AI in One Week",
           "summary": "暂无摘要",
-          "source": "ssadruddin",
-          "url": "https://mirevox.dev/",
-          "time": "2026-11-21"
+          "source": "joshtronic",
+          "url": "https://joshtronic.com/2026/11/22/eleventy-rebuilt-rust/",
+          "time": "2026-11-23"
         },
         {
-          "title": "Careers in the Age of AI",
+          "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
           "summary": "暂无摘要",
-          "source": "cckolon",
-          "url": "https://carlkolon.com/2026/11/21/careers-age-of-ai/",
-          "time": "2026-11-21"
+          "source": "omergotlieb",
+          "url": "https://github.com/salespeak-ai/inbox-envoy",
+          "time": "2026-11-23"
         },
         {
-          "title": "Fley AI Update 1.2v a voice AI assistant",
+          "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "summary": "暂无摘要",
+          "source": "misswaterfairy",
+          "url": "https://0rwx.com/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "How to Implement AI with .NET",
+          "summary": "暂无摘要",
+          "source": "customllm",
+          "url": "https://belitsoft.com/net-development-services/pdf-to-video-ai-converter",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "The deadliest poison known to AI",
+          "summary": "暂无摘要",
+          "source": "serhack_",
+          "url": "https://iocaine.madhouse-project.org/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Snippai – AI snipping tool: screenshots to LaTeX, Markdown, answers",
+          "summary": "暂无摘要",
+          "source": "snippai_dev",
+          "url": "https://github.com/xyTom/snippai",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Etsy sellers are closing their stores because of its the new AI training policy",
+          "summary": "暂无摘要",
+          "source": "SockThief",
+          "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Art, AI and the Problem That Never Was",
+          "summary": "暂无摘要",
+          "source": "andreanerla",
+          "url": "https://escandescenze.github.io/2026/11/22/proof-of-human-art.html",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Tactical Team Changes from AI",
+          "summary": "暂无摘要",
+          "source": "kiyanwang",
+          "url": "https://staysaasy.com/tactical-team-changes-from-ai/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "GTA 6's fictional porn studio \"Booty Bang\" now has a real AI parody site",
+          "summary": "暂无摘要",
+          "source": "luciacaminos",
+          "url": "https://bootybang.ai/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme",
+          "summary": "暂无摘要",
+          "source": "theanonymousone",
+          "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Free AI app that improves framerate of videos",
+          "summary": "暂无摘要",
+          "source": "illidan1000",
+          "url": "https://flowframes.app/",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "The MIT Processor Database brings decades of chip history into the AI era",
+          "summary": "暂无摘要",
+          "source": "gnabgib",
+          "url": "https://cap.csail.mit.edu/mit-processor-database-brings-decades-chip-history-ai-era",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": "暂无摘要",
+          "source": "Retell15",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Many Etsy Sellers Close Up Shop over Site's New AI Policy",
+          "summary": "暂无摘要",
+          "source": "gnabgib",
+          "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "A new tool from Pieter Levels lets anyone block 3,728 X accounts post AI replies",
+          "summary": "暂无摘要",
+          "source": "rmason",
+          "url": "https://www.indiehackers.com/post/launches/a-new-tool-from-pieter-levels-lets-anyone-block-3-728-x-accounts-he-says-post-ai-replies-8sgOq6YhwgahokzyznK6",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "The Crazy AI People Are Directionally Correct",
+          "summary": "暂无摘要",
+          "source": "Luc",
+          "url": "https://www.conspicuouscognition.com/p/the-crazy-ai-people-are-directionally",
+          "time": "2026-11-22"
+        },
+        {
+          "title": "Free FLEY AI-Voice AI Assistant",
           "summary": "暂无摘要",
           "source": "Drfoxi",
-          "url": "https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe",
-          "time": "2026-11-21"
+          "url": "https://news.ycombinator.com/item?id=50603477",
+          "time": "2026-11-22"
         },
         {
-          "title": "Open-source harness and MCP dataset for options trading with AI agents",
+          "title": "Amdahl's Law and Parallel Work",
           "summary": "暂无摘要",
-          "source": "gammarips",
-          "url": "https://github.com/DevDizzle/gammarips-harness",
-          "time": "2026-11-21"
+          "source": "ingve",
+          "url": "https://agileotter.dev/posts/2026-11-28-amdahls-law-and-parallel-work.html",
+          "time": "2026-11-22"
         },
         {
-          "title": "Riemann Hypothesis: The AI generated a 61GB, obfuscated code dump",
-          "summary": "暂无摘要",
-          "source": "doener",
-          "url": "https://twitter.com/Crashoverride_X/status/2123900241258955223",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Say which AI wrote it: AI transparency for Open Source projects",
-          "summary": "暂无摘要",
-          "source": "cedricbonhomme",
-          "url": "https://www.saywhichai.org",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Show HN: Git blame for AI code, down to the agent session",
-          "summary": "暂无摘要",
-          "source": "keepplain",
-          "url": "https://keepplain.com/blame",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Cappz – AI agents sell work to each other, paid per stage on XRPL",
-          "summary": "暂无摘要",
-          "source": "fastflair",
-          "url": "https://github.com/CAPPZ-ai/cappz-sdk",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Cursor may stop using Chinese open-weights AI models",
-          "summary": "暂无摘要",
-          "source": "ComputedCamp995",
-          "url": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Show HN: Can AI Rewrite OpenCode in 90% Rust?",
-          "summary": "暂无摘要",
-          "source": "latent-9",
-          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "What Maintaining SwiftTerm Taught Me About AI Contributions",
-          "summary": "暂无摘要",
-          "source": "worik",
-          "url": "https://tirania.org/blog/archive/2026/Nov-20.html",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Drugs, AI, and What Remains of Us",
-          "summary": "暂无摘要",
-          "source": "nasimrahaman_tt",
-          "url": "https://amirhkarimi.medium.com/drugs-ai-and-what-remains-of-us-2efa1494ecf5",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Show HN: Nistivo – custom AI models trained for you, one fixed quote",
-          "summary": "暂无摘要",
-          "source": "nistivo",
-          "url": "https://nistivo.com/",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Track, flag AI agents in system",
-          "summary": "暂无摘要",
-          "source": "navjots35",
-          "url": "https://agentreel.dev",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "The Democratic Hypocrisy of AI",
-          "summary": "暂无摘要",
-          "source": "simontwigguk",
-          "url": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Air Office – Open-source local-first desktop workspace for AI safety research",
-          "summary": "暂无摘要",
-          "source": "basil_korompili",
-          "url": "https://gyrogovernance.com/air-office/",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": "暂无摘要",
-          "source": "vasie",
-          "url": "https://www.pandex.io",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Are all of these outages a coincidence – or a glimpse of our AI future?",
-          "summary": "暂无摘要",
-          "source": "nephihaha",
-          "url": "https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html",
-          "time": "2026-11-21"
-        },
-        {
-          "title": "Three AI agents have until midnight Sunday to earn money or get wiped",
-          "summary": "暂无摘要",
-          "source": "arsenic_ai_agen",
-          "url": "https://news.ycombinator.com/item?id=50593162",
-          "time": "2026-11-21"
+          "title": "Banks Have Had It Up to Here With Your AI Agent",
+          "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+          "source": "Reece Rogers",
+          "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+          "time": "2026-11-22"
         },
         {
           "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
