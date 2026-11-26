@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-11-25T03:15:40.558Z",
-  "date": "2026年11月25日 3时15分",
+  "updateTime": "2026-11-26T02:32:48.108Z",
+  "date": "2026年11月26日 2时32分",
   "categories": [
     {
       "id": "tech",
@@ -8,144 +8,151 @@
       "icon": "📰",
       "news": [
         {
-          "title": "Google mandates MCP for AI agents accessing Workspace and restricts direct API",
+          "title": "HeyOrbo – AI Powered Notch on Desktop",
           "summary": "暂无摘要",
-          "source": "flrngel",
-          "url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
-          "time": "2026-11-25"
+          "source": "pyonic",
+          "url": "https://heyorbo.com",
+          "time": "2026-11-26"
         },
         {
-          "title": "Overhyped AI Gateway Features Part 1: Semantic Caching",
+          "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
           "summary": "暂无摘要",
-          "source": "jmcshane",
-          "url": "https://blog.howardjohn.info/posts/overhyped-ai-gateway-1-semantic-caching/",
-          "time": "2026-11-25"
+          "source": "GloVin",
+          "url": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
+          "time": "2026-11-26"
         },
         {
-          "title": "AI Analytics. Team Approved. Agent Ready",
+          "title": "Exhibit A with AI: Don't Skip or Write \"None.\"",
           "summary": "暂无摘要",
-          "source": "spjatin4",
-          "url": "https://www.decube.io/ai-analytics",
-          "time": "2026-11-25"
+          "source": "mooreds",
+          "url": "https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write",
+          "time": "2026-11-26"
         },
         {
-          "title": "Machine-checked universality for a fixed 23×8 Minsky table on NaN16",
+          "title": "The State of Agentic AI: Shit with Good Formatting",
           "summary": "暂无摘要",
-          "source": "shemshallah",
-          "url": "https://www.github.com/shemshallah/NaNLMind/formal/",
-          "time": "2026-11-25"
+          "source": "kbr-",
+          "url": "https://github.com/kbr-/shit-with-good-formatting",
+          "time": "2026-11-26"
         },
         {
-          "title": "Bosses who pushed AI at work are now drowning in \"workslop\"",
+          "title": "Show HN: A daily word puzzle where an AI gives the clue and you guess",
           "summary": "暂无摘要",
-          "source": "madihaa",
-          "url": "https://www.businessinsider.com/ai-generated-workslop-leads-to-policies-firings-boss-fed-up-2026-11",
-          "time": "2026-11-25"
+          "source": "hardicecream",
+          "url": "https://wordspies.com/daily",
+          "time": "2026-11-26"
         },
         {
-          "title": "AI Engineer Code Summit 2026",
+          "title": "Human-Model Differentials and Language Hacking",
+          "summary": "暂无摘要",
+          "source": "dnw",
+          "url": "https://www.monke.ie/p/human-model-differentials-and-language-hacking",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "M Science – AI-Ready Market Intelligence",
           "summary": "暂无摘要",
           "source": "vismit2000",
-          "url": "https://ai.engineer/code/2026",
+          "url": "https://mscience.com/",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Wayback Machine Labs",
+          "summary": "暂无摘要",
+          "source": "kristianpaul",
+          "url": "https://wayback-labs.sf.archive.org",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Can AI break public key cryptography before Quantum Computers?",
+          "summary": "暂无摘要",
+          "source": "EGreg",
+          "url": "https://www.youtube.com/watch?v=ENhHv_VCDL0",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "New research suggests AI bubble bursting and to expect major market collapse",
+          "summary": "暂无摘要",
+          "source": "madihaa",
+          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Piercing My Ear for the Whispering Earring",
+          "summary": "暂无摘要",
+          "source": "mudita",
+          "url": "https://www.jefftk.com/",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Ask HN: Did Aaron Swartz make modern AI possible?",
+          "summary": "暂无摘要",
+          "source": "amichail",
+          "url": "https://news.ycombinator.com/item?id=50649707",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "The AI Layoff Alibi: Capex Cannibalism and the White-Collar Exodus",
+          "summary": "暂无摘要",
+          "source": "LebToki",
+          "url": "https://2tinteractive.com/watch/episodes/5717/",
           "time": "2026-11-25"
         },
         {
-          "title": "Drops for Nvidia, Anthropic and other AI stocks drag the markets back down",
+          "title": "Ask HN: Are you polite to AI? Why or why not?",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596",
+          "source": "hax0ron3",
+          "url": "https://news.ycombinator.com/item?id=50649186",
           "time": "2026-11-25"
         },
         {
-          "title": "I have not seen my patients improve with AI [video]",
+          "title": "Cloudflare AI Search for Agents",
           "summary": "暂无摘要",
-          "source": "randycupertino",
-          "url": "https://www.youtube.com/shorts/pIKXjg6ak4U",
+          "source": "nreece",
+          "url": "https://blog.cloudflare.com/search-for-agents/",
           "time": "2026-11-25"
         },
         {
           "title": "RL Infrastructure at Microsoft AI",
           "summary": "暂无摘要",
-          "source": "gmays",
+          "source": "doomroot13",
           "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
           "time": "2026-11-25"
         },
         {
-          "title": "AI employees sound alarm: models too powerful to ever release",
+          "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
           "summary": "暂无摘要",
-          "source": "misiti3780",
-          "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+          "source": "bushwart",
+          "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
           "time": "2026-11-25"
         },
         {
-          "title": "Show HN: Reddit Alt with open moderation funded by 1-cent votes. AI filter",
+          "title": "Etsy clarifies AI terms after seller backlash",
           "summary": "暂无摘要",
-          "source": "nomadhead",
-          "url": "https://chakra.social",
+          "source": "Bender",
+          "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
           "time": "2026-11-25"
         },
         {
-          "title": "Bodybench: Testing Adversarial Image Defenses Against AI Nudification Inpainting",
+          "title": "CD PROJEKT RED Group Q3 2026 earnings conference – audio webcast [video]",
           "summary": "暂无摘要",
-          "source": "datascientist",
-          "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DBQGCgTjvdo",
+          "source": "doener",
+          "url": "https://www.youtube.com/watch?v=fJ3IQlHyg78",
           "time": "2026-11-25"
         },
         {
-          "title": "The Chinese AI app Talkie engineered to hook kids and mine their data",
+          "title": "Anna Groza and Bruce Dang – 0-Click Remote Exploits in an AI World [video]",
           "summary": "暂无摘要",
-          "source": "Gaishan",
-          "url": "https://www.abc.net.au/news/2026-11-25/chinese-ai-companion-app-talkie-child-harm-allegations/107416128",
-          "time": "2026-11-24"
+          "source": "beachhead",
+          "url": "https://www.youtube.com/watch?v=11EoBiBh5QY",
+          "time": "2026-11-25"
         },
         {
-          "title": "Show HN: End User, a game about smuggling AI chips past export controls",
-          "summary": "暂无摘要",
-          "source": "retrolover83",
-          "url": "https://enduser.fun/?src=hn",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Compare AI Model Intelligence Levels",
-          "summary": "暂无摘要",
-          "source": "zuhayeer",
-          "url": "https://www.levels.fyi/ai",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Why supervision does not scale with the AI coding agents",
-          "summary": "暂无摘要",
-          "source": "tillerlydev",
-          "url": "https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list/",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
-          "summary": "暂无摘要",
-          "source": "samizdis",
-          "url": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Darwin Among the Machines (1863)",
-          "summary": "暂无摘要",
-          "source": "simonebrunozzi",
-          "url": "https://ndhadeliver.natlib.govt.nz/webarchive/20210104000423/http://nzetc.victoria.ac.nz/tm/scholarly/tei-ButFir-t1-g1-t1-g1-t4-body.html",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Show HN: KlongPy v2 - array language updated for multiple targets",
-          "summary": "暂无摘要",
-          "source": "eismcc",
-          "url": "https://github.com/briangu/klongpy",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Using AI Without Losing Your Humanity",
-          "summary": "暂无摘要",
-          "source": "dbreunig",
-          "url": "https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html",
-          "time": "2026-11-24"
+          "title": "AI is straining America’s open records systems",
+          "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections",
+          "source": "Matthew King",
+          "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+          "time": "2026-11-25"
         },
         {
           "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -281,144 +288,144 @@
           "time": "2026-10-26"
         },
         {
-          "title": "Google mandates MCP for AI agents accessing Workspace and restricts direct API",
+          "title": "HeyOrbo – AI Powered Notch on Desktop",
           "summary": "暂无摘要",
-          "source": "flrngel",
-          "url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
-          "time": "2026-11-25"
+          "source": "pyonic",
+          "url": "https://heyorbo.com",
+          "time": "2026-11-26"
         },
         {
-          "title": "Overhyped AI Gateway Features Part 1: Semantic Caching",
+          "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
           "summary": "暂无摘要",
-          "source": "jmcshane",
-          "url": "https://blog.howardjohn.info/posts/overhyped-ai-gateway-1-semantic-caching/",
-          "time": "2026-11-25"
+          "source": "GloVin",
+          "url": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
+          "time": "2026-11-26"
         },
         {
-          "title": "AI Analytics. Team Approved. Agent Ready",
+          "title": "Exhibit A with AI: Don't Skip or Write \"None.\"",
           "summary": "暂无摘要",
-          "source": "spjatin4",
-          "url": "https://www.decube.io/ai-analytics",
-          "time": "2026-11-25"
+          "source": "mooreds",
+          "url": "https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write",
+          "time": "2026-11-26"
         },
         {
-          "title": "OpenAI Releases Nine Manuscripts",
+          "title": "The State of Agentic AI: Shit with Good Formatting",
           "summary": "暂无摘要",
-          "source": "ogogmad",
-          "url": "https://github.com/openai/math/tree/main/history.md",
-          "time": "2026-11-25"
+          "source": "kbr-",
+          "url": "https://github.com/kbr-/shit-with-good-formatting",
+          "time": "2026-11-26"
         },
         {
-          "title": "Bosses who pushed AI at work are now drowning in \"workslop\"",
+          "title": "Show HN: A daily word puzzle where an AI gives the clue and you guess",
           "summary": "暂无摘要",
-          "source": "madihaa",
-          "url": "https://www.businessinsider.com/ai-generated-workslop-leads-to-policies-firings-boss-fed-up-2026-11",
-          "time": "2026-11-25"
+          "source": "hardicecream",
+          "url": "https://wordspies.com/daily",
+          "time": "2026-11-26"
         },
         {
-          "title": "AI Engineer Code Summit 2026",
+          "title": "M Science – AI-Ready Market Intelligence",
           "summary": "暂无摘要",
           "source": "vismit2000",
-          "url": "https://ai.engineer/code/2026",
+          "url": "https://mscience.com/",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Why OpenAI and Anthropic are holding back their latest models",
+          "summary": "暂无摘要",
+          "source": "vismit2000",
+          "url": "https://twitter.com/kimmonismus/status/2125602411540566221",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Can AI break public key cryptography before Quantum Computers?",
+          "summary": "暂无摘要",
+          "source": "EGreg",
+          "url": "https://www.youtube.com/watch?v=ENhHv_VCDL0",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "New research suggests AI bubble bursting and to expect major market collapse",
+          "summary": "暂无摘要",
+          "source": "madihaa",
+          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Ask HN: Did Aaron Swartz make modern AI possible?",
+          "summary": "暂无摘要",
+          "source": "amichail",
+          "url": "https://news.ycombinator.com/item?id=50649707",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "The AI Layoff Alibi: Capex Cannibalism and the White-Collar Exodus",
+          "summary": "暂无摘要",
+          "source": "LebToki",
+          "url": "https://2tinteractive.com/watch/episodes/5717/",
           "time": "2026-11-25"
         },
         {
-          "title": "Drops for Nvidia, Anthropic and other AI stocks drag the markets back down",
+          "title": "Ask HN: Are you polite to AI? Why or why not?",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596",
+          "source": "hax0ron3",
+          "url": "https://news.ycombinator.com/item?id=50649186",
           "time": "2026-11-25"
         },
         {
-          "title": "I have not seen my patients improve with AI [video]",
+          "title": "Cloudflare AI Search for Agents",
           "summary": "暂无摘要",
-          "source": "randycupertino",
-          "url": "https://www.youtube.com/shorts/pIKXjg6ak4U",
+          "source": "nreece",
+          "url": "https://blog.cloudflare.com/search-for-agents/",
           "time": "2026-11-25"
         },
         {
           "title": "RL Infrastructure at Microsoft AI",
           "summary": "暂无摘要",
-          "source": "gmays",
+          "source": "doomroot13",
           "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
           "time": "2026-11-25"
         },
         {
-          "title": "AI employees sound alarm: models too powerful to ever release",
+          "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
           "summary": "暂无摘要",
-          "source": "misiti3780",
-          "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+          "source": "bushwart",
+          "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
           "time": "2026-11-25"
         },
         {
-          "title": "Show HN: Reddit Alt with open moderation funded by 1-cent votes. AI filter",
+          "title": "Etsy clarifies AI terms after seller backlash",
           "summary": "暂无摘要",
-          "source": "nomadhead",
-          "url": "https://chakra.social",
+          "source": "Bender",
+          "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
           "time": "2026-11-25"
         },
         {
-          "title": "OpenAI adds nine new mathematical manuscripts",
+          "title": "Google search alternative Kagi launches Gmail rival",
           "summary": "暂无摘要",
-          "source": "jasondavies",
-          "url": "https://github.com/openai/math/blob/3344da59991ed94f9ba711217b29c1d760badfa6/history.md#november-24-2026",
+          "source": "Bender",
+          "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
           "time": "2026-11-25"
         },
         {
-          "title": "Bodybench: Testing Adversarial Image Defenses Against AI Nudification Inpainting",
+          "title": "Anna Groza and Bruce Dang – 0-Click Remote Exploits in an AI World [video]",
           "summary": "暂无摘要",
-          "source": "datascientist",
-          "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DBQGCgTjvdo",
+          "source": "beachhead",
+          "url": "https://www.youtube.com/watch?v=11EoBiBh5QY",
           "time": "2026-11-25"
         },
         {
-          "title": "The Chinese AI app Talkie engineered to hook kids and mine their data",
+          "title": "Load balancing across AI subscriptions",
           "summary": "暂无摘要",
-          "source": "Gaishan",
-          "url": "https://www.abc.net.au/news/2026-11-25/chinese-ai-companion-app-talkie-child-harm-allegations/107416128",
-          "time": "2026-11-24"
+          "source": "kevin1chun",
+          "url": "https://news.ycombinator.com/item?id=50648330",
+          "time": "2026-11-25"
         },
         {
-          "title": "Show HN: End User, a game about smuggling AI chips past export controls",
+          "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI",
           "summary": "暂无摘要",
-          "source": "retrolover83",
-          "url": "https://enduser.fun/?src=hn",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "T3 Code v0.1.11 sends hashed OpenAI and Claude account IDs at first launch",
-          "summary": "暂无摘要",
-          "source": "devhouse",
-          "url": "https://www.everydev.ai/p/tool-t3-code-v0111-sends-hashed-openai-and-claude-account-ids-at-first-launch",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Compare AI Model Intelligence Levels",
-          "summary": "暂无摘要",
-          "source": "zuhayeer",
-          "url": "https://www.levels.fyi/ai",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Why supervision does not scale with the AI coding agents",
-          "summary": "暂无摘要",
-          "source": "tillerlydev",
-          "url": "https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list/",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
-          "summary": "暂无摘要",
-          "source": "samizdis",
-          "url": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Show HN: I built a Google Ads MCP and got my first customer here",
-          "summary": "暂无摘要",
-          "source": "MichalKrk",
-          "url": "https://adchestra.com/",
-          "time": "2026-11-24"
+          "source": "softwaredoug",
+          "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
+          "time": "2026-11-25"
         }
       ]
     },
@@ -427,6 +434,13 @@
       "name": "行业咨询",
       "icon": "💼",
       "news": [
+        {
+          "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+          "source": "Sarah Perez",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "time": "2026-11-25"
+        },
         {
           "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
           "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"",
@@ -463,20 +477,6 @@
           "time": "2026-11-24"
         },
         {
-          "title": "Amazon&#8217;s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-          "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-          "source": "Anna Heim",
-          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-          "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-          "source": "Sarah Perez",
-          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-          "time": "2026-11-23"
-        },
-        {
           "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
           "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
           "source": "Isabella Ward",
@@ -484,144 +484,144 @@
           "time": "2026-11-24"
         },
         {
-          "title": "Google mandates MCP for AI agents accessing Workspace and restricts direct API",
+          "title": "HeyOrbo – AI Powered Notch on Desktop",
           "summary": "暂无摘要",
-          "source": "flrngel",
-          "url": "https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html",
-          "time": "2026-11-25"
+          "source": "pyonic",
+          "url": "https://heyorbo.com",
+          "time": "2026-11-26"
         },
         {
-          "title": "Overhyped AI Gateway Features Part 1: Semantic Caching",
+          "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
           "summary": "暂无摘要",
-          "source": "jmcshane",
-          "url": "https://blog.howardjohn.info/posts/overhyped-ai-gateway-1-semantic-caching/",
-          "time": "2026-11-25"
+          "source": "GloVin",
+          "url": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
+          "time": "2026-11-26"
         },
         {
-          "title": "AI Analytics. Team Approved. Agent Ready",
+          "title": "Exhibit A with AI: Don't Skip or Write \"None.\"",
           "summary": "暂无摘要",
-          "source": "spjatin4",
-          "url": "https://www.decube.io/ai-analytics",
-          "time": "2026-11-25"
+          "source": "mooreds",
+          "url": "https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write",
+          "time": "2026-11-26"
         },
         {
-          "title": "Ask HN: Is it a good sign for the market to rely on one company?",
+          "title": "The State of Agentic AI: Shit with Good Formatting",
           "summary": "暂无摘要",
-          "source": "ComputedCamp995",
-          "url": "https://news.ycombinator.com/item?id=50637659",
-          "time": "2026-11-25"
+          "source": "kbr-",
+          "url": "https://github.com/kbr-/shit-with-good-formatting",
+          "time": "2026-11-26"
         },
         {
-          "title": "Bosses who pushed AI at work are now drowning in \"workslop\"",
+          "title": "Show HN: A daily word puzzle where an AI gives the clue and you guess",
           "summary": "暂无摘要",
-          "source": "madihaa",
-          "url": "https://www.businessinsider.com/ai-generated-workslop-leads-to-policies-firings-boss-fed-up-2026-11",
-          "time": "2026-11-25"
+          "source": "hardicecream",
+          "url": "https://wordspies.com/daily",
+          "time": "2026-11-26"
         },
         {
-          "title": "AI Engineer Code Summit 2026",
+          "title": "M Science – AI-Ready Market Intelligence",
           "summary": "暂无摘要",
           "source": "vismit2000",
-          "url": "https://ai.engineer/code/2026",
+          "url": "https://mscience.com/",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Can AI break public key cryptography before Quantum Computers?",
+          "summary": "暂无摘要",
+          "source": "EGreg",
+          "url": "https://www.youtube.com/watch?v=ENhHv_VCDL0",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "New research suggests AI bubble bursting and to expect major market collapse",
+          "summary": "暂无摘要",
+          "source": "madihaa",
+          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Ask HN: Did Aaron Swartz make modern AI possible?",
+          "summary": "暂无摘要",
+          "source": "amichail",
+          "url": "https://news.ycombinator.com/item?id=50649707",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "The AI Layoff Alibi: Capex Cannibalism and the White-Collar Exodus",
+          "summary": "暂无摘要",
+          "source": "LebToki",
+          "url": "https://2tinteractive.com/watch/episodes/5717/",
           "time": "2026-11-25"
         },
         {
-          "title": "Drops for Nvidia, Anthropic and other AI stocks drag the markets back down",
+          "title": "Ask HN: Are you polite to AI? Why or why not?",
           "summary": "暂无摘要",
-          "source": "jethronethro",
-          "url": "https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596",
+          "source": "hax0ron3",
+          "url": "https://news.ycombinator.com/item?id=50649186",
           "time": "2026-11-25"
         },
         {
-          "title": "I have not seen my patients improve with AI [video]",
+          "title": "Cloudflare AI Search for Agents",
           "summary": "暂无摘要",
-          "source": "randycupertino",
-          "url": "https://www.youtube.com/shorts/pIKXjg6ak4U",
+          "source": "nreece",
+          "url": "https://blog.cloudflare.com/search-for-agents/",
           "time": "2026-11-25"
         },
         {
           "title": "RL Infrastructure at Microsoft AI",
           "summary": "暂无摘要",
-          "source": "gmays",
+          "source": "doomroot13",
           "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
           "time": "2026-11-25"
         },
         {
-          "title": "AI employees sound alarm: models too powerful to ever release",
+          "title": "1.5 TB of Dark Net Market Scrapes (2015)",
           "summary": "暂无摘要",
-          "source": "misiti3780",
-          "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+          "source": "zenincognito",
+          "url": "https://gwern.net/dnm-archive",
           "time": "2026-11-25"
         },
         {
-          "title": "Show HN: Reddit Alt with open moderation funded by 1-cent votes. AI filter",
+          "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
           "summary": "暂无摘要",
-          "source": "nomadhead",
-          "url": "https://chakra.social",
+          "source": "bushwart",
+          "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
           "time": "2026-11-25"
         },
         {
-          "title": "Bodybench: Testing Adversarial Image Defenses Against AI Nudification Inpainting",
+          "title": "Etsy clarifies AI terms after seller backlash",
           "summary": "暂无摘要",
-          "source": "datascientist",
-          "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DBQGCgTjvdo",
+          "source": "Bender",
+          "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
           "time": "2026-11-25"
         },
         {
-          "title": "The Chinese AI app Talkie engineered to hook kids and mine their data",
+          "title": "Anna Groza and Bruce Dang – 0-Click Remote Exploits in an AI World [video]",
           "summary": "暂无摘要",
-          "source": "Gaishan",
-          "url": "https://www.abc.net.au/news/2026-11-25/chinese-ai-companion-app-talkie-child-harm-allegations/107416128",
-          "time": "2026-11-24"
+          "source": "beachhead",
+          "url": "https://www.youtube.com/watch?v=11EoBiBh5QY",
+          "time": "2026-11-25"
         },
         {
-          "title": "Show HN: End User, a game about smuggling AI chips past export controls",
+          "title": "Load balancing across AI subscriptions",
           "summary": "暂无摘要",
-          "source": "retrolover83",
-          "url": "https://enduser.fun/?src=hn",
-          "time": "2026-11-24"
+          "source": "kevin1chun",
+          "url": "https://news.ycombinator.com/item?id=50648330",
+          "time": "2026-11-25"
         },
         {
-          "title": "Compare AI Model Intelligence Levels",
+          "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI",
           "summary": "暂无摘要",
-          "source": "zuhayeer",
-          "url": "https://www.levels.fyi/ai",
-          "time": "2026-11-24"
+          "source": "softwaredoug",
+          "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
+          "time": "2026-11-25"
         },
         {
-          "title": "Why supervision does not scale with the AI coding agents",
+          "title": "Show HN: Anvil has won pricing among AI web builders plan starting at $5",
           "summary": "暂无摘要",
-          "source": "tillerlydev",
-          "url": "https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list/",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
-          "summary": "暂无摘要",
-          "source": "samizdis",
-          "url": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24/",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Using AI Without Losing Your Humanity",
-          "summary": "暂无摘要",
-          "source": "dbreunig",
-          "url": "https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "AI is moving way too fast (Nate Silver)",
-          "summary": "暂无摘要",
-          "source": "abnry",
-          "url": "https://www.natesilver.net/p/ai-is-moving-way-too-fast",
-          "time": "2026-11-24"
-        },
-        {
-          "title": "Dell's AI server backlog hits $132.3B as AI orders reach $60.2B",
-          "summary": "暂无摘要",
-          "source": "dvaplima",
-          "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results",
-          "time": "2026-11-24"
+          "source": "Alumu",
+          "url": "https://www.tryanvil.dev/",
+          "time": "2026-11-25"
         }
       ]
     },
@@ -630,13 +630,6 @@
       "name": "商业应用",
       "icon": "💡",
       "news": [
-        {
-          "title": "Raising the stakes for enterprise networks with AI modernization",
-          "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is add",
-          "source": "MIT Technology Review Insights",
-          "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-          "time": "2026-11-24"
-        },
         {
           "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility",
@@ -832,6 +825,146 @@
           "source": "Risto Uuk",
           "url": "https://artificialintelligenceact.eu/standard-setting-overview/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=standard-setting-overview",
           "time": "2022-12-16"
+        },
+        {
+          "title": "HeyOrbo – AI Powered Notch on Desktop",
+          "summary": "暂无摘要",
+          "source": "pyonic",
+          "url": "https://heyorbo.com",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
+          "summary": "暂无摘要",
+          "source": "GloVin",
+          "url": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Exhibit A with AI: Don't Skip or Write \"None.\"",
+          "summary": "暂无摘要",
+          "source": "mooreds",
+          "url": "https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "The State of Agentic AI: Shit with Good Formatting",
+          "summary": "暂无摘要",
+          "source": "kbr-",
+          "url": "https://github.com/kbr-/shit-with-good-formatting",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Show HN: A daily word puzzle where an AI gives the clue and you guess",
+          "summary": "暂无摘要",
+          "source": "hardicecream",
+          "url": "https://wordspies.com/daily",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "M Science – AI-Ready Market Intelligence",
+          "summary": "暂无摘要",
+          "source": "vismit2000",
+          "url": "https://mscience.com/",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Can AI break public key cryptography before Quantum Computers?",
+          "summary": "暂无摘要",
+          "source": "EGreg",
+          "url": "https://www.youtube.com/watch?v=ENhHv_VCDL0",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "New research suggests AI bubble bursting and to expect major market collapse",
+          "summary": "暂无摘要",
+          "source": "madihaa",
+          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "Ask HN: Did Aaron Swartz make modern AI possible?",
+          "summary": "暂无摘要",
+          "source": "amichail",
+          "url": "https://news.ycombinator.com/item?id=50649707",
+          "time": "2026-11-26"
+        },
+        {
+          "title": "The AI Layoff Alibi: Capex Cannibalism and the White-Collar Exodus",
+          "summary": "暂无摘要",
+          "source": "LebToki",
+          "url": "https://2tinteractive.com/watch/episodes/5717/",
+          "time": "2026-11-25"
+        },
+        {
+          "title": "Ask HN: Are you polite to AI? Why or why not?",
+          "summary": "暂无摘要",
+          "source": "hax0ron3",
+          "url": "https://news.ycombinator.com/item?id=50649186",
+          "time": "2026-11-25"
+        },
+        {
+          "title": "Cloudflare AI Search for Agents",
+          "summary": "暂无摘要",
+          "source": "nreece",
+          "url": "https://blog.cloudflare.com/search-for-agents/",
+          "time": "2026-11-25"
+        },
+        {
+          "title": "RL Infrastructure at Microsoft AI",
+          "summary": "暂无摘要",
+          "source": "doomroot13",
+          "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
+          "time": "2026-11-25"
+        },
+        {
+          "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
+          "summary": "暂无摘要",
+          "source": "bushwart",
+          "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
+          "time": "2026-11-25"
+        },
+        {
+          "title": "Etsy clarifies AI terms after seller backlash",
+          "summary": "暂无摘要",
+          "source": "Bender",
+          "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+          "time": "2026-11-25"
+        },
+        {
+          "title": "Anna Groza and Bruce Dang – 0-Click Remote Exploits in an AI World [video]",
+          "summary": "暂无摘要",
+          "source": "beachhead",
+          "url": "https://www.youtube.com/watch?v=11EoBiBh5QY",
+          "time": "2026-11-25"
+        },
+        {
+          "title": "Load balancing across AI subscriptions",
+          "summary": "暂无摘要",
+          "source": "kevin1chun",
+          "url": "https://news.ycombinator.com/item?id=50648330",
+          "time": "2026-11-25"
+        },
+        {
+          "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI",
+          "summary": "暂无摘要",
+          "source": "softwaredoug",
+          "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/",
+          "time": "2026-11-25"
+        },
+        {
+          "title": "Show HN: Anvil has won pricing among AI web builders plan starting at $5",
+          "summary": "暂无摘要",
+          "source": "Alumu",
+          "url": "https://www.tryanvil.dev/",
+          "time": "2026-11-25"
+        },
+        {
+          "title": "SimpleLLMChat – An AI Agent/Chat Harness for Windows XP",
+          "summary": "暂无摘要",
+          "source": "simplellmdev",
+          "url": "https://github.com/randomNinja64/SimpleLLMChat",
+          "time": "2026-11-25"
         },
         {
           "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
